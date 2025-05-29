@@ -1,0 +1,156 @@
+Bluesky
+
+Bluesky is a microblogging social media service. Users can share short posts containing text, images, and videos. It is owned by Bluesky Social PBC, a benefit corporation based in the United States.
+Bluesky was developed as a reference implementation of the AT Protocol, an open communication protocol for distributed social networks. Bluesky Social promotes a composable user experience and algorithmic choice as core features of Bluesky. The platform offers a "marketplace of algorithms" where users can choose or create algorithmic feeds, user-managed moderation and labelling services, and user-made "starter packs" that allow users to quickly follow a large number of related accounts within a community or subculture. The AT Protocol offers a domain name-based handle system within Bluesky, allowing users to self-verify an account's legitimacy and identity by proving ownership of a domain name.
+Bluesky began in 2019 as a research initiative at Twitter, becoming an independent company in 2021. Development for the social app accelerated in 2022 after Elon Musk's acquisition of Twitter and subsequent severing of ties between the companies. Bluesky launched as an invite-only service in February 2023 and opened registrations in February 2024. Former Twitter CEO Jack Dorsey left Bluesky Social's board by May 2024. The social media platform grew after October 2024, reaching 20 million users by November 2024.
+
+# History
+
+## Research initiative
+
+Twitter's then-CEO Jack Dorsey first announced the Bluesky initiative in 2019 on Twitter to explore the possibility of decentralizing Twitter. The stated goal was to find or develop an open and decentralized standard for social media that would give users more control over their data and experience [19] [28]. Twitter collected a working group of experts in decentralized technology in a Matrix group chat to achieve a consensus on the best path towards decentralization. However, this group did not achieve consensus toward these goals [30]. As a result, Twitter decided to field individual proposals from these experts. In early 2021, Bluesky was in a research phase, with 50 people from the decentralized technology community active in assessing options and assembling proposals for the protocol. This ultimately led to the hiring of Jay Graber in August 2021 to lead the Bluesky project and the development of the "Authenticated Data Experiment" (ADX), a custom-built protocol made for the purpose of decentralization [29]. Twitter provided $13 million in initial funding to the Bluesky project to begin development [20] [32] [33]. 
+
+## Incorporation and independence from Twitter
+
+In October 2021, Graber incorporated the Bluesky project as an independent company called "Bluesky Social", and cited Twitter's "very entrenched existing incentives" as a reason to operate independently. Bluesky Social became a benefit corporation in February 2022, with the mission to "develop and drive large-scale adoption of technologies for open and decentralized public conversation" [22]. The company's first three employees were hired in March 2022 [35]. After Elon Musk's acquisition of Twitter, Twitter severed all legal and financial ties with Bluesky Social. Musk's takeover did not immediately affect Bluesky Social's operations as a separate entity, but affected its prospects for further funding. Bluesky Social developed the AT Protocol, alongside a reference implementation in the form of a social media service, as a minimum viable product. The company began a waitlist for this service in October 2022 [22]. 
+
+## Invite-only open beta
+
+Bluesky launched as an invite-only iOS beta in February 2023. In April 2023, it was released for Android [38]. Soon after the launch of the Android app, the social network claimed about 50,000 users [39]. Code for the app was made open source under the MIT license in May 2023, with some server software being dual-licensed with the Apache license [40]. Bluesky garnered media attention soon after its launch due to its close association with Twitter and Jack Dorsey [41]. The social service attracted minority communities and subcultures, including Black, artist, left-wing, transgender, sex worker, and furry communities, who benefited from the invite system. These early communities are often credited for the platform's historically left-leaning culture and its implementation of robust community management and moderation features [43] [44] [45]. Bluesky Social recognized the influence of these early adopters, with Bluesky COO Rose Wang stating that an early goal during the open beta period was to "develop and nurture a set of power users who can help evangelize and help us really tell  […] and reinforce the culture" established by these communities [43] [46] [47]. On July 5, 2023, Bluesky Social announced it had raised $8 million in a seed funding round led by Neo. Bluesky Social pledged to use the funds to grow its team, manage operations, pay for infrastructure costs, and further develop the AT Protocol [49]. The company also announced its conversion to a public benefit corporation [49]. In July 2023, Bluesky experienced a controversy after users discovered the social app did not prevent users from using racial slurs within their handles, as well as the removal of discriminatory slurs from the platform's list of flagged words. This led to a "posting strike" from users, in which users refused to use the app until Bluesky Social addressed the controversy [50]. The controversy led to a public apology from Bluesky Social, an update to the platform's terms of service specifying a prohibition of conduct that "targets people based on their race, gender, religion, ethnicity, nationality, disability, or sexual orientation", and the establishment of a trust and safety team within the company [51]. In December 2023, Bluesky Social announced a company logo to replace the previous use of a cloudy sky stock image, which was also used as the icon for the official app and website. This icon was a blue butterfly, inspired by existing users' usage of the butterfly emoji to indicate their handles on the service. Bluesky saw rapid growth during its open beta period, reaching 1 million registered users by September 2023  and surpassing 2 million users in November of that same year [54]. By the time of its public launch in February 2024, the social app had reached over 3 million users [55]. 
+
+## Public launch
+
+Bluesky opened registrations to the general public on February 6, 2024, a year after its release as an invite-required beta. It opened federation to the social app through the AT Protocol soon afterwards, allowing users to build apps within the protocol and provide their own storage for content sent to Bluesky Social [23]. Bluesky has experienced several bursts of expansion and contraction following its public launch, mainly in relation to controversies and changes at Twitter. These bursts were referred to as "Elon Musk Events", or EMEs, by developers at Bluesky Social [8]. Bluesky saw a large influx of registrations by Japanese-speaking users soon after public launch, partly driven by notable Japanese social media personalities such as artist Ui Shigure registering accounts in the platform. On May 4, 2024, Jack Dorsey, who had initiated and funded the Bluesky research initiative, posted on Twitter that he was no longer on Bluesky Social's board. Bluesky Social confirmed his departure the next day [61]. Dorsey had previously deleted his account from the platform and vouched his support for both Twitter and Nostr, another decentralized protocol [24]. In an interview, Dorsey criticized Bluesky Social, stating that they were "literally repeating all the mistakes  [Twitter] made as a company", taking issue with Bluesky Social's company structure and the introduction of moderation tools into the AT Protocol [24] [62]. In August 2024, following the blocking of Twitter in Brazil, Bluesky gained over 4 million users in under two weeks, becoming the most popular app in the Brazilian App Store and Play Store. Shortly afterwards, on September 16, Bluesky announced it had reached 10 million users [64] [65]. Daily active users in Brazil decreased under 2 million by October [66]. In October 2024, following changes to Twitter's block feature and Terms of Service to analyze users' content for AI training purposes by default, over 1.2 million users joined Bluesky within two days. On October 24, Bluesky Social announced it had reached 13 million users [67] [68]. It also announced a $15 million Series A financing round led by Blockchain Capital. The company pledged to not integrate cryptocurrency into the social app or the AT Protocol, so as to not "hyperfinancialize the social experience" [69] [70]. 
+
+## Post-election growth
+
+In the weeks following the 2024 United States presidential election on November 5, 2024, in which former president Donald Trump was re-elected for a second non-consecutive term, millions of Twitter users from the United States, the United Kingdom  and Canada joined Bluesky [8]. By November 13, Bluesky had reached 15 million users, growing by around 1 million users per day and reaching the top of the Apple's App Store and Google's Play Store in the United States [71]. On November 19, Bluesky officially crossed 20 million users, tripling its userbase within 3 months. This surge also triggered a significant uptick of moderation reports with Bluesky Safety noting on November 16, "In the past 24 hours, we have received more than 42,000 reports (an all-time high for one day) [75] [76]. We're receiving about 3,000 reports/hour. To put that into context, in all of 2023, we received 360k reports."  COO Rose Wang stated that the company's primary focus during the surge was ensuring the platform remained operational while maintaining the integrity of its moderation policies, emphasizing that effective content moderation enhances the user experience [77]. The major increase in users led to servers being temporarily overloaded, resulting in the platform acquiring more servers. The surge also necessitated a growth in content moderation [78] [26] [79] [71]. While growth was primarily driven by European and American users, popularity of the platform rose in East Asian countries like Japan as well [80] [81]. 
+
+# Corporate structure
+
+Bluesky Social, officially named Bluesky Social PBC, is a privately-owned for-profit corporation. The company is headquartered in Seattle, Washington, but considers itself "decentralized" without a physical head office [83]. Bluesky Social is a benefit corporation; as such, it is allowed to use its profits for the public good, and is not obligated to maximize shareholder value or return profits to its shareholders as dividends [84]. It is owned by CEO Jay Graber and other Bluesky Social employees. Graber has the largest ownership share of the company. In late 2024, members of the board of directors included Graber, Jeremie Miller, Mike Masnick, and Kinjal Shah. Funding for operations, as of late 2024, comes primarily from investors and venture capital firms. No advertising is available on the service as of December 2024, and Jay Graber has stated that Bluesky will not "enshittify the network with ads". The company is considering introducing an optional subscription service for users, as well as introducing user-to-user payment services [87]. 
+
+# Technology
+
+Bluesky unveiled open source code in May 2022 for an early version of its distributed social network protocol, Authenticated Data Experiment (ADX),  since renamed the Authenticated Transfer (AT) Protocol [88]. The team opened its early code and placed it under an MIT License so that the development process would be seen in public [89]. The AT Protocol's initial architecture centers around three main services: a Personal Data Server (PDS), a Relay (previously referred to as a Big Graph Service, or BGS), and an AppView. A PDS is a server which hosts user data in "Data Repositories", which utilize a Merkle tree [11]. The PDS also handles user authentication and manages the signing keys for its hosted repositories [90]. A Relay is described as analogous to an indexer on the web, ingesting repositories from a variety of different PDS hosts and serving them in a single unified stream for other services to ingest. AppViews, meanwhile, are services which consume data from a Relay and can serve it to final users. As of November 2024, most components of the protocol are either only available from Bluesky Social or need to operate with services run by the company to connect to the network, including the main Decentralized Identifier namespace used for almost all accounts that relies on a directory containing all identities and their core information [11]. While most of the platform's features are available and federated through the AT Protocol, direct messages are offered though a central service outside the AT Protocol that is run by Bluesky Social. The feature is intended to be decentralized with all messages being end-to-end encrypted in the future, with the current iteration intended to be a placeholder for the sake of the user experience [11]. Posts from the fediverse and most platforms that support it like Mastodon and Threads can be bridged to Bluesky through a tool known as Bridgy Fed. 
+
+# Features
+
+Bluesky is largely analogous to Twitter in its structure. Users can send 300-character text messages, images, and video in short posts [11]. Users can reply, repost, quote post and like these posts. Frequent users have called posts on the platform "skeets", a portmanteau of "sky" and "tweets", despite CEO Jay Graber's vigorous disapproval of the term. Bluesky offers a domain name-based handle system  via the AT Protocol, allowing users to self-verify an account's legitimacy and identity by proving ownership of a domain name through a DNS text record or HTTPS page [11]. The verification needs to be repeated as a live operation by consumers [94]. The specification doesn't handle changes in status of the domain names [11]. Bluesky promotes a "marketplace of algorithms" through its Custom Feeds feature, where users can choose or create algorithmic feeds. Bluesky CTO Paul Frazee stated that "In future updates  [Bluesky] will make it easy for users to create custom feeds in-app."  Third-party tools to publish Custom Feeds on Bluesky have been created by independent developers, including a popular client named Skyfeed [15]. Bluesky Social claims that an aim to "not be controlled by a single company" is furthered by a composable user experience, "stackable" moderation, and algorithmic choice. The platform offers a "marketplace of algorithms" where users can choose or create algorithmic feeds, user-managed moderation and labelling services, and user-made "starter packs" that allow users to quickly follow a large number of related accounts within a community or subculture [86] [96]. Bluesky open-sourced its in-house moderation software called "Ozone" in March 2024 for these services. Bluesky introduced "anti-toxicity" features in August 2024, allowing users to "detach" quote posts from their original post and to hide replies to a user's post. Bluesky also promised the addition of a Community Notes-like feature. Later, in late December 2024, Bluesky introduced a "Trending Topics" feature in beta. Similar to Twitter and Threads' trending features, this allows users to see words or phrases that are currently unusually popular. This feature, accessible globally, can be found in the right sidebar of the desktop version and in the search button of the mobile application [102]. Currently, it is only available in English. Users can disable it in Settings > Content and Media by unchecking "Enable trending topics". Bluesky respects users' muted words in this feature. With over 25 million users, the social network considers this the first version of the feature and promises future improvements. 
+
+# Reception
+
+Reviewing the app in February 2023, TechCrunch called it "a functional, if still rather bare-bones, Twitter-like experience". Lance Ulanoff of TechRadar originally signed up in April 2023 and at the time declared Bluesky "quiet, reserved, thoughtful, or even polite. Overall, BlueSky is the equivalent of a social media Shangri-La." When he revisited it in November 2024 after the post-U.S.-election surge in signups he declared that "for the moment, it's the most exciting place on social media" and "I wasted my day on Bluesky Social and no, I'm not sorry". Another review posted the same month highlighted key differences between Bluesky and Twitter, particularly in the level of control provided to users. Bluesky allows users to filter content and select algorithms through customizable feeds, and also incorporates features to combat harassment, including a traditional block function and anti-toxicity tools, such as the ability to detach a post from being quoted by others. Jason Perlow of ZDNet wrote "It's not a direct replacement for Twitter (X), but Bluesky has a lot to offer those who want a fresh start in a decentralized, privacy-minded network." He highlights the claimed decentralized nature of Bluesky, the lack of algorithmic feeds and in a lukewarm manner says that "Bluesky might be worth your time if you're ready to leave algorithm-driven feeds behind and try a network that prioritizes user control." [107]. Parnell Palme McGuinness, a conservative opinion columnist of the Sydney Morning Herald, was critical of the platform, terming it: "a microblogging site for idealists, devoted to protecting them from the raging reality of divergent opinion in a democratic system", a "delicate biosphere of an alternative reality … where "reasonably mainstream opinions attract the ire of the moderators, and are soft-censored as 'intolerance'… not really information so much as a curation of comforting progressive axioms". 
+
+# References
+
+[2] [ERROR retrieving ref link]
+[10] [ERROR retrieving ref link]
+[1] https://github.com/bluesky-social/social-app/tree/main/src/locale/locales
+[3] https://blueskyweb.org/faq
+[4] https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx
+[5] https://www.dnb.com/business-directory/company-profiles.bluesky_social_pbc.8c64abb1571844bd07dfe37cf737a50e.html
+[6] https://apps.apple.com/mt/app/bluesky-social/id6444370199
+[7] https://tsdr.uspto.gov/#caseNumber=98165726&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch
+[8] https://www.blueskyusercount.com/
+[9] https://www.similarweb.com/blog/insights/social-media-news/bluesky-sustained-growth/
+[11] https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now
+[12] https://www.forbes.com/sites/conormurray/2024/11/14/what-to-know-about-bluesky-the-buzzy-social-media-app-siphoning-users-from-elon-musks-x/
+[13] https://dustycloud.org/blog/how-decentralized-is-bluesky/
+[14] https://techcrunch.com/2024/01/24/bluesky-ceo-confronts-content-moderation-in-the-fediverse/
+[15] https://mashable.com/article/bluesky-ozone-user-moderation-filters
+[16] https://www.newscientist.com/article/2456782-bluesky-is-ushering-in-a-pick-your-own-algorithm-era-of-social-media/
+[17] https://www.engadget.com/bluesky-now-lets-you-choose-your-own-algorithm-183824105.html
+[18] https://lifehacker.com/tech/how-to-create-a-starter-pack-on-bluesky-and-why-you-should
+[19] https://www.theverge.com/24295933/bluesky-social-network-custom-how-to
+[20] https://www.howtogeek.com/steps-to-link-your-bluesky-account-to-a-custom-domain/
+[21] https://www.cnbc.com/2019/12/11/twitter-ceo-jack-dorsey-announces-bluesky-social-media-standards-push.html
+[22] https://www.theverge.com/2021/8/16/22627435/twitter-bluesky-lead-jay-graber-decentralized-social-web
+[23] https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview
+[24] https://dot-social.simplecast.com/episodes/jay-graber/transcript
+[25] https://www.washingtonpost.com/technology/2024/02/06/bluesky-launch-public-jay-graber/
+[26] https://www.theverge.com/2024/5/5/24149543/jack-dorsey-gone-bluesky-board
+[27] https://www.yahoo.com/tech/bluesky-growing-fast-racing-hold-090501251.html
+[28] https://www.usatoday.com/story/tech/2024/11/20/what-is-bluesky-user-count/76451731007/
+[29] https://x.com/jack/status/1204766078468911106
+[30] https://www.techdirt.com/2019/12/11/twitter-makes-bet-protocols-over-platforms/
+[31] https://techcrunch.com/2021/01/15/twitters-vision-of-decentralization-could-also-be-the-far-rights-internet-endgame/
+[32] https://winbuzzer.com/2024/11/17/the-rise-of-bluesky-from-twitter-sideproject-to-refuge-for-fleeing-x-users-xcxwbn/
+[33] https://bsky.social/about/blog/2-28-2022-how-it-started
+[34] https://www.reuters.com/technology/twitter-backed-bluesky-picks-tech-entrepreneur-lead-web-research-group-2021-08-16/
+[35] https://www.bloomberg.com/news/articles/2021-08-16/twitter-ceo-jack-dorsey-s-bluesky-project-hires-jay-graber
+[36] https://www.forbes.com/sites/digital-assets/2023/04/25/twitter-hatchling-bluesky-emerges-from-its-shell/
+[37] https://bsky.social/about/blog/2-7-2022-overview
+[38] https://www.reuters.com/business/media-telecom/social-media-interoperability-project-bluesky-names-first-employees-2022-03-31/
+[39] https://www.theverge.com/2022/10/29/23428241/elon-musk-twitter-bluesky-decentralized-social-networking-future
+[40] https://www.socialmediatoday.com/news/Bluesky-App-Launches-in-Private-Beta/643824/
+[41] https://www.msn.com/en-us/money/other/bluesky-a-decentralized-twitter-alternative-is-now-on-android/ar-AA1a4sEI
+[42] https://www.ft.com/content/4205dfd0-c02c-4591-b7c3-0076dcc654fa
+[43] https://www.zdnet.com/article/bluesky-social-just-took-a-big-open-source-step-forward/
+[44] https://edition.cnn.com/2023/04/28/tech/bluesky-social/index.html
+[45] https://www.vice.com/en/article/keep-bluesky-weird/
+[46] https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store
+[47] https://www.theatlantic.com/ideas/archive/2023/07/twitter-alternatives-bluesky-mastodon-threads/674859/
+[48] https://techcrunch.com/2023/05/02/bluesky-black-twitter-sex-workers-culture/
+[49] https://www.rollingstone.com/culture/culture-features/trans-cluesky-safe-fun-twitter-1234728106/
+[50] https://www.fastcompany.com/91233939/bluesky-rose-wang-radical-vision-social-media-twitter-alternative
+[51] https://techcrunch.com/2023/07/05/bluesky-announces-its-8m-seed-round-first-paid-service-custom-domains/
+[52] https://www.engadget.com/bluesky-allowed-people-to-include-the-n-word-in-their-usernames-184049864.html?guccounter=1
+[53] https://techcrunch.com/2023/07/17/bluesky-racial-slurs-banned-list-usernames/
+[54] https://techcrunch.com/2023/07/27/bluesky-racism-slur-apology-feedback/
+[55] https://bsky.social/about/blog/12-21-2023-butterfly
+[56] https://techcrunch.com/2023/09/12/bluesky-officially-hits-1-million-users/
+[57] https://dailycompanynews.com/blueskys-surge-to-2-million-users-a-new-era-in-decentralized-social-networking/
+[58] https://bsky.social/about/blog/02-22-2024-open-social-web
+[59] https://techcrunch.com/2024/02/22/bluesky-opens-up-federation-letting-anyone-run-their-own-server/
+[60] https://futurism.com/half-million-users-join-twitter-competitor
+[61] https://en.as.com/latest_news/the-social-media-app-that-stole-half-a-million-users-from-twitter-x-after-elon-musk-changed-the-blocking-system-n/
+[62] https://www.mikrobitti.fi/uutiset/xn-haastajaan-iski-kayttajien-vyory-yhdesta-maasta-kuinka-valvoa-kielta-jota-ei-puhu/0e13e45c-71dc-411e-bf06-de6e4559398b
+[63] https://techcrunch.com/2024/05/05/jack-dorsey-says-hes-no-longer-on-the-bluesky-board/
+[64] https://www.businessinsider.com/jack-dorsey-left-decentralized-app-bluesky-board-posts-on-x-2024-5
+[65] https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana
+[66] https://mashable.com/article/bluesky-9-million-users-brazil-ban-x
+[67] https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/
+[68] https://techcrunch.com/2024/09/16/bluesky-now-has-10-million-users/
+[69] https://www.cnet.com/tech/bluesky-competitor-to-x-soars-to-top-five-spot-in-us-app-store/
+[70] https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/
+[71] https://bsky.social/about/blog/10-24-2024-series-a
+[72] https://techcrunch.com/2024/10/24/bluesky-raises-15m-series-a-plans-to-launch-subscriptions/
+[73] https://www.npr.org/2024/11/19/g-s1-34898/bluesky-traffic-surge-after-election
+[74] https://mashable.com/article/bluesky-top-ios-app-apple-app-store
+[75] https://www.theverge.com/2024/11/13/24295484/bluesky-15-million-users-social-media-x-musk
+[76] https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily/
+[77] https://www.hollywoodreporter.com/business/digital/bluesky-20-million-users-twitter-exodus-elon-musk-1236065566/
+[78] https://www.engadget.com/social-media/bluesky-hits-20-million-users-143920955.html
+[79] https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x
+[80] https://www.businessinsider.com/bluesky-user-growth-social-coo-servers-twitter-elon-musk-x-2024-11
+[81] https://www.nature.com/articles/d41586-024-03784-6
+[82] https://decrypt.co/293717/bluesky-see-surge-in-users-and-child-pornography
+[83] https://www.nbcnews.com/tech/social-media/bluesky-growing-pains-rcna181029
+[84] https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/
+[85] https://pitchbook.com/profiles/company/484831-81#investors
+[86] https://www.cascadepbs.org/news/2025/01/rise-bluesky-not-so-seattle-based-social-media-company
+[87] https://www.bbc.com/news/articles/c8dm0ljg4y6o
+[88] https://bsky.social/about/faq
+[89] https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/
+[90] https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network
+[91] https://www.nytimes.com/2023/04/28/technology/what-is-bluesky.html
+[92] https://atproto.com/specs/repository
+[93] https://docs.bsky.app/blog/2024-protocol-roadmap#product-features
+[94] https://lifehacker.com/tech/use-bridgy-feed-to-link-mastodon-and-bluesky
+[95] https://techcrunch.com/2023/04/27/blueskys-best-shot-at-success-is-to-embrace-shitposting/
+[96] https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial
+[97] https://atproto.com/blog/feature-skyfeed
+[98] https://bsky.social/about/blog/3-30-2023-algorithmic-choice
+[99] https://www.wired.com/story/bluesky-twitter-social-media/
+[100] https://bsky.social/about/blog/06-26-2024-starter-packs
+[101] https://bsky.social/about/blog/03-12-2024-stackable-moderation
+[102] https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/
+[103] https://www.theverge.com/2024/8/29/24231414/bluesky-anti-toxicity-features-detach-posts-from-quotes
+[104] https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features
+[105] https://techcrunch.com/2024/12/25/bluesky-starts-testing-a-trending-topics-feature/
+[106] https://techcrunch.com/2023/02/28/jack-dorsey-backed-twitter-alternative-bluesky-hits-the-app-store-as-an-invite-only-app/
+[107] https://web.archive.org/web/20241115014524/https://www.techradar.com/computing/social-media/i-wasted-my-day-on-bluesky-social-and-no-im-not-sorry
+[108] https://www.techradar.com/computing/social-media/the-bluesky-hype-explained-how-it-compares-twitter-and-the-best-ways-to-switch
+[109] https://web.archive.org/web/20241119222235/https://www.zdnet.com/article/7-things-to-know-about-bluesky-before-you-join-and-why-you-should/
+[110] https://web.archive.org/web/20241124034246/https://www.smh.com.au/world/north-america/off-with-the-pixies-musk-s-x-defectors-discover-their-utopia-20241122-p5ksvz.html

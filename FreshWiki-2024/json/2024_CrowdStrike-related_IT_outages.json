@@ -1,0 +1,2761 @@
+{
+  "title": "2024_CrowdStrike-related_IT_outages",
+  "url": "https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages",
+  "summary": "On 19 July 2024, American cybersecurity company CrowdStrike distributed a faulty update to its Falcon Sensor security software that caused widespread problems with Microsoft Windows computers running the software. As a result, roughly 8.5 million systems crashed and were unable to properly restart in what has been called the largest outage in the history of information technology and \"historic in scale\".\nThe outage disrupted daily life, businesses, and governments around the world. Many industries were affected\u2014airlines, airports, banks, hotels, hospitals, manufacturing, stock markets, broadcasting, gas stations, retail stores, and more\u2014as were governmental services, such as emergency services and websites. The worldwide financial damage has been estimated to be at least US$10 billion.\nWithin hours, the error was discovered and a fix was released, but because many affected computers had to be fixed manually, outages continued to linger on many services.",
+  "content": [
+    {
+      "section_title": "Background",
+      "section_content": [
+        {
+          "sentence": "CrowdStrike produces a suite of security software products for businesses, designed to protect computers from cyberattacks",
+          "refs": []
+        },
+        {
+          "sentence": "Falcon, CrowdStrike's endpoint detection and response agent, works at the operating system kernel level on individual computers to detect and prevent threats",
+          "refs": []
+        },
+        {
+          "sentence": "Patches are routinely distributed by CrowdStrike to its clients to enable their computers to address new threats",
+          "refs": [
+            "https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue"
+          ]
+        },
+        {
+          "sentence": "CrowdStrike's own post-incident investigation identified several errors that led to the release of a fault update to the \"Crowdstrike Sensor Detection Engine\":  [non-primary source needed]",
+          "refs": [
+            "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Outage",
+      "section_content": [
+        {
+          "sentence": "On 19 July at 04:09 UTC, CrowdStrike distributed a faulty configuration update for its Falcon sensor software running on Windows PCs and servers",
+          "refs": []
+        },
+        {
+          "sentence": "A modification to a configuration file which was responsible for screening named pipes, Channel File 291, caused an out-of-bounds memory read  in the Windows sensor client that resulted in an invalid page fault",
+          "refs": [
+            "https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/"
+          ]
+        },
+        {
+          "sentence": "The update caused machines to either enter into a bootloop or boot into recovery mode",
+          "refs": []
+        },
+        {
+          "sentence": "Almost immediately, Windows virtual machines on the Microsoft Azure cloud platform began rebooting and crashing,  and at 06:48 UTC, Google Compute Engine also reported the problem",
+          "refs": [
+            "https://azure.status.microsoft/en-us/status/"
+          ]
+        },
+        {
+          "sentence": "The problem affected systems running Windows 10 and Windows 11 running the CrowdStrike Falcon software",
+          "refs": []
+        },
+        {
+          "sentence": "Most personal Windows PCs were unaffected, as CrowdStrike's software is primarily used by organizations",
+          "refs": [
+            "https://www.techradar.com/pro/website-hosting/millions-of-windows-servers-down-after-crowdstrike-update-how-it-happened-and-how-to-fix",
+            "https://cybersecuritynews.com/crowdstrike-update-bsod-loop/"
+          ]
+        },
+        {
+          "sentence": "The CrowdStrike software did not provide a way for subscribers to delay the installation of its content files",
+          "refs": [
+            "https://www.techradar.com/pro/website-hosting/millions-of-windows-servers-down-after-crowdstrike-update-how-it-happened-and-how-to-fix"
+          ]
+        },
+        {
+          "sentence": "Computers running macOS and Linux were unaffected, as the problematic content file was only for Windows,  but similar problems had affected Linux distributions of CrowdStrike software in April 2024",
+          "refs": [
+            "https://www.theregister.com/2024/07/23/crowdstrike_lessons_to_learn/",
+            "https://mashable.com/article/crowdstrike-microsoft-outage-windows-blue-screen-explained"
+          ]
+        },
+        {
+          "sentence": "CrowdStrike reverted the content update at 05:27 UTC,  and devices that booted after the revert were not affected",
+          "refs": [
+            "https://www.crowdstrike.com/blog/statement-on-windows-sensor-update/"
+          ]
+        },
+        {
+          "sentence": "At 07:15 UTC, Google said that the CrowdStrike update was at fault",
+          "refs": []
+        },
+        {
+          "sentence": "Within hours, CrowdStrike CEO George Kurtz confirmed that CrowdStrike's faulty kernel configuration file update had caused the problem",
+          "refs": [
+            "https://status.cloud.google.com/incidents/DK3LfKowzJPpZq4Q9YqP"
+          ]
+        },
+        {
+          "sentence": "At 09:45 UTC, Kurtz confirmed that the fix was deployed   and that the problem was not the result of a cyberattack",
+          "refs": [
+            "https://www.cnbc.com/2024/07/19/what-is-crowdstrike-crwd-and-how-did-it-cause-global-it-outages.html",
+            "https://www.ndtv.com/world-news/fix-deployed-ceo-of-firm-behind-global-microsoft-outage-6140433",
+            "https://x.com/George_Kurtz/status/1814235001745027317",
+            "https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821"
+          ]
+        },
+        {
+          "sentence": "The impact to companies in the Central United States was exacerbated by an unrelated outage with Microsoft Azure the previous day",
+          "refs": []
+        },
+        {
+          "sentence": "On 18 July, the Azure platform had an outage that blocked some companies' access to their storage and to Microsoft 365 applications in Azure's Central United States region",
+          "refs": [
+            "https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Remedy",
+          "section_content": [
+            {
+              "sentence": "Affected machines could be restored by rebooting while connected to the network; ideally while connected to Ethernet, thus providing the opportunity to download the reverted channel file, with multiple reboots reportedly required",
+              "refs": []
+            },
+            {
+              "sentence": "If crashes persisted, remediation required booting into safe mode or the Windows Recovery Environment and deleting any .sys file beginning with C-00000291- and with timestamp 04:09 UTC in the %windir%\\System32\\drivers\\CrowdStrike\\ directory",
+              "refs": []
+            },
+            {
+              "sentence": "As this process needed to be done locally on each individual machine, it was \"expected to take days\" for affected businesses to restore all systems",
+              "refs": [
+                "https://www.crowdstrike.com/blog/technical-details-on-todays-outage/"
+              ]
+            },
+            {
+              "sentence": "Technical staff needed to reboot the affected computers individually with manual intervention on each system",
+              "refs": [
+                "https://www.cnbc.com/2024/07/19/crowdstrike-suffers-major-outage-affecting-businesses-around-the-world.html"
+              ]
+            },
+            {
+              "sentence": "On devices with Windows' BitLocker disk encryption enabled, which corporations often use to increase security, fixing the problem was exacerbated because the 48-digit numeric Bitlocker recovery keys (unique to each system) required manual input, with additional challenges supplying the recovery keys to end users working remotely",
+              "refs": []
+            },
+            {
+              "sentence": "Additionally, several organisations utilising local servers for Bitlocker recovery key storage could not access keys that were stored on servers that themselves had crashed",
+              "refs": []
+            },
+            {
+              "sentence": "Microsoft has also recommended restoring a backup from before 18 July to fix the issue",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Impact",
+      "section_content": [
+        {
+          "sentence": "Outages were experienced worldwide,    reflecting the wide use of Microsoft Windows and CrowdStrike software by global corporations in numerous business sectors",
+          "refs": [
+            "https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death",
+            "https://www.news.com.au/technology/online/massive-outage-hits-companies-around-the-world/news-story/e02375a976a08b45e72e64040fe14362",
+            "https://www.nytimes.com/live/2024/07/19/business/global-tech-outage"
+          ]
+        },
+        {
+          "sentence": "At the time of the incident, CrowdStrike said it had more than 24,000 customers,  including nearly 60% of Fortune 500 companies and more than half of the Fortune 1000",
+          "refs": [
+            "https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage",
+            "https://www.bbc.com/news/articles/cp4wnrxqlewo"
+          ]
+        },
+        {
+          "sentence": "On 20 July, Microsoft estimated that 8.5\u00a0million devices were affected by the update, which it said was less than one percent of all Windows devices",
+          "refs": [
+            "https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/",
+            "https://www.fool.com/investing/2021/12/16/why-crowdstrike-holdings-stock-was-gaining-today/"
+          ]
+        },
+        {
+          "sentence": "Widespread outages were immediately reported across multiple countries, with major global disturbances experienced by the general public sweeping from east to west from time zone to time zone",
+          "refs": []
+        },
+        {
+          "sentence": "[citation needed] [clarification needed] At 04:09 UTC on 19 July, the time when the faulty update was issued, it was the middle of the business day of Oceania and Asia, the early morning hours in Europe, and midnight in much of the Americas.",
+          "refs": []
+        },
+        {
+          "sentence": "Some countries were less affected",
+          "refs": []
+        },
+        {
+          "sentence": "China, which has striven toward self-sufficiency in IT, saw little impact to key services such as airlines and banks, although foreign businesses and luxury hotels in the country were affected",
+          "refs": []
+        },
+        {
+          "sentence": "Russia and Iran\u2014both restricted by international sanctions from using the services of American high-tech companies\u2014reported no disruptions",
+          "refs": [
+            "https://www.scmp.com/tech/big-tech/article/3271171/microsoft-outage-leaves-china-largely-untouched-tech-self-sufficiency-campaign-pays"
+          ]
+        },
+        {
+          "sentence": "Cyber risk quantification company, Kovrr, calculated that the total cost to the UK economy will likely fall between \u00a31.7 and \u00a32.3 billion ($2.18 and $2.96 billion)",
+          "refs": []
+        },
+        {
+          "sentence": "A specialist cloud outage insurance business estimated that the top 500 US companies by revenue, excluding Microsoft, had faced near $5.4bn (\u00a34.1bn) in financial losses because of the outage, but only between $540m (\u00a3418m) to $1.08bn (\u00a3840m) of those losses would be insured",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "CrowdStrike liability",
+          "section_content": [
+            {
+              "sentence": "CrowdStrike's own terms and conditions for their Falcon software limit liability to \"fees paid\", effectively a refund",
+              "refs": []
+            },
+            {
+              "sentence": "Larger customers may have negotiated different terms",
+              "refs": []
+            },
+            {
+              "sentence": "In the EU, it is possible that CrowdStrike will be held liable under a GDPR regulation related to the impact of security incidents on user data",
+              "refs": []
+            },
+            {
+              "sentence": "The regulation is best known in relation to data leaks but also applies to data destruction",
+              "refs": []
+            },
+            {
+              "sentence": "It is unclear whether temporary loss of access to data is enough to trigger liability, or whether GDPR applies to all incidents related to security or only unauthorised access",
+              "refs": []
+            },
+            {
+              "sentence": "Further, the incident could be classed as a \"personal data breach\" which would be a data breach of the GDPR under Article 4 named \"Definitions\", paragraph 12",
+              "refs": []
+            },
+            {
+              "sentence": "On 19 July 2024, a data-protection expert reported a breach of Article 32 named \"Security of processing\"",
+              "refs": [
+                "https://www.fastcompany.com/91160759/crowdstrike-data-gdpr",
+                "https://gdpr-info.eu/art-4-gdpr"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Air transport",
+          "section_content": [
+            {
+              "sentence": "Globally, 5,078 air flights, 4.6% of those scheduled that day, were cancelled",
+              "refs": []
+            },
+            {
+              "sentence": "An unrelated Microsoft Azure outage, affecting services such as Microsoft 365, compounded airlines' problems",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et",
+                "https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821"
+              ]
+            }
+          ],
+          "subsections": [
+            {
+              "section_title": "Oceania",
+              "section_content": [
+                {
+                  "sentence": "Australian airlines Qantas, Virgin Australia, and Jetstar were affected",
+                  "refs": []
+                },
+                {
+                  "sentence": "A Sydney Airport spokesperson said that the outage had affected some operations and that \"there may be some delays throughout the evening\"",
+                  "refs": [
+                    "https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t",
+                    "https://www.bbc.com/news/articles/cv2g5lvwkl2o"
+                  ]
+                },
+                {
+                  "sentence": "Melbourne Airport saw check-in procedures disrupted; officials advised passengers to consult with their airlines",
+                  "refs": [
+                    "https://www.abc.net.au/news/2024-07-19/global-tech-outage-latest/104120106"
+                  ]
+                },
+                {
+                  "sentence": "The Adelaide, Brisbane, Canberra, Darwin, Hobart, Launceston, and Perth airports were also affected",
+                  "refs": []
+                },
+                {
+                  "sentence": "In New Zealand, Christchurch Airport was having problems",
+                  "refs": [
+                    "https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death",
+                    "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960",
+                    "https://www.escape.com.au/news/airlines-thrown-into-chaos-as-global-microsoft-outage-hits/news-story/981be5728c7290a9cf42b562c654d0cc",
+                    "https://pulsetasmania.com.au/news/multiple-flights-cancelled-at-tasmanian-airports-due-to-global-it-outage/"
+                  ]
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Asia",
+              "section_content": [
+                {
+                  "sentence": "Hong Kong International Airport experienced delays during check-in, primarily for passengers of the local budget carrier Hong Kong Express, whose staff members used handwritten signs to direct passengers to check-in counters",
+                  "refs": []
+                },
+                {
+                  "sentence": "The Hong Kong Airport Authority activated an emergency response after airline websites and automatic check-in malfunctioned",
+                  "refs": [
+                    "https://www.thestandard.com.hk/breaking-news/section/4/218559/Microsoft-system-global-outage-affects-HK-Express-and-Cathay-Pacific,-switching-to-manual-check-ins"
+                  ]
+                },
+                {
+                  "sentence": "The booking systems of local airlines Cathay Pacific, Hong Kong Express, and Hong Kong Airlines were unavailable",
+                  "refs": []
+                },
+                {
+                  "sentence": "HKExpress cancelled some flights on 20 July",
+                  "refs": [
+                    "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3271092/global-microsoft-aviation-outage-hits-hong-kongs-airport-check-services-operated-manually"
+                  ]
+                },
+                {
+                  "sentence": "Jeju Air  and Spring Japan  experienced problems",
+                  "refs": [
+                    "https://news.rthk.hk/rthk/en/component/k2/1762388-20240720.htm?",
+                    "https://www.bbc.com/news/live/cnk4jdwp49et",
+                    "https://www.bbc.com/news/live/cnk4jdwp49et"
+                  ]
+                },
+                {
+                  "sentence": "[clarification needed] Jetstar Japan cancelled many (mostly domestic) flights",
+                  "refs": []
+                },
+                {
+                  "sentence": "Some of the self-check-in kiosks in Singapore Changi Airport were affected, delaying and forcing airlines to switch to manual check-in, and Singapore Airlines and Scoot reported various [weasel\u00a0words] levels of service difficulties throughout 19 July",
+                  "refs": [
+                    "https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime",
+                    "https://www3.nhk.or.jp/nhkworld/en/news/20240719_23/"
+                  ]
+                },
+                {
+                  "sentence": "Cebu Pacific and Philippines AirAsia flights were delayed",
+                  "refs": [
+                    "https://www.asiaone.com/singapore/major-worldwide-it-outage-spread-singapore-straits-times-dbs-changi-airport-singtel",
+                    "https://www.businesstimes.com.sg/companies-markets/several-singapore-companies-affected-global-it-outage-check-ins-changi-airport-processed-manually"
+                  ]
+                },
+                {
+                  "sentence": "Long queues formed at Ninoy Aquino International Airport",
+                  "refs": [
+                    "https://business.inquirer.net/469477/cebu-pacific-system-down-due-to-microsoft-outage",
+                    "https://www.gmanetwork.com/news/money/companies/913963/microsoft-outage-disrupts-operations-of-cebu-pacific-airasia-philippines/story/",
+                    "https://manilastandard.net/news/314473620/global-system-outage-affects-airlines-in-the-philippines.html"
+                  ]
+                },
+                {
+                  "sentence": "In Taiwan, airline system disruptions were reported at Taoyuan International Airport",
+                  "refs": [
+                    "https://news.abs-cbn.com/business/2024/7/19/microsoft-says-probing-issue-after-outage-reports-1513"
+                  ]
+                },
+                {
+                  "sentence": "In Indonesia, disruptions were reported for the check-in systems of AirAsia and Citilink",
+                  "refs": [
+                    "https://www.taipeitimes.com/News/front/archives/2024/07/20/2003821054",
+                    "https://focustaiwan.tw/sci-tech/202407190017"
+                  ]
+                },
+                {
+                  "sentence": "In Thailand, Thai AirAsia's reservation and check-in systems were affected",
+                  "refs": [
+                    "https://bisnis.tempo.co/read/1893557/sistem-layanan-maskapai-penerbangan-indonesia-airasia-dan-citilink-terdampak-gangguan-itglobal"
+                  ]
+                },
+                {
+                  "sentence": "In India, the outage affected Indigo Airlines, Akasa Air, SpiceJet, and Vistara",
+                  "refs": []
+                },
+                {
+                  "sentence": "Handwritten boarding passes were being issued during the outage",
+                  "refs": []
+                },
+                {
+                  "sentence": "The Ministry of Civil Aviation asked and ordered the airlines as well as the airports to be compassionate and provide food as well as seats to waiting customers as needed",
+                  "refs": []
+                },
+                {
+                  "sentence": "As of 18:14 IST (12:44 UTC), over 200 Indian flights had been cancelled; IndiGo alone cancelled 192",
+                  "refs": [
+                    "https://www.ndtv.com/world-news/microsoft-blue-screen-of-death-flights-markets-banks-stock-exchange-microsoft-outage-crippling-sectors-6139053",
+                    "https://indianexpress.com/article/business/aviation/global-microsoft-outage-indigo-akasa-air-india-9463089/",
+                    "https://economictimes.indiatimes.com/nri/visit/microsoft-tech-glitch-aviation-cos-across-globe-affected-check-in-systems-impacted-at-mumbai-delhi-airports/articleshow/111855229.cms",
+                    "https://www.rnz.co.nz/news/business/522606/live-it-outages-reported-worldwide-for-banks-stores-airports-media"
+                  ]
+                },
+                {
+                  "sentence": "Airlines that relied on Microsoft Azure for their services were affected",
+                  "refs": [
+                    "https://timesofindia.indiatimes.com/world/us/microsoft-windows-outage-live-updates-windows-bsod-error-blue-screen-of-death/liveblog/111856162.cms"
+                  ]
+                },
+                {
+                  "sentence": "Air India and SpiceJet said that none of its flights were cancelled due to the outage, attributing it to their robust cyber system however, minute delays were reported",
+                  "refs": [
+                    "https://www.hindustantimes.com/business/explained-how-the-microsoft-crowdstrike-it-outage-hurt-airlines-worldwide-101721410382290.html"
+                  ]
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Europe",
+              "section_content": [
+                {
+                  "sentence": "Prague Airport   in Czechia, Budapest Airport  in Hungary, Bratislava Airport  in Slovakia, and Schiphol Airport  in the Netherlands experienced problems",
+                  "refs": [
+                    "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960",
+                    "https://cedarnews.net/breakingnews/737658/prague-airport-has-been-affected-by-outage-of-global-check-in-system/",
+                    "https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821",
+                    "https://tech.sme.sk/c/23359380/vypadok-it-systemy-letiska-televizie.html",
+                    "https://nos.nl/artikel/2529464-wereldwijd-problemen-door-computerstoring-ook-schiphol-getroffen"
+                  ]
+                },
+                {
+                  "sentence": "Planes were not allowed to land at Zurich Airport",
+                  "refs": []
+                },
+                {
+                  "sentence": "Near Brussels, Charleroi Airport employees manually checked passengers in, but other software alleviated problems by 10:00 (UTC+2) and there were minimal delays",
+                  "refs": [
+                    "https://www.bbc.com/news/live/cnk4jdwp49et"
+                  ]
+                },
+                {
+                  "sentence": "ENAIRE's Aena, the Spanish national airport traffic control manager, mentioned an IT outage in their website and social media",
+                  "refs": [
+                    "https://www.brusselstimes.com/belgium/1146329/major-global-computer-outage-problems-at-brussels-airport-and-sncb-tbtb"
+                  ]
+                },
+                {
+                  "sentence": "All Spanish airports reported disruptions",
+                  "refs": [
+                    "https://x.com/aena/status/1814199738180223279"
+                  ]
+                },
+                {
+                  "sentence": "Charles de Gaulle Airport and Orly Airport experienced check-in problems and suspended flights",
+                  "refs": [
+                    "https://www.barrons.com/news/all-spanish-airports-impacted-by-it-outage-operator-b7dc5b29"
+                  ]
+                },
+                {
+                  "sentence": "Pozna\u0144\u2013\u0141awica Airport and Warsaw Chopin Airport experienced check-in disruptions",
+                  "refs": [
+                    "https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664"
+                  ]
+                },
+                {
+                  "sentence": "An emergency system was activated, and check-in processes were slower",
+                  "refs": []
+                },
+                {
+                  "sentence": "Berlin Brandenburg Airport announced that since around 07:00 (UTC+2), operational processes were affected by \"IT problems at an external provider\", and that they planned to stop flights until 08:00 UTC",
+                  "refs": [
+                    "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/9549009,awarie-w-polsce-nie-dzialaja-banki-problemy-na-lotniskach-lista.html"
+                  ]
+                },
+                {
+                  "sentence": "While passenger handling continued with some restrictions, there were delays and airlines cancelled some flights",
+                  "refs": [
+                    "https://www.rnz.co.nz/news/business/522606/live-it-outages-reported-worldwide-for-banks-stores-airports-media",
+                    "https://www.tagesspiegel.de/berlin/massive-technische-storung-betrieb-am-flughafen-ber-zum-ferienstart-eingestellt-12051248.html"
+                  ]
+                },
+                {
+                  "sentence": "Several airlines (Eurowings, Ryanair, Vueling, and Turkish Airlines) in Hamburg Airport had to issue tickets by hand",
+                  "refs": [
+                    "https://ber.berlin-airport.de/en/pages/aktuelle-reiseinformationen.html"
+                  ]
+                },
+                {
+                  "sentence": "Croatian and Swedish air traffic control were also disrupted",
+                  "refs": [
+                    "https://www.tagesschau.de/ausland/it-panne-computer-global-100.html"
+                  ]
+                },
+                {
+                  "sentence": "Swiss International Air Lines had 30% of flights grounded",
+                  "refs": []
+                },
+                {
+                  "sentence": "Lufthansa in Germany experienced problems with the \"profile and booking retrieval\" features of their website",
+                  "refs": [
+                    "https://www.theguardian.com/business/article/2024/jul/19/uk-airports-trains-disrupted-microsoft-global-it-outage"
+                  ]
+                },
+                {
+                  "sentence": "Ryanair's booking and check-in services were unavailable and the airline was \"forced to cancel a small number of flights\", advising passengers to arrive at airports at least three hours before departure",
+                  "refs": [
+                    "https://www.euronews.com/travel/2024/07/19/microsoft-outage-flight-delays-and-cancellations-arrive-at-the-airport-early-say-airlines"
+                  ]
+                },
+                {
+                  "sentence": "Wizz Air said the outage put its online services offline",
+                  "refs": [
+                    "https://www.ryanair.com/ie/en/lp/travel-updates/articles/potential-disruptions-across-the-network",
+                    "https://x.com/Ryanair/status/1814284604385186237"
+                  ]
+                },
+                {
+                  "sentence": "Dutch airline KLM suspended most operations, announcing that flight handling was impossible with the issue, [citation needed] and Transavia Airlines experienced problems",
+                  "refs": [
+                    "https://wizzair.com/en-gb/latest-travel-information",
+                    "https://x.com/wizzair/status/1814224179442413585"
+                  ]
+                },
+                {
+                  "sentence": "Finnair reported that they were having trouble sending emails and SMS messages to customers",
+                  "refs": [
+                    "https://nos.nl/artikel/2529464-wereldwijd-problemen-door-computerstoring-ook-schiphol-getroffen",
+                    "https://www.keolis.nl/"
+                  ]
+                },
+                {
+                  "sentence": "In Greece, citizens and tourists saw delays at major airports, notably at Athens International Airport and at Heraklion International Airport",
+                  "refs": [
+                    "https://x.com/FinnairSuomi/status/1814267986326299033"
+                  ]
+                },
+                {
+                  "sentence": "This disruption, occurring at the peak of the tourist season, resulted in chaotic scenes as passengers were forced to wait for hours for their flights",
+                  "refs": []
+                },
+                {
+                  "sentence": "Contributing factors included severe staff shortages and new schedules",
+                  "refs": []
+                },
+                {
+                  "sentence": "In Heraklion, eight flights were problematic",
+                  "refs": [
+                    "https://www.newsbomb.gr/ellada/story/1568041/panikos-sto-aerodromio-el-venizelos-doste-mas-ena-domatio-na-dianyktereysoume-exoume-moro",
+                    "https://www.cnn.gr/ellada/story/430261/sarose-kai-to-eleftherios-venizelos-to-pagkosmiko-mplak-aout-sta-pliroforiaka-systimata"
+                  ]
+                },
+                {
+                  "sentence": "The airport's chief, George Pliakas, indicated that flights were being manually arranged to manage the disruption, but the influx of arriving flights strained the system",
+                  "refs": []
+                },
+                {
+                  "sentence": "Several UK airports had problems, including Edinburgh Airport, whose departure boards froze,  and Gatwick Airport, where automatic barcode scanning stopped working and had to be checked manually",
+                  "refs": [
+                    "https://www.bbc.co.uk/news/live/cnk4jdwp49et"
+                  ]
+                },
+                {
+                  "sentence": "Amadeus, which manages UK baggage at Heathrow, said they were affected by the IT outage",
+                  "refs": [
+                    "https://www.bbc.com/news/live/cnk4jdwp49et"
+                  ]
+                },
+                {
+                  "sentence": "Disruption to flights was anticipated in the Isle of Man, particularly to and from the UK, but ultimately minimal",
+                  "refs": [
+                    "https://www.lbc.co.uk/news/global-it-outage-down-airplane-live/"
+                  ]
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Middle East and North Africa",
+              "section_content": [
+                {
+                  "sentence": "Tunisia experienced temporary airport disruptions",
+                  "refs": []
+                },
+                {
+                  "sentence": "Turkish Airlines cancelled some of its flights due to the outage",
+                  "refs": [
+                    "https://www.leconomistemaghrebin.com/2024/07/19/la-tunisie-epargnee-par-la-panne-mondiale-malgre-des-perturbations-aeroportuaires-temporaires/"
+                  ]
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "North America",
+              "section_content": [
+                {
+                  "sentence": "In the mid-morning of Friday 19 July, a ground stop was issued by United, Delta, and American Airlines, halting takeoffs but allowing aircraft aloft to reach their destinations",
+                  "refs": []
+                },
+                {
+                  "sentence": "Allegiant Air was also grounded by the outage",
+                  "refs": [
+                    "https://abcnews.go.com/US/american-airlines-issues-global-ground-stop-flights/story?id=112092372",
+                    "https://www.msn.com/en-us/news/other/delta-united-and-american-airlines-flights-grounded-due-to-communication-issue-faa-says/ar-BB1qg30t"
+                  ]
+                },
+                {
+                  "sentence": "Around 10:30\u00a0a.m",
+                  "refs": [
+                    "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960",
+                    "https://www.pennlive.com/news/2024/07/all-delta-united-allegiant-and-american-airlines-flights-grounded-heres-what-we-know.html"
+                  ]
+                },
+                {
+                  "sentence": "Eastern time, AP reported that about 1,500 flights had already been cancelled in the United States due to the outage",
+                  "refs": []
+                },
+                {
+                  "sentence": "American Airlines, United, and Allegiant recovered relatively quickly after Friday",
+                  "refs": [
+                    "https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime"
+                  ]
+                },
+                {
+                  "sentence": "But Delta, by far the hardest hit of the US major airlines, experienced an operational meltdown that continued through the weekend",
+                  "refs": []
+                },
+                {
+                  "sentence": "The airline cancelled more than 1,200 flights on Friday",
+                  "refs": []
+                },
+                {
+                  "sentence": "Thousands of stranded travellers were forced to spend the night at Hartsfield\u2013Jackson Atlanta International Airport, Delta's largest hub and the busiest airport in the world by passenger traffic",
+                  "refs": [
+                    "https://www.wsj.com/lifestyle/travel/flight-cancellations-caused-by-tech-outage-continue-through-weekend-de3cff9c",
+                    "https://www.ajc.com/news/business/global-it-outage-strands-thousands-at-atlanta-airport-travel-mess-could-last-days/M2S4GVLFZVBRPLJZIASBN5JIPA/"
+                  ]
+                },
+                {
+                  "sentence": "Metro Atlanta hotels and rental car companies were overwhelmed by the crisis, leaving travellers no option but to stay in the airport",
+                  "refs": [
+                    "https://www.ajc.com/news/business/global-it-outage-strands-thousands-at-atlanta-airport-travel-mess-could-last-days/M2S4GVLFZVBRPLJZIASBN5JIPA/"
+                  ]
+                },
+                {
+                  "sentence": "One traveller attempting to return home to Tampa (after giving up on reaching California) reported that Amtrak was charging $1,000 for a one-way train ticket from Atlanta to Tampa",
+                  "refs": [
+                    "https://www.atlantanewsfirst.com/2024/07/20/backups-continue-hartsfield-jackson-airport-after-global-tech-outage/",
+                    "https://www.nytimes.com/2024/09/13/travel/crowdstrike-outage-delta-airlines.html"
+                  ]
+                },
+                {
+                  "sentence": "Visibly distraught passengers with nowhere to go were seen trying to sleep in the airport on hard linoleum floors without blankets or food",
+                  "refs": [
+                    "https://www.cnn.com/2024/07/20/us/flights-canceled-delayed-global-it-outage/index.html"
+                  ]
+                },
+                {
+                  "sentence": "The airport's custodial staff were also overwhelmed, with restrooms and trash reportedly \"out of control\"",
+                  "refs": [
+                    "https://www.ajc.com/news/business/global-it-outage-strands-thousands-at-atlanta-airport-travel-mess-could-last-days/M2S4GVLFZVBRPLJZIASBN5JIPA/"
+                  ]
+                },
+                {
+                  "sentence": "Without warning, Delta banned unaccompanied minors on its flights through the end of 23 July",
+                  "refs": [
+                    "https://www.nytimes.com/2024/09/13/travel/crowdstrike-outage-delta-airlines.html"
+                  ]
+                },
+                {
+                  "sentence": "This imposed hardship on parents who had been counting on that service to enable their children to fly without the expense of an accompanying adult",
+                  "refs": [
+                    "https://www.nytimes.com/2024/07/23/business/delta-it-outage-flights-minors.html"
+                  ]
+                },
+                {
+                  "sentence": "Delta cancelled more than 1,400 flights on 20 July,  and more than 1,300 flights on 21 July",
+                  "refs": [
+                    "https://www.ajc.com/news/business/delta-offers-information-for-passengers-affected-global-it-outage/B3VR4HYLSVBNRIBKNG6ZC6YPBU/"
+                  ]
+                },
+                {
+                  "sentence": "With so many passengers still stuck in Hartsfield\u2013Jackson after two consecutive nights, the airport implemented a \"concessions crisis plan\" and a plan to reunite passengers with their checked baggage",
+                  "refs": [
+                    "https://www.nytimes.com/2024/07/22/business/delta-global-tech-outage-pete-buttigieg.html"
+                  ]
+                },
+                {
+                  "sentence": "However, passengers in Atlanta continued to report \"jam-packed\" conditions and \"heartbreaking\" scenes in the terminals",
+                  "refs": [
+                    "https://www.ajc.com/news/business/delta-offers-information-for-passengers-affected-global-it-outage/B3VR4HYLSVBNRIBKNG6ZC6YPBU/"
+                  ]
+                },
+                {
+                  "sentence": "On 21 July, Delta CEO Ed Bastian apologised to customers in a statement and revealed that the outage had left one of Delta's crew-tracking software programs \"unable to effectively process the unprecedented number of changes triggered by the system shutdown\"",
+                  "refs": []
+                },
+                {
+                  "sentence": "Delta CIO Rahul Samant said the program had been brought back online around 11 a.m",
+                  "refs": [
+                    "https://www.nytimes.com/2024/07/22/business/delta-global-tech-outage-pete-buttigieg.html",
+                    "https://www.ajc.com/news/business/heres-why-delta-melted-down-after-tech-outage-while-others-recovered/MKXZDWXVFVCPVP752SJ2ITYLTU/"
+                  ]
+                },
+                {
+                  "sentence": "on 19 July, but was overwhelmed by the backlog of updates awaiting processing and had been trying to catch up ever since",
+                  "refs": []
+                },
+                {
+                  "sentence": "After the ground stop left too many crew members in the wrong places, Delta struggled to assemble enough pilots and flight attendants at airport gates to operate scheduled flights",
+                  "refs": [
+                    "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/"
+                  ]
+                },
+                {
+                  "sentence": "Many flights were repeatedly delayed and finally cancelled because the one or two crew members who made it to the gate for a particular flight kept hitting their legal flight time limit before the airline could finish fully staffing the flight, and this caused the crisis to snowball as those crew and their aircraft were now in the wrong place for the following day's flights",
+                  "refs": [
+                    "https://www.ajc.com/news/business/heres-why-delta-melted-down-after-tech-outage-while-others-recovered/MKXZDWXVFVCPVP752SJ2ITYLTU/"
+                  ]
+                },
+                {
+                  "sentence": "(A similar phenomenon occurred during the 2022 Southwest Airlines scheduling crisis",
+                  "refs": [
+                    "https://www.ajc.com/news/business/heres-why-delta-melted-down-after-tech-outage-while-others-recovered/MKXZDWXVFVCPVP752SJ2ITYLTU/"
+                  ]
+                },
+                {
+                  "sentence": ") That same day, US Secretary of Transportation Pete Buttigieg said on social media that the US Department of Transportation had received hundreds of complaints about Delta, and reminded the airline of its legal obligations to affected passengers",
+                  "refs": [
+                    "https://www.nytimes.com/2024/07/22/business/delta-global-tech-outage-pete-buttigieg.html"
+                  ]
+                },
+                {
+                  "sentence": "On 22 July, Delta cancelled more than 1,200 flights",
+                  "refs": []
+                },
+                {
+                  "sentence": "On 23 July, the Department of Transportation announced the launch of a formal investigation into Delta's treatment of passengers",
+                  "refs": [
+                    "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/"
+                  ]
+                },
+                {
+                  "sentence": "Delta officials promised to cooperate but said the airline was focused on its recovery",
+                  "refs": [
+                    "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/"
+                  ]
+                },
+                {
+                  "sentence": "Senator Maria Cantwell, in her capacity as chair of the Senate Committee on Commerce, Science, and Transportation, wrote to Bastian to express her concern for Delta passengers",
+                  "refs": [
+                    "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/"
+                  ]
+                },
+                {
+                  "sentence": "On 23 July, Secretary Buttigieg estimated that over 500,000 passengers had been affected by Delta flight cancellations",
+                  "refs": [
+                    "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/"
+                  ]
+                },
+                {
+                  "sentence": "He told a press conference, \"There's a lot of things I'm very concerned about, including people being on hold for hours and hours, trying to get a new flight, people having to sleep on airport floors, even accounts of unaccompanied minors being stranded in airports, unable to get on a flight\"",
+                  "refs": [
+                    "https://www.atlantanewsfirst.com/2024/07/23/thousands-delta-passengers-still-stranded-flight-cancellations-continue-days-after-it-outage/"
+                  ]
+                },
+                {
+                  "sentence": "He told CBS News: \"Stories about people in lines of more than a hundred people with just one customer service agent serving them at an airport, that's completely unacceptable.\"  By then, numerous passengers had ended up in different airports than their baggage because of Delta's flight cancellations, resulting in large piles of unclaimed suitcases and other checked baggage at Delta's airport terminals around the world",
+                  "refs": [
+                    "https://www.washingtonpost.com/transportation/2024/07/26/delta-canceled-flights-investigation-crowdstrike/",
+                    "https://www.cbsnews.com/news/delta-flight-cancellations-today-dot-investigation-crowdstrike-outage/"
+                  ]
+                },
+                {
+                  "sentence": "On 25 July, Delta returned to normal flight operations, having cancelled more than 7,000 flights; passengers had filed more than 5,000 complaints about Delta with the Department of Transportation",
+                  "refs": []
+                },
+                {
+                  "sentence": "On 26 July, The Washington Post reported that the department was investigating allegedly misleading communications from Delta that offered only credit towards future Delta flights as compensation for cancelled flights and failed to clearly notify passengers of their legal right to a cash refund",
+                  "refs": [
+                    "https://mynews13.com/fl/orlando/news/2024/07/25/delta-air-lines--dot--airline"
+                  ]
+                },
+                {
+                  "sentence": "On 31 July, Delta CEO Ed Bastian said the disruption had cost the airline $500 million, and he said that Delta would sue CrowdStrike to recoup some of its losses",
+                  "refs": []
+                },
+                {
+                  "sentence": "On 8 August, Delta confirmed in a filing with the US Securities and Exchange Commission that over 7,000 flights had been cancelled over five days, and estimated its losses at $380 million in lost revenue and $170 million in expenses (adding up to about $550 million)",
+                  "refs": [
+                    "https://qz.com/delta-crowdstrike-500-million-ceo-says-1851609955"
+                  ]
+                },
+                {
+                  "sentence": "Delta also estimated that around 1.3 million passengers had been affected by the flight cancellations",
+                  "refs": [
+                    "https://www.ajc.com/news/business/delta-attorney-fires-off-another-letter-to-crowdstrike-attorney-in-dispute/4FDPBUTCIRE5PJQE374K5Y3BJM/"
+                  ]
+                },
+                {
+                  "sentence": "United Airlines' smaller number of cancellations had a significant impact on its hubs",
+                  "refs": []
+                },
+                {
+                  "sentence": "For example, San Mateo County hotels around San Francisco International Airport rapidly filled up with travellers on 19 July",
+                  "refs": []
+                },
+                {
+                  "sentence": "Guests reported difficulty with checking into the local Marriott hotel because Marriott International was also recovering from the outage",
+                  "refs": [
+                    "https://sfstandard.com/2024/07/19/worldwide-internet-technology-outag/"
+                  ]
+                },
+                {
+                  "sentence": "Southwest Airlines (the third largest US major airline by domestic passengers) was entirely unaffected",
+                  "refs": []
+                },
+                {
+                  "sentence": "A Southwest spokesperson confirmed that the airline had seen no impact from the CrowdStrike outage but refused to confirm speculation among aviation industry analysts that it had been shielded by its notoriously outdated software",
+                  "refs": []
+                },
+                {
+                  "sentence": "The flight delays meant that many people who had traveled to the 2024 Republican National Convention\u2014which concluded the day the outages started\u2014were stuck in the convention's host city of Milwaukee, Wisconsin",
+                  "refs": []
+                },
+                {
+                  "sentence": "Montr\u00e9al\u2013Trudeau International Airport and Toronto Pearson International Airport were affected in Canada, and Porter Airlines cancelled all flights",
+                  "refs": []
+                },
+                {
+                  "sentence": "Vancouver International Airport was also reportedly affected in Canada, although it was unclear whether this was directly related to the global outages",
+                  "refs": [
+                    "https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863"
+                  ]
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        },
+        {
+          "section_title": "Finance",
+          "section_content": [
+            {
+              "sentence": "Microsoft and CrowdStrike stocks fell as a result of the outage",
+              "refs": []
+            },
+            {
+              "sentence": "CrowdStrike's stock fell more than 11% on 19 July, although Microsoft stock was down less than 1%",
+              "refs": []
+            },
+            {
+              "sentence": "Banks that were affected included Chase, Bank of America, Wells Fargo, U.S",
+              "refs": []
+            },
+            {
+              "sentence": "Bank, Capital One and Charles Schwab in the US;  RBC, Scotiabank, and TD Bank in Canada;    Capitec Bank and other South African banks;  several Israeli banks;  and several banks in the Philippines, including RCBC, Metrobank, LandBank, BDO, UnionBank, BPI, and PNB",
+              "refs": [
+                "https://www.statesman.com/story/news/state/2024/07/19/banks-outage-microsoft-crowdstrike-global-technology-issues/74469447007/",
+                "https://www.cbc.ca/news/canada/ottawa/ottawa-crowdstrike-outages-1.7268896",
+                "https://ca.news.yahoo.com/live/global-it-outage-hits-canada-airports-td-bank-us-border-hospital-disruptions-and-more-after-faulty-crowdstrike-update-154145288.html",
+                "https://www.bnnbloomberg.ca/business/2024/07/26/scotiabank-customers-report-not-receiving-payroll-deposits/",
+                "https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821",
+                "https://www.ynetnews.com/article/s1f7r5do0"
+              ]
+            },
+            {
+              "sentence": "E-wallets such as Maya and GCash also experienced problems in the Philippines",
+              "refs": [
+                "https://www.gmanetwork.com/news/money/companies/913970/ph-banks-digital-services-hit-by-global-microsoft-outage/story/",
+                "https://business.inquirer.net/469535/ph-banks-also-hit-by-microsoft-outage"
+              ]
+            },
+            {
+              "sentence": "The website and mobile banking application of DenizBank in Turkey could not be accessed",
+              "refs": [
+                "https://www.philstar.com/business/2024/07/19/2371419/philippine-banks-hit-global-it-outage"
+              ]
+            },
+            {
+              "sentence": "Visa was affected",
+              "refs": [
+                "https://www.birgun.net/haber/microsoft-taki-ariza-denizbank-in-internet-sitesine-ve-mobil-uygulamasina-erisilemiyor-545786"
+              ]
+            },
+            {
+              "sentence": "Numerous Singaporean companies, including Singapore Exchange (SGX) and DBS Bank, reported various levels of service difficulties throughout 19 July",
+              "refs": [
+                "https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage"
+              ]
+            },
+            {
+              "sentence": "In India, the Reserve Bank of India said that only 10 banks and NBFCs were affected by the outage;   few banks use CrowdStrike tools and many banks' critical systems do not run on the cloud",
+              "refs": [
+                "https://www.hindustantimes.com/business/rbi-on-global-microsoft-outage-indian-banks-insulated-only-minor-disruptions-101721392584137.html",
+                "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-mumbai-delhi-flight-operations-affected/article68421219.ece"
+              ]
+            },
+            {
+              "sentence": "NSE, BSE,  and India's largest bank, State Bank of India, said they were unaffected",
+              "refs": [
+                "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-mumbai-delhi-flight-operations-affected/article68421219.ece"
+              ]
+            },
+            {
+              "sentence": "In Brazil, Bradesco Bank confirmed it was affected",
+              "refs": []
+            },
+            {
+              "sentence": "During the morning customers were able to login, but at 12:00 UTC the bank disabled the login button",
+              "refs": []
+            },
+            {
+              "sentence": "New Zealand banks ASB and Kiwibank were affected, while Australian banks Westpac  and ANZ also had problems",
+              "refs": [
+                "https://www.abc.net.au/news/2024-07-19/global-tech-outage-latest/104120106"
+              ]
+            },
+            {
+              "sentence": "Apps of Australian banks NAB, Westpac, ANZ, Commonwealth Bank, Bendigo Bank, and Suncorp were affected",
+              "refs": [
+                "https://www.1news.co.nz/2024/07/19/live-banks-stores-airport-reporting-issues-amid-global-it-issues/"
+              ]
+            },
+            {
+              "sentence": "The London Stock Exchange, while operating normally, was unable to push news updates to its website",
+              "refs": []
+            },
+            {
+              "sentence": "English gambling company Ladbrokes Coral and English supermarket chain Morrisons also reported problems",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et"
+              ]
+            },
+            {
+              "sentence": "Polish banks, including Santander Bank Polska, ING Bank \u015al\u0105ski and mBank, encountered issues related to the outage",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et"
+              ]
+            },
+            {
+              "sentence": "Santander BP's helpline, video, and chat services were affected",
+              "refs": []
+            },
+            {
+              "sentence": "PKO Bank Polski clarified that its iPKO and IKO services were stable, but other banks faced difficulties",
+              "refs": []
+            },
+            {
+              "sentence": "In Finland, OP Financial Group reported minor disruptions on investment partner and stock savings accounts",
+              "refs": [
+                "https://tvpworld.com/79376930/polish-prime-minister-microsoft-outage-poses-no-threat-to-national-security"
+              ]
+            },
+            {
+              "sentence": "Sense Bank in Ukraine experienced outages due to the update",
+              "refs": [
+                "https://www.iltalehti.fi/digiuutiset/a/08908d8a-16f3-4720-b60e-c017c01d602b"
+              ]
+            },
+            {
+              "sentence": "Paraguayan banks Ueno and Banco Continental were affected; their customers were unable to log in",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Government",
+          "section_content": [
+            {
+              "sentence": "The United States Department of Homeland Security, NASA, Federal Trade Commission, National Nuclear Security Administration, Department of Justice, and Department of Education were affected, and the Department of the Treasury and Department of State reported minor disruptions",
+              "refs": []
+            },
+            {
+              "sentence": "The Department of Veterans Affairs and Department of Energy experienced disruptions, but it is not currently known if they are related to the incident",
+              "refs": []
+            },
+            {
+              "sentence": "DMV agencies for the states of Georgia, Kansas, Missouri, North Carolina, Tennessee, and the District of Columbia were affected",
+              "refs": [
+                "https://fedscoop.com/federal-government-agencies-affected-by-worldwide-it-outage/"
+              ]
+            },
+            {
+              "sentence": "Ted Wheeler, the mayor of Portland, Oregon, declared the outages to be a city emergency",
+              "refs": [
+                "https://www.businessinsider.com/mass-it-outage-companies-operations-airlines-affected-microsoft-crowdstrike-2024-7",
+                "https://www.popville.com/2024/07/about-that-microsoft-outage/",
+                "https://www.kansascity.com/news/local/article290235994.html"
+              ]
+            },
+            {
+              "sentence": "Election and voting registration databases in Arizona, South Dakota, Texas and the state of Washington were affected",
+              "refs": [
+                "https://www.kgw.com/article/news/local/technology/portland-state-of-emergency-crowdstrike-outage/283-5ce4a056-754a-4959-86b2-deddb7fc1b85",
+                "https://katu.com/news/local/ted-wheeler-declares-city-emergency-due-to-crowdstrike-issue-portland-oregon-multnomah-county"
+              ]
+            },
+            {
+              "sentence": "The website for the city of Sioux Falls, South Dakota, went down",
+              "refs": [
+                "https://abcnews.go.com/US/global-outage-24-hours-impacts-world/story?id=112123299"
+              ]
+            },
+            {
+              "sentence": "In the United States, there were outages in 911 service or disruptions in 911 call centres' operation in some parts of Alaska,  Arizona,  Florida,  Iowa,  Indiana,  Kansas,  Michigan,  Minnesota,  New York,  Ohio,  Oregon,  Pennsylvania,  and Virginia",
+              "refs": [
+                "https://www.alaskasnewssource.com/2024/07/19/alaska-experiencing-statewide-911-outage/",
+                "https://www.azcentral.com/story/news/local/phoenix-breaking/2024/07/19/phoenix-area-emergency-response-systems-down/74465872007/",
+                "https://www.wflx.com/2024/07/19/worldwide-microsoft-outage-affecting-local-911-services/",
+                "https://www.wbaltv.com/article/global-technology-outage-911-call-centers/61647145",
+                "https://www.abc57.com/news/area-dispatch-centers-experience-911-outages",
+                "https://www.msn.com/en-us/news/us/911-call-centers-report-outages-heres-which-counties-are-affected/ar-BB1qgv46?ocid=BingNewsVerp",
+                "https://www.fox2detroit.com/news/dtw-warns-travelers-global-outage-university-michigan-says-911-lines-experiencing-difficulties",
+                "https://www.kare11.com/article/news/local/911-call-centers-report-outages-heres-which-counties-are-affected/89-7076d8e3-51fb-4fa1-8241-f9681650b4bb",
+                "https://www.msn.com/en-us/travel/news/how-the-global-it-outage-is-impacting-nyc-services-transit-local-airports/ar-BB1qgCVy?ocid=BingNewsVerp",
+                "https://local12.com/news/local/greater-cincinnati-police-department-division-issue-urgent-alert-confirming-outage-is-impacting-phones-911-service-fire-assistance-phone-out-tech-technical-difficulties-community-impact",
+                "https://www.nytimes.com/2024/07/19/business/emergency-911-calls-tech-outage.html",
+                "https://6abc.com/post/how-emergency-services-are-respond-call-amid-global-it-outage/15070726/"
+              ]
+            },
+            {
+              "sentence": "911 was down for all of New Hampshire",
+              "refs": [
+                "https://www.wbaltv.com/article/global-technology-outage-911-call-centers/61647145"
+              ]
+            },
+            {
+              "sentence": "In addition, Alaska was experiencing issues with non-emergency call centres",
+              "refs": [
+                "https://www.wmur.com/article/some-911-systems-down-due-to-worldwide-computer-outage/61642712",
+                "https://www.businessinsider.com/mass-it-outage-911-lines-down-parts-of-us-havoc-2024-7"
+              ]
+            },
+            {
+              "sentence": "Many call centres switched to working backup systems",
+              "refs": [
+                "https://www.businessinsider.com/mass-it-outage-911-lines-down-parts-of-us-havoc-2024-7"
+              ]
+            },
+            {
+              "sentence": "The CM/ECF and PACER computer systems used by the US federal courts were unaffected",
+              "refs": []
+            },
+            {
+              "sentence": "However, several state courts reported problems with their computer systems, including courts in Alaska, California, Delaware, Idaho, Kansas, Maryland, Massachusetts, Michigan, Nevada, New York, and Pennsylvania",
+              "refs": [
+                "https://www.law.com/2024/07/19/multiple-state-court-online-systems-impacted-by-global-crowdstrike-outage/"
+              ]
+            },
+            {
+              "sentence": "In New York City, courts and correctional facilities were disrupted, delaying a hearing in the trial of Harvey Weinstein for sex offenses",
+              "refs": [
+                "https://www.law.com/2024/07/19/multiple-state-court-online-systems-impacted-by-global-crowdstrike-outage/"
+              ]
+            },
+            {
+              "sentence": "Government websites in the Philippines, such as the website of the House of Representatives of the Philippines, were down due to the outage",
+              "refs": []
+            },
+            {
+              "sentence": "In Canada, services in Toronto were affected,  and Canada Child Benefit payments were delayed",
+              "refs": [
+                "https://www.cp24.com/news/this-is-the-list-of-disruptions-in-toronto-due-to-the-crowdstrike-outage-1.6970063"
+              ]
+            },
+            {
+              "sentence": "New Zealand Parliament had problems",
+              "refs": [
+                "https://www.cbc.ca/news/world/worldwide-tech-issues-1.7268863e",
+                "https://www.cbc.ca/news/canada/ottawa/canada-child-benefit-it-outage-1.7269641"
+              ]
+            },
+            {
+              "sentence": "Sunshine Coast Council was one of several councils affected in Australia",
+              "refs": [
+                "https://www.rnz.co.nz/news/business/522606/live-it-outages-reported-worldwide-for-banks-stores-airports-media"
+              ]
+            },
+            {
+              "sentence": "The National Security Authority spokesman confirmed several institutions in Slovakia were affected",
+              "refs": [
+                "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960"
+              ]
+            },
+            {
+              "sentence": "The fire department in Copenhagen, Denmark, was unable to receive automatic fire alerts from buildings",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Ground transport",
+          "section_content": [
+            {
+              "sentence": "Traffic disruptions were reported at the US\u2013Canada border,    including long delays at the Ambassador Bridge and Detroit\u2013Windsor tunnel between Ontario and Michigan",
+              "refs": [
+                "https://ca.finance.yahoo.com/news/possible-flight-disruptions-expected-global-113432466.html",
+                "https://www.cbc.ca/news/world/worldwide-tech-issues-1.7268863e",
+                "https://ca.news.yahoo.com/live/global-it-outage-hits-canada-airports-td-bank-us-border-hospital-disruptions-and-more-after-faulty-crowdstrike-update-154145288.html"
+              ]
+            },
+            {
+              "sentence": "The Canada Border Services Agency blamed a partial outage of its telephone reporting system which was later resolved",
+              "refs": [
+                "https://www.cp24.com/news/this-is-the-list-of-disruptions-in-toronto-due-to-the-crowdstrike-outage-1.6970063"
+              ]
+            },
+            {
+              "sentence": "There were long delays and police advised motorists to avoid the area",
+              "refs": [
+                "https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863",
+                "https://ca.finance.yahoo.com/news/possible-flight-disruptions-expected-global-113432466.html"
+              ]
+            },
+            {
+              "sentence": "The Washington Metro Area Transit Authority suffered minor service delays in the early morning in America; their website/live tracking was unavailable until around 9:30\u00a0am on 19 July",
+              "refs": [
+                "https://www.ctvnews.ca/sci-tech/here-s-the-latest-on-canadian-impacts-of-the-global-it-outage-1.6970002"
+              ]
+            },
+            {
+              "sentence": "The Massachusetts Bay Transportation Authority in Boston, as well as the Metropolitan Transportation Authority in New York, lost vehicle tracking and arrival notices for passengers",
+              "refs": [
+                "https://wtop.com/dc-transit/2024/07/metro-services-delayed-call-center-down-due-to-global-computer-system-outage/"
+              ]
+            },
+            {
+              "sentence": "Most of North American freight and passenger train operators went largely unaffected aside from some technical issues within Union Pacific and Canadian Pacific Kansas City, Amtrak was mostly unaffected aside from issues with credit card processing during the morning",
+              "refs": [
+                "https://www.bostonglobe.com/2024/07/19/metro/software-outage-massachusetts-new-england/"
+              ]
+            },
+            {
+              "sentence": "Malaysia's railway operator, Keretapi Tanah Melayu, confirmed that its KITS ticketing system was experiencing technical issues",
+              "refs": []
+            },
+            {
+              "sentence": "Transport for Ireland said its apps were down due to the outage",
+              "refs": [
+                "https://www.channelnewsasia.com/world/it-outage-microsoft-crowdstrike-airports-flights-businesses-4490741"
+              ]
+            },
+            {
+              "sentence": "Ireland's Road Safety Authority said it was experiencing \"significant disruption\" to its National Car Test (NCT) centres",
+              "refs": [
+                "https://www.irishtimes.com/business/2024/07/19/companies-around-the-world-hit-by-major-it-outage/"
+              ]
+            },
+            {
+              "sentence": "In Singapore, the entrance and exit gantries of over 185 car parks managed by the Housing and Development Board (HDB) were affected",
+              "refs": [
+                "https://www.irishmirror.ie/news/irish-news/global-outage-flights-grounded-ireland-33280619"
+              ]
+            },
+            {
+              "sentence": "Fuel stations have also been affected in Australia, with people stuck at fuel pumps unable to pay for petrol because payment systems were not working",
+              "refs": []
+            },
+            {
+              "sentence": "Auckland Transport's HOP card in New Zealand had problems",
+              "refs": [
+                "https://www.abc.net.au/news/2024-07-19/global-tech-outage-latest/104120106"
+              ]
+            },
+            {
+              "sentence": "Australian freight train operator Aurizon was affected",
+              "refs": [
+                "https://www.1news.co.nz/2024/07/19/live-banks-stores-airport-reporting-issues-amid-global-it-issues/"
+              ]
+            },
+            {
+              "sentence": "Regional trains in New South Wales, Australia on the Hunter Line and the Southern Highlands Line were cancelled or delayed with the Regional Bus and Train network in Victoria operated by V/Line having all lines suspended",
+              "refs": [
+                "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960"
+              ]
+            },
+            {
+              "sentence": "UK rail companies were also affected",
+              "refs": []
+            },
+            {
+              "sentence": "Cab riders in London could not pay with credit or with debit cards and thus required cash",
+              "refs": [
+                "https://www.bbc.co.uk/news/live/cnk4jdwp49et",
+                "https://www.railnews.co.uk/news/2024/07/19-computer-system-failures-disrupt-trains.html"
+              ]
+            },
+            {
+              "sentence": "In Sweden  and Belgium,  tickets for public transport could not be sold, and Keolis Nederland experienced issues",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et",
+                "https://www.svt.se/nyheter/lokalt/orebro/problem-att-kopa-bussbiljetter-i-flera-lan",
+                "https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Healthcare",
+          "section_content": [
+            {
+              "sentence": "Many hospitals across North America paused non-urgent surgeries and visits",
+              "refs": []
+            },
+            {
+              "sentence": "Some affected hospitals, while remaining open, had limited, if any, access to patient records",
+              "refs": [
+                "https://www.theguardian.com/technology/live/2024/jul/19/microsoft-windows-it-outage-us-airlines-911-services-businesses-crowdstrike-disruption-live"
+              ]
+            },
+            {
+              "sentence": "In the United States, Memorial Sloan Kettering Cancer Center postponed all procedures that required anaesthesia, the Mass General Brigham hospital system cancelled all non-emergency procedures and medical visits,   and the Cincinnati Children's Hospital Medical Center was also affected",
+              "refs": [
+                "https://mountnittany.org/news-stories/general-news/mount-nittany-health-impacted-by-nationwide-it-outage/",
+                "https://timesofindia.indiatimes.com/world/us/hospitals-from-new-york-to-london-paris-struggle-in-tech-outage/articleshow/111867131.cms",
+                "https://www.newsweek.com/microsoft-outage-shuts-down-hospital-operations-new-york-boston-uk-germany-crowdstrike-1927684"
+              ]
+            },
+            {
+              "sentence": "University Health Network experienced technical issues in Canada, saying hospitals' clinical activity would continue but warning that appointments may be delayed",
+              "refs": [
+                "https://abcnews.go.com/US/american-airlines-issues-global-ground-stop-flights/story?id=112092372"
+              ]
+            },
+            {
+              "sentence": "A number of other Canadian hospitals faced difficulties, with Newfoundland and Labrador Health Services activating contingency plans as patient record systems were affected",
+              "refs": [
+                "https://ca.finance.yahoo.com/news/possible-flight-disruptions-expected-global-113432466.html"
+              ]
+            },
+            {
+              "sentence": "LabCorp  and Quest Diagnostics  were affected by the outage",
+              "refs": [
+                "https://www.ctvnews.ca/sci-tech/here-s-the-latest-on-canadian-impacts-of-the-global-it-outage-1.6970002",
+                "https://x.com/Labcorp/status/1814324142583218306",
+                "https://x.com/QuestDX/status/1814274160887005337"
+              ]
+            },
+            {
+              "sentence": "Kaiser San Jose Medical Center lost access to patient records, as well as systems that monitored newborn baby's vital signs, and the security systems to keep babies from being taken",
+              "refs": []
+            },
+            {
+              "sentence": "Other hospitals lost surveillance cameras and the ability for employee badges to unlock secure areas",
+              "refs": [
+                "https://www.npr.org/2024/07/21/nx-s1-5046700/the-crowdstrike-outage-disrupted-many-industries-hospitals-were-especially-vulnerable"
+              ]
+            },
+            {
+              "sentence": "England's National Health Service (NHS) said that the issues are \"causing disruption in the majority of  [English] GP practices\",  with some of its services, such as GP surgeries, which rely on a software product called EMIS Web, unable to view and manage medical records, issue and manage prescriptions, or make appointments",
+              "refs": [
+                "https://www.npr.org/2024/07/21/nx-s1-5046700/the-crowdstrike-outage-disrupted-many-industries-hospitals-were-especially-vulnerable",
+                "https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821"
+              ]
+            },
+            {
+              "sentence": "Manx Radio reported that GP surgeries were affected in the Isle of Man",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et"
+              ]
+            },
+            {
+              "sentence": "The London Ambulance Service experienced an unprecedented surge  in 999 and 111 calls following the outage, responding to 4,500 emergency calls by 17:00 (BST)",
+              "refs": [
+                "https://www.manxradio.com/news/isle-of-man-news/gp-surgeries-on-the-island-affected-by-worldwide-it-outage/",
+                "https://www.bbc.com/news/live/cnk4jdwp49et"
+              ]
+            },
+            {
+              "sentence": "Two-thirds of Northern Ireland's general practices (GPs) were affected",
+              "refs": []
+            },
+            {
+              "sentence": "At hospitals radiation therapy, bookings for operating theatres, and staff rosters are also affected",
+              "refs": []
+            },
+            {
+              "sentence": "In Belgium, FPS Public Health said the outage disrupted new-patient admissions in two hospitals, which activated their emergency IT plans",
+              "refs": []
+            },
+            {
+              "sentence": "Two hospitals in L\u00fcbeck and Kiel, Germany, cancelled non-emergency operations",
+              "refs": [
+                "https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/"
+              ]
+            },
+            {
+              "sentence": "The Spanish regional governments of Aragon, Basque Country, Castilla-La Mancha, Catalonia, and Galicia reported problems with their healthcare services",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et"
+              ]
+            },
+            {
+              "sentence": "Hospital Fernando Fonseca\u00a0 [pt] in Portugal reported problems,  while the Catholic Health system in New York experienced outages that caused delays in services",
+              "refs": [
+                "https://www.eldiario.es/sociedad/servicios-salud-autonomicos-afectados-caida-informatica-microsoft_1_11534890.html",
+                "https://healthnews.pt/2024/07/19/hospital-amadora-sintra-com-problemas-por-causa-da-falha-da-microsoft/"
+              ]
+            },
+            {
+              "sentence": "In the Netherlands, the outages affected two hospitals\u2014the Scheperziekenhuis in Emmen and the Slingeland Ziekenhuis in de Achterhoek\u2014and numerous emergency aid stations were also affected, including those in Emmen, Hoogeveen, and Stadskanaal",
+              "refs": []
+            },
+            {
+              "sentence": "Systems in Wesley Hospital and St Andrews Hospital in Brisbane, Australia, were affected",
+              "refs": []
+            },
+            {
+              "sentence": "The Central Health information system in Croatia was affected, although it was clarified that it was due to a concurrent issue tied with moving their servers to a new location",
+              "refs": []
+            },
+            {
+              "sentence": "In Israel, Magen David Adom and its emergency service hotline was affected",
+              "refs": []
+            },
+            {
+              "sentence": "Hospitals including Sheba Medical Center, Rambam Hospital and Laniado Hospital were experiencing problems that led to longer waiting times and delayed surgeries",
+              "refs": []
+            },
+            {
+              "sentence": "The pharmaceutical company Krka in Slovenia suffered a full production outage and sent its workforce home",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Media and communications",
+          "section_content": [
+            {
+              "sentence": "Numerous American TV stations were unable to broadcast because of the global outage",
+              "refs": []
+            },
+            {
+              "sentence": "KSHB-TV, one of the affected stations, had to resort to airing national news via Scripps News",
+              "refs": []
+            },
+            {
+              "sentence": "ESPN was unable to air the morning editions of SportsCenter on the morning of the outage in America, instead airing ESPN Radio's Unsportsmanlike, simulcasting with ESPN2",
+              "refs": [
+                "https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime"
+              ]
+            },
+            {
+              "sentence": "[self-published source?] ESPN and ESPN2 later simulcasted Get Up! and First Take in place of SportsCenter, albeit without on-air graphics or b-roll",
+              "refs": [
+                "https://x.com/awfulannouncing/status/1814257641452966179"
+              ]
+            },
+            {
+              "sentence": "Various Paramount channels were also affected including Nicktoons (with its West Coast feed switching to an old emergency feed), TeenNick, BET Her, NickMusic and most channels on the Pluto TV service",
+              "refs": [
+                "https://x.com/awfulannouncing/status/1814275977733652677",
+                "https://awfulannouncing.com/espn/sportscenter-cyber-outage-get-up.html?utm_source=dlvr.it&utm_medium=twitter"
+              ]
+            },
+            {
+              "sentence": "MeTV Toons was sent off the air for five and a half hours",
+              "refs": []
+            },
+            {
+              "sentence": "Mercedes AMG PETRONAS F1 Team (which is sponsored by CrowdStrike) also suffered issues on the Friday of the Hungarian Grand Prix, with a Mercedes spokesperson confirming that the team had to manually address the problem on every computer it used",
+              "refs": []
+            },
+            {
+              "sentence": "The issue also affected their engine customers, McLaren, Aston Martin and Williams",
+              "refs": []
+            },
+            {
+              "sentence": "Many video screens in New York City's Times Square turned off",
+              "refs": [
+                "https://www.racefans.net/2024/07/19/global-crowdstrike-outage-leaves-mercedes-fixing-computers-before-practice/"
+              ]
+            },
+            {
+              "sentence": "When some companies let their employees go home early as a result of the incident,  the topic \"Thank you Microsoft for an early vacation\" momentarily became Weibo's most popular term",
+              "refs": [
+                "https://news.ifeng.com/c/8bLXkXnjos4"
+              ]
+            },
+            {
+              "sentence": "Universal Studios Japan announced that they would not be selling tickets via ticket booths over the weekend due to the outage; however, tickets would still be sold online or via designated ticket sales sites",
+              "refs": [
+                "https://www.ft.com/content/fba9b61d-efcf-4348-b640-ccb1f9d18ced"
+              ]
+            },
+            {
+              "sentence": "Vodafone experienced outages",
+              "refs": []
+            },
+            {
+              "sentence": "The issue affected the office laptops of DPG Media Belgium \u2013 which impacts JOE and QMusic Radio, banks, post services, and government agencies",
+              "refs": [
+                "https://espreso.tv/suspilstvo-u-roboti-novoi-poshti-stavsya-zbiy-shcho-vidomo"
+              ]
+            },
+            {
+              "sentence": "Telephone communication with the urban services in Antwerp were also affected",
+              "refs": [
+                "https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/"
+              ]
+            },
+            {
+              "sentence": "The Centre for Cybersecurity Belgium stated that the impact in Belgium was limited",
+              "refs": [
+                "https://www.antwerpen.be/info/stadsloketten-telefonisch-niet-bereikbaar-door-technische-storing"
+              ]
+            },
+            {
+              "sentence": "Sky News was unable to broadcast live in the UK,  as was the BBC's CBBC, a free-to-air children's television channel",
+              "refs": [
+                "https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/",
+                "https://www.standard.co.uk/news/uk/sky-news-crashes-tv-channel-news-microsoft-b1171651.html"
+              ]
+            },
+            {
+              "sentence": "Irish national broadcaster RT\u00c9 said its newsroom was hit by \"intermittent internet outages\" with minimal impact to output",
+              "refs": [
+                "https://www.bbc.com/news/live/cnk4jdwp49et"
+              ]
+            },
+            {
+              "sentence": "The Canadian Broadcasting Corporation was also affected",
+              "refs": [
+                "https://www.rte.ie/news/ireland/2024/0719/1460766-ryanair-cyber-outage/",
+                "https://www.rsvplive.ie/news/live-outage-disrupts-irish-nct-33281253"
+              ]
+            },
+            {
+              "sentence": "Several French TV channels affected by the issues include TF1, TFX, LCI and Canal+ Group networks",
+              "refs": []
+            },
+            {
+              "sentence": "Phone and internet service provider Bouygues Telecom has also announced the unavailability of its customer service as a result of the outage",
+              "refs": [
+                "https://www.lavoixdunord.fr/1484962/article/2024-07-19/une-enorme-panne-mondiale-perturbe-tf1-canal-free-l-aeroport-d-orly-mondial"
+              ]
+            },
+            {
+              "sentence": "The operations of the 2024 Summer Olympics, scheduled to start the following week in Paris, France, were also affected",
+              "refs": [
+                "https://x.com/bouyguestelecom/status/1814216904501776438"
+              ]
+            },
+            {
+              "sentence": "The outage occurred a day after the Olympic Village opened and organisers were processing the arrivals of athletes and delegates",
+              "refs": []
+            },
+            {
+              "sentence": "The organising committee said that a contingency plan was activated and that only the delivery of uniforms and accreditations were affected",
+              "refs": []
+            },
+            {
+              "sentence": "The incident slowed down the operations, with the accreditation desk at the press centre closed and security checks done manually using a list of names",
+              "refs": [
+                "https://www.upi.com/Sports_News/2024/07/19/paris-cyber-outage-impacts-Paris-Olympics/7821721397436"
+              ]
+            },
+            {
+              "sentence": "IT workers and the BPO industry were affected in the Philippines",
+              "refs": []
+            },
+            {
+              "sentence": "Numerous Singaporean companies, including SPH Media, Singtel, and M1, reported various levels of service difficulties throughout the day on 19 July",
+              "refs": [
+                "https://www.spot.ph/newsfeatures/trending/109526/what-s-happening-to-microsoft-powered-laptops-a5229-20240719"
+              ]
+            },
+            {
+              "sentence": "Australian media firms affected by the issues include the ABC, SBS, Seven Network and Nine Network",
+              "refs": []
+            },
+            {
+              "sentence": "Ticketing at Docklands Stadium for Friday night's Australian Football League match between the Essendon Bombers and the Adelaide Crows was affected",
+              "refs": [
+                "https://www.news.com.au/technology/online/massive-outage-hits-companies-around-the-world/news-story/e02375a976a08b45e72e64040fe14362"
+              ]
+            },
+            {
+              "sentence": "Israel Post was affected  and Ukrainian Nova Poshta experienced outages",
+              "refs": [
+                "https://www.ynetnews.com/article/s1f7r5do0"
+              ]
+            },
+            {
+              "sentence": "In the US, UPS and FedEx were affected",
+              "refs": [
+                "https://espreso.tv/suspilstvo-u-roboti-novoi-poshti-stavsya-zbiy-shcho-vidomo"
+              ]
+            },
+            {
+              "sentence": "Sim racing service iRacing was also affected by the outage in America",
+              "refs": []
+            },
+            {
+              "sentence": "Various Korean online games, like Black Desert Online, Ragnarok Online, and Ragnarok Origin shut down",
+              "refs": [
+                "https://x.com/iRacingSupport/status/1814275684363059545"
+              ]
+            },
+            {
+              "sentence": "Amazon Web Services, eBay, Google Cloud, Instagram, and Plenty of Fish were also affected",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Retail",
+          "section_content": [
+            {
+              "sentence": "Supermarkets in the Philippines were affected due to crashed POS systems",
+              "refs": []
+            },
+            {
+              "sentence": "[dubious \u2013 discuss] German supermarket chain Tegut closed some of its stores",
+              "refs": [
+                "https://www.noypigeeks.com/computers/windows-outage-affecting-workers-industries/"
+              ]
+            },
+            {
+              "sentence": "Customers experienced payment problems at Foodstuffs and Woolworths supermarkets in New Zealand",
+              "refs": [
+                "https://www.hessenschau.de/wirtschaft/fehlerhaftes-windows-update-weltweites-software-problem-legt-auch-hessische-firmen-lahm-v1,it-panne-unternehmen-100.html"
+              ]
+            },
+            {
+              "sentence": "Coles was also affected",
+              "refs": [
+                "https://www.1news.co.nz/2024/07/19/live-banks-stores-airport-reporting-issues-amid-global-it-issues/"
+              ]
+            },
+            {
+              "sentence": "British grocery chain Waitrose could only accept cash from customers",
+              "refs": [
+                "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960"
+              ]
+            },
+            {
+              "sentence": "Self-checkout and online order systems at some Australian retailers and fast food chains were out of service",
+              "refs": [
+                "https://www.nbcnews.com/tech/tech-news/microsoft-outage-crowdstrike-global-airlines-windows-fix-rcna162685"
+              ]
+            },
+            {
+              "sentence": "The mobile application of the Starbucks coffee chain was limited to basic viewing of accounts made before the update; ordering was limited to in-store purchases only; some outlets saw cash register software crashes",
+              "refs": []
+            },
+            {
+              "sentence": "In the United States, sporting goods retailer Dick's Sporting Goods closed some of its stores and saw temporary outages to its website",
+              "refs": []
+            },
+            {
+              "sentence": "Convenience store chain 7-Eleven experienced problems at Speedway locations that still used BlueCube and Radiant Site Manager dating from the days Speedway was owned by Marathon Petroleum Corporation, with some stores unable to accept credit or debit transactions while others were closed outright",
+              "refs": []
+            },
+            {
+              "sentence": "In Norway, the pharmacy chain Apotek1 and the insurance company Tryg suspended services; the Vitusapotek and Boots pharmacy chains were also affected",
+              "refs": []
+            },
+            {
+              "sentence": "Norway experienced little further impact because of CrowdStrike's limited market share in the country",
+              "refs": [
+                "https://www.nrk.no/ostfold/flere-apotek-1-har-stengt-etter-datatrobbel-1.16970700",
+                "https://www.dagbladet.no/studio/nyhetsstudio/687?post=166835"
+              ]
+            },
+            {
+              "sentence": "Amazon saw disruption to its warehouse operations and internal software",
+              "refs": []
+            },
+            {
+              "sentence": "An app used in Amazon warehouses to manage schedules and time-off requests called 'A to Z' was taken down by the outage and an internal service called 'Anytime Pay' became unavailable to employees",
+              "refs": []
+            },
+            {
+              "sentence": "Operations were briefly halted at some sites, while Amazon's trucking operations were disrupted, with drivers saying a platform they use called 'Relay' suffered issues meaning they were briefly unable to pick up loads at warehouses",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Other sectors",
+          "section_content": [
+            {
+              "sentence": "The outage affected terminal operations at DCT Gda\u0144sk, a major container hub in the Baltic port of Gda\u0144sk in Poland",
+              "refs": []
+            },
+            {
+              "sentence": "Shipping ports in the US were unaffected for the most part, although the Port of Houston (which handles the most foreign tonnage) closed briefly",
+              "refs": [
+                "https://tvn24.pl/biznes/z-kraju/awaria-microsoftu-terminal-kontenerowy-w-gdansku-baltic-hub-informuje-o-problemach-st8009723"
+              ]
+            },
+            {
+              "sentence": "In Sweden, the Malmberget mine was evacuated as a precaution",
+              "refs": []
+            },
+            {
+              "sentence": "Tickets for soccer games could not be sold",
+              "refs": [
+                "https://www.svt.se/nyheter/lokalt/norrbotten/gruvan-i-malmberget-utrymt-pa-grund-av-it-problem"
+              ]
+            },
+            {
+              "sentence": "In the United States, security provider ADT was affected",
+              "refs": []
+            },
+            {
+              "sentence": "In Germany, Tesla halted production at its Gigafactory Berlin-Brandenburg for about four hours",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Response",
+      "section_content": [
+        {
+          "sentence": "In a live interview on NBC's Today, CrowdStrike CEO George Kurtz apologised to the public",
+          "refs": []
+        },
+        {
+          "sentence": "He said company leaders were \"deeply sorry for the impact that we've caused to customers, to travellers, to anyone affected by this, including our companies\"",
+          "refs": []
+        },
+        {
+          "sentence": "CrowdStrike warned that malicious actors might try to pose as its staff or independent researchers claiming to help fix the problem",
+          "refs": [
+            "https://www.today.com/video/crowdstrike-ceo-shares-what-spurred-global-outage-215232069726"
+          ]
+        },
+        {
+          "sentence": "CrowdStrike offered $10 UberEats vouchers to some employees at companies that sell and support its software as thanks for helping Crowdstrike customers recover, prompting ridicule given the costs associated with the outage",
+          "refs": []
+        },
+        {
+          "sentence": "Uber flagged the code as suspicious as it was used so frequently, so it did not work for some users",
+          "refs": [
+            "https://www.cnn.com/2024/07/24/business/crowdstrike-outage-uber-eats/index.html"
+          ]
+        },
+        {
+          "sentence": "CrowdStrike won the 2024 Pwnie Awards for the Most Epic Fail,  which CrowdStrike president Michael Sentonas accepted in person at DEF CON's annual Pwnie Awards show",
+          "refs": [
+            "https://x.com/PwnieAwards/status/1816163089307386359"
+          ]
+        },
+        {
+          "sentence": "A parody website named ClownStrike was created in the aftermath of the incident; CrowdStrike later sent a Digital Millennium Copyright Act (DMCA) takedown notice to the owner of the site",
+          "refs": [
+            "https://uk.pcmag.com/security/153845/crowdstrike-exec-shows-up-to-accept-most-epic-fail-award-in-person"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Political",
+          "section_content": [
+            {
+              "sentence": "The Australian government held a national emergency meeting to address the outage",
+              "refs": []
+            },
+            {
+              "sentence": "The National Coordination Mechanism was activated; Prime Minister Anthony Albanese said, \"I understand Australians are concerned about the outage that is unfolding globally and affecting a wide range of services",
+              "refs": []
+            },
+            {
+              "sentence": "My Government is working closely with the National Cyber Security Coordinator\"",
+              "refs": []
+            },
+            {
+              "sentence": "He later said, \"There is no impact to critical infrastructure, government services, or Triple-0 services at this stage\"",
+              "refs": [
+                "https://www.1news.co.nz/2024/07/19/live-banks-stores-airport-reporting-issues-amid-global-it-issues/",
+                "https://x.com/AlboMP/status/1814220385715687591"
+              ]
+            },
+            {
+              "sentence": "Victorians were advised to call Triple-0 if a fire alarm sounds or smoke is detected, as some automatic alarms in buildings may not automatically call fire services due to the outage",
+              "refs": [
+                "https://x.com/AlboMP/status/1814220388920078506"
+              ]
+            },
+            {
+              "sentence": "United States president Joe Biden's administration was in touch with CrowdStrike to offer assistance, and on 23 July, Kurtz was invited to appear before Congress to explain how the outage occurred and what CrowdStrike was doing to prevent future incidents",
+              "refs": []
+            },
+            {
+              "sentence": "The UK government's COBR committee met to discuss the incident",
+              "refs": []
+            },
+            {
+              "sentence": "India's Minister of Information and Technology Ashwini Vaishnav said that the government was in touch with Microsoft",
+              "refs": []
+            },
+            {
+              "sentence": "The government's cybersecurity agency CERT-IN classified the incident as \"critical\"",
+              "refs": []
+            },
+            {
+              "sentence": "In Russia, the government noted that the sanctions and boycotts placed on Russia as a result of its invasion of Ukraine in 2022 had unintentionally shielded it from the outage",
+              "refs": []
+            },
+            {
+              "sentence": "Russia's Digital Communications Ministry said, \"At the moment, the ministry has not received reports of system failures at Russian airports,\" and \"The situation with Microsoft once again shows the importance of import substitution of foreign software, primarily at critical information infrastructure facilities.\" The Russian Federal Air Transport Agency confirmed that no domestic airlines were affected",
+              "refs": [
+                "https://www.themoscowtimes.com/2024/07/19/russia-boasts-that-sanctions-helped-it-avoid-global-microsoft-outage-a85765"
+              ]
+            },
+            {
+              "sentence": "The Kremlin stated that its systems were working as normal",
+              "refs": [
+                "https://www.themoscowtimes.com/2024/07/19/russia-boasts-that-sanctions-helped-it-avoid-global-microsoft-outage-a85765"
+              ]
+            },
+            {
+              "sentence": "An editorial in the Chinese state-run Global Times suggested a need for decreased dependency on Western firms, stating that reliance on \"top companies to lead network security efforts\" can introduce security risks and noting the perceived irony of the United States leading global security efforts while major companies monopolise the industry",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Industry",
+          "section_content": [
+            {
+              "sentence": "Cybersecurity consultant Troy Hunt called the incident the \"largest IT outage in history\", adding: \"This is basically what we were all worried about with Y2K, except it's actually happened this time\"",
+              "refs": []
+            },
+            {
+              "sentence": "Slate described it as \"Y2K Lite\"",
+              "refs": [
+                "https://x.com/troyhunt/status/1814198760387596407",
+                "https://x.com/troyhunt/status/1814205754880242032"
+              ]
+            },
+            {
+              "sentence": "News reporters have used the term \"digital pandemic\" to describe the outage",
+              "refs": [
+                "https://slate.com/technology/2024/07/tech-meltdown-glitch-crowdstrike-y2k.html"
+              ]
+            },
+            {
+              "sentence": "Elon Musk\u2014CEO of Tesla, X Corp, Neuralink, and SpaceX\u2014posted on X that CrowdStrike has been \"deleted from all our systems\"",
+              "refs": []
+            },
+            {
+              "sentence": "AirAsia CEO Tony Fernandes demanded answers and compensation for millions of dollars in revenue he said the company had lost in the incident",
+              "refs": []
+            },
+            {
+              "sentence": "Chinese cybersecurity companies such as 360 Security, QAX and Tencent took advantage of the CrowdStrike incident to promote their own software",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Criminal",
+          "section_content": [
+            {
+              "sentence": "Governments worldwide and cybersecurity agencies warned of digital phishing scams after the incident",
+              "refs": []
+            },
+            {
+              "sentence": "Cyber criminals started sending phishing emails purporting to be CrowdStrike support and impersonating CrowdStrike staff in phone calls shortly afterward",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Analysis",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Cause",
+          "section_content": [
+            {
+              "sentence": "The 19 July update was an instance of a template that was tested and released in March 2024 as part of an update to the Falcon Sensor software",
+              "refs": []
+            },
+            {
+              "sentence": "This new instance, Channel File 291, passed validation due to a bug in CrowdStrike's content verification software",
+              "refs": []
+            },
+            {
+              "sentence": "The Falcon Sensor itself parses the file differently in a way that led to a software crash in kernel mode.",
+              "refs": [
+                "https://www.theregister.com/2024/07/24/crowdstrike_preliminary_incident_report/",
+                "https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Centralisation and homogeneity",
+          "section_content": [
+            {
+              "sentence": "The outage raised questions about oligopoly and centralisation in the information technology sector",
+              "refs": []
+            },
+            {
+              "sentence": "The majority of the world's computers use Microsoft Windows, creating a monoculture that reduces resiliency",
+              "refs": [
+                "https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962",
+                "https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/"
+              ]
+            },
+            {
+              "sentence": "Ciaran Martin, a cybersecurity expert, said, \"This is a very, very uncomfortable illustration of the fragility of the world's core internet infrastructure\"",
+              "refs": [
+                "https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863",
+                "https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/"
+              ]
+            },
+            {
+              "sentence": "Critical infrastructure expert Gregory Falco said, \"Cybersecurity providers are part of this homogenous backbone of modern systems and are so core to how we operate that a glitch in their operations will have similar impacts to failures in systems that are household names\"",
+              "refs": [
+                "https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863"
+              ]
+            },
+            {
+              "sentence": "Security experts suggested more redundancy to avoid single points of failure,  wider use of decentralised and heterogeneous federated systems,  and public anger at the failure of political leaders to regulate for diversity and competition",
+              "refs": [
+                "https://qz.com/crowdstrike-global-tech-outage-experts-1851600081",
+                "https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962",
+                "https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/"
+              ]
+            },
+            {
+              "sentence": "Conversely, cybersecurity expert Andrew Plato argued that monocultures are a net positive, \u201cfrom a security perspective, there\u2019s actually a lot of benefits to running a smaller, standardized set of software, because it allows you to spot a problem quicker and easier.\"",
+              "refs": [
+                "https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863",
+                "https://www.marketplace.org/2024/07/22/when-businesses-run-standardized-software-small-problems-can-quickly-grow/"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "IT practices",
+          "section_content": [
+            {
+              "sentence": "Experts speculate that the update was not put through routine patch management procedures (testing the update in a sandbox) to verify there were no problems",
+              "refs": []
+            },
+            {
+              "sentence": "Mandating disclosure of breaches and vulnerabilities has also been suggested",
+              "refs": []
+            },
+            {
+              "sentence": "In an interview with Wired, cybersecurity consultant Jake Williams said that this outage has \"shown why pushing updates without IT intervention is unsustainable,\" and that \"people may now demand changes in this operating model.\"",
+              "refs": [
+                "https://indianexpress.com/article/opinion/columns/global-microsoft-outage-9465182/",
+                "https://www.wired.com/story/crowdstrike-outage-update-windows/"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Operating system design and antitrust enforcement",
+          "section_content": [
+            {
+              "sentence": "Microsoft blamed a 2009 antitrust agreement with the European Union that they said forced them to sustain low-level kernel access to third-party developers",
+              "refs": []
+            },
+            {
+              "sentence": "The document does not explicitly state that Microsoft has to provide kernel-level access, but says Microsoft must provide access to the same APIs used by its own security products",
+              "refs": [
+                "https://www.techradar.com/pro/security/microsoft-blames-eu-rules-for-its-inability-to-lock-down-windows-following-crowdstrike-incident",
+                "https://www.neowin.net/news/microsoft-points-finger-at-the-eu-for-not-being-able-to-lock-down-windows/",
+                "https://www.wsj.com/tech/cybersecurity/microsoft-tech-outage-role-crowdstrike-50917b90"
+              ]
+            },
+            {
+              "sentence": "The EU rejected the allegations",
+              "refs": [
+                "https://www.neowin.net/news/microsoft-points-finger-at-the-eu-for-not-being-able-to-lock-down-windows/"
+              ]
+            },
+            {
+              "sentence": "The European Commission spokesperson told Euronews that \"Microsoft is free to decide on its business model",
+              "refs": []
+            },
+            {
+              "sentence": "It is for Microsoft to adapt its security infrastructure to respond to threats in line with EU competition law",
+              "refs": []
+            },
+            {
+              "sentence": "Additionally, consumers are free to benefit from competition and choose between different cybersecurity providers.\"",
+              "refs": []
+            },
+            {
+              "sentence": "The spokesperson also said that \"the incident was not limited to the European Union and that Microsoft has never raised any concerns about security with the Commission either before or after the incident.\"",
+              "refs": [
+                "https://www.euronews.com/video/2024/07/23/european-commission-denies-responsibility-for-massive-microsoft-it-outage"
+              ]
+            },
+            {
+              "sentence": "In Linux, it is possible to use eBPF instead of kernel modules to program this type of software",
+              "refs": []
+            },
+            {
+              "sentence": "Since macOS Catalina (2019), this type of software can use the Endpoint Security Framework instead of a kernel extension, and this approach has been gradually enforced",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "1": "https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/",
+    "2": "https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death",
+    "3": "https://www.nytimes.com/2024/07/19/business/dealbook/tech-outage-crowdstrike-microsoft.html",
+    "4": "https://www.upi.com/Top_News/World-News/2024/07/19/IT-failure-hits-causes-chaos-around-world/2531721376791",
+    "5": "https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960",
+    "6": "https://www.businessinsider.com/businesses-claiming-losses-crowdstrike-outage-insurance-billions-losses-cyber-policies-2024-7",
+    "7": "https://www.ndtv.com/world-news/fix-deployed-ceo-of-firm-behind-global-microsoft-outage-6140433",
+    "8": "https://www.cnbc.com/2024/07/19/what-is-crowdstrike-crwd-and-how-did-it-cause-global-it-outages.html",
+    "9": "https://www.cnn.com/2024/07/19/business/recovery-global-crowdstrike-outage/index.html",
+    "10": "https://www.independent.co.uk/tech/microsoft-it-outage-crowdstrike-windows-flights-latest-update-b2583539.html",
+    "11": "https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue",
+    "12": "https://www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/",
+    "13": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+    "14": "https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/",
+    "15": "https://cybersecuritynews.com/crowdstrike-update-bsod-loop/",
+    "16": "https://abcnews.go.com/US/american-airlines-issues-global-ground-stop-flights/story?id=112092372",
+    "17": "https://azure.status.microsoft/en-us/status/",
+    "18": "https://www.techradar.com/pro/website-hosting/millions-of-windows-servers-down-after-crowdstrike-update-how-it-happened-and-how-to-fix",
+    "19": "https://www.theregister.com/2024/07/23/crowdstrike_lessons_to_learn/",
+    "20": "https://mashable.com/article/crowdstrike-microsoft-outage-windows-blue-screen-explained",
+    "21": "https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/",
+    "22": "https://www.computing.co.uk/news/4338038/crowdstrike-updates-caused-linux-outages-april",
+    "23": "https://www.crowdstrike.com/blog/statement-on-windows-sensor-update/",
+    "24": "https://www.eye.security/blog/crowdstrike-falcon-blue-screen-issue-updates",
+    "25": "https://status.cloud.google.com/incidents/DK3LfKowzJPpZq4Q9YqP",
+    "26": "https://x.com/George_Kurtz/status/1814235001745027317",
+    "27": "https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821",
+    "28": "https://www.crowdstrike.com/blog/technical-details-on-todays-outage/",
+    "29": "https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html",
+    "30": "https://www.techradar.com/pro/microsoft-says-its-cloud-services-are-back-up-after-major-outage",
+    "31": "https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc",
+    "32": "https://www.cnbc.com/2024/07/19/crowdstrike-suffers-major-outage-affecting-businesses-around-the-world.html",
+    "33": "https://www.bbc.co.uk/news/articles/cn4vgq5150qo",
+    "34": "https://www.wired.com/story/crowdstrike-outage-update-windows",
+    "35": "https://www.forbes.com/sites/kateoflahertyuk/2024/07/19/crowdstrike-windows-outage-what-happened-and-what-to-do-next",
+    "36": "https://www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/",
+    "37": "https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/",
+    "38": "https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/",
+    "39": "https://www.news.com.au/technology/online/massive-outage-hits-companies-around-the-world/news-story/e02375a976a08b45e72e64040fe14362",
+    "40": "https://www.nytimes.com/live/2024/07/19/business/global-tech-outage",
+    "41": "https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage",
+    "42": "https://www.bbc.com/news/articles/cp4wnrxqlewo",
+    "43": "https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/",
+    "44": "https://www.fool.com/investing/2021/12/16/why-crowdstrike-holdings-stock-was-gaining-today/",
+    "45": "https://www.scmp.com/tech/big-tech/article/3271171/microsoft-outage-leaves-china-largely-untouched-tech-self-sufficiency-campaign-pays",
+    "46": "https://www.reuters.com/technology/sanctioned-russia-emerges-unscathed-global-it-outage-2024-07-19/",
+    "47": "https://www.iranintl.com/en/202407193661",
+    "48": "https://www.kovrr.com/reports/the-uk-cost-of-the-crowdstrike-incident",
+    "49": "https://www.bbc.co.uk/news/articles/ce58p0048r0o",
+    "50": "https://www.businessinsider.com/crowdstrike-terms-conditions-limits-damages-to-refund-2024-7",
+    "51": "https://www.fastcompany.com/91160759/crowdstrike-data-gdpr",
+    "52": "https://gdpr-info.eu/art-4-gdpr",
+    "53": "https://gdpr-info.eu/art-32-gdpr",
+    "54": "https://www.bbc.com/news/live/cnk4jdwp49et",
+    "55": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-cloud-pcs-stuck-restarting-after-crowdstrike-update/",
+    "56": "https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t",
+    "57": "https://www.bbc.com/news/articles/cv2g5lvwkl2o",
+    "58": "https://www.abc.net.au/news/2024-07-19/global-tech-outage-latest/104120106",
+    "59": "https://www.escape.com.au/news/airlines-thrown-into-chaos-as-global-microsoft-outage-hits/news-story/981be5728c7290a9cf42b562c654d0cc",
+    "60": "https://pulsetasmania.com.au/news/multiple-flights-cancelled-at-tasmanian-airports-due-to-global-it-outage/",
+    "61": "https://www.1news.co.nz/2024/07/19/live-banks-stores-airport-reporting-issues-amid-global-it-issues/",
+    "62": "https://www.nst.com.my/news/nation/2024/07/1078757/firefly-airasia-systems-down-amid-worldwide-it-disruption",
+    "63": "https://www.thestandard.com.hk/breaking-news/section/4/218559/Microsoft-system-global-outage-affects-HK-Express-and-Cathay-Pacific,-switching-to-manual-check-ins",
+    "64": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3271092/global-microsoft-aviation-outage-hits-hong-kongs-airport-check-services-operated-manually",
+    "65": "https://news.rthk.hk/rthk/en/component/k2/1762388-20240720.htm?",
+    "66": "https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime",
+    "67": "https://www3.nhk.or.jp/nhkworld/en/news/20240719_23/",
+    "68": "https://www.asiaone.com/singapore/major-worldwide-it-outage-spread-singapore-straits-times-dbs-changi-airport-singtel",
+    "69": "https://www.businesstimes.com.sg/companies-markets/several-singapore-companies-affected-global-it-outage-check-ins-changi-airport-processed-manually",
+    "70": "https://business.inquirer.net/469477/cebu-pacific-system-down-due-to-microsoft-outage",
+    "71": "https://www.gmanetwork.com/news/money/companies/913963/microsoft-outage-disrupts-operations-of-cebu-pacific-airasia-philippines/story/",
+    "72": "https://manilastandard.net/news/314473620/global-system-outage-affects-airlines-in-the-philippines.html",
+    "73": "https://news.abs-cbn.com/business/2024/7/19/microsoft-says-probing-issue-after-outage-reports-1513",
+    "74": "https://www.taipeitimes.com/News/front/archives/2024/07/20/2003821054",
+    "75": "https://focustaiwan.tw/sci-tech/202407190017",
+    "76": "https://bisnis.tempo.co/read/1893557/sistem-layanan-maskapai-penerbangan-indonesia-airasia-dan-citilink-terdampak-gangguan-itglobal",
+    "77": "https://www.bangkokpost.com/life/tech/2832251/fix-delivered-for-tech-outage-that-caused-chaos-worldwide",
+    "78": "https://www.ndtv.com/world-news/microsoft-blue-screen-of-death-flights-markets-banks-stock-exchange-microsoft-outage-crippling-sectors-6139053",
+    "79": "https://indianexpress.com/article/business/aviation/global-microsoft-outage-indigo-akasa-air-india-9463089/",
+    "80": "https://economictimes.indiatimes.com/nri/visit/microsoft-tech-glitch-aviation-cos-across-globe-affected-check-in-systems-impacted-at-mumbai-delhi-airports/articleshow/111855229.cms",
+    "81": "https://www.rnz.co.nz/news/business/522606/live-it-outages-reported-worldwide-for-banks-stores-airports-media",
+    "82": "https://timesofindia.indiatimes.com/world/us/microsoft-windows-outage-live-updates-windows-bsod-error-blue-screen-of-death/liveblog/111856162.cms",
+    "83": "https://www.hindustantimes.com/business/explained-how-the-microsoft-crowdstrike-it-outage-hurt-airlines-worldwide-101721410382290.html",
+    "84": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/microsoft-crowdstrike-how-the-massive-outage-is-affecting-flights-and-services-in-india-and-beyond/articleshow/111864652.cms?from=mdr",
+    "85": "https://cedarnews.net/breakingnews/737658/prague-airport-has-been-affected-by-outage-of-global-check-in-system/",
+    "86": "https://tech.sme.sk/c/23359380/vypadok-it-systemy-letiska-televizie.html",
+    "87": "https://nos.nl/artikel/2529464-wereldwijd-problemen-door-computerstoring-ook-schiphol-getroffen",
+    "88": "https://www.brusselstimes.com/belgium/1146329/major-global-computer-outage-problems-at-brussels-airport-and-sncb-tbtb",
+    "89": "https://x.com/aena/status/1814199738180223279",
+    "90": "https://www.barrons.com/news/all-spanish-airports-impacted-by-it-outage-operator-b7dc5b29",
+    "91": "https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664",
+    "92": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/9549009,awarie-w-polsce-nie-dzialaja-banki-problemy-na-lotniskach-lista.html",
+    "93": "https://www.tagesspiegel.de/berlin/massive-technische-storung-betrieb-am-flughafen-ber-zum-ferienstart-eingestellt-12051248.html",
+    "94": "https://ber.berlin-airport.de/en/pages/aktuelle-reiseinformationen.html",
+    "95": "https://www.tagesschau.de/ausland/it-panne-computer-global-100.html",
+    "96": "https://www.vecernji.hr/vijesti/butkovic-kontrola-plovidbe-nije-dovedena-u-pitanje-nije-se-dogodio-kiberneticki-napad-1786062",
+    "97": "https://www.svt.se/nyheter/lokalt/vast/storningar-pa-landvetter-efter-it-problem-langa-koer-och-strul-pa-flygplatsen",
+    "98": "https://www.theguardian.com/business/article/2024/jul/19/uk-airports-trains-disrupted-microsoft-global-it-outage",
+    "99": "https://www.euronews.com/travel/2024/07/19/microsoft-outage-flight-delays-and-cancellations-arrive-at-the-airport-early-say-airlines",
+    "100": "https://www.ryanair.com/ie/en/lp/travel-updates/articles/potential-disruptions-across-the-network",
+    "101": "https://x.com/Ryanair/status/1814284604385186237",
+    "102": "https://wizzair.com/en-gb/latest-travel-information",
+    "103": "https://x.com/wizzair/status/1814224179442413585",
+    "104": "https://www.keolis.nl/",
+    "105": "https://x.com/FinnairSuomi/status/1814267986326299033",
+    "106": "https://www.newsbomb.gr/ellada/story/1568041/panikos-sto-aerodromio-el-venizelos-doste-mas-ena-domatio-na-dianyktereysoume-exoume-moro",
+    "107": "https://www.cnn.gr/ellada/story/430261/sarose-kai-to-eleftherios-venizelos-to-pagkosmiko-mplak-aout-sta-pliroforiaka-systimata",
+    "108": "https://www.in.gr/2024/07/19/greece/vlavi-sti-microsoft-epirease-kai-aerodromio-irakleiou/",
+    "109": "https://www.news247.gr/ellada/megales-kathisteriseis-sto-aerodromio-irakleiou-logo-tou-mazikou-black-out/",
+    "110": "https://www.bbc.co.uk/news/live/cnk4jdwp49et",
+    "111": "https://www.lbc.co.uk/news/global-it-outage-down-airplane-live/",
+    "112": "https://www.manxradio.com/news/isle-of-man-news/some-flights-could-be-affected-due-to-mass-it-outage/",
+    "113": "https://www.leconomistemaghrebin.com/2024/07/19/la-tunisie-epargnee-par-la-panne-mondiale-malgre-des-perturbations-aeroportuaires-temporaires/",
+    "114": "https://www.haberler.com/guncel/turk-hava-yollari-dunya-capindaki-aksaklik-17537736-haberi/",
+    "115": "https://www.msn.com/en-us/news/other/delta-united-and-american-airlines-flights-grounded-due-to-communication-issue-faa-says/ar-BB1qg30t",
+    "116": "https://www.pennlive.com/news/2024/07/all-delta-united-allegiant-and-american-airlines-flights-grounded-heres-what-we-know.html",
+    "117": "https://onemileatatime.com/news/delta-operational-meltdown-flights-cancelled/",
+    "118": "https://www.wsj.com/lifestyle/travel/flight-cancellations-caused-by-tech-outage-continue-through-weekend-de3cff9c",
+    "119": "https://www.ajc.com/news/business/global-it-outage-strands-thousands-at-atlanta-airport-travel-mess-could-last-days/M2S4GVLFZVBRPLJZIASBN5JIPA/",
+    "120": "https://www.atlantanewsfirst.com/2024/07/20/backups-continue-hartsfield-jackson-airport-after-global-tech-outage/",
+    "121": "https://www.nytimes.com/2024/09/13/travel/crowdstrike-outage-delta-airlines.html",
+    "122": "https://www.cnn.com/2024/07/20/us/flights-canceled-delayed-global-it-outage/index.html",
+    "123": "https://www.nytimes.com/2024/07/23/business/delta-it-outage-flights-minors.html",
+    "124": "https://www.ajc.com/news/business/delta-offers-information-for-passengers-affected-global-it-outage/B3VR4HYLSVBNRIBKNG6ZC6YPBU/",
+    "125": "https://www.nytimes.com/2024/07/22/business/delta-global-tech-outage-pete-buttigieg.html",
+    "126": "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/",
+    "127": "https://www.ajc.com/news/business/heres-why-delta-melted-down-after-tech-outage-while-others-recovered/MKXZDWXVFVCPVP752SJ2ITYLTU/",
+    "128": "https://www.atlantanewsfirst.com/2024/07/23/thousands-delta-passengers-still-stranded-flight-cancellations-continue-days-after-it-outage/",
+    "129": "https://www.washingtonpost.com/transportation/2024/07/26/delta-canceled-flights-investigation-crowdstrike/",
+    "130": "https://www.cbsnews.com/news/delta-flight-cancellations-today-dot-investigation-crowdstrike-outage/",
+    "131": "https://www.thestreet.com/travel/delta-crowdstrike-outage-lost-suitcases",
+    "132": "https://mynews13.com/fl/orlando/news/2024/07/25/delta-air-lines--dot--airline",
+    "133": "https://qz.com/delta-crowdstrike-500-million-ceo-says-1851609955",
+    "134": "https://www.ajc.com/news/business/delta-attorney-fires-off-another-letter-to-crowdstrike-attorney-in-dispute/4FDPBUTCIRE5PJQE374K5Y3BJM/",
+    "135": "https://www.bbc.com/news/articles/c6284e7r7d7o",
+    "136": "https://sfstandard.com/2024/07/19/worldwide-internet-technology-outag/",
+    "137": "https://www.sfgate.com/travel/article/southwest-escapes-problems-worldwide-outage-19584828.php",
+    "138": "https://thespectator.com/politics/delayed-rnc-attendees-chicago-migrant-hotel/",
+    "139": "https://www.am1100theflag.com/news/north-dakota-republican-delegates-struggling-to-return-home-due-to-global-it-outage/",
+    "140": "https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863",
+    "141": "https://vancouver.citynews.ca/2024/07/19/microsoft-outage-worldwide/",
+    "142": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-07-19-2024/card/mVZUhTlDpQdDsx6NYdKP",
+    "143": "https://www.statesman.com/story/news/state/2024/07/19/banks-outage-microsoft-crowdstrike-global-technology-issues/74469447007/",
+    "144": "https://www.cbc.ca/news/canada/ottawa/ottawa-crowdstrike-outages-1.7268896",
+    "145": "https://ca.news.yahoo.com/live/global-it-outage-hits-canada-airports-td-bank-us-border-hospital-disruptions-and-more-after-faulty-crowdstrike-update-154145288.html",
+    "146": "https://www.bnnbloomberg.ca/business/2024/07/26/scotiabank-customers-report-not-receiving-payroll-deposits/",
+    "147": "https://www.ynetnews.com/article/s1f7r5do0",
+    "148": "https://www.gmanetwork.com/news/money/companies/913970/ph-banks-digital-services-hit-by-global-microsoft-outage/story/",
+    "149": "https://business.inquirer.net/469535/ph-banks-also-hit-by-microsoft-outage",
+    "150": "https://www.philstar.com/business/2024/07/19/2371419/philippine-banks-hit-global-it-outage",
+    "151": "https://www.birgun.net/haber/microsoft-taki-ariza-denizbank-in-internet-sitesine-ve-mobil-uygulamasina-erisilemiyor-545786",
+    "152": "https://www.hindustantimes.com/business/rbi-on-global-microsoft-outage-indian-banks-insulated-only-minor-disruptions-101721392584137.html",
+    "153": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-mumbai-delhi-flight-operations-affected/article68421219.ece",
+    "154": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbis-systems-unaffected-by-global-microsoft-outage-khara-says-all-fine/articleshow/111859195.cms?from=mdr",
+    "155": "https://economia.uol.com.br/noticias/reuters/2024/07/19/bradesco-diz-que-plataformas-digitais-foram-afetadas-por-apagao-cibernetico-global.htm",
+    "156": "https://tvpworld.com/79376930/polish-prime-minister-microsoft-outage-poses-no-threat-to-national-security",
+    "157": "https://www.iltalehti.fi/digiuutiset/a/08908d8a-16f3-4720-b60e-c017c01d602b",
+    "158": "https://espreso.tv/suspilstvo-u-roboti-novoi-poshti-stavsya-zbiy-shcho-vidomo",
+    "159": "https://www.abc.com.py/nacionales/2024/07/19/fallo-de-microsoft-dos-bancos-de-paraguay-tuvieron-problemas-con-sus-aplicaciones/",
+    "160": "https://fedscoop.com/federal-government-agencies-affected-by-worldwide-it-outage/",
+    "161": "https://www.businessinsider.com/mass-it-outage-companies-operations-airlines-affected-microsoft-crowdstrike-2024-7",
+    "162": "https://www.popville.com/2024/07/about-that-microsoft-outage/",
+    "163": "https://www.kansascity.com/news/local/article290235994.html",
+    "164": "https://www.kgw.com/article/news/local/technology/portland-state-of-emergency-crowdstrike-outage/283-5ce4a056-754a-4959-86b2-deddb7fc1b85",
+    "165": "https://katu.com/news/local/ted-wheeler-declares-city-emergency-due-to-crowdstrike-issue-portland-oregon-multnomah-county",
+    "166": "https://abcnews.go.com/US/global-outage-24-hours-impacts-world/story?id=112123299",
+    "167": "https://www.keloland.com/news/local-news/outage-impacting-sioux-falls-airport/",
+    "168": "https://www.alaskasnewssource.com/2024/07/19/alaska-experiencing-statewide-911-outage/",
+    "169": "https://www.azcentral.com/story/news/local/phoenix-breaking/2024/07/19/phoenix-area-emergency-response-systems-down/74465872007/",
+    "170": "https://www.wflx.com/2024/07/19/worldwide-microsoft-outage-affecting-local-911-services/",
+    "171": "https://www.wbaltv.com/article/global-technology-outage-911-call-centers/61647145",
+    "172": "https://www.abc57.com/news/area-dispatch-centers-experience-911-outages",
+    "173": "https://www.msn.com/en-us/news/us/911-call-centers-report-outages-heres-which-counties-are-affected/ar-BB1qgv46?ocid=BingNewsVerp",
+    "174": "https://www.fox2detroit.com/news/dtw-warns-travelers-global-outage-university-michigan-says-911-lines-experiencing-difficulties",
+    "175": "https://www.kare11.com/article/news/local/911-call-centers-report-outages-heres-which-counties-are-affected/89-7076d8e3-51fb-4fa1-8241-f9681650b4bb",
+    "176": "https://www.msn.com/en-us/travel/news/how-the-global-it-outage-is-impacting-nyc-services-transit-local-airports/ar-BB1qgCVy?ocid=BingNewsVerp",
+    "177": "https://local12.com/news/local/greater-cincinnati-police-department-division-issue-urgent-alert-confirming-outage-is-impacting-phones-911-service-fire-assistance-phone-out-tech-technical-difficulties-community-impact",
+    "178": "https://www.nytimes.com/2024/07/19/business/emergency-911-calls-tech-outage.html",
+    "179": "https://6abc.com/post/how-emergency-services-are-respond-call-amid-global-it-outage/15070726/",
+    "180": "https://www.wmur.com/article/some-911-systems-down-due-to-worldwide-computer-outage/61642712",
+    "181": "https://www.businessinsider.com/mass-it-outage-911-lines-down-parts-of-us-havoc-2024-7",
+    "182": "https://www.law.com/2024/07/19/multiple-state-court-online-systems-impacted-by-global-crowdstrike-outage/",
+    "183": "https://www.philstar.com/headlines/2024/07/19/2371414/list-philippine-government-websites-down-during-global-it-outage",
+    "184": "https://www.cp24.com/news/this-is-the-list-of-disruptions-in-toronto-due-to-the-crowdstrike-outage-1.6970063",
+    "185": "https://www.cbc.ca/news/world/worldwide-tech-issues-1.7268863e",
+    "186": "https://www.cbc.ca/news/canada/ottawa/canada-child-benefit-it-outage-1.7269641",
+    "187": "https://www.sme.sk/minuta/23359519/aktualizacia-crowdstrike-sposobuje-vypadky-aj-na-slovensku",
+    "188": "https://www.dr.dk/nyheder/seneste/it-nedbrud-blokerer-automatiske-brandalarmer-i-koebenhavn",
+    "189": "https://ca.finance.yahoo.com/news/possible-flight-disruptions-expected-global-113432466.html",
+    "190": "https://www.ctvnews.ca/sci-tech/here-s-the-latest-on-canadian-impacts-of-the-global-it-outage-1.6970002",
+    "191": "https://wtop.com/dc-transit/2024/07/metro-services-delayed-call-center-down-due-to-global-computer-system-outage/",
+    "192": "https://www.bostonglobe.com/2024/07/19/metro/software-outage-massachusetts-new-england/",
+    "193": "https://www.trains.com/trn/news-reviews/news-wire/global-tech-outage-largely-bypasses-freight-and-passenger-railroads/",
+    "194": "https://www.channelnewsasia.com/world/it-outage-microsoft-crowdstrike-airports-flights-businesses-4490741",
+    "195": "https://www.irishtimes.com/business/2024/07/19/companies-around-the-world-hit-by-major-it-outage/",
+    "196": "https://www.irishmirror.ie/news/irish-news/global-outage-flights-grounded-ireland-33280619",
+    "197": "https://www.straitstimes.com/tech/tech-news/live-major-tech-outage-disrupts-businesses-worldwide-including-in-singapore",
+    "198": "https://www.examiner.com.au/story/8701644/major-australian-institutions-hit-by-widespread-it-outages/",
+    "199": "https://www.railnews.co.uk/news/2024/07/19-computer-system-failures-disrupt-trains.html",
+    "200": "https://www.svt.se/nyheter/lokalt/orebro/problem-att-kopa-bussbiljetter-i-flera-lan",
+    "201": "https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/",
+    "202": "https://www.theguardian.com/technology/live/2024/jul/19/microsoft-windows-it-outage-us-airlines-911-services-businesses-crowdstrike-disruption-live",
+    "203": "https://mountnittany.org/news-stories/general-news/mount-nittany-health-impacted-by-nationwide-it-outage/",
+    "204": "https://timesofindia.indiatimes.com/world/us/hospitals-from-new-york-to-london-paris-struggle-in-tech-outage/articleshow/111867131.cms",
+    "205": "https://www.newsweek.com/microsoft-outage-shuts-down-hospital-operations-new-york-boston-uk-germany-crowdstrike-1927684",
+    "206": "https://x.com/Labcorp/status/1814324142583218306",
+    "207": "https://x.com/QuestDX/status/1814274160887005337",
+    "208": "https://www.npr.org/2024/07/21/nx-s1-5046700/the-crowdstrike-outage-disrupted-many-industries-hospitals-were-especially-vulnerable",
+    "209": "https://www.manxradio.com/news/isle-of-man-news/gp-surgeries-on-the-island-affected-by-worldwide-it-outage/",
+    "210": "https://sg.news.yahoo.com/london-ambulance-receives-4-500-174217339.html",
+    "211": "https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/",
+    "212": "https://www.eldiario.es/sociedad/servicios-salud-autonomicos-afectados-caida-informatica-microsoft_1_11534890.html",
+    "213": "https://healthnews.pt/2024/07/19/hospital-amadora-sintra-com-problemas-por-causa-da-falha-da-microsoft/",
+    "214": "https://nos.nl/artikel/2529464-wereldwijd-problemen-door-computerstoring-onder-meer-luchthavens-en-ziekenhuizen-getroffen",
+    "215": "https://n1info.hr/vijesti/pao-cezih-obiteljski-lijecnici-i-ljekarne-imaju-teskoca-u-radu/",
+    "216": "https://www.rtvslo.si/znanost-in-tehnologija/izpad-informacijskih-sistemov-obcutili-tudi-v-sloveniji-zamude-na-ljubljanskem-letaliscu/715409",
+    "217": "https://x.com/awfulannouncing/status/1814257641452966179",
+    "218": "https://x.com/awfulannouncing/status/1814275977733652677",
+    "219": "https://awfulannouncing.com/espn/sportscenter-cyber-outage-get-up.html?utm_source=dlvr.it&utm_medium=twitter",
+    "220": "https://www.racefans.net/2024/07/19/global-crowdstrike-outage-leaves-mercedes-fixing-computers-before-practice/",
+    "221": "https://www.msn.com/en-us/money/smallbusiness/small-businesses-grapple-with-global-tech-outages-created-by-crowdstrike/ar-BB1qmJDH?ocid=BingNewsVerp",
+    "222": "https://news.ifeng.com/c/8bLXkXnjos4",
+    "223": "https://www.ft.com/content/fba9b61d-efcf-4348-b640-ccb1f9d18ced",
+    "224": "https://www.antwerpen.be/info/stadsloketten-telefonisch-niet-bereikbaar-door-technische-storing",
+    "225": "https://www.standard.co.uk/news/uk/sky-news-crashes-tv-channel-news-microsoft-b1171651.html",
+    "226": "https://www.rte.ie/news/ireland/2024/0719/1460766-ryanair-cyber-outage/",
+    "227": "https://www.rsvplive.ie/news/live-outage-disrupts-irish-nct-33281253",
+    "228": "https://www.lavoixdunord.fr/1484962/article/2024-07-19/une-enorme-panne-mondiale-perturbe-tf1-canal-free-l-aeroport-d-orly-mondial",
+    "229": "https://x.com/bouyguestelecom/status/1814216904501776438",
+    "230": "https://www.upi.com/Sports_News/2024/07/19/paris-cyber-outage-impacts-Paris-Olympics/7821721397436",
+    "231": "https://www.espn.com/olympics/story/_/id/40594979/paris-olympics-systems-hit-global-cyber-outage",
+    "232": "https://www.spot.ph/newsfeatures/trending/109526/what-s-happening-to-microsoft-powered-laptops-a5229-20240719",
+    "233": "https://www.kiro7.com/news/trending/microsoft-outage-grounds-flights-shuts-down-businesses-globally/5B5DDOQ23JA77J2WIT2G5BRPRE/",
+    "234": "https://x.com/iRacingSupport/status/1814275684363059545",
+    "235": "https://koreajoongangdaily.joins.com/news/2024-07-19/business/tech/Global-technology-outage-takes-down-Korean-game-servers-airline-ticketing/2094406",
+    "236": "https://www.noypigeeks.com/computers/windows-outage-affecting-workers-industries/",
+    "237": "https://www.hessenschau.de/wirtschaft/fehlerhaftes-windows-update-weltweites-software-problem-legt-auch-hessische-firmen-lahm-v1,it-panne-unternehmen-100.html",
+    "238": "https://www.nbcnews.com/tech/tech-news/microsoft-outage-crowdstrike-global-airlines-windows-fix-rcna162685",
+    "239": "https://www.cbsnews.com/news/crowdstrike-outage-starbucks-mobile-order-ahead-app-down/",
+    "240": "https://www.wxxinews.org/live-updates/worldwide-internet-outage-affecting-some-local-systems",
+    "241": "https://www.abcactionnews.com/news/national-news/widespread-technology-outage-disrupts-flights-banks-media-outlets-and-companies-around-the-world",
+    "242": "https://www.abc12.com/news/local/speedway-stations-among-businesses-affected-by-internet-outage/article_40b4d428-45e6-11ef-a3fc-c7280651af6b.html",
+    "243": "https://www.nrk.no/ostfold/flere-apotek-1-har-stengt-etter-datatrobbel-1.16970700",
+    "244": "https://www.dagbladet.no/studio/nyhetsstudio/687?post=166835",
+    "245": "https://www.tv2.no/nyheter/innenriks/derfor-er-ikke-norge-like-hardt-rammet/16855096/",
+    "246": "https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html",
+    "247": "https://tvn24.pl/biznes/z-kraju/awaria-microsoftu-terminal-kontenerowy-w-gdansku-baltic-hub-informuje-o-problemach-st8009723",
+    "248": "https://www.freightwaves.com/news/business-as-usual-at-many-of-nations-ports-despite-global-tech-outage",
+    "249": "https://www.svt.se/nyheter/lokalt/norrbotten/gruvan-i-malmberget-utrymt-pa-grund-av-it-problem",
+    "250": "https://www.svt.se/sport/fotboll/allt-om-allsvenskan-2024?inlagg=b4841400b66118b15bef49fcb38d157c",
+    "251": "https://www.teslarati.com/tesla-giga-berlin-it-problems-resolved/",
+    "252": "https://www.today.com/video/crowdstrike-ceo-shares-what-spurred-global-outage-215232069726",
+    "253": "https://www.crowdstrike.com/blog/falcon-sensor-issue-use-to-target-crowdstrike-customers/",
+    "254": "https://www.cnn.com/2024/07/24/business/crowdstrike-outage-uber-eats/index.html",
+    "255": "https://www.bbc.co.uk/news/articles/ce58p0048r0o",
+    "256": "https://x.com/PwnieAwards/status/1816163089307386359",
+    "257": "https://uk.pcmag.com/security/153845/crowdstrike-exec-shows-up-to-accept-most-epic-fail-award-in-person",
+    "258": "https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/",
+    "259": "https://x.com/AlboMP/status/1814220385715687591",
+    "260": "https://x.com/AlboMP/status/1814220388920078506",
+    "261": "https://www.reuters.com/world/uk/uks-starmer-being-kept-updated-it-outage-has-not-chaired-emergency-meeting-says-2024-07-19/",
+    "262": "https://indianexpress.com/article/business/microsoft-outage-it-ministry-ashwini-vaishnaw-cert-in-advisory-9463347/",
+    "263": "https://www.themoscowtimes.com/2024/07/19/russia-boasts-that-sanctions-helped-it-avoid-global-microsoft-outage-a85765",
+    "264": "https://www.bbc.com/news/articles/c3g01y047pdo",
+    "265": "https://x.com/troyhunt/status/1814198760387596407",
+    "266": "https://x.com/troyhunt/status/1814205754880242032",
+    "267": "https://slate.com/technology/2024/07/tech-meltdown-glitch-crowdstrike-y2k.html",
+    "268": "https://www.msn.com/en-us/money/other/as-the-world-wakes-up-to-a-digital-pandemic-microsoft-suggests-turning-it-off-and-on-again-15-times/ar-BB1qhSKW?ocid=BingNewsVerp",
+    "269": "https://www.theguardian.com/media/article/2024/jul/20/computer-says-no-what-the-papers-say-after-it-outage-causes-global-chaos",
+    "270": "https://www.windowscentral.com/software-apps/elon-musk-blames-diversity-efforts-for-the-widespread-crowdstrike-digital-pandemic-that-stunted-microsoft-services",
+    "271": "https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/179916/",
+    "272": "https://www.bloomberg.com/news/articles/2024-07-19/musk-says-he-s-deleted-crowdstrike-from-systems-after-outage",
+    "273": "https://www.bernama.com/en/business/news.php?id=2320143",
+    "274": "https://www.scmp.com/tech/big-tech/article/3271248/crowdstrike-microsoft-outage-chinese-cybersecurity-firms-take-victory-lap",
+    "275": "https://www.intelligentciso.com/2024/07/22/warning-issued-about-phishing-attacks-post-global-tech-outage/",
+    "276": "https://www.techcircle.in/2024/07/22/microsoft-crowdstrike-it-outage-triggers-wave-of-phishing-attacks",
+    "277": "https://indianexpress.com/article/technology/tech-news-technology/cert-in-global-outage-leveraged-launch-phishing-attacks-crowdstrike-9481265/",
+    "278": "https://www.theregister.com/2024/07/24/crowdstrike_preliminary_incident_report/",
+    "279": "https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962",
+    "280": "https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/",
+    "281": "https://qz.com/crowdstrike-global-tech-outage-experts-1851600081",
+    "282": "https://www.marketplace.org/2024/07/22/when-businesses-run-standardized-software-small-problems-can-quickly-grow/",
+    "283": "https://www.reuters.com/technology/cybersecurity/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say-2024-07-20/",
+    "284": "https://indianexpress.com/article/opinion/columns/global-microsoft-outage-9465182/",
+    "285": "https://www.wired.com/story/crowdstrike-outage-update-windows/",
+    "286": "https://www.techradar.com/pro/security/microsoft-blames-eu-rules-for-its-inability-to-lock-down-windows-following-crowdstrike-incident",
+    "287": "https://www.neowin.net/news/microsoft-points-finger-at-the-eu-for-not-being-able-to-lock-down-windows/",
+    "288": "https://www.wsj.com/tech/cybersecurity/microsoft-tech-outage-role-crowdstrike-50917b90",
+    "289": "https://www.euronews.com/video/2024/07/23/european-commission-denies-responsibility-for-massive-microsoft-it-outage",
+    "290": "https://www.tomshardware.com/software/linux/crowdstrike-issues-go-beyond-windows-companys-security-software-has-reportedly-been-causing-kernel-panics-since-at-least-april",
+    "291": "https://9to5mac.com/2024/07/20/lets-talk-about-apples-endpoint-security-framework/"
+  },
+  "flair_entities": [
+    "kshb-tv",
+    "singapore exchange",
+    "pacer",
+    "canadian broadcasting corporation",
+    "sph media",
+    "ap",
+    "slovenia",
+    "plenty of fish",
+    "san mateo county",
+    "texas",
+    "north africa",
+    "allegiant",
+    "google cloud",
+    "ambassador bridge",
+    "op financial group",
+    "news",
+    "montr\u00e9al",
+    "rambam hospital",
+    "western",
+    "elon musk",
+    "aragon",
+    "castilla-la mancha",
+    "orly airport",
+    "american airlines",
+    "new hampshire",
+    "spanish",
+    "new south wales",
+    "metrobank",
+    "idaho",
+    "quest diagnostics",
+    "greece",
+    "spicejet",
+    "dick's sporting goods",
+    "cincinnati children's hospital medical center",
+    "indian",
+    "klm",
+    "southwest airlines",
+    "fps public health",
+    "heraklion international airport",
+    "jake williams",
+    "state bank of india",
+    "ohio",
+    "microsoft azure",
+    "iracing",
+    "ed bastian",
+    "athens international airport",
+    "qantas",
+    "buttigieg",
+    "hong kong airlines",
+    "eurowings",
+    "espn",
+    "m1",
+    "weibo",
+    "metropolitan transportation authority",
+    "ireland",
+    "wisconsin",
+    "union pacific",
+    "olympic village",
+    "pluto tv",
+    "philippines",
+    "german",
+    "citilink",
+    "federal air transport agency",
+    "america",
+    "ragnarok online",
+    "norway",
+    "belgium",
+    "aena",
+    "eu",
+    "apotek1",
+    "charleroi airport",
+    "department of veterans affairs and department of energy",
+    "anz",
+    "toronto",
+    "virginia",
+    "\u0142awica airport",
+    "chinese",
+    "waitrose",
+    "heraklion",
+    "commonwealth bank",
+    "y2k lite",
+    "pennsylvania",
+    "linux",
+    "bluecube",
+    "charles de gaulle airport",
+    "td bank",
+    "congress",
+    "iko",
+    "jeju air",
+    "housing and development board",
+    "missouri",
+    "gregory falco",
+    "enaire",
+    "denizbank",
+    "india",
+    "florida",
+    "espn2",
+    "l\u00fcbeck",
+    "falcon sensor",
+    "dct gda\u0144sk",
+    "russian",
+    "michael sentonas",
+    "marriott",
+    "tesla, x corp",
+    "uk",
+    "u.s. bank",
+    "jetstar japan",
+    "atlanta",
+    "edinburgh airport",
+    "europe",
+    "summer olympics",
+    "visa",
+    "singapore",
+    "senate committee on commerce, science, and transportation",
+    "ethernet",
+    "arizona",
+    "university health network",
+    "hdb",
+    "galicia",
+    "gda\u0144sk",
+    "tony fernandes",
+    "london ambulance service",
+    "hungary",
+    "scheperziekenhuis",
+    "chase",
+    "lufthansa",
+    "united states",
+    "sportscenter",
+    "metro atlanta",
+    "nbc",
+    "israel post",
+    "sgx",
+    "ragnarok origin",
+    "us department of transportation",
+    "england",
+    "darwin",
+    "banco continental",
+    "keolis nederland",
+    "cathay pacific",
+    "british",
+    "spring japan",
+    "united airlines'",
+    "gigafactory berlin-brandenburg",
+    "crowdstrike falcon",
+    "polish",
+    "north america",
+    "transport for ireland",
+    "rt\u00e9",
+    "santander bp",
+    "national coordination mechanism",
+    "kiwibank",
+    "central health",
+    "adelaide crows",
+    "memorial sloan kettering cancer center",
+    "middle east",
+    "mbank",
+    "asia",
+    "y2k",
+    "victorians",
+    "capital one",
+    "windows 11",
+    "united",
+    "hamburg airport",
+    "department of transportation",
+    "kits",
+    "manx radio",
+    "russia",
+    "road safety authority",
+    "dbs bank",
+    "nevada",
+    "launceston",
+    "north american",
+    "ontario",
+    "house of representatives",
+    "catalonia",
+    "european commission",
+    "southern highlands line",
+    "ing bank \u015bl\u0105ski",
+    "google",
+    "bank of america",
+    "thai airasia",
+    "brazil",
+    "tunisia",
+    "michigan",
+    "azure",
+    "westpac",
+    "canada",
+    "de achterhoek",
+    "denmark",
+    "hobart",
+    "windows",
+    "sydney airport",
+    "joe",
+    "bastian",
+    "jackson",
+    "digital communications ministry",
+    "americas.",
+    "sweden",
+    "first take",
+    "australian",
+    "ebpf",
+    "ukrainian",
+    "airasia",
+    "new zealand",
+    "dutch",
+    "turkish airlines",
+    "asb",
+    "copenhagen",
+    "czechia",
+    "zurich airport",
+    "london stock exchange",
+    "labcorp",
+    "kovrr",
+    "kansas",
+    "canada border services agency",
+    "central united states",
+    "georgia",
+    "swiss international air lines",
+    "george pliakas",
+    "indiana",
+    "essendon bombers",
+    "dmca",
+    "porter airlines",
+    "nova poshta",
+    "coles",
+    "pete buttigieg",
+    "macos catalina",
+    "hartsfield\u2013jackson atlanta international airport",
+    "turkey",
+    "windows recovery environment",
+    "indigo airlines",
+    "taiwan",
+    "adelaide",
+    "national security authority",
+    "microsoft 365",
+    "pko bank polski",
+    "ciaran martin",
+    "anthony albanese",
+    "get up!",
+    "canadian",
+    "poland",
+    "kiel",
+    "ups",
+    "mclaren",
+    "new york",
+    "delaware",
+    "dpg media belgium",
+    "digital millennium copyright act",
+    "seven network",
+    "kurtz",
+    "laniado hospital",
+    "cert-in",
+    "california",
+    "trudeau international airport",
+    "sunshine coast council",
+    "vodafone",
+    "santander bank polska",
+    "crowdstrike",
+    "slate",
+    "microsoft",
+    "canal+ group",
+    "7-eleven",
+    "scoot",
+    "new york city",
+    "vancouver international airport",
+    "bst",
+    "spacex",
+    "transportation",
+    "united states department of homeland security",
+    "newfoundland",
+    "baltic",
+    "singtel",
+    "thank you microsoft",
+    "abc",
+    "singaporean",
+    "morrisons",
+    "south african",
+    "boston",
+    "victoria",
+    "stadskanaal",
+    "st andrews hospital",
+    "slingeland ziekenhuis",
+    "paramount",
+    "global times",
+    "regional bus and train",
+    "vueling",
+    "oregon",
+    "bendigo bank",
+    "netherlands",
+    "magen david adom",
+    "tryg",
+    "most epic fail",
+    "european union",
+    "williams",
+    "foodstuffs",
+    "ryanair",
+    "asia  hong kong international airport",
+    "washington",
+    "labrador health services",
+    "ministry of civil aviation",
+    "israel",
+    "scripps news",
+    "qax",
+    "marathon petroleum corporation",
+    "pnb",
+    "american",
+    "australians",
+    "joe biden",
+    "france",
+    "rahul samant",
+    "district of columbia",
+    "amadeus",
+    "cbs news",
+    "mercedes amg petronas f1 team",
+    "aston martin",
+    "virgin australia",
+    "scotiabank",
+    "background  crowdstrike",
+    "bse",
+    "paris",
+    "portugal",
+    "ecf",
+    "clownstrike",
+    "san francisco international airport",
+    "massachusetts",
+    "windsor",
+    "windows 10",
+    "south dakota",
+    "relay",
+    "english",
+    "germany",
+    "charles schwab",
+    "commission",
+    "tencent",
+    "times square",
+    "oceania",
+    "harvey weinstein",
+    "west coast",
+    "boots",
+    "warsaw chopin airport",
+    "teennick",
+    "berlin brandenburg airport",
+    "irish",
+    "tampa",
+    "hoogeveen",
+    "national nuclear security administration",
+    "amazon",
+    "taoyuan international airport",
+    "ashwini vaishnav",
+    "department of the treasury and department of state",
+    "fernando fonseca",
+    "suncorp",
+    "centre for cybersecurity belgium",
+    "rbc",
+    "vistara",
+    "docklands stadium",
+    "wells fargo",
+    "kansas city",
+    "emis web",
+    "euronews",
+    "emmen",
+    "windows' bitlocker",
+    "capitec bank",
+    "cebu pacific",
+    "hartsfield",
+    "nicktoons",
+    "hunter line",
+    "indonesia",
+    "mercedes",
+    "ladbrokes coral",
+    "radiant site manager",
+    "tennessee",
+    "windows pcs",
+    "hungarian grand prix",
+    "detroit",
+    "nickmusic",
+    "minnesota",
+    "bet her",
+    "anytime pay",
+    "unionbank",
+    "europe  prague airport",
+    "sky news",
+    "croatian",
+    "pozna\u0144",
+    "maria cantwell",
+    "nhs",
+    "port of houston",
+    "utc",
+    "malaysia",
+    "metv toons",
+    "canada child benefit",
+    "bpi",
+    "iowa",
+    "jetstar",
+    "maya",
+    "keretapi tanah melayu",
+    "national cyber security coordinator",
+    "landbank",
+    "ueno",
+    "nine network",
+    "falcon",
+    "gdpr",
+    "troy hunt",
+    "nse",
+    "ebay",
+    "transavia airlines",
+    "uber",
+    "sense bank",
+    "fortune",
+    "triple-0",
+    "gcash",
+    "alaska",
+    "croatia",
+    "tegut",
+    "google compute engine",
+    "bradesco bank",
+    "andrew plato",
+    "akasa air",
+    "maryland",
+    "starbucks",
+    "philippines airasia",
+    "northern ireland",
+    "brisbane",
+    "cobr",
+    "definitions",
+    "catholic health",
+    "department of justice, and department of education",
+    "bouygues telecom",
+    "budapest airport",
+    "federal trade commission",
+    "neuralink",
+    "washington metro area transit authority",
+    "ipko",
+    "french",
+    "it",
+    "indigo",
+    "toronto pearson international airport",
+    "changi airport",
+    "gatwick airport",
+    "microsoft windows",
+    "sheba medical center",
+    "nab",
+    "kaiser san jose medical center",
+    "fedex",
+    "channel file 291",
+    "amazon web services",
+    "article 32",
+    "perth",
+    "brussels",
+    "thailand",
+    "hkexpress",
+    "delta",
+    "vitusapotek",
+    "wired",
+    "us",
+    "wesley hospital",
+    "malmberget",
+    "the washington post",
+    "ted wheeler",
+    "us securities and exchange commission",
+    "paraguayan",
+    "kremlin",
+    "amtrak",
+    "swedish",
+    "speedway",
+    "krka",
+    "bbc",
+    "tf1",
+    "milwaukee",
+    "360 security",
+    "national health service",
+    "ist",
+    "hong kong express",
+    "allegiant air",
+    "bratislava airport",
+    "reserve bank of india",
+    "hong kong airport authority",
+    "bitlocker",
+    "apis",
+    "nasa",
+    "australian football league",
+    "ukraine",
+    "mass general brigham",
+    "delta cio",
+    "universal studios japan",
+    "canberra",
+    "auckland transport",
+    "israeli",
+    "air india",
+    "tesla",
+    "american tv",
+    "singapore airlines",
+    "basque country",
+    "sbs",
+    "espn radio",
+    "adt",
+    "cbbc",
+    "def con",
+    "ninoy aquino international airport",
+    "national car test",
+    "instagram",
+    "lci",
+    "aurizon",
+    "christchurch airport",
+    "isle of man",
+    "heathrow",
+    "wizz air",
+    "nct",
+    "information and technology",
+    "sioux falls",
+    "north carolina",
+    "george kurtz",
+    "schiphol airport",
+    "tfx",
+    "finland",
+    "fortune 1000",
+    "v/line",
+    "finnair",
+    "australia",
+    "black desert online",
+    "marriott international",
+    "rcbc",
+    "woolworths",
+    "pwnie awards",
+    "portland",
+    "iran",
+    "qmusic radio",
+    "antwerp",
+    "melbourne airport",
+    "london",
+    "china",
+    "southwest",
+    "korean",
+    "republican national convention",
+    "a to z",
+    "bdo",
+    "massachusetts bay transportation authority",
+    "slovakia",
+    "canadian pacific"
+  ]
+}

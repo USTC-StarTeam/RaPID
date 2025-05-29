@@ -1,0 +1,319 @@
+The_Keys_to_the_White_House
+
+The Keys to the White House, also known as the 13 keys, is a prediction system for determining the outcome of presidential elections in the United States. It was developed by American historian Allan Lichtman and Russian geophysicist Vladimir Keilis-Borok in 1981, adapting methods that Keilis-Borok designed for earthquake prediction.
+The system is a thirteen-point checklist that uses true-or-false statements: when five or fewer items on the checklist are false, the nominee of the incumbent party is predicted to win the election, but when six or more items on the checklist are false, the nominee of the challenging party is predicted to win. Some of the items on the checklist involve qualitative judgment, and therefore the system relies heavily on the knowledge and analytical skill of whoever attempts to apply it.
+Using the keys, Lichtman has successfully predicted nine of the last eleven presidential elections held since 1984, often making his prediction months, or sometimes years in advance. However, he incorrectly predicted that Kamala Harris would win the 2024 election, and the nature and accuracy of his predictions for Al Gore in 2000 (who lost the election though won the popular vote) and Donald Trump in 2016 (who won the election though lost the popular vote) have been disputed.
+Lichtman argues that his model demonstrates that American voters select their next president according to how well the country was governed in the preceding four years and that election campaigns have little (if any) meaningful effect on American voters. If voters are satisfied with the governance of the country, they will re-elect the president or whoever from his party runs in his stead. If they are dissatisfied, they will transfer the presidency to the challenging party.
+
+# Development
+
+While attending a dinner party at Caltech in 1981, Allan Lichtman met Vladimir Keilis-Borok, a leading Russian geophysicist. Both men were Fairchild Scholars at Caltech. Keilis-Borok was interested in applying his prediction techniques to liberal-democratic political systems [14]. This was not possible for him to do within the Soviet Union, which was a one-party state, and a guest at the party referred him to Lichtman. Lichtman attracted Keilis-Borok's interest because he was a quantitative historian who mathematically analyzed trends in American history. Lichtman agreed to help Keilis-Borok apply his prediction techniques to American presidential elections. Lichtman and Keilis-Borok examined data collated from every presidential election from 1860 to 1980 to identify factors that seemed predictive of election outcomes. From his own studies of American presidential elections, Lichtman had come to the conclusion that voters are in fact not swayed by election campaigns and instead vote according to how well the president has performed in office. Lichtman also noticed that even if the president did not seek re-election, his successes and failures would help or hinder the prospects of the nominee of his party: these insights shaped how he and Keilis-Borok conducted their research. Lichtman and Keilis-Borok published their prediction model in a 1981 paper: at this stage, their system had 12 keys, including keys that considered the number of terms the incumbent party had held the presidency, and if the incumbent party had won a popular vote majority in the previous election. Another four keys were ultimately cut that considered political ideology, the dominant party of the era, if there was a serious contest for the challenging party nomination, and if the country was in wartime or peacetime. The system was later modified to 13 keys, with the tenure key and the popular vote majority key both replaced by the party mandate key and the foreign/military failure and success keys being added. [18]. Some of the keys are objective, such as economic growth, while some are subjective, such as candidate charisma. 
+
+# Thirteen keys
+
+The system consists of 13 true/false statements pertaining to circumstances surrounding a presidential election, with an answer of "true" always favoring the incumbent party.. If five or fewer keys are false, this indicates political stability and the incumbent party is predicted to win the election. If six or more are false, this indicates a political earthquake and the incumbent party is predicted to lose. 
+
+## Party mandate (1)
+
+Key 1 (party mandate) is turned true if the incumbent party has achieved a net gain of seats in the U.S. House of Representatives in the previous presidential and midterm elections combined. For example, Lichtman refers to the 1982 U.S. House elections in the middle of Ronald Reagan's first term when the Republicans lost 27 seats: as the Republicans had gained 35 seats in 1980, this left them with a net gain of eight seats, turning the key true.. Lichtman says that midterm elections reflect the performance of the incumbent party and are an indicator of nationwide electoral trends. Additionally, if the incumbent party performs poorly, a large loss of House seats can also affect the president's ability to enact policy, which can result in other keys turning false.. As of the 2020 election, the incumbent party has won the popular vote on 12 of the 14 occasions when it achieved a net gain of seats in the U.S. House of Representatives, compared to the previous midterm elections, losing the Electoral College in 2000, with the exceptions being in 1860 and 1952. The incumbent party has lost the popular vote on 14 of the 27 occasions that key 1 was false, winning the popular vote but losing the Electoral College in 1888 and 2016 and winning the Electoral College in 1876, with the exceptions being in 1872, 1900, 1916, 1924, 1940,  1944, 1948, 1964, 1972, 1996, and 2012. 
+
+## No primary contest (2)
+
+Key 2 (no primary contest), the first of two control variables, is turned true if the incumbent party nominee wins at least two-thirds of the total delegate vote on the first ballot at the nominating convention, with no deep and vocal party divisions. Lichtman says the incumbent party's ability to unite behind a consensus nominee is reflective of successful governance, whereas a contested nomination is indicative of internal party strife caused by weak governance.. Notable primary contests that turned the key false occurred in 1860 (the Democrats split between Northern Democrats and Southern Democrats over slavery, with two conventions and 59 ballots being required to nominate Stephen A. Douglas), 1896 (due to a dispute between the Bourbon wing of the Democrats led by sitting president Grover Cleveland and the populist wing of the Democrats led by William Jennings Bryan, the convention required five ballots to nominate Bryan), 1912 (the Republicans split between the conservatives of President William Howard Taft and the progressives of former President Theodore Roosevelt, with Taft being nominated for re-election on the first ballot of the convention with only 52% of the delegate vote after progressives walked out), and in 1968 (there were deep and vocal divisions within the Democrats over the Vietnam War, including strong opposition by the anti-Vietnam War wing of the Democrats to the nomination of Vice President Hubert Humphrey).. As of the 2020 election, the incumbent party won the popular vote on 23 of the 28 occasions when key 2 was true, losing the Electoral College in 1888 and 2000, with the exceptions being in 1932, 1960, 1992, 2008, and 2020. The incumbent party has lost the popular vote on 11 of the 13 occasions that key 2 was false, winning the popular vote but losing the Electoral College in 2016 and winning the Electoral College in 1876, with the exception being in 1880. Of the 13 keys, Lichtman has said that this key is the single best predictor of an election outcome.. Conversely, a serious contest for the challenging party's nomination does not harm its nominee's election prospects, as a weak incumbent party often results in a crowded challenging party primary field in anticipation of a winnable general election. Landslide challenging party popular vote victories coming after a serious contest for the party's nomination include those of Republican Abraham Lincoln in 1860 (10.13 points), Democrat Woodrow Wilson in 1912 (18.67 points), Republican Warren G . Harding in 1920 (26.17 points), and Democrat Franklin D. Roosevelt in 1932 (17.76 points). 
+
+## Incumbent seeking re-election (3)
+
+Lichtman says an incumbent president seeking re-election has several advantages, such as the ability to set the national agenda, and will often attract much more media attention than a non-incumbent. The president can also benefit from the rally 'round the flag effect in times of crisis.. Lichtman also says that presidents running for re-election will rarely face the strongest candidates from the challenging party, as they typically refrain from running unless the president is seen as very vulnerable.. As of the 2020 election, when there was an incumbent president running for re-election and key 3 was true, the president won the popular vote on 18 of 25 occasions, losing the Electoral College in 1888. Of the 16 open seat elections (when key 3 was false), the incumbent party lost the popular vote on nine occasions, winning the popular vote but losing the Electoral College in 2000 and 2016 and winning the Electoral College in 1876, with the exceptions being in 1868, 1880, 1908, 1928, and 1988.. The incumbency key, the other control variable, also correlates with key 2 (no primary contest), as it usually guarantees there will be no serious contest for the incumbent party's nomination. As of the 2020 election, when the president was running for re-election and faced no serious contest for their party's nomination, thus turning key 2 true, the president won the popular vote on 18 of 21 occasions, losing the Electoral College in 1888, with the exceptions being in 1932, 1992, and 2020.. If there is a serious primary contest to the president, it signifies major discontent within their own party and thus the broader electorate. On all four occasions when the president was running for re-election and key 2 was turned false, in 1892, 1912, 1976, and 1980, the president was defeated. 
+
+## No third party (4)
+
+Key 4 (no third party) is turned false if there is a major candidate other than the nominees of the Democrats and the Republicans.. American presidential elections since 1860 have largely been de facto binary contests between Democrats and Republicans, as no third party candidate has come close to winning. Lichtman says that if a third party candidate is unusually popular, it signals major discontent with the performance of the incumbent party and counts against them: he defines third parties as either perennial (having small and loyal constituencies) or insurgent (rising in response to particular circumstances) [27]. Retrospectively, the key was turned false if a single third party candidate won 5% or more of the national popular vote or there was a significant split in the incumbent party: for example, in 1948, Henry A. Wallace and Strom Thurmond both split from the Democrats and ran notable insurgent campaigns, turning the key false for President Harry S. Truman despite no third party candidate winning 5% of the popular vote.. For upcoming elections, key 4 is turned false if a single third party candidate consistently polls at 10% or more, indicating they are likely to receive 5% or more of the national popular vote: third party candidates typically underperform their polling by around half, with Lichtman saying they tend to fade in the voting booth as voters focus on the major party candidates. Key 4 is the only key that concerns any polling of candidates . As of the 2020 election, the incumbent party has been defeated on six of the nine occasions when there has been a significant third party candidate, with the exceptions being in 1924, 1948, and 1996. The incumbent party has won the popular vote on 22 of the 32 occasions that key 4 was true, winning the popular vote but losing the Electoral College in 1888, 2000, and 2016 and winning the Electoral College in 1876, with the exceptions being in 1884, 1896, 1920, 1932, 1952, 1960, 1976, 2008, and 2020. 
+
+## Strong long-term and short-term economy (5 and 6)
+
+Key 5 (strong short-term economy) is turned false if the economy is in or perceived to be in a recession during the election campaign.. Lichtman cites the early 1990s recession as an example: the recession ended in March 1991, but the National Bureau of Economic Research did not officially declare the recession had ended until 50 days after the election, and combined with a Gallup poll in September 1992 found that 79% of respondents believed the economy was still in recession, both factors turning the key false for George H. W. Bush. As of the 2020 election, the incumbent party has won the popular vote on 25 of the 31 occasions that key 5 was true, losing the Electoral College in 1888, 2000 and 2016, with the exceptions being in 1860, 1892, 1912, 1952, 1968, and 1976. The incumbent party has lost the popular vote on all ten occasions that key 5 was false, only winning the Electoral College in 1876.. Key 6 (strong long-term economy) is turned true if the real per capita economic growth during the term equals or exceeds the mean growth during the previous two terms: Lichtman states that slow economic growth is indicative of an administration's lack of strength.. As of the 2020 election, the incumbent party has won the popular vote on 17 of the 22 occasions that key 6 was true, losing the Electoral College in 1888, 2000, and 2016, with the exceptions being in 1860, 1892, 1912, 1968 and 1980. The incumbent party has lost the popular vote on 11 of the 19 occasions that key 6 was false, winning the Electoral College in 1876, with the exceptions being in 1864, 1908, 1916, 1948, 1972, 1984, 2004, and 2012.. The incumbent party has won the popular vote on 17 of the 21 occasions when both economy keys were true, losing the Electoral College in 1888, 2000, and 2016, with the exceptions being in 1860, 1892, 1912, and 1968. On all nine occasions when both economy keys were false, the incumbent party lost the popular vote, only winning the Electoral College in 1876. 
+
+## Major policy change (7)
+
+Key 7 (major policy change) is turned true if the incumbent administration redirects the course of government or enacts a major policy change that has broad effects on the country's commerce, welfare or outlook: it does not matter whether the change is popular with the public, nor does it matter what ideological mold it was cast from. Abraham Lincoln abolishing slavery, Franklin D. Roosevelt enacting the New Deal, and Barack Obama enacting the Affordable Care Act were policy changes that turned the key true. As of the 2020 election, the incumbent party has won re-election on 15 of the 19 occasions that key 7 was true, with the exceptions being in 1892, 1920, 1968, and 2020. The incumbent party has lost the popular vote on 12 of the 22 occasions that key 7 was false, winning the popular vote but losing the Electoral College in 1888, 2000 and 2016 and winning the Electoral College in 1876, with the exceptions being in 1872, 1928, 1956, 1972, 1988, 1996, and 2004.. This key often correlates with other keys: for example, Herbert Hoover's failure to take vigorous action during the Great Depression prolonged the Depression, which in turn led to widespread social unrest, Hoover's Republicans having a large loss of House seats in the midterm elections, and the nomination of a charismatic challenger in Franklin D. Roosevelt. 
+
+## No social unrest (8)
+
+Key 8 (no social unrest) is turned false if there is widespread violent unrest that is sustained or leaves critical issues unresolved by the time of the election campaign, making the voters call into serious question the stability of the country.. The American Civil War, the Red Summer of 1919, the racial and anti-Vietnam War protests of 1968, and the protests of 2020 triggered by the murder of George Floyd were incidents of unrest that were sufficiently serious and widespread to turn the key false. By contrast, the Great Railroad Strike of 1877, the 1921 Tulsa race riots, the 1980 Miami race riots, and the 1992 Los Angeles riots were too localized to turn the key false. As of the 2020 election, the incumbent party has lost the popular vote on seven of the 11 occasions that there was sustained social unrest during the term, winning the popular vote but losing the Electoral College in 1888, with the exceptions being in 1864, 1868 and 1872. The incumbent party has won the popular vote on 21 of the 30 occasions that key 8 was true, winning the popular vote but losing the Electoral College in 2000 and 2016 and winning the Electoral College in 1876, with the exceptions being in 1884, 1912, 1952, 1960, 1976, 1980, 1992, and 2008.. 
+
+## No scandal (9)
+
+Key 9 (no scandal), a key that Lichtman declared as his personal favorite, is turned false if there is bipartisan recognition of serious impropriety that is directly linked to the president, such as widespread corruption in the Cabinet and/or officials of an incumbent administration, or presidential misconduct resulting in a bipartisan impeachment. By contrast, the voters ignore allegations of wrongdoing that appear to be the product of partisan politicking or are not directly linked to the president: for example, the impeachment of Andrew Johnson in 1868 and the Iran-Contra affair during Ronald Reagan's second term did not turn the key false. . This key is considered a wild card because it often impacts up to eight other keys: for example, the Watergate scandal began during Republican President Richard Nixon's first term, but it did not affect Nixon's re-election bid in 1972, since the voters believed at the time that it was political point-scoring by the Democrats. After Nixon's re-election, new information came to light that directly implicated him in the scandal and raised concerns among Republicans, turning the key false: the scandal resulted in Nixon's resignation, led to a serious contest between Gerald Ford and Ronald Reagan that Ford won with 52.6% of the delegate vote on the first ballot of the Republican convention, and contributed to the Republicans' defeat in 1976. Another example would be Trump's impeachment in 2019 contributed to social unrest five months later [36]. As of the 2020 election, the incumbent party has lost the popular vote on four of the six occasions that the incumbent administration was tainted by major scandal, winning the popular vote but losing the Electoral College in 2000 and winning the Electoral College in 1876, with the exception being in 1924. The incumbent party has won the popular vote on 23 of the 35 occasions that key 9 was true, winning the popular vote but losing the Electoral College in 1888 and 2016, with the exceptions being in 1860, 1884, 1892, 1896, 1912, 1920, 1932, 1960, 1968, 1980, 1992, and 2008.. 
+
+## Foreign or military failure and success (10 and 11)
+
+Key 10 (no foreign or military failure) is turned false if a failure occurs that is perceived to undermine the standing of the United States and/or erode trust in the president's leadership. Lichtman cites the attack on Pearl Harbor under Franklin D. Roosevelt, the botched Bay of Pigs invasion under John F. Kennedy, North Vietnamese victory in the Vietnam War under Gerald Ford, and the Iranian hostage crisis under Jimmy Carter as failures that turned the key false. By contrast, failed diplomatic initiatives, such as Dwight D. Eisenhower's failure to negotiate a nuclear test ban treaty with the Soviet Union, will not turn the key false.. As of the 2020 election, the incumbent party has been defeated on seven of the 11 occasions that the incumbent administration suffered a major failure in foreign or military affairs, with the exceptions being in 1944, 1948, 1964 and 2004. The incumbent party has won the popular vote on 21 of the 30 occasions that key 10 was true, winning the popular vote but losing the Electoral College in 1888, 2000, and 2016 and winning the Electoral College in 1876, with the exceptions being in 1860, 1884, 1892, 1896, 1912, 1932, 1992 and 2020.. Key 11 (major foreign or military success) is turned true if an achievement is seen as improving the prestige and interests of the United States. Lichtman cites the formation of NATO under Harry S. Truman, Dwight D. Eisenhower negotiating an armistice to the Korean War, John F. Kennedy's handling of the Cuban Missile Crisis, and the killing of Osama bin Laden under Barack Obama as successes that turned the key true. As of the 2020 election, the incumbent party has won re-election on 17 of the 21 occasions when it achieved a major success in foreign or military affairs, with the exceptions being in 1920, 1952, 1980 and 1992. The incumbent party has lost the popular vote on 12 of the 20 occasions that key 11 was false, winning the popular vote but losing the Electoral College in 1888, 2000, and 2016 and winning the Electoral College in 1876, with the exceptions being in 1880, 1936, 1940, 1984, and 1996.. The incumbent party has won re-election on 13 of the 14 occasions that both foreign and military affairs keys were true, with the exception being in 1992. On all four occasions that both foreign and military affairs keys were false, in 1960, 1968, 1976, and 2008, the incumbent party was defeated.. 
+
+## Candidate charisma (12 and 13)
+
+Key 12 (charismatic incumbent) is turned true if the incumbent party candidate is charismatic or a national hero, while key 13 (uncharismatic challenger) is turned false if the challenging party candidate is charismatic or a national hero. Key 13 is the only key that pertains to the challenging party.. Lichtman defines a charismatic candidate as one with an extraordinarily persuasive or dynamic personality that gives him or her broad appeal that extends to voters outside their party's base. Having studied the political careers of all historical presidential candidates, Lichtman found that James G. Blaine, William Jennings Bryan (in 1896 and 1900), Theodore Roosevelt, Franklin D. Roosevelt, John F. Kennedy, Ronald Reagan, and Barack Obama (in 2008) had the charisma that was exceptional enough to make a measurable difference in their political fortunes. By contrast, Lichtman found that while Donald Trump had an intense appeal, it was with only a narrow slice of the electorate, as opposed to the broad appeal that Ronald Reagan had with traditionally Democratic voters. Lichtman has said that it is possible for candidates to lose their charismatic status: William Jennings Bryan was seen as charismatic and inspirational in 1896 and 1900 but his voter appeal had faded and he had become the subject of frequent press ridicule in 1908, while Barack Obama exuded charisma in 2008 but failed to have the same success in connecting with the voters in 2012.. Lichtman defines a candidate as a national hero if they are seen by the public as having played a critical role in the success of a national endeavor: he found that Ulysses S. Grant and Dwight D. Eisenhower were seen as national heroes, as both were great war leaders instrumental to major American victories. By contrast, he said that while many Americans admired John McCain for his military service, he was not seen as a national hero because he had not led the country through war . As of the 2020 election, the incumbent party has won re-election on eight of the ten occasions that key 12 was true, with the exceptions being in 1884 and 1896. The incumbent party has been defeated on five of the six occasions that key 13 was false, with the exception being in 1900.. 
+
+# Retrospective application to elections (1860–1980)
+
+While developing the keys, Lichtman retrospectively applied them to every American presidential election from 1860 to 1980.. Republican President Theodore Roosevelt's election in 1904 is the only occasion where all 13 keys were true for the incumbent party. The elections of 1876, 1960, and 2008 (an election the keys predicted prospectively) all had nine false keys against the incumbent party, which was the Republicans on all three occasions. For the elections between 1860 and 1980, the keys corresponded with the popular vote winner for all 31 elections, and corresponded with the elected president for all but two elections. The anomalies were as follows:. 
+
+# Lichtman's prediction record (1984–present)
+
+Using the 13 keys, Lichtman has correctly predicted the outcome in the majority of the eleven presidential elections from 1984 to 2024. He incorrectly predicted that Kamala Harris would win the 2024 election,  which was instead won by Donald Trump [10]. Lichtman and others contest the accuracy of his predictions in 2000 and 2016, primarily in relation to whether the keys were making a popular vote or Electoral College prediction (or both). 
+
+## 2000 election
+
+In 2000, Lichtman assessed that there were five false keys against the incumbent Democrats and predicted a win for the Democratic frontrunner, Vice President Al Gore. Gore won the popular vote, but Republican nominee George W [45]. Bush was declared the winner of the Electoral College and was elected president.. Lichtman argues that in 2000, the keys predicted the winner of the popular vote, which Gore indeed won. In his 1988 book The Thirteen Keys to the Presidency, Lichtman defined his model as predicting the outcome of the popular vote . However, Lichtman did not remind readers of this nuance in journal articles containing his prediction for 2000, and stated that the American people would "elect Al Gore president of the United States" . Lichtman further argues that Gore was the rightful Electoral College winner of the 2000 election, and lost because of improper ballot counting in Florida. 
+
+## 2016 election
+
+In 2016, Lichtman assessed that there were six false keys against the incumbent Democrats and predicted a win for the Republican nominee Donald Trump. Trump lost the popular vote, but won the Electoral College and was therefore elected president.. Lichtman has claimed (after the 2016 election) that since the contested result in 2000, he began predicting the outcome of the Electoral College rather than the popular vote. He justified this by stating that the discrepancies between the Electoral College and the popular vote had dramatically increased, with Democrats holding a significant advantage in winning the popular vote but having no such advantage in the Electoral College . In an interview about his 2016 prediction for Trump, Lichtman stated that if the keys favoured the incumbent, "the party in power gets four more years". However, in his book Predicting the Next President: The Keys to the White House 2016, Lichtman wrote that the keys "predict only the national popular vote and not the vote within individual states."  A 2016 paper by Lichtman similarly states that the keys predict the popular vote . Lichtman additionally wrote that in the only three elections since 1860 where the popular vote diverged from the Electoral College tally, his keys predicted the popular vote winner . 
+
+## 2024 election
+
+Lichtman incorrectly predicted that Kamala Harris would win the 2024 election. He attributes this to three unprecedented events: the Democrats "trashing" their sitting president after the first presidential debate, their eventual nominee not participating in any primaries or caucuses, and "a general belief in disinformation during the election cycle being at a very high level" . 
+
+# Reception
+
+## Media coverage
+
+Lichtman's predictions based on the keys have received extensive coverage in the media, where he has been "pretty famously known as the Polling Nostradamus", a reference to the French reputed seer. In 2016, Chris Cillizza reported that on The Fix, the daily political blog of The Washington Post, four of the ten most trafficked posts in 2016 "involved Lichtman and his unorthodox predictions." . 
+
+## Support
+
+Using the keys system, Lichtman has made numerous correct predictions, some well in advance of the election and/or at a time when his prediction was counter to the then-current polling data. These include his 1982 prediction of a Ronald Reagan win in 1984. He went against the polls in 1988; with Michael Dukakis far ahead in the polls, Lichtman correctly predicted that George H [3]. W. Bush would win. Similarly, he predicted in 2010 that Barack Obama would win re-election in 2012, a prediction made when Obama's job approval ratings were below 50 percent . When the keys model was first developed, it was for predicting the national popular vote. In 1999, Lichtman predicted a win for Al Gore in 2000, and Gore did win the popular vote . (Republican nominee George W . Bush won the Electoral College and thus became president, after the recount in Florida was halted by the Bush v. Gore decision of the Supreme Court. Lichtman has stated that Gore was the legitimate winner, but that the election was "stolen" by the Supreme Court and by irregularities in Florida. )  Lichtman has been credited with a correct prediction for 2000 based on the popular vote [204]. Lichtman has explained that, in advance of the 2016 election, he switched to predicting the electoral vote, because demographic shifts created millions of "wasted" Democratic votes in New York and California. Accordingly, in interviews in September and October of 2016, he predicted a victory for Donald Trump and did not refer to the popular vote . Trump did become president despite losing the popular vote . Lichtman has been credited with a correct prediction for 2016 by The New York Times,  The Guardian,  The Washington Post,  Wisconsin Public Radio,  The Arizona Republic,  Washingtonian,  and Brandeis University [3]. Lichtman's predictions were correct for eight of the remaining nine elections in the period from 1984-2024 (those in which the popular vote and the electoral vote coincided),  but he incorrectly predicted that Kamala Harris would win the 2024 election,  which was instead won by Trump. [10]. At the 2020 conference of the American Political Science Association, a panel on "The 2020 Election: Forecasts from Three Classic Models" included a presentation from Lichtman on the keys as one of the three such “classic” forecasting models. 
+
+## Criticism
+
+### Prediction of popular vote
+
+Lars Emerson and Michael Lovito, two reporters and alumni of American University where Lichtman teaches, argue that Lichtman rewrote history around his 2016 prediction "to obfuscate that his model only predicted the popular vote, which Trump lost". Nate Silver also wrote that Lichtman predicted that Trump would win the popular vote and said nothing about the Electoral College [11]. Gilad Edelman of The Atlantic noted Lichtman's defence that he had changed his methodology in 2016, but questioned why Lichtman would change his methodology to account for a change in margin between popular vote and electoral college that hadn't happened yet. Edelman also labelled it odd that Lichtman would wait to announce his new methodology until after the election [7]. 
+
+### Methodology
+
+James E. Campbell, a professor of political science at the University at Buffalo, has criticized the keys for their subjectivity, noting that they are often judged "in the eye of the beholder."  In 2011, following Lichtman's call that President Barack Obama would win re-election in 2012, Megan McArdle criticized Lichtman's subjectivity in applying the keys and their reliance on retrospective perception [11]. As an example, McArdle applied them to Herbert Hoover in 1932, writing, "Unlike the economic models that rely on external metrics, perception is doing a lot of the work here. Do we count Obama's stimulus but not Hoover's?" . Statistician Nate Silver has also criticised the subjectivity of certain keys, particularly candidate charisma. He has further argued that several other keys, such as long-term economic growth, could be examples of data dredging or overfitting, and expressed concern that " [i]t’s less that he has discovered the right set of keys than that he’s a locksmith and can keep minting new keys until he happens to open all 38 doors" . Silver also noted that only two of the keys are based on economic factors despite the economy being a primary concern of a majority of voters. Julia Azari, a professor at Marquette University, believes the keys are useful as a starting point for assessment of the race, but that they do not constitute a "model."  Lichtman has vigorously defended against these assertions [11]. 
+
+### Accuracy and usefulness
+
+Emerson and Lovito have suggested that the keys are no more accurate than the polls, noting that " [i]f you took whoever led in the polls from every election from 1984 to 2020 and predicted they would win, you would have predicted 9/10 elections correctly, which is the exact same record Lichtman can claim." [11]. Silver has pointed to historical data to critique the accuracy of Lichtman's model, showing that the margin of victory or defeat can vary significantly for elections with the same number of false keys. For instance, in the elections of 1880, 1924, 1972, and 2004, each had four false keys against the incumbent party, for which the model predicts a 6.45 point win, yet the winning margins in each election were 0.09 points (1880), 25.22 points (1924), 23.15 points (1972), and 2.46 points (2004).. Similarly, in the 1960 election, there were nine false keys against the incumbent Republicans, for which the model predicts a landslide loss of 11 points. However, Republican nominee Richard Nixon lost by only 0.17 points to Democratic nominee John F. Kennedy. Silver also noted that the 1932 election had eight false keys for the incumbent Republicans, predicting a 7.51 point loss, but President Herbert Hoover lost by 17.76 points in a landslide defeat to Franklin D . Roosevelt.. Silver calculated that as of 2020, the model's predictions for popular vote margins had a mean error of ±5.94 points, with a 95% confidence interval of ±15.43 points, and an R-squared value of 56.78%. Notably, the 95% confidence interval was exceeded in the 1912, 1920, 1924, and 1972 elections, with errors of 18.14 points, 18.66 points, 18.77 points and 16.7 points respectively.. For Lichtman's predictions between 1984 and 2020, using the popular vote margin gives a mean error for the system of ±3.69 points, with the 95% confidence interval for the popular vote margin being ±8.61 points. No election during this period exceeded the 95% confidence interval, with the largest error being 6.08 points in the 2012 election. The R-squared value for this period was 70.56%. Lichtman responded to Silver's critiques, stating that the keys system is grounded in a theoretical model and is not the result of random data-mining. He also stated that the model is designed to predict the winner of the election, not the margin of victory or defeat, which accounts for its "flattening" of landslide victories, such as those in 1912, 1920, 1924, 1932, and 1972. Lichtman likened Silver's criticism to "critiquing a pregnancy test, not for its failure to detect pregnancies, but for its failure to determine the day of conception.". Lichtman further defended the use of only two keys that are directly based on the economy, pointing out that economic factors can indirectly trigger other keys. For instance, the Great Depression not only turned both economy keys false for President Hoover, but also led to widespread social unrest, a significant loss of House seats for Hoover's Republicans in the 1930 midterms, and the nomination of a charismatic challenger in Franklin D. Roosevelt. Additionally, in his response, Lichtman noted that the system can be used to predict the two-party vote for the incumbent party. As of the 2020 election, the model's predictions for the two-party vote had a mean error of ±3.29 points, with a 95% confidence interval of ±8.99 points and an R-squared value of 51.82%. The 95% confidence interval was exceeded in the 1912, 1920, and 1924 elections, with errors of 13.88 points, 9.69 points, and 12.02 points, respectively.. For Lichtman's predictions between 1984 and 2020, using the two-party vote resulted in a mean error of ±1.95 points, with a 95% confidence interval of ±4.56 points. No election during this period exceeded the 95% confidence interval, with the largest error being 3.37 points in the 1996 election. The R-squared value for this period was 68.72%.. 
+
+# External links
+
+"13 Keys To The White House (July 2024 Update)" video. 
+
+# References
+
+[2] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[47] [ERROR retrieving ref link]
+[48] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[52] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[54] [ERROR retrieving ref link]
+[55] [ERROR retrieving ref link]
+[56] [ERROR retrieving ref link]
+[57] [ERROR retrieving ref link]
+[58] [ERROR retrieving ref link]
+[59] [ERROR retrieving ref link]
+[60] [ERROR retrieving ref link]
+[61] [ERROR retrieving ref link]
+[62] [ERROR retrieving ref link]
+[63] [ERROR retrieving ref link]
+[64] [ERROR retrieving ref link]
+[65] [ERROR retrieving ref link]
+[66] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[68] [ERROR retrieving ref link]
+[69] [ERROR retrieving ref link]
+[70] [ERROR retrieving ref link]
+[71] [ERROR retrieving ref link]
+[72] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[74] [ERROR retrieving ref link]
+[75] [ERROR retrieving ref link]
+[76] [ERROR retrieving ref link]
+[77] [ERROR retrieving ref link]
+[78] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[80] [ERROR retrieving ref link]
+[81] [ERROR retrieving ref link]
+[82] [ERROR retrieving ref link]
+[83] [ERROR retrieving ref link]
+[84] [ERROR retrieving ref link]
+[85] [ERROR retrieving ref link]
+[86] [ERROR retrieving ref link]
+[87] [ERROR retrieving ref link]
+[88] [ERROR retrieving ref link]
+[89] [ERROR retrieving ref link]
+[90] [ERROR retrieving ref link]
+[91] [ERROR retrieving ref link]
+[92] [ERROR retrieving ref link]
+[93] [ERROR retrieving ref link]
+[94] [ERROR retrieving ref link]
+[95] [ERROR retrieving ref link]
+[96] [ERROR retrieving ref link]
+[97] [ERROR retrieving ref link]
+[98] [ERROR retrieving ref link]
+[99] [ERROR retrieving ref link]
+[100] [ERROR retrieving ref link]
+[101] [ERROR retrieving ref link]
+[102] [ERROR retrieving ref link]
+[103] [ERROR retrieving ref link]
+[104] [ERROR retrieving ref link]
+[105] [ERROR retrieving ref link]
+[106] [ERROR retrieving ref link]
+[107] [ERROR retrieving ref link]
+[108] [ERROR retrieving ref link]
+[109] [ERROR retrieving ref link]
+[110] [ERROR retrieving ref link]
+[111] [ERROR retrieving ref link]
+[112] [ERROR retrieving ref link]
+[113] [ERROR retrieving ref link]
+[114] [ERROR retrieving ref link]
+[115] [ERROR retrieving ref link]
+[116] [ERROR retrieving ref link]
+[117] [ERROR retrieving ref link]
+[118] [ERROR retrieving ref link]
+[119] [ERROR retrieving ref link]
+[120] [ERROR retrieving ref link]
+[121] [ERROR retrieving ref link]
+[122] [ERROR retrieving ref link]
+[123] [ERROR retrieving ref link]
+[124] [ERROR retrieving ref link]
+[125] [ERROR retrieving ref link]
+[126] [ERROR retrieving ref link]
+[127] [ERROR retrieving ref link]
+[128] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[130] [ERROR retrieving ref link]
+[131] [ERROR retrieving ref link]
+[132] [ERROR retrieving ref link]
+[133] [ERROR retrieving ref link]
+[134] [ERROR retrieving ref link]
+[135] [ERROR retrieving ref link]
+[136] [ERROR retrieving ref link]
+[137] [ERROR retrieving ref link]
+[138] [ERROR retrieving ref link]
+[139] [ERROR retrieving ref link]
+[140] [ERROR retrieving ref link]
+[141] [ERROR retrieving ref link]
+[142] [ERROR retrieving ref link]
+[143] [ERROR retrieving ref link]
+[159] [ERROR retrieving ref link]
+[160] [ERROR retrieving ref link]
+[161] [ERROR retrieving ref link]
+[162] [ERROR retrieving ref link]
+[163] [ERROR retrieving ref link]
+[164] [ERROR retrieving ref link]
+[166] [ERROR retrieving ref link]
+[167] [ERROR retrieving ref link]
+[168] [ERROR retrieving ref link]
+[169] [ERROR retrieving ref link]
+[170] [ERROR retrieving ref link]
+[171] [ERROR retrieving ref link]
+[172] [ERROR retrieving ref link]
+[173] [ERROR retrieving ref link]
+[174] [ERROR retrieving ref link]
+[175] [ERROR retrieving ref link]
+[176] [ERROR retrieving ref link]
+[177] [ERROR retrieving ref link]
+[179] [ERROR retrieving ref link]
+[180] [ERROR retrieving ref link]
+[181] [ERROR retrieving ref link]
+[182] [ERROR retrieving ref link]
+[183] [ERROR retrieving ref link]
+[184] [ERROR retrieving ref link]
+[185] [ERROR retrieving ref link]
+[186] [ERROR retrieving ref link]
+[188] [ERROR retrieving ref link]
+[189] [ERROR retrieving ref link]
+[191] [ERROR retrieving ref link]
+[194] [ERROR retrieving ref link]
+[1] https://web.archive.org/web/20090412014749/http://earthquake.usgs.gov/eqcenter/eqinthenews/2004/KB_prediction.html
+[3] https://www.usatoday.com/story/news/politics/elections/2024/05/08/allan-lichtman-2024-election-professor-predicted-president/73613080007/
+[4] https://www.theguardian.com/us-news/2024/apr/26/allan-lichtman-prediction-presidential-election
+[5] https://whowhatwhy.org/podcast/an-election-prophecy-how-13-keys-unlock-presidential-election-outcomes/
+[6] https://alumni.brandeis.edu/news-events/news-archive/2020-10-07-lichtman-allan-election.html
+[7] https://www.usatoday.com/story/graphics/2024/09/29/allan-lichtman-election-prediction-system-explained/75352476007/
+[8] https://www.theatlantic.com/ideas/archive/2024/10/allan-lichtman-election-win/680258/
+[9] https://www.usatoday.com/story/news/politics/elections/2024/11/03/allan-lichtman-nate-silver-election/75993624007/
+[10] https://pubsonline.informs.org/do/10.1287/LYTX.2016.04.01/full/
+[11] https://www.washingtonian.com/2024/11/06/allan-lichtman-i-am-going-to-take-some-time-off-to-assess-why-i-was-wrong/
+[12] https://www.newsweek.com/allan-lichtman-keys-model-criticism-explained-1937114
+[13] https://www.american.edu/cas/news/13-keys-election-prediction.cfm
+[14] https://www.american.edu/cas/news/13-keys-to-the-white-house.cfm
+[15] [ERROR retrieving ref link]
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC349231
+[19] https://www.youtube.com/watch?v=6LF52ZT4txE
+[20] [ERROR retrieving ref link]
+[21] [ERROR retrieving ref link]
+[22] https://www.npr.org/sections/itsallpolitics/2012/11/09/164711093/what-earthquakes-can-teach-us-about-elections
+[23] [ERROR retrieving ref link]
+[24] [ERROR retrieving ref link]
+[25] https://www.youtube.com/live/mdTpvk67es0?t=3145s
+[26] https://archive.nytimes.com/www.nytimes.com/library/politics/camp/200613convention-gop-ra.html
+[27] https://uselectionatlas.org/RESULTS/compare.php?type=national&year=2020&f=0&off=0&elect=0
+[28] [ERROR retrieving ref link]
+[29] https://www.washingtonpost.com/news/the-fix/wp/2016/09/23/trump-is-headed-for-a-win-says-professor-whos-predicted-30-years-of-presidential-outcomes-correctly/
+[30] [ERROR retrieving ref link]
+[31] https://www.washingtonpost.com/archive/business/1992/12/23/1990-91-recession-is-officially-over-panel-declares/df7687f0-71b5-4099-8a56-6b74211fdb3f/
+[32] https://www.seattletimes.com/business/economy/its-the-economy-stupid-and-the-bad-luck-of-george-h-w-bush/
+[33] https://thehill.com/business/3579988-is-there-a-recession-only-the-national-bureau-of-economic-research-gets-to-decide/
+[34] https://www.nber.org/news/business-cycle-dating-committee-announcement-december-22-1992
+[35] [ERROR retrieving ref link]
+[36] https://www.usatoday.com/story/news/politics/elections/2024/09/22/allan-lichtman-predictions-2024-election/75293062007/
+[37] [ERROR retrieving ref link]
+[38] https://www.usatoday.com/story/news/politics/elections/2020/08/05/professor-allan-lichtman-predicts-joe-biden-beat-donald-trump/3304680001/
+[39] https://www.usatoday.com/story/news/world/2020/05/31/george-floyd-international-protests/5300108002/
+[40] [ERROR retrieving ref link]
+[41] [ERROR retrieving ref link]
+[42] [ERROR retrieving ref link]
+[43] [ERROR retrieving ref link]
+[44] [ERROR retrieving ref link]
+[45] https://www.youtube.com/watch?v=a89KuOM3vVA
+[144] http://vvhs.vviewisd.net/ourpages/auto/2013/3/20/58198633/keys%20to%20the%20white%20house.doc
+[145] https://www.youtube.com/watch?v=Cr08toe52tE&t=32m2s
+[146] [ERROR retrieving ref link]
+[147] http://www.socialstudies.org/sites/default/files/publications/se/6307/630705.html
+[148] https://www.usccr.gov/pubs/vote2000/report/appendix/app10.htm
+[149] https://www.youtube.com/watch?t=2826&v=aeKDz0eV76E&feature=youtu.be
+[150] https://www.youtube.com/watch?t=2967&v=Df1hKRei62E&feature=youtu.be
+[151] https://www.washingtonpost.com/news/the-fix/wp/2016/09/23/trump-is-headed-for-a-win-says-professor-whos-predicted-30-years-of-presidential-outcomes-correctly/
+[152] [ERROR retrieving ref link]
+[153] https://www.ingentaconnect.com/content/ncss/se/2016/00000080/00000005/art00003
+[154] https://www.youtube.com/live/WuOkzSI9ySo?si=3mnx3cFECZZWfC2N
+[155] https://www.newsweek.com/allan-lichtman-election-prediction-assessment-kamala-harris-2024-1982610
+[156] https://www.youtube.com/watch?v=mp_Uuz9k7Os
+[157] [ERROR retrieving ref link]
+[158] https://web.archive.org/web/20170619073023/https://www.american.edu/media/news/092616-13-keys-prediction.cfm
+[165] https://www.washingtonpost.com/archive/business/1992/12/23/1990-91-recession-is-officially-over-panel-declares/df7687f0-71b5-4099-8a56-6b74211fdb3f/
+[178] https://www.historynewsnetwork.org/article/assuming-historys-a-good-guide-trumps-going-to-win
+[187] https://www.nytimes.com/2020/08/05/opinion/2020-election-prediction-allan-lichtman.html
+[190] https://www.youtube.com/watch?v=OGjuweWtu9Q&t=1865s
+[192] https://www.youtube.com/watch?v=okYUg_Dx1iU
+[193] https://www.cnn.com/2024/11/08/politics/video/allan-lichtman-wrong-prediction-keys-election-digvid
+[195] https://www.nytimes.com/2024/09/05/opinion/allan-lichtman-trump-harris-prediction.html
+[196] https://economictimes.indiatimes.com/news/international/us/polling-nostradamus-allan-lichtman-gets-death-threats-after-predicting-the-2024-u-s-elections-wrong-there-were-two-break-in-attempts-on-his-home/articleshow/115192540.cms
+[197] https://www.washingtonpost.com/news/the-fix/wp/2016/12/31/the-professor-who-called-the-2016-election-was-a-giant-internet-sensation/
+[198] https://www.britannica.com/topic/Keys-to-the-White-House-1688399
+[199] http://www.aolnews.com/article/professors-13-keys-predict-obama-will-get-re-elected/19550593
+[200] [ERROR retrieving ref link]
+[201] http://www.fec.gov/pubrec/2000presgeresults.htm
+[202] https://www.youtube.com/watch?v=D57mZejswkI
+[203] https://www.washingtonian.com/2019/11/14/allan-lichtman-predicted-impeachment-and-trumps-2016-victory-what-else-does-he-know/
+[204] https://alumni.brandeis.edu/news-events/news-archive/2020-10-07-lichtman-allan-election.html
+[205] https://www.nytimes.com/2020/08/05/opinion/2020-election-prediction-allan-lichtman.html
+[206] https://www.wpr.org/history/historian-who-correctly-predicted-every-presidential-election-1984-makes-2020-pick
+[207] https://www.azcentral.com/story/news/politics/elections/2024/09/17/historian-has-correctly-guessed-9-of-past-10-elections-who-will-win/75250684007/
+[208] https://connect.apsanet.org/apsa2020/theme-panels/
+[209] https://x.com/NateSilver538/status/1839746172879073378
+[210] https://www.theatlantic.com/politics/archive/2011/08/how-do-obamas-re-election-chances-stack-up-to-hoovers/244368/
+[211] https://fivethirtyeight.com/features/despite-keys-obama-is-no-lock/
+[212] [ERROR retrieving ref link]
+[213] https://fivethirtyeight.com/features/despite-keys-obama-is-no-lock/
+[214] https://archive.nytimes.com/fivethirtyeight.blogs.nytimes.com/2011/09/12/keys-to-the-white-house-historian-responds/

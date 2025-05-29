@@ -1,0 +1,1283 @@
+{
+  "title": "Narwhal",
+  "url": "https://en.wikipedia.org/wiki/Narwhal",
+  "summary": "The narwhal (Monodon monoceros) is a species of toothed whale native to the Arctic. It is the only member of the genus Monodon and one of two living representatives of the family Monodontidae. The narwhal is a stocky cetacean with a relatively blunt snout, a large melon, and a shallow ridge in place of a dorsal fin. Males of this species have a large (1.5\u20133.0 m (4 ft 11 in \u2013 9 ft 10 in)) long tusk, which is a protruding left canine thought to function as a weapon, a tool for feeding, in attracting mates or sensing water salinity. Specially adapted slow-twitch muscles, along with the jointed neck vertebrae and shallow dorsal ridge allow for easy movement through the Arctic environment, where the narwhal spends extended periods at great depths. The narwhal's geographic range overlaps with that of the similarly built and closely related beluga whale, and the animals are known to interbreed.\nNarwhals inhabits the Arctic waters of Canada, Greenland and Russia. Every year, they migrate to ice-free summering grounds, usually in shallow waters, and often return to the same sites in subsequent years. Their diet mainly consists of polar and Arctic cod, Greenland halibut, cuttlefish, shrimp, and armhook squid. Diving to depths of up to 2,370 m (7,780 ft), the narwhal is among the deepest-diving cetaceans. The animals typically travel in groups of three to eight, with aggregations of up to 1,000 occurring in the summer months. Narwhals mate among the offshore pack ice from March to May, and the young are born between July and August of the following year. When communicating amongst themselves, narwhals use a variety of clicks, whistles and knocks.\nThere are an estimated 170,000 living narwhals, and the species is listed as being of least concern by the International Union for Conservation of Nature (IUCN). The population is threatened by the effects of climate change, such as reduction in ice cover and human activities such as pollution and hunting. Narwhals have been hunted for thousands of years by Inuit in northern Canada and Greenland for meat and ivory, and regulated subsistence hunting continues to this day.",
+  "content": [
+    {
+      "section_title": "Taxonomy",
+      "section_content": [
+        {
+          "sentence": "The narwhal was scientifically described by Carl Linnaeus in his 1758 publication Systema Naturae",
+          "refs": []
+        },
+        {
+          "sentence": "The word \"narwhal\" comes from the Old Norse n\u00e1rhval, meaning 'corpse-whale', which possibly refers to the animal's grey, mottled skin and its habit of remaining motionless when at the water's surface, a behaviour known as \"logging\" that usually happens in the summer",
+          "refs": [
+            "https://gdz.sub.uni-goettingen.de/id/PPN362053006?tify=%7B%22pages%22%3A%5B78%2C79%5D%2C%22pan%22%3A%7B%22x%22%3A1.154%2C%22y%22%3A0.647%7D%2C%22view%22%3A%22scan%22%2C%22zoom%22%3A0.498%7D"
+          ]
+        },
+        {
+          "sentence": "The scientific name, Monodon monoceros, is derived from Ancient Greek, meaning 'single-tooth single-horn'",
+          "refs": [
+            "http://www.dfo-mpo.gc.ca/science/publications/uww-msm/pdf/narwhal-narval-eng.pdf",
+            "ISBN: 87-7975-299-3"
+          ]
+        },
+        {
+          "sentence": "The narwhal is most closely related to the beluga whale (Delphinapterus leucas)",
+          "refs": []
+        },
+        {
+          "sentence": "Together, these two species comprise the only extant members of the family Monodontidae, sometimes referred to as the \"white whales\"",
+          "refs": []
+        },
+        {
+          "sentence": "[citation needed] Monodontids are distinguished by their pronounced melons (acoustic sensory organs), short snouts and the absence of a true dorsal fin",
+          "refs": []
+        },
+        {
+          "sentence": "Although the narwhal and beluga are classified as separate genera, there is some evidence of interbreeding between the two",
+          "refs": []
+        },
+        {
+          "sentence": "Most prominent are the remains of a whale, described by marine zoologists as unlike any known species, which were found in West Greenland around 1990",
+          "refs": []
+        },
+        {
+          "sentence": "It had features midway between a narwhal and a beluga, indicating that the remains belonged to a hybrid between the two species (a 'narluga');  this was confirmed by a 2019 DNA analysis",
+          "refs": [
+            "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.1993.tb00454.x"
+          ]
+        },
+        {
+          "sentence": "Whether the hybrid itself could breed remains unknown",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586676"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Evolution",
+          "section_content": [
+            {
+              "sentence": "Results of a genetic study reveal that porpoises and monodontids are closely related, forming a separate clade which diverged from other dolphins about 11 million years ago (mya)",
+              "refs": []
+            },
+            {
+              "sentence": "A 2018 molecular analysis of monodontid fossils indicates that they separated from Phocoenidae (porpoises) around 10.82 to 20.12 mya, and they are considered to be sister taxa",
+              "refs": [
+                "https://www.sciencedirect.com/science/article/pii/S1055790399907510"
+              ]
+            },
+            {
+              "sentence": "A later phylogenetic study conducted in 2020 suggested that the narwhal split from the beluga whale around 4.98 mya, based on data from mitochondrial DNA",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131972"
+              ]
+            },
+            {
+              "sentence": "The fossil species Casatia thermophila of early Pliocene central Italy was described as a possible narwhal ancestor when it was discovered in 2019",
+              "refs": []
+            },
+            {
+              "sentence": "Bohaskaia, Denebola and Haborodelphis are other extinct genera known from the Pliocene of the United States",
+              "refs": []
+            },
+            {
+              "sentence": "Fossil evidence shows that prehistoric monodontids lived in tropical waters",
+              "refs": [
+                "https://www.tandfonline.com/doi/full/10.1080/02724634.2019.1645148",
+                "https://www.tandfonline.com/doi/full/10.1080/02724634.2012.641705",
+                "https://onlinelibrary.wiley.com/doi/10.1002/spp2.1244"
+              ]
+            },
+            {
+              "sentence": "They may have migrated to Arctic and subarctic waters in response to changes in the marine food chain",
+              "refs": []
+            },
+            {
+              "sentence": "The following phylogenetic tree is based on a 2019 study of the family Monodontidae",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Description",
+      "section_content": [
+        {
+          "sentence": "The narwhal has a robust body with a short, blunt snout, small upcurved flippers, and convex to concave tail flukes",
+          "refs": []
+        },
+        {
+          "sentence": "Adults measure 3.0 to 5.5\u00a0m (9.8 to 18.0\u00a0ft) in length and weigh 800 to 1,600\u00a0kg (1,800 to 3,500\u00a0lb)",
+          "refs": []
+        },
+        {
+          "sentence": "Male narwhals attain sexual maturity at 12 to 20 years of age, reaching a length of 3.5 to 4.0\u00a0m (11.5 to 13.1\u00a0ft)",
+          "refs": [
+            "https://books.google.com/books?id=GNBwQgAACAAJ",
+            "https://doi.org/10.2307/3503952",
+            "https://books.google.com/books?id=sc-cBAAAQBAJ&dq=Narwhals+have+short+bodies&pg=PA172"
+          ]
+        },
+        {
+          "sentence": "Females reach sexual maturity at a younger age, between 8 and 9 years old, when they are about 3.4\u00a0m (11\u00a0ft) long",
+          "refs": []
+        },
+        {
+          "sentence": "On average, males are about 70\u00a0cm (28\u00a0in) longer and more than 75% heavier than females",
+          "refs": [
+            "https://dx.doi.org/10.1093/jmammal/gyv110"
+          ]
+        },
+        {
+          "sentence": "The colouration of the narwhal consists of a mottled pattern, with blackish-brown markings over a white background",
+          "refs": []
+        },
+        {
+          "sentence": "At birth, the skin is light grey, and when sexually mature, white patches grow on the navel and genital slit;  such whitening occurs throughout life, resulting in aged narwhals being almost purely white",
+          "refs": [
+            "ISBN: 87-7975-299-3"
+          ]
+        },
+        {
+          "sentence": "Unlike most whales, the narwhal has a shallow dorsal ridge, rather than a dorsal fin, possibly an evolutionary adaptation to make swimming under ice easier or to facilitate rolling",
+          "refs": [
+            "https://books.google.com/books?id=sc-cBAAAQBAJ&dq=Narwhals+have+short+bodies&pg=PA172"
+          ]
+        },
+        {
+          "sentence": "The neck vertebrae are also jointed, instead of being fused as in most whales, which allows for a greater range of neck flexibility",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2238733"
+          ]
+        },
+        {
+          "sentence": "These characteristics are shared by the beluga whale",
+          "refs": []
+        },
+        {
+          "sentence": "Furthermore, male and female narwhals have differently shaped tail flukes; the former are bent inward, while the latter are swept back on the front margins",
+          "refs": [
+            "http://archive.org/details/walkersmarinemam0000nowa"
+          ]
+        },
+        {
+          "sentence": "This is thought to be an adaptation for reducing drag caused by the tusk",
+          "refs": []
+        },
+        {
+          "sentence": "The skeletal muscles of narwhals are highly adapted for prolonged periods of deep-sea foraging",
+          "refs": []
+        },
+        {
+          "sentence": "During such activities, oxygen is reserved in the muscles, which are typically slow-twitch, enabling greater endurance and manouverability",
+          "refs": []
+        },
+        {
+          "sentence": "Narwhals also have a comparatively high amount of myoglobin in their body, which helps to facilitate deeper dives",
+          "refs": [
+            "https://dx.doi.org/10.1242/jeb.228049"
+          ]
+        },
+        {
+          "sentence": "It has a dense layer of blubber, around 50 to 100\u00a0mm (2.0 to 3.9\u00a0in) thick",
+          "refs": [
+            "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2010.00408.x"
+          ]
+        },
+        {
+          "sentence": "This fat accounts for a third of the body mass and helps insulate from cold ocean temperatures",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Tusk and dentition",
+          "section_content": [
+            {
+              "sentence": "The most conspicuous trait of male narwhals is a long, spiralled tusk, which is a canine tooth that projects from the left side of the upper jaw",
+              "refs": []
+            },
+            {
+              "sentence": "Both sexes have a pair of tusks embedded in the upper jaw, which in males erupt from the lip somewhere between two and three years of age",
+              "refs": [
+                "https://books.google.com/books?id=sc-cBAAAQBAJ&dq=Narwhals+have+short+bodies&pg=PA172",
+                "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.22886"
+              ]
+            },
+            {
+              "sentence": "The tusk grows throughout the animal's life, reaching lengths of 1.5 to 3\u00a0m (4\u00a0ft 11\u00a0in to 9\u00a0ft 10\u00a0in)",
+              "refs": [
+                "https://books.google.com/books?id=sc-cBAAAQBAJ&dq=Narwhals+have+short+bodies&pg=PA172"
+              ]
+            },
+            {
+              "sentence": "It is hollow and weighs up to 7.45\u00a0kg (16.4\u00a0lb)",
+              "refs": [
+                "https://www.sciencedirect.com/science/article/pii/S0960982221002256",
+                "https://books.google.com/books?id=lfYlEAAAQBAJ&dq=narwhal+weight&pg=PA436",
+                "https://polarresearch.net/index.php/polar/article/view/2584"
+              ]
+            },
+            {
+              "sentence": "Some males may grow two tusks, occurring when the right canine also protrudes through the lip",
+              "refs": []
+            },
+            {
+              "sentence": "Females rarely grow tusks: when they do, the tusks are typically smaller than those of males, with less noticeable spirals",
+              "refs": [
+                "https://polarresearch.net/index.php/polar/article/view/2584",
+                "https://escholarship.mcgill.ca/concern/theses/q237hs40f"
+              ]
+            },
+            {
+              "sentence": "Current scientific consensus indicates that narwhal tusks are secondary sexual characteristics which indicate social status",
+              "refs": []
+            },
+            {
+              "sentence": "Further functions of the narwhal tusk are debated: while some biologists suggest that narwhals use their tusks in fights, others argue that they may be of use in feeding",
+              "refs": []
+            },
+            {
+              "sentence": "The tusk is also a highly innervated sensory organ with millions of nerve endings, allowing the narwhal to sense temperature variability in its surroundings",
+              "refs": [
+                "https://doi.org/10.1007%2F978-3-031-35651-3_3"
+              ]
+            },
+            {
+              "sentence": "These nerves may also be able to detect changes in particle concentration and water pressure",
+              "refs": [
+                "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.22886"
+              ]
+            },
+            {
+              "sentence": "According to Dr",
+              "refs": [
+                "https://www.nytimes.com/2005/12/13/science/its-sensitive-really.html?_r=0",
+                "https://www.independent.co.uk/news/science/scientists-solve-the-mystery-of-the-narwhals-tusk-9202935.html"
+              ]
+            },
+            {
+              "sentence": "Martin Nweeia, male narwhals may rid themselves of encrustations on their tusks by rubbing them together, as opposed to posturing displays of aggressive male-to-male rivalry",
+              "refs": []
+            },
+            {
+              "sentence": "Drone footage from August 2016 in Tremblay Sound, Nunavut, revealed that narwhals used their tusks to tap and stun small Arctic cod, making them easier to catch for feeding",
+              "refs": [
+                "https://www.nytimes.com/2005/12/13/science/its-sensitive-really.html?_r=0",
+                "https://www.independent.co.uk/news/science/scientists-solve-the-mystery-of-the-narwhals-tusk-9202935.html"
+              ]
+            },
+            {
+              "sentence": "Females, who usually do not have tusks, live longer than males, hence the tusk cannot be essential to the animal's survival",
+              "refs": [
+                "https://doi.org/10.1007%2F978-3-031-35651-3_3",
+                "https://nationalpost.com/news/canada/drone-shot-video-may-have-just-solved-400-year-debate-over-what-narwhal-tusks-are-used-for"
+              ]
+            },
+            {
+              "sentence": "It is generally accepted that the primary function of the narwhal tusk is associated with sexual selection",
+              "refs": []
+            },
+            {
+              "sentence": "Alongside its tusk, the narwhal has a single pair of small vestigial teeth that reside in open tooth sockets in the upper jaw",
+              "refs": []
+            },
+            {
+              "sentence": "These teeth, which differ in form and composition, encircle the exposed tooth sockets laterally, posteriorly, and ventrally",
+              "refs": []
+            },
+            {
+              "sentence": "Vestigial teeth in male narwhals are commonly shed in the palate",
+              "refs": [
+                "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.22886",
+                "http://insider.si.edu/2012/04/for-dentist-the-narwhals-smile-is-a-mystery-of-evolution/"
+              ]
+            },
+            {
+              "sentence": "The varied morphology and anatomy of small teeth indicate a path of evolutionary obsolescence",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Distribution",
+      "section_content": [
+        {
+          "sentence": "The narwhal is found in the Atlantic and Russian areas of the Arctic Ocean",
+          "refs": []
+        },
+        {
+          "sentence": "Individuals are commonly recorded in the Canadian Arctic Archipelago,   such as in the northern part of Hudson Bay, in Hudson Strait, in Baffin Bay, off the east coast of Greenland and in a strip running east from the northern end of Greenland to eastern Russia (170\u00b0 east)",
+          "refs": [
+            "https://www.sciencedirect.com/science/article/pii/B9780128043271000133",
+            "https://septentrio.uit.no/index.php/NAMMCOSP/article/view/2838"
+          ]
+        },
+        {
+          "sentence": "Land in this strip includes Svalbard, Franz Joseph Land and Severnaya Zemlya",
+          "refs": []
+        },
+        {
+          "sentence": "The northernmost sightings of narwhals occurred north of Franz Joseph Land, at about 85\u00b0 north",
+          "refs": [
+            "ISBN: 87-7975-299-3"
+          ]
+        },
+        {
+          "sentence": "There are an estimated 12,500 narwhals in the northern Hudson Bay, whereas around 140,000 reside in Baffin Bay",
+          "refs": [
+            "ISBN: 87-7975-299-3"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Migration",
+          "section_content": [
+            {
+              "sentence": "Narwhals exhibit seasonal migration, with a high fidelity of return to preferred ice-free summering grounds, usually in shallow waters",
+              "refs": []
+            },
+            {
+              "sentence": "In summer months, they move closer to the coast, often in pods of 10\u2013100 individuals",
+              "refs": []
+            },
+            {
+              "sentence": "In the winter, they move to deeper waters offshore, under thick pack ice, surfacing in narrow fissures or in wider fractures known as leads",
+              "refs": []
+            },
+            {
+              "sentence": "As spring comes, these leads open up into channels and the narwhals return to the coastal bays",
+              "refs": [
+                "ISBN: 87-7975-299-3",
+                "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2005.tb01207.x"
+              ]
+            },
+            {
+              "sentence": "Narwhals in Baffin Bay typically travel to northern Canada and Greenland between June and September",
+              "refs": [
+                "http://doi.wiley.com/10.1890/06-0546.1",
+                "http://archive.org/details/natureofarcticwh0000pain"
+              ]
+            },
+            {
+              "sentence": "After this period, they travel about 1,700 kilometres (1,100\u00a0mi) south to the Davis Strait, and stay there until April",
+              "refs": []
+            },
+            {
+              "sentence": "During winter, narwhals from Canada and West Greenland regularly visit the pack ice of the Davis Strait and Baffin Bay along the continental slope which contains less than 5% open water and hosts a high density of Greenland halibut",
+              "refs": [
+                "http://www.nrcresearchpress.com/doi/10.1139/cjz-2016-0178"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Behaviour and ecology",
+      "section_content": [
+        {
+          "sentence": "Narwhals normally congregate in groups of three to eight individuals",
+          "refs": []
+        },
+        {
+          "sentence": "Groups may be \"nurseries\" with only females and young, or can contain only juveniles or adult males (\"bulls\"); mixed groups can occur at any time of year",
+          "refs": []
+        },
+        {
+          "sentence": "In the summer, several groups come together, forming larger aggregations which can contain 500 to over 1,000 individuals",
+          "refs": [
+            "http://archive.org/details/walkersmarinemam0000nowa",
+            "https://doi.org/10.2307/3503952",
+            "http://archive.org/details/encyclopediaofno0000beer"
+          ]
+        },
+        {
+          "sentence": "Male narwhals have been observed rubbing each other's tusks, a behaviour known as \"tusking\"",
+          "refs": [
+            "https://books.google.com/books?id=GNBwQgAACAAJ",
+            "https://books.google.com/books?id=sc-cBAAAQBAJ&dq=Narwhals+have+short+bodies&pg=PA172"
+          ]
+        },
+        {
+          "sentence": "When in their wintering waters, narwhals make some of the deepest dives recorded for cetaceans, diving to at least 800\u00a0m (2,620\u00a0ft) over 15 times per day, with many dives reaching 1,500\u00a0m (4,920\u00a0ft)",
+          "refs": []
+        },
+        {
+          "sentence": "The greatest dive depth recorded is 2,370\u00a0m (7,780\u00a0ft)",
+          "refs": [
+            "https://www.int-res.com/abstracts/meps/v261/p269-281/",
+            "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011EO090009"
+          ]
+        },
+        {
+          "sentence": "Dives last up to 25 minutes, and vary in depth depending on the season and local variation between environments",
+          "refs": [
+            "https://www.int-res.com/abstracts/meps/v261/p269-281/",
+            "ISBN: 978-3319982786"
+          ]
+        },
+        {
+          "sentence": "For example, in the Baffin Bay wintering grounds, narwhals tend to dive deep within the steep coasts, typically south of Baffin Bay",
+          "refs": []
+        },
+        {
+          "sentence": "This suggests differences in habitat structure, prey availability, or genetic adaptations between subpopulations",
+          "refs": []
+        },
+        {
+          "sentence": "In the northern wintering grounds, narwhals do not dive as deep as the southern population, in spite of greater water depths in these areas",
+          "refs": []
+        },
+        {
+          "sentence": "This is mainly attributed to prey being concentrated nearer to the surface, which causes narwhals to alter their foraging strategies",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Diet",
+          "section_content": [
+            {
+              "sentence": "Narwhals have a restricted and specialised diet",
+              "refs": []
+            },
+            {
+              "sentence": "Due to the lack of well-developed dentition, narwhals are believed to feed by swimming close to prey and sucking them into the mouth",
+              "refs": [
+                "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2005.tb01207.x",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596713"
+              ]
+            },
+            {
+              "sentence": "A study of the stomach contents of 73 narwhals found Arctic cod (Boreogadus saida) to be the most commonly consumed prey, followed by Greenland halibut (Reinhardtius hippoglossoides)",
+              "refs": [
+                "https://doi.org/10.1186%2Fs40317-023-00325-2"
+              ]
+            },
+            {
+              "sentence": "Large quantities of Boreo-Atlantic armhook squid (Gonatus fabricii) were also discovered",
+              "refs": []
+            },
+            {
+              "sentence": "Male specimens had a higher likelihood of showing two additional prey species within their stomach contents: polar cod (Arctogadus glacialis) and redfish (Sebastes marinus), both of which are found at depths of more than 500\u00a0m (1,600\u00a0ft)",
+              "refs": []
+            },
+            {
+              "sentence": "The study also concluded that the size of prey did not differ between genders or age groups",
+              "refs": []
+            },
+            {
+              "sentence": "Other items found within narwhal stomach contents include wolffish, capelin, skate eggs and sometimes rocks",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/1982CaJZ...60.3353F"
+              ]
+            },
+            {
+              "sentence": "Narwhal diet varies between seasons",
+              "refs": []
+            },
+            {
+              "sentence": "In winter, narwhals feed on demersal prey, mostly flatfish, under dense pack ice",
+              "refs": []
+            },
+            {
+              "sentence": "During the summer, they eat mostly Arctic cod and Greenland halibut, with other fish such as polar cod making up the remainder of their diet",
+              "refs": []
+            },
+            {
+              "sentence": "Narwhals consume more food in the winter months than they do in summer",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/1982CaJZ...60.3353F"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Breeding",
+          "section_content": [
+            {
+              "sentence": "Most female narwhals reproduce by the time they are six to eight years old",
+              "refs": []
+            },
+            {
+              "sentence": "Courtship and mating behaviour for the species has been recorded from March to May, when they live among offshore pack ice, and is thought to involve a dominant male mating with several partners",
+              "refs": [
+                "http://www.dfo-mpo.gc.ca/science/publications/uww-msm/pdf/narwhal-narval-eng.pdf"
+              ]
+            },
+            {
+              "sentence": "The average gestation period lasts 15 months, and births appear to be most frequent between July and August",
+              "refs": []
+            },
+            {
+              "sentence": "Female narwhals have a birth interval of around 2\u20133 years",
+              "refs": []
+            },
+            {
+              "sentence": "As with most marine mammals, only a single calf is born, averaging 1.5\u00a0m (4.9\u00a0ft) in length with white or light grey pigmentation",
+              "refs": [
+                "https://dx.doi.org/10.1093/jmammal/gyv110",
+                "https://books.google.com/books?id=QynOriR1MxEC&dq=Narwhal+reproduction&pg=PA85",
+                "https://doi.org/10.1007%2F978-3-031-35651-3_1"
+              ]
+            },
+            {
+              "sentence": "Summer population surveys along different coastal inlets of Baffin Island found that calf numbers varied from 0.05% of 35,000 in Admiralty Inlet, to 5% of 10,000 total in Eclipse Sound",
+              "refs": [
+                "https://books.google.com/books?id=ASIVAAAAIAAJ&dq=Narwhal+reproduction&pg=PA213",
+                "https://www.sciencedirect.com/science/article/pii/B9780123735539001942"
+              ]
+            },
+            {
+              "sentence": "These findings suggest that higher calf counts may reflect calving and nursery habitats in favourable inlets",
+              "refs": []
+            },
+            {
+              "sentence": "Newborn calves begin their lives with a thin layer of blubber",
+              "refs": []
+            },
+            {
+              "sentence": "The blubber thickens as they nurse their mother's milk, which is rich in fat; calves are dependent on milk for about 20 months",
+              "refs": []
+            },
+            {
+              "sentence": "This long lactation period gives calves time to learn the skills they will need to survive as they mature",
+              "refs": [
+                "https://books.google.com/books?id=GNBwQgAACAAJ",
+                "https://www.int-res.com/abstracts/meps/v668/p163-175/"
+              ]
+            },
+            {
+              "sentence": "Narwhals are among the few animals that undergo menopause and live for decades after they have finished breeding",
+              "refs": [
+                "https://www.newscientist.com/article/dn28729-elusive-narwhal-babies-spotted-gathering-at-canadian-nursery/",
+                "https://www.int-res.com/abstracts/meps/v668/p163-175/"
+              ]
+            },
+            {
+              "sentence": "Females in this phase may continue to protect calves in the pod",
+              "refs": []
+            },
+            {
+              "sentence": "A 2024 study concluded that five species of toothed whale evolved menopause to acquire higher overall longevity, although their reproductive periods did not change",
+              "refs": [
+                "https://dx.doi.org/10.1093/jmammal/gyv110",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10954554"
+              ]
+            },
+            {
+              "sentence": "To explain this, scientists hypothesised that calves of these species require the assistance of (post-)menopausal females for an enhanced chance at survival, as they are extremely difficult for a single female to successfully rear",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Communication",
+          "section_content": [
+            {
+              "sentence": "Like most toothed whales, narwhals use sound to navigate and hunt for food",
+              "refs": []
+            },
+            {
+              "sentence": "They primarily vocalise through clicks, whistles and knocks, created by air movement between chambers near the blowhole",
+              "refs": []
+            },
+            {
+              "sentence": "The frequency of these sounds ranges from 0.3 to 125 hertz, while those used for echolocation typically fall between 19 and 48 hertz",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5999075",
+                "https://www.sciencedirect.com/science/article/pii/B978012815160000013X"
+              ]
+            },
+            {
+              "sentence": "Sounds are reflected off the sloping front of the skull and focused by the animal's melon: a mass of fat which can be controlled through surrounding musculature",
+              "refs": [
+                "https://books.google.com/books?id=z9B-DwAAQBAJ&dq=Narwhal+reproduction&pg=PA161",
+                "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.1995.tb00672.x"
+              ]
+            },
+            {
+              "sentence": "Echolocation clicks are used for detecting prey and locating barriers at short distances",
+              "refs": [
+                "https://www.sciencedirect.com/science/article/pii/B978012815160000013X",
+                "https://doi.org/10.3390%2Fsu132413997"
+              ]
+            },
+            {
+              "sentence": "Whistles and throbs are most commonly used to communicate with other pod members",
+              "refs": [
+                "https://www.sciencedirect.com/science/article/pii/B978012815160000013X",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8589986"
+              ]
+            },
+            {
+              "sentence": "Calls recorded from the same pod are more similar than calls from different pods, suggesting the possibility of group- or individual-specific calls",
+              "refs": [
+                "https://www.sciencedirect.com/science/article/pii/B978012815160000013X",
+                "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2011.00514.x"
+              ]
+            },
+            {
+              "sentence": "Narwhals sometimes adjust the duration and pitch of their pulsed calls to maximise sound propagation in varying acoustic environments",
+              "refs": []
+            },
+            {
+              "sentence": "Other sounds produced by narwhals include trumpeting and \"squeaking-door sounds\"",
+              "refs": [
+                "ISBN: 87-7975-299-3",
+                "https://dx.doi.org/10.1121/1.2226586"
+              ]
+            },
+            {
+              "sentence": "The narwhal vocal repertoire is similar to that of the beluga whale",
+              "refs": [
+                "http://www.dfo-mpo.gc.ca/science/publications/uww-msm/pdf/narwhal-narval-eng.pdf"
+              ]
+            },
+            {
+              "sentence": "However, the frequency ranges, durations, and repetition rates of narwhal clicks differ from those of belugas",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Longevity and mortality factors",
+          "section_content": [
+            {
+              "sentence": "Age determination techniques using the number of periosteum layers in the lower jaw reveal that narwhals live an average of 50 years, though techniques using amino acid dating from the lens of the eyes suggest that female narwhals can reach 115\u00a0\u00b1\u00a010 years and male narwhals can live to 84\u00a0\u00b1\u00a09 years",
+              "refs": []
+            },
+            {
+              "sentence": "Death by suffocation often occurs when narwhals fail to migrate before the Arctic freezes over in late autumn",
+              "refs": []
+            },
+            {
+              "sentence": "This is known as \"sea-ice entrapment\"",
+              "refs": []
+            },
+            {
+              "sentence": "Narwhals drown if open water is no longer accessible and ice is too thick for them to break through",
+              "refs": [
+                "https://books.google.com/books?id=GNBwQgAACAAJ",
+                "https://doi.org/10.1007/s00300-011-1036-8"
+              ]
+            },
+            {
+              "sentence": "Breathing holes in ice may be up to 1,450\u00a0m (4,760\u00a0ft) apart, which limits the use of foraging grounds",
+              "refs": []
+            },
+            {
+              "sentence": "These holes must be at least 0.5\u00a0m (1.6\u00a0ft) wide to allow an adult whale to breathe",
+              "refs": []
+            },
+            {
+              "sentence": "Narwhals also die of starvation from entrapment events",
+              "refs": [
+                "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2010.00408.x"
+              ]
+            },
+            {
+              "sentence": "In 1914\u20131915, around 1,000 narwhal carcasses were discovered after entrapment events, most occurring in areas such as Disko Bay in West Greenland",
+              "refs": []
+            },
+            {
+              "sentence": "Several cases of sea entrapment were recorded in 2008\u20132010, during the Arctic winter, including in some places where such events had never been recorded before",
+              "refs": [
+                "https://www.jstor.org/stable/207815"
+              ]
+            },
+            {
+              "sentence": "This suggests later departure dates from summering grounds",
+              "refs": [
+                "https://doi.org/10.1007/s00300-011-1036-8"
+              ]
+            },
+            {
+              "sentence": "Wind and currents move sea ice from adjacent locations to Greenland, leading to fluctuations in concentration",
+              "refs": []
+            },
+            {
+              "sentence": "Due to their tendency of returning to the same areas, changes in weather and ice conditions are not always associated with narwhal movement toward open water",
+              "refs": []
+            },
+            {
+              "sentence": "It is currently unclear to what extent sea ice changes pose a danger to narwhals",
+              "refs": []
+            },
+            {
+              "sentence": "Narwhals are preyed upon by polar bears and orcas",
+              "refs": []
+            },
+            {
+              "sentence": "In some instances, the former have been recorded waiting at breathing holes for young narwhals, while the latter were observed surrounding and killing entire narwhal pods",
+              "refs": []
+            },
+            {
+              "sentence": "To escape predators such as orcas, narwhals may use prolonged submersion to hide under ice floes rather than relying on speed",
+              "refs": [
+                "https://books.google.com/books?id=GNBwQgAACAAJ",
+                "https://books.google.com/books?id=2rkHQpToi9sC&q=narwhals+attacked+by+polar+bears&pg=PA929",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310332",
+                "https://www.pbs.org/wnet/nature/invasion-killer-whales-killer-whales-attack-pod-narwhals/11165/"
+              ]
+            },
+            {
+              "sentence": "Researchers found bacteria of the Brucella genus in the bloodstreams of numerous narwhals throughout the course of a 19-year study",
+              "refs": []
+            },
+            {
+              "sentence": "They were also recorded with whale lice species such as Cyamus monodontis and Cyamus nodosus",
+              "refs": []
+            },
+            {
+              "sentence": "Other pathogens that affect narwhals include Toxoplasma gondii, morbillivirus, and papillomavirus",
+              "refs": []
+            },
+            {
+              "sentence": "In 2018, a female narwhal was recorded with an alphaherpesvirus in her system",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10385039"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Conservation",
+      "section_content": [
+        {
+          "sentence": "The narwhal is listed as a species of least concern by the IUCN Red List",
+          "refs": []
+        },
+        {
+          "sentence": "As of 2017, the global population is estimated to be 123,000 mature individuals out of a total of 170,000",
+          "refs": []
+        },
+        {
+          "sentence": "There were about 12,000 narwhals in Northern Hudson Bay in 2011, and around 49,000 near Somerset Island in 2013",
+          "refs": []
+        },
+        {
+          "sentence": "There are approximately 35,000 in Admiralty Inlet, 10,000 in Eclipse Sound, 17,000 in Eastern Baffin Bay, and 12,000 in Jones Sound",
+          "refs": []
+        },
+        {
+          "sentence": "Population numbers in Smith Sound, Inglefield Bredning and Melville Bay are 16,000, 8,000 and 3,000, respectively",
+          "refs": []
+        },
+        {
+          "sentence": "There are roughly 800 narwhals in the waters off Svalbard",
+          "refs": []
+        },
+        {
+          "sentence": "In the 1972 Marine Mammal Protection Act, the United States banned imports of products made from narwhal parts",
+          "refs": []
+        },
+        {
+          "sentence": "They are listed on Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and Convention on the Conservation of Migratory Species of Wild Animals (CMS)",
+          "refs": [
+            "https://www.iucnredlist.org/species/13704/50367651"
+          ]
+        },
+        {
+          "sentence": "These committees restrict international trading of live animals and their body parts, as well as implementing sustainable action plans",
+          "refs": []
+        },
+        {
+          "sentence": "The species is classified as special concern under the Committee on the Status of Endangered Wildlife in Canada (COSEWIC), which aims to classify the risk levels of species in the country",
+          "refs": [
+            "https://www.iucnredlist.org/species/13704/50367651",
+            "https://cites.org/eng/app/appendices.php",
+            "https://www.cms.int/sites/default/files/publication/fact_sheet_narwhal_climate_change.pdf"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Threats",
+          "section_content": [
+            {
+              "sentence": "Narwhals are hunted for their skin, meat, teeth, tusks and carved vertebrae, which are commercially traded",
+              "refs": []
+            },
+            {
+              "sentence": "About 1,000 narwhals are killed per year: 600 in Canada and 400 in Greenland",
+              "refs": []
+            },
+            {
+              "sentence": "Canadian catches were steady at this level in the 1970s, dropped to 300\u2013400 per year in the late 1980s and 1990s and have risen again since 1999",
+              "refs": []
+            },
+            {
+              "sentence": "Greenland caught more, 700\u2013900 per year, in the 1980s and 1990s",
+              "refs": []
+            },
+            {
+              "sentence": "In Canada and Greenland, Narwhal tusks are sold both carved and uncarved",
+              "refs": []
+            },
+            {
+              "sentence": "Per hunted narwhal, an average of one to two vertebrae and teeth are sold",
+              "refs": [
+                "https://library.wur.nl/WebQuery/wurpubs/437695",
+                "https://www.npr.org/2009/08/19/111980557/inuit-hunters-help-scientists-track-narwhals",
+                "https://tidsskrift.dk/meddrgroenland_biosci/article/view/142541"
+              ]
+            },
+            {
+              "sentence": "In Greenland, the skin (muktuk) is sold commercially to fish factories,  and in Canada to other communities",
+              "refs": [
+                "https://library.wur.nl/WebQuery/wurpubs/437695",
+                "https://tidsskrift.dk/meddrgroenland_biosci/article/view/142541"
+              ]
+            },
+            {
+              "sentence": "Based on an analysis of 2007 narwhal hunts in Hudson Bay, a 2013 paper estimated that gross revenue per narwhal was CA$6,542 (US$6,091)",
+              "refs": [
+                "https://library.wur.nl/WebQuery/wurpubs/437695"
+              ]
+            },
+            {
+              "sentence": "Hunts receive subsidies, but they continue mainly to support tradition, rather than for profit",
+              "refs": []
+            },
+            {
+              "sentence": "Economic analysis noted that whale watching may be an alternate source of revenue",
+              "refs": []
+            },
+            {
+              "sentence": "As narwhals grow, bioaccumulation of heavy metals takes place within their bodies",
+              "refs": []
+            },
+            {
+              "sentence": "It is thought that pollution in the ocean is the primary cause of bioaccumulation in marine mammals; this may lead to health problems for the narwhal population",
+              "refs": [
+                "http://www.nrcresearchpress.com/doi/10.1139/f83-326"
+              ]
+            },
+            {
+              "sentence": "When bioaccumulating, numerous metals appear in the blubber, liver, kidney and musculature",
+              "refs": [
+                "https://www.taylorfrancis.com/chapters/edit/10.1201/9780203165577-11/heavy-metals-marine-mammals-krishna-das-virginie-debacker-st%C3%A9phane-pillet-jean-marie-bouquegneau"
+              ]
+            },
+            {
+              "sentence": "A study found that the blubber was nearly devoid of these metals, whereas the liver and kidneys had a dense concentration of them",
+              "refs": []
+            },
+            {
+              "sentence": "Relative to the liver, the kidney has a greater concentration of zinc and cadmium, while lead, copper and mercury were not nearly as abundant",
+              "refs": []
+            },
+            {
+              "sentence": "Individuals of different weight and sex showed differences in the concentration of metals in their organs",
+              "refs": []
+            },
+            {
+              "sentence": "Narwhals are one of the Arctic marine mammals most vulnerable to climate change due to sea ice decline,  especially in their northern wintering grounds such as the Baffin Bay and Davis Strait regions",
+              "refs": [
+                "http://doi.wiley.com/10.1890/06-0546.1"
+              ]
+            },
+            {
+              "sentence": "Satellite data collected from these areas shows the amount of sea ice has been markedly reduced from what it was previously",
+              "refs": []
+            },
+            {
+              "sentence": "It is thought that narwhals' foraging ranges reflect patterns they acquired early in life, which improves their capacity to obtain the food supplies they need for the winter",
+              "refs": [
+                "https://www.int-res.com/abstracts/meps/v423/p269-278/"
+              ]
+            },
+            {
+              "sentence": "This strategy focuses on strong site fidelity rather than individual-level responses to local prey distribution, resulting in focal foraging areas during the winter",
+              "refs": []
+            },
+            {
+              "sentence": "As such, despite changing conditions, narwhals will continue to return to the same areas during migration",
+              "refs": []
+            },
+            {
+              "sentence": "Reduction in sea ice has possibly led to an increased exposure to predation",
+              "refs": []
+            },
+            {
+              "sentence": "In 2002, hunters in Siorapaluk experienced an increase in the number of caught narwhals, but this increase did not seem to be linked to enhanced endeavour,  implying that climate change may be making the narwhal more vulnerable to hunting",
+              "refs": [
+                "https://doi.org/10.1007/s12526-010-0061-0"
+              ]
+            },
+            {
+              "sentence": "Scientists recommend assessing population numbers, assigning sustainable quotas, and ensuring local acceptance of sustainable development",
+              "refs": []
+            },
+            {
+              "sentence": "Seismic surveys associated with oil exploration disrupt the narwhal's normal migration patterns",
+              "refs": []
+            },
+            {
+              "sentence": "These disturbed migrations may also be associated with increased sea ice entrapment",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Relationship with humans",
+      "section_content": [
+        {
+          "sentence": "Narwhals have coexisted alongside circumpolar peoples for millennia",
+          "refs": []
+        },
+        {
+          "sentence": "Their long, distinctive tusks were often held with fascination throughout human history",
+          "refs": [
+            "ISBN: 87-7975-299-3"
+          ]
+        },
+        {
+          "sentence": "These tusks were prized for their supposed healing powers, and were worn on staffs and thrones",
+          "refs": [
+            "https://web.archive.org/web/20240902234055/https://www.canada.ca/errors/404.html"
+          ]
+        },
+        {
+          "sentence": "Depictions of narwhals in paintings such as The Lady and the Unicorn have found a prevalent place in human arts",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Inuit",
+          "section_content": [
+            {
+              "sentence": "Narwhals have been hunted by Inuit to the same extent as other sea mammals, such as seals and whales",
+              "refs": []
+            },
+            {
+              "sentence": "Almost all parts of the narwhal\u2014the meat, skin, blubber and organs\u2014are consumed",
+              "refs": []
+            },
+            {
+              "sentence": "Muktuk, the raw skin and attached blubber, is considered a delicacy",
+              "refs": []
+            },
+            {
+              "sentence": "As a custom, one or two vertebrae per animal are used for tools and art",
+              "refs": []
+            },
+            {
+              "sentence": "The skin is an important source of vitamin C, which is otherwise difficult to obtain in the Arctic Circle",
+              "refs": [
+                "ISBN: 87-7975-299-3",
+                "https://library.wur.nl/WebQuery/wurpubs/437695"
+              ]
+            },
+            {
+              "sentence": "In some places in Greenland, such as Qaanaaq, traditional hunting methods are used and whales are harpooned from handmade kayaks",
+              "refs": []
+            },
+            {
+              "sentence": "In other parts of Greenland and Northern Canada, high-speed boats and hunting rifles are used",
+              "refs": []
+            },
+            {
+              "sentence": "In Inuit legend, the narwhal's tusk was created when a woman with harpoon rope tied around her waist was dragged into the ocean after the harpoon had stuck into a large narwhal",
+              "refs": []
+            },
+            {
+              "sentence": "She was then transformed into a narwhal; her hair, which she was wearing in a twisted knot, became the spiralling narwhal tusk",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Tusk trade",
+          "section_content": [
+            {
+              "sentence": "In Europe, narwhal tusks were highly sought-after for centuries",
+              "refs": []
+            },
+            {
+              "sentence": "This stems from a medieval belief that narwhal tusks were the horns of the legendary unicorn",
+              "refs": []
+            },
+            {
+              "sentence": "Considered to have magical properties, narwhal tusks were used to counter poisoning, and all sorts of diseases such as measles and rubella",
+              "refs": [
+                "https://aa.uwpress.org/content/44/1/12",
+                "https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/abs/narwhals-or-unicorns-exotic-animals-as-material-culture-in-medieval-europe/23DAD0724CE1D3C55A34950AE30E6BDF",
+                "ISBN: 0-942299-91-4"
+              ]
+            },
+            {
+              "sentence": "The rise of modern science towards the end of the 17th century led to a decreased belief in magic and alchemy",
+              "refs": [
+                "https://books.google.com/books?id=ttB1DQAAQBAJ&dq=info:mS3yEjef_cEJ:scholar.google.com/&pg=PA101",
+                "https://books.google.com/books?id=NU9dAVCb2UsC",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7946245"
+              ]
+            },
+            {
+              "sentence": "After the unicorn notion was scientifically refuted, narwhal tusks were rarely employed for magical purposes",
+              "refs": []
+            },
+            {
+              "sentence": "According to some theories, Vikings and Greenland Norse began trade of narwhal tusks, which, via European channels, would later reach markets in the Middle East and East Asia",
+              "refs": []
+            },
+            {
+              "sentence": "The idea that Norsemen hunted narwhals was once held, but was never confirmed and is now considered improbable",
+              "refs": []
+            },
+            {
+              "sentence": "Narwhal tusks were given as state gifts to kings and queens throughout medieval Europe, with the price of narwhal tusks said to have been a couple of hundred times greater than their weight in gold during the 18th and 19th centuries",
+              "refs": [
+                "https://bioone.org/journals/anthropozoologica/volume-53/issue-1/anthropozoologica2018v53a14/When-ivory-came-from-the-seas-On-some-traits-of/10.5252/anthropozoologica2018v53a14.full",
+                "https://doi.org/10.3390%2Fheritage5040199"
+              ]
+            },
+            {
+              "sentence": "Ivan the Terrible had a jewellery-covered narwhal tusk on his deathbed,  while Elizabeth I received a narwhal tusk allegedly valued at \u00a310,000 pounds sterling from the privateer Martin Frobisher",
+              "refs": [
+                "https://doi.org/10.1146%2Fannurev-animal-021122-112307",
+                "https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/abs/narwhals-or-unicorns-exotic-animals-as-material-culture-in-medieval-europe/23DAD0724CE1D3C55A34950AE30E6BDF",
+                "https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/abs/narwhals-or-unicorns-exotic-animals-as-material-culture-in-medieval-europe/23DAD0724CE1D3C55A34950AE30E6BDF"
+              ]
+            },
+            {
+              "sentence": "Both items were staples in cabinets of curiosities",
+              "refs": [
+                "https://books.google.com/books?id=n2-sBwAAQBAJ&pg=PA476"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "References",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "1": "https://dx.doi.org/10.5962/bhl.title.57425",
+    "2": "https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=64546&is_real_user=1",
+    "3": "https://www.iucnredlist.org/species/13704/50367651",
+    "4": "https://cites.org/eng/app/appendices.php",
+    "5": "https://gdz.sub.uni-goettingen.de/id/PPN362053006?tify=%7B%22pages%22%3A%5B78%2C79%5D%2C%22pan%22%3A%7B%22x%22%3A1.154%2C%22y%22%3A0.647%7D%2C%22view%22%3A%22scan%22%2C%22zoom%22%3A0.498%7D",
+    "6": "http://www.dfo-mpo.gc.ca/science/publications/uww-msm/pdf/narwhal-narval-eng.pdf",
+    "7": "ISBN: 87-7975-299-3",
+    "8": "https://books.google.com/books?id=7MVHakLeewQC&pg=PA854",
+    "9": "https://archive.org/details/encyclopediaofma00mals_0/page/200",
+    "10": "http://archive.org/details/walkersmarinemam0000nowa",
+    "11": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.1993.tb00454.x",
+    "12": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586676",
+    "13": "https://www.livescience.com/65757-first-beluga-narwhal-hybrid.html",
+    "14": "https://www.sciencedirect.com/science/article/pii/S1055790399907510",
+    "15": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131972",
+    "16": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211449",
+    "17": "https://www.tandfonline.com/doi/full/10.1080/02724634.2019.1645148",
+    "18": "https://www.tandfonline.com/doi/full/10.1080/02724634.2012.641705",
+    "19": "https://onlinelibrary.wiley.com/doi/10.1002/spp2.1244",
+    "20": "https://books.google.com/books?id=GNBwQgAACAAJ",
+    "21": "https://doi.org/10.2307/3503952",
+    "22": "https://books.google.com/books?id=sc-cBAAAQBAJ&dq=Narwhals+have+short+bodies&pg=PA172",
+    "23": "https://dx.doi.org/10.1093/jmammal/gyv110",
+    "24": "https://dx.doi.org/10.1111/j.1469-7998.1989.tb02576.x",
+    "25": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2238733",
+    "26": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2010.00439.x",
+    "27": "https://dx.doi.org/10.1242/jeb.228049",
+    "28": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2010.00408.x",
+    "29": "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.20541",
+    "30": "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.22886",
+    "31": "https://www.sciencedirect.com/science/article/pii/S0960982221002256",
+    "32": "https://books.google.com/books?id=lfYlEAAAQBAJ&dq=narwhal+weight&pg=PA436",
+    "33": "https://polarresearch.net/index.php/polar/article/view/2584",
+    "34": "https://escholarship.mcgill.ca/concern/theses/q237hs40f",
+    "35": "https://doi.org/10.33265%2Fpolar.v41.8343",
+    "36": "https://doi.org/10.1007%2F978-3-031-35651-3_3",
+    "37": "https://www.nytimes.com/2005/12/13/science/its-sensitive-really.html?_r=0",
+    "38": "https://www.independent.co.uk/news/science/scientists-solve-the-mystery-of-the-narwhals-tusk-9202935.html",
+    "39": "https://nationalpost.com/news/canada/drone-shot-video-may-have-just-solved-400-year-debate-over-what-narwhal-tusks-are-used-for",
+    "40": "https://onlinelibrary.wiley.com/doi/10.1111/mms.12165",
+    "41": "http://insider.si.edu/2012/04/for-dentist-the-narwhals-smile-is-a-mystery-of-evolution/",
+    "42": "https://dx.doi.org/10.1002/ar.22449",
+    "43": "https://www.sciencedirect.com/science/article/pii/B9780128043271000133",
+    "44": "https://septentrio.uit.no/index.php/NAMMCOSP/article/view/2838",
+    "45": "http://www.nrcresearchpress.com/doi/10.1139/cjz-2016-0178",
+    "46": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2005.tb01207.x",
+    "47": "http://doi.wiley.com/10.1890/06-0546.1",
+    "48": "http://archive.org/details/natureofarcticwh0000pain",
+    "49": "https://dx.doi.org/10.1016/j.icesjms.2004.02.002",
+    "50": "http://archive.org/details/encyclopediaofno0000beer",
+    "51": "http://oceanexplorer.noaa.gov/explorations/06arctic/background/biology/biology.html",
+    "52": "https://www.int-res.com/abstracts/meps/v261/p269-281/",
+    "53": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011EO090009",
+    "54": "ISBN: 978-3319982786",
+    "55": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596713",
+    "56": "https://doi.org/10.1186%2Fs40317-023-00325-2",
+    "57": "https://ui.adsabs.harvard.edu/abs/1982CaJZ...60.3353F",
+    "58": "https://books.google.com/books?id=QynOriR1MxEC&dq=Narwhal+reproduction&pg=PA85",
+    "59": "https://doi.org/10.1007%2F978-3-031-35651-3_1",
+    "60": "https://books.google.com/books?id=ASIVAAAAIAAJ&dq=Narwhal+reproduction&pg=PA213",
+    "61": "https://www.sciencedirect.com/science/article/pii/B9780123735539001942",
+    "62": "https://www.newscientist.com/article/dn28729-elusive-narwhal-babies-spotted-gathering-at-canadian-nursery/",
+    "63": "https://www.int-res.com/abstracts/meps/v668/p163-175/",
+    "64": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10954554",
+    "65": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5999075",
+    "66": "https://www.sciencedirect.com/science/article/pii/B978012815160000013X",
+    "67": "https://books.google.com/books?id=z9B-DwAAQBAJ&dq=Narwhal+reproduction&pg=PA161",
+    "68": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.1995.tb00672.x",
+    "69": "https://doi.org/10.3390%2Fsu132413997",
+    "70": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8589986",
+    "71": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-7692.2011.00514.x",
+    "72": "https://dx.doi.org/10.1121/1.2226586",
+    "73": "https://doi.org/10.1007/s00300-022-03008-5",
+    "74": "https://dx.doi.org/10.1644/06-mamm-a-056r.1",
+    "75": "https://doi.org/10.1007/s00300-011-1036-8",
+    "76": "https://www.jstor.org/stable/207815",
+    "77": "https://books.google.com/books?id=rdRFAAAAYAAJ",
+    "78": "https://books.google.com/books?id=2rkHQpToi9sC&q=narwhals+attacked+by+polar+bears&pg=PA929",
+    "79": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310332",
+    "80": "https://www.pbs.org/wnet/nature/invasion-killer-whales-killer-whales-attack-pod-narwhals/11165/",
+    "81": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10385039",
+    "82": "https://www.int-res.com/abstracts/dao/v154/p131-139/",
+    "83": "https://www.cms.int/sites/default/files/publication/fact_sheet_narwhal_climate_change.pdf",
+    "84": "http://www.nrcresearchpress.com/doi/10.1139/F09-054",
+    "85": "https://www.biorxiv.org/content/10.1101/059691v4",
+    "86": "https://library.wur.nl/WebQuery/wurpubs/437695",
+    "87": "https://www.npr.org/2009/08/19/111980557/inuit-hunters-help-scientists-track-narwhals",
+    "88": "https://tidsskrift.dk/meddrgroenland_biosci/article/view/142541",
+    "89": "http://www.nrcresearchpress.com/doi/10.1139/f83-326",
+    "90": "https://www.taylorfrancis.com/chapters/edit/10.1201/9780203165577-11/heavy-metals-marine-mammals-krishna-das-virginie-debacker-st%C3%A9phane-pillet-jean-marie-bouquegneau",
+    "91": "https://doi.org/10.1016/j.scitotenv.2004.03.041",
+    "92": "https://www.int-res.com/abstracts/meps/v423/p269-278/",
+    "93": "https://doi.org/10.1007/s12526-010-0061-0",
+    "94": "https://doi.org/10.1016%2Fj.biocon.2012.08.005",
+    "95": "https://web.archive.org/web/20240902234055/https://www.canada.ca/errors/404.html",
+    "96": "https://doi.org/10.1146%2Fannurev-animal-021122-112307",
+    "97": "https://books.google.com/books?id=ttB1DQAAQBAJ&dq=info:mS3yEjef_cEJ:scholar.google.com/&pg=PA101",
+    "98": "https://books.google.com/books?id=IsyQu1kDK-kC",
+    "99": "https://aa.uwpress.org/content/44/1/12",
+    "100": "https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/abs/narwhals-or-unicorns-exotic-animals-as-material-culture-in-medieval-europe/23DAD0724CE1D3C55A34950AE30E6BDF",
+    "101": "ISBN: 0-942299-91-4",
+    "102": "https://books.google.com/books?id=NU9dAVCb2UsC",
+    "103": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7946245",
+    "104": "https://doi.org/10.1093%2Fjsh%2Fshz005",
+    "105": "https://www.jstor.org/stable/3258091",
+    "106": "https://bioone.org/journals/anthropozoologica/volume-53/issue-1/anthropozoologica2018v53a14/When-ivory-came-from-the-seas-On-some-traits-of/10.5252/anthropozoologica2018v53a14.full",
+    "107": "https://doi.org/10.3390%2Fheritage5040199",
+    "108": "https://books.google.com/books?id=n2-sBwAAQBAJ&pg=PA476",
+    "109": "https://www.cambridge.org/core/books/quest-for-the-northwest-passage/ice-and-eskimos-dealing-with-a-new-otherness/661ABBD6CC09480358D68E67B25708D3",
+    "110": "https://www.lyellcollection.org/doi/10.1144/SP452.16"
+  },
+  "flair_entities": [
+    "jones sound",
+    "the lady",
+    "muktuk",
+    "ancient greek",
+    "middle east",
+    "cosewic",
+    "greenland norse",
+    "phocoenidae",
+    "ivan the terrible",
+    "hudson strait",
+    "hudson bay",
+    "narwhal",
+    "inuit",
+    "nunavut",
+    "arctic",
+    "pliocene",
+    "atlantic",
+    "russia",
+    "davis strait",
+    "baffin island",
+    "monodontids",
+    "narwhals",
+    "east asia",
+    "tremblay sound",
+    "cites",
+    "cms",
+    "diet  narwhals",
+    "carl linnaeus",
+    "severnaya zemlya",
+    "monodon",
+    "canada",
+    "smith sound",
+    "boreo-atlantic",
+    "elizabeth i",
+    "convention on the conservation of migratory species of wild animals",
+    "greenland",
+    "cyamus",
+    "denebola",
+    "northern canada",
+    "eclipse sound",
+    "unicorn",
+    "martin frobisher",
+    "european",
+    "boreogadus saida",
+    "arctic ocean",
+    "norsemen",
+    "eastern baffin bay",
+    "convention on international trade in endangered species of wild fauna and flora",
+    "migration  narwhals",
+    "inuit  narwhals",
+    "brucella",
+    "bohaskaia",
+    "qaanaaq",
+    "marine mammal protection act",
+    "disko bay",
+    "iucn",
+    "canadian arctic archipelago",
+    "haborodelphis",
+    "russian",
+    "canadian",
+    "europe",
+    "committee on the status of endangered wildlife in canada",
+    "melville bay",
+    "monodontidae",
+    "inglefield bredning",
+    "svalbard",
+    "west greenland",
+    "systema naturae",
+    "italy",
+    "somerset island",
+    "siorapaluk",
+    "united states",
+    "appendix ii",
+    "iucn red list",
+    "franz joseph land",
+    "admiralty inlet",
+    "martin nweeia",
+    "international union for conservation of nature",
+    "baffin bay",
+    "northern hudson bay",
+    "monodon monoceros",
+    "dna",
+    "vikings",
+    "arctic circle"
+  ]
+}

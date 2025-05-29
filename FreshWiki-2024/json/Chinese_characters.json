@@ -1,0 +1,2638 @@
+{
+  "title": "Chinese_characters",
+  "url": "https://en.wikipedia.org/wiki/Chinese_characters",
+  "summary": "Chinese characters are logographs used to write the Chinese languages and others from regions historically influenced by Chinese culture. Of the four independently invented writing systems accepted by scholars, they represent the only one that has remained in continuous use. Over a documented history spanning more than three millennia, the function, style, and means of writing characters have evolved greatly. Unlike letters in alphabets that reflect the sounds of speech, Chinese characters generally represent morphemes, the units of meaning in a language. Writing all of the frequently used vocabulary in a language requires roughly 2000\u20133000 characters; as of 2024, nearly 100000 have been identified and included in  The Unicode Standard. Characters are created according to several principles, where aspects of shape and pronunciation may be used to indicate the character's meaning.\nThe first attested characters are oracle bone inscriptions made during the 13th century BCE in what is now Anyang, Henan, as part of divinations conducted by the Shang dynasty royal house. Character forms were originally highly pictographic in style, but evolved as writing spread across China. Numerous attempts have been made to reform the script, including the promotion of small seal script by the Qin dynasty (221\u2013206 BCE). Clerical script, which had matured by the early Han dynasty (202 BCE \u2013 220 CE), abstracted the forms of characters\u2014obscuring their pictographic origins in favour of making them easier to write. Following the Han, regular script emerged as the result of cursive influence on clerical script, and has been the primary style used for characters since. Informed by a long tradition of lexicography, states using Chinese characters have standardized their forms: broadly, simplified characters are used to write Chinese in mainland China, Singapore, and Malaysia, while traditional characters are used in Taiwan, Hong Kong, and Macau.\nAfter being introduced in order to write Literary Chinese, characters were often adapted to write local languages spoken throughout the Sinosphere. In Japanese, Korean, and Vietnamese, Chinese characters are known as kanji, hanja, and ch\u1eef H\u00e1n respectively. Writing traditions also emerged for some of the other languages of China, like the sawndip script used to write the Zhuang languages of Guangxi. Each of these written vernaculars used existing characters to write the language's native vocabulary, as well as the loanwords it borrowed from Chinese. In addition, each invented characters for local use. In written Korean and Vietnamese, Chinese characters have largely been replaced with alphabets\u2014leaving Japanese as the only major non-Chinese language still written using them, alongside the other elements of the Japanese writing system.\nAt the most basic level, characters are composed of strokes that are written in a fixed order. Historically, methods of writing characters have included carving stone or bone; brushing ink onto silk, bamboo, or paper; and printing with woodblocks or moveable type. Technologies invented since the 19th century to facilitate the use of characters include telegraph codes and typewriters, as well as input methods and text encodings on computers.",
+  "content": [
+    {
+      "section_title": "Development",
+      "section_content": [
+        {
+          "sentence": "Chinese characters are accepted as representing one of four independent inventions of writing in human history",
+          "refs": []
+        },
+        {
+          "sentence": "[b] In each instance, writing evolved from a system using two distinct types of ideographs\u2014either pictographs visually depicting objects or concepts, or fixed signs representing concepts only by shared convention",
+          "refs": []
+        },
+        {
+          "sentence": "These systems are classified as proto-writing, because the techniques they used were insufficient to carry the meaning of spoken language by themselves",
+          "refs": []
+        },
+        {
+          "sentence": "Various innovations were required for Chinese characters to emerge from proto-writing",
+          "refs": []
+        },
+        {
+          "sentence": "Firstly, pictographs became distinct from simple pictures in use and appearance: for example, the pictograph \u5927, meaning 'large', was originally a picture of a large man, but one would need to be aware of its specific meaning in order to interpret the sequence \u5927\u9e7f as signifying 'large deer', rather than being a picture of a large man and a deer next to one another",
+          "refs": []
+        },
+        {
+          "sentence": "Due to this process of abstraction, as well as to make characters easier to write, pictographs gradually became more simplified and regularized\u2014often to the extent that the original objects represented are no longer obvious",
+          "refs": []
+        },
+        {
+          "sentence": "This proto-writing system was limited to representing a relatively narrow range of ideas with a comparatively small library of symbols",
+          "refs": []
+        },
+        {
+          "sentence": "This compelled innovations that allowed for symbols which indicated elements of spoken language directly",
+          "refs": []
+        },
+        {
+          "sentence": "In each historical case, this was accomplished by some form of the rebus technique, where the symbol for a word is used to indicate a different word with a similar pronunciation, depending on context",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "This allowed for words that lacked a plausible pictographic representation to be written down for the first time",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "This technique preempted more sophisticated methods of character creation that would further expand the lexicon",
+          "refs": []
+        },
+        {
+          "sentence": "The process whereby writing emerged from proto-writing took place over a long period; when the purely pictorial use of symbols disappeared, leaving only those representing spoken words, the process was complete",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Classification",
+      "section_content": [
+        {
+          "sentence": "Chinese characters have been used in several different writing systems throughout history",
+          "refs": []
+        },
+        {
+          "sentence": "A writing system is most commonly defined to include the written symbols themselves, called graphemes\u2014which may include characters, numerals, or punctuation\u2014as well as the rules by which they are used to record language",
+          "refs": []
+        },
+        {
+          "sentence": "Chinese characters are logographs, which are graphemes that represent units of meaning in a language",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Specifically, characters represent a language's morphemes, its most basic units of meaning",
+          "refs": []
+        },
+        {
+          "sentence": "Morphemes in Chinese\u2014and therefore the characters used to write them\u2014are nearly always a single syllable in length",
+          "refs": []
+        },
+        {
+          "sentence": "In some special cases, characters may denote non-morphemic syllables as well; due to this, written Chinese is often characterized as morphosyllabic",
+          "refs": []
+        },
+        {
+          "sentence": "[c] Logographs may be contrasted with letters in an alphabet, which generally represent phonemes, the distinct units of sound used by speakers of a language",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Despite their origins in picture-writing, Chinese characters are no longer ideographs capable of representing ideas directly; their comprehension relies on the reader's knowledge of the particular language being written",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "The areas where Chinese characters were historically used\u2014sometimes collectively termed the Sinosphere\u2014have a long tradition of lexicography attempting to explain and refine their use; for most of history, analysis revolved around a model first popularized in the 2nd-century Shuowen Jiezi dictionary",
+          "refs": []
+        },
+        {
+          "sentence": "More recent models have analysed the methods used to create characters, how characters are structured, and how they function in a given writing system",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Structural analysis",
+          "section_content": [
+            {
+              "sentence": "Most characters can be analysed structurally as compounds made of smaller components (\u90e8\u4ef6; b\u00f9ji\u00e0n), which are often independent characters in their own right, adjusted to occupy a given position in the compound",
+              "refs": []
+            },
+            {
+              "sentence": "Components within a character may serve a specific function: phonetic components provide a hint for the character's pronunciation, and semantic components indicate some element of the character's meaning",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Components that serve neither function may be classified as pure signs with no particular meaning, other than their presence distinguishing one character from another",
+              "refs": []
+            },
+            {
+              "sentence": "A straightforward structural classification scheme may consist of three pure classes of semantographs, phonographs, and signs\u2014having only semantic, phonetic, and form components respectively\u2014as well as classes corresponding to each combination of component types",
+              "refs": []
+            },
+            {
+              "sentence": "Of the 3500 characters that are frequently used in Standard Chinese, pure semantographs are estimated to be the rarest, accounting for about 5% of the lexicon, followed by pure signs with 18%, and semantic\u2013form and phonetic\u2013form compounds together accounting for 19%",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The remaining 58% are phono-semantic compounds",
+              "refs": []
+            },
+            {
+              "sentence": "The 20th-century Chinese palaeographer Qiu Xigui presents three principles of character function adapted from earlier proposals by Tang Lan\u00a0 [zh] and Chen Mengjia,  with semantographs describing all characters whose forms are wholly related to their meaning, regardless of the method by which the meaning was originally depicted, phonographs that include a phonetic component, and loangraphs encompassing existing characters that have been borrowed to write other words",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Qiu also acknowledges the existence of character classes that fall outside of these principles, such as pure signs",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Semantographs",
+          "section_content": [],
+          "subsections": [
+            {
+              "section_title": "Pictographs",
+              "section_content": [
+                {
+                  "sentence": "Most of the oldest characters are pictographs (\u8c61\u5f62; xi\u00e0ngx\u00edng), representational pictures of physical objects",
+                  "refs": []
+                },
+                {
+                  "sentence": "Examples include \u65e5 ('Sun'), \u6708 ('Moon'), and \u6728 ('tree')",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Over time, the forms of pictographs have been simplified in order to make them easier to write",
+                  "refs": []
+                },
+                {
+                  "sentence": "As a result, modern readers generally cannot deduce what many pictographs were originally meant to resemble; without knowing the context of their origin in picture-writing, they may be interpreted instead as pure signs",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "However, if a pictograph's use in compounds still reflects its original meaning, as with \u65e5 in \u6674 ('clear sky'), it can still be analysed as a semantic component",
+                  "refs": []
+                },
+                {
+                  "sentence": "Pictographs have often been extended from their original meanings to take on additional layers of metaphor and synecdoche, which sometimes displace the character's original sense",
+                  "refs": []
+                },
+                {
+                  "sentence": "When this process results in excessive ambiguity between distinct senses written with the same character, it is usually resolved by new compounds being derived to represent particular senses",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Indicatives",
+              "section_content": [
+                {
+                  "sentence": "Indicatives (\u6307\u4e8b; zh\u01d0sh\u00ec), also called simple ideographs or self-explanatory characters,  are visual representations of abstract concepts that lack any tangible form",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Examples include \u4e0a ('up') and \u4e0b ('down')\u2014these characters were originally written as dots placed above and below a line, and later evolved into their present forms with less potential for graphical ambiguity in context",
+                  "refs": []
+                },
+                {
+                  "sentence": "More complex indicatives include \u51f8 ('convex'), \u51f9 ('concave'), and \u5e73 ('flat and level')",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Compound ideographs",
+              "section_content": [
+                {
+                  "sentence": "Compound ideographs (\u4f1a\u610f; \u6703\u610f; hu\u00ecy\u00ec)\u2014also called logical aggregates, associative idea characters, or syssemantographs\u2014combine other characters to convey a new, synthetic meaning",
+                  "refs": []
+                },
+                {
+                  "sentence": "A canonical example is \u660e ('bright'), interpreted as the juxtaposition of the two brightest objects in the sky: \u65e5\u2004'Sun' and \u6708\u2004'Moon', together expressing their shared quality of brightness",
+                  "refs": []
+                },
+                {
+                  "sentence": "Other examples include \u4f11 ('rest'), composed of pictographs \u2f08\u2004'MAN' and \u2f4a\u2004'TREE', and \u597d ('good'), composed of \u2f25\u2004'WOMAN' and \u2f26\u2004'CHILD'",
+                  "refs": []
+                },
+                {
+                  "sentence": "Many traditional examples of compound ideographs are now believed to have actually originated as phono-semantic compounds, made obscure by subsequent changes in pronunciation",
+                  "refs": []
+                },
+                {
+                  "sentence": "For example, the Shuowen Jiezi describes \u4fe1 ('trust') as an ideographic compound of \u2f08\u2004'MAN' and \u2f94\u2004'SPEECH', but modern analyses instead identify it as a phono-semantic compound\u2014though with disagreement as to which component is phonetic",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Peter A",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Boodberg and William G",
+                  "refs": []
+                },
+                {
+                  "sentence": "Boltz go so far as to deny that any compound ideographs were devised in antiquity, maintaining that secondary readings that are now lost are responsible for the apparent absence of phonetic indicators,  but their arguments have been rejected by other scholars",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phonographs",
+          "section_content": [],
+          "subsections": [
+            {
+              "section_title": "Phono-semantic compounds",
+              "section_content": [
+                {
+                  "sentence": "Phono-semantic compounds (\u5f62\u58f0; \u5f62\u8072; x\u00edngsh\u0113ng) are composed of at least one semantic component and one phonetic component",
+                  "refs": []
+                },
+                {
+                  "sentence": "They may be formed by one of several methods, often by adding a phonetic component to disambiguate a loangraph, or by adding a semantic component to represent a specific extension of a character's meaning",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Examples of phono-semantic compounds include \u6cb3 (h\u00e9; 'river'), \u6e56 (h\u00fa; 'lake'), \u6d41 (li\u00fa; 'stream'), \u6c96 (ch\u014dng; 'surge'), and \u6ed1 (hu\u00e1; 'slippery')",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Each of these characters have three short strokes on their left-hand side: \u6c35, a simplified combining form of \u2f54\u2004'WATER'",
+                  "refs": []
+                },
+                {
+                  "sentence": "This component serves a semantic function in each example, indicating the character has some meaning related to water",
+                  "refs": []
+                },
+                {
+                  "sentence": "The remainder of each character is its phonetic component: \u6e56 (h\u00fa) is pronounced identically to \u80e1 (h\u00fa) in Standard Chinese, \u6cb3 (h\u00e9) is pronounced similarly to \u53ef (k\u011b), and \u6c96 (ch\u014dng) is pronounced similarly to \u4e2d (zh\u014dng)",
+                  "refs": []
+                },
+                {
+                  "sentence": "The phonetic components of most compounds may only provide an approximate pronunciation, even before subsequent sound shifts in the spoken language",
+                  "refs": []
+                },
+                {
+                  "sentence": "Some characters may only have the same initial or final sound of a syllable in common with phonetic components",
+                  "refs": []
+                },
+                {
+                  "sentence": "A phonetic series comprises all the characters created using the same phonetic component, which may have diverged significantly in their pronunciations over time",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "For example, \u8336 (ch\u00e1; caa4; 'tea') and \u9014 (t\u00fa; tou4; 'route') are characters in the phonetic series using \u4f59 (y\u00fa; jyu4), a literary first-person pronoun",
+                  "refs": []
+                },
+                {
+                  "sentence": "Their Old Chinese pronunciations were similar, but the phonetic component no longer serves as a useful hint for their pronunciation in modern varieties of Chinese due to subsequent sound shifts\u2014demonstrated here in both their Mandarin and Cantonese readings",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        },
+        {
+          "section_title": "Loangraphs",
+          "section_content": [
+            {
+              "sentence": "The phenomenon of existing characters being adapted to write other words with similar pronunciations was necessary in the initial development of Chinese writing, and has remained common throughout its subsequent history",
+              "refs": []
+            },
+            {
+              "sentence": "Some loangraphs (\u5047\u501f; ji\u01ceji\u00e8; 'borrowing') are introduced to represent words previously lacking a written form\u2014this is often the case with abstract grammatical particles such as \u4e4b and \u5176",
+              "refs": []
+            },
+            {
+              "sentence": "The process of characters being borrowed as loangraphs should not be conflated with the distinct process of semantic extension, where a word acquires additional senses, which often remain written with the same character",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "As both processes often result in a single character form being used to write several distinct meanings, loangraphs are often misidentified as being the result of semantic extension, and vice versa",
+              "refs": []
+            },
+            {
+              "sentence": "Loangraphs are also used to write words borrowed from other languages, such as the Buddhist terminology introduced to China in antiquity, as well as contemporary non-Chinese words and names",
+              "refs": []
+            },
+            {
+              "sentence": "For example, each character in the name \u52a0\u62ff\u5927 (Ji\u0101n\u00e1d\u00e0; 'Canada') is often used as a loangraph for its respective syllable",
+              "refs": []
+            },
+            {
+              "sentence": "However, the barrier between a character's pronunciation and meaning is never total: when transcribing into Chinese, loangraphs are often chosen deliberately as to create certain connotations",
+              "refs": []
+            },
+            {
+              "sentence": "This is regularly done with corporate brand names: for example, Coca-Cola's Chinese name is \u53ef\u53e3\u53ef\u4e50; \u53ef\u53e3\u53ef\u6a02 (K\u011bk\u01d2u K\u011bl\u00e8; 'delicious enjoyable')",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Signs",
+          "section_content": [
+            {
+              "sentence": "Some characters and components are pure signs, whose meaning merely derives from their having a fixed and distinct form",
+              "refs": []
+            },
+            {
+              "sentence": "Basic examples of pure signs are found with the numerals beyond four, e.g",
+              "refs": []
+            },
+            {
+              "sentence": "\u4e94 ('five') and \u516b ('eight'), whose forms do not give visual hints to the quantities they represent",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Traditional Shuowen Jiezi classification",
+          "section_content": [
+            {
+              "sentence": "The Shuowen Jiezi is a character dictionary authored c.\u2009100\u00a0CE by the scholar Xu Shen",
+              "refs": []
+            },
+            {
+              "sentence": "In its postface, Xu analyses what he sees as all the methods by which characters are created",
+              "refs": []
+            },
+            {
+              "sentence": "Later authors iterated upon Xu's analysis, developing a categorization scheme known as the 'six writings' (\u516d\u4e66; \u516d\u66f8; li\u00f9sh\u016b), which identifies every character with one of six categories that had previously been mentioned in the Shuowen Jiezi",
+              "refs": []
+            },
+            {
+              "sentence": "For nearly two millennia, this scheme was the primary framework for character analysis used throughout the Sinosphere",
+              "refs": []
+            },
+            {
+              "sentence": "Xu based most of his analysis on examples of Qin seal script that were written down several centuries before his time\u2014these were usually the oldest specimens available to him, though he stated he was aware of the existence of even older forms",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The first five categories are pictographs, indicatives, compound ideographs, phono-semantic compounds, and loangraphs",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The sixth category is given by Xu as \u8f49\u6ce8 (zhu\u01cenzh\u00f9; 'reversed and refocused'); however, its definition is unclear, and it is generally disregarded by modern scholars",
+              "refs": []
+            },
+            {
+              "sentence": "Modern scholars agree that the theory presented in the Shuowen Jiezi is problematic, failing to fully capture the nature of Chinese writing, both in the present, as well as at the time Xu was writing",
+              "refs": []
+            },
+            {
+              "sentence": "Traditional Chinese lexicography as embodied in the Shuowen Jiezi has suggested implausible etymologies for some characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Moreover, several categories are considered to be ill-defined: for example, it is unclear whether characters like \u5927 ('large') should be classified as pictographs or indicatives",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "However, awareness of the 'six writings' model has remained a common component of character literacy, and often serves as a tool for students memorizing characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "History",
+      "section_content": [
+        {
+          "sentence": "The broadest trend in the evolution of Chinese characters over their history has been simplification, both in graphical shape (\u5b57\u5f62; z\u00ecx\u00edng), the \"external appearances of individual graphs\", and in graphical form (\u5b57\u4f53; \u5b57\u9ad4; z\u00ect\u01d0), \"overall changes in the distinguishing features of graphic [al] shape and calligraphic style, ..",
+          "refs": []
+        },
+        {
+          "sentence": "in most cases refer [ring] to rather obvious and rather substantial changes\"",
+          "refs": []
+        },
+        {
+          "sentence": "The traditional notion of an orderly procession of script styles, each suddenly appearing and displacing the one previous, has been disproven by later scholarship and archaeological work",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Instead, scripts evolved gradually, with several distinct styles often coexisting within a given area",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Traditional invention narrative",
+          "section_content": [
+            {
+              "sentence": "Several of the Chinese classics indicate that knotted cords were used to keep records prior to the invention of writing",
+              "refs": []
+            },
+            {
+              "sentence": "Works that reference the practice include chapter 80 of the Tao Te Ching [B] and the \"Xici\u00a0II\" commentary to the I\u00a0Ching",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "[C] According to one tradition, Chinese characters were invented during the 3rd millennium\u00a0BCE by Cangjie, a scribe of the legendary Yellow Emperor",
+              "refs": []
+            },
+            {
+              "sentence": "Cangjie is said to have invented symbols called \u5b57 (z\u00ec) due to his frustration with the limitations of knotting, taking inspiration from his study of the tracks of animals, landscapes, and the stars in the sky",
+              "refs": []
+            },
+            {
+              "sentence": "On the day that these first characters were created, grain rained down from the sky; that night, the people heard the wailing of ghosts and demons, lamenting that humans could no longer be cheated",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Neolithic precursors",
+          "section_content": [
+            {
+              "sentence": "Collections of graphs and pictures have been discovered at the sites of several Neolithic settlements throughout the Yellow River valley, including Jiahu (c.\u20096500\u00a0BCE), Dadiwan and Damaidi (6th millennium\u00a0BCE), and Banpo (5th millennium\u00a0BCE)",
+              "refs": []
+            },
+            {
+              "sentence": "Symbols at each site were inscribed or drawn onto artefacts, appearing one at a time and without indicating any greater context",
+              "refs": []
+            },
+            {
+              "sentence": "Qiu concludes, \"We simply possess no basis for saying that they were already being used to record language.\"  A historical connection with the symbols used by the late Neolithic Dawenkou culture (c.\u20094300\u00a0\u2013 c.\u20092600\u00a0BCE) in Shandong has been deemed possible by palaeographers, with Qiu concluding that they \"cannot be definitively treated as primitive writing, nevertheless they are symbols which resemble most the ancient pictographic script discovered thus far in China...\u00a0They undoubtedly can be viewed as the forerunners of primitive writing.\"",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Oracle bone script",
+          "section_content": [
+            {
+              "sentence": "The oldest attested Chinese writing comprises a body of inscriptions produced during the Late Shang period (c.\u20091250\u00a0\u2013 1050\u00a0BCE), with the very earliest examples from the reign of Wu Ding dated between 1250 and 1200\u00a0BCE",
+              "refs": []
+            },
+            {
+              "sentence": "Many of these inscriptions were made on oracle bones\u2014usually either ox scapulae or turtle plastrons\u2014and recorded official divinations carried out by the Shang royal house",
+              "refs": [
+                "https://ctext.org/dao-de-jing/ens#n11671"
+              ]
+            },
+            {
+              "sentence": "Contemporaneous inscriptions in a related but distinct style were also made on ritual bronze vessels",
+              "refs": []
+            },
+            {
+              "sentence": "This oracle bone script (\u7532\u9aa8\u6587; ji\u01ceg\u01d4w\u00e9n) was first documented in 1899, after specimens were discovered being sold as \"dragon bones\" for medicinal purposes, with the symbols carved into them identified as early character forms",
+              "refs": []
+            },
+            {
+              "sentence": "By 1928, the source of the bones had been traced to a village near Anyang in Henan\u2014discovered to be the site of Yin, the final Shang capital\u2014which was excavated by a team led by Li Ji from the Academia Sinica between 1928 and 1937",
+              "refs": []
+            },
+            {
+              "sentence": "To date, over 150000 oracle bone fragments have been found",
+              "refs": [
+                "https://ctext.org/book-of-changes/xi-ci-xia#n46944"
+              ]
+            },
+            {
+              "sentence": "Oracle bone inscriptions recorded divinations undertaken to communicate with the spirits of royal ancestors",
+              "refs": []
+            },
+            {
+              "sentence": "The inscriptions range from a few characters in length at their shortest, to several dozen at their longest",
+              "refs": []
+            },
+            {
+              "sentence": "The Shang king would communicate with his ancestors by means of scapulimancy, inquiring about subjects such as the royal family, military success, and the weather",
+              "refs": []
+            },
+            {
+              "sentence": "Inscriptions were made in the divination material itself before and after it had been cracked by exposure to heat; they generally include a record of the questions posed, as well as the answers as interpreted in the cracks",
+              "refs": []
+            },
+            {
+              "sentence": "A minority of bones feature characters that were inked with a brush before their strokes were incised; the evidence of this also shows that the conventional stroke orders used by later calligraphers had already been established for many characters by this point",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Oracle bone script is the direct ancestor of later forms of written Chinese",
+              "refs": []
+            },
+            {
+              "sentence": "The oldest known inscriptions already represent a well-developed writing system, which suggests an initial emergence predating the late 2nd millennium\u00a0BCE",
+              "refs": []
+            },
+            {
+              "sentence": "Although written Chinese is first attested in official divinations, it is widely believed that writing was also used for other purposes during the Shang, but that the media used in other contexts\u2014likely bamboo and wooden slips\u2014were less durable than bronzes or oracle bones, and have not been preserved",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Zhou scripts",
+          "section_content": [
+            {
+              "sentence": "As early as the Shang, the oracle bone script existed as a simplified form alongside another that was used in bamboo books, in addition to elaborate pictorial forms often used in clan emblems",
+              "refs": []
+            },
+            {
+              "sentence": "These other forms have been preserved in bronze script (\u91d1\u6587; j\u012bnw\u00e9n), where inscriptions were made using a stylus in a clay mould, which was then used to cast ritual bronzes",
+              "refs": []
+            },
+            {
+              "sentence": "These differences in technique generally resulted in character forms that were less angular in appearance than their oracle bone script counterparts",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Study of these bronze inscriptions has revealed that the mainstream script underwent slow, gradual evolution during the late Shang, which continued during the Zhou dynasty (c.\u20091046\u00a0\u2013 256\u00a0BCE) until assuming the form now known as small seal script (\u5c0f\u7bc6; xi\u01ceozhu\u00e0n) within the Zhou state of Qin",
+              "refs": []
+            },
+            {
+              "sentence": "Other scripts in use during the late Zhou include the bird-worm seal script (\u9e1f\u866b\u4e66; \u9ce5\u87f2\u66f8; ni\u01ceoch\u00f3ngsh\u016b), as well as the regional forms used in non-Qin states",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Examples of these styles were preserved as variants in the Shuowen Jiezi",
+              "refs": []
+            },
+            {
+              "sentence": "Historically, Zhou forms were collectively known as large seal script (\u5927\u7bc6; d\u00e0zhu\u00e0n), though Qiu refrains from using this term due to its lack of precision",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Qin unification and small seal script",
+          "section_content": [
+            {
+              "sentence": "Following Qin's conquest of the other Chinese states that culminated in the founding of the imperial Qin dynasty in 221\u00a0BCE, the Qin small seal script was standardized for use throughout the entire country under the direction of Chancellor Li Si",
+              "refs": []
+            },
+            {
+              "sentence": "It was traditionally believed that Qin scribes only used small seal script, and the later clerical script was a sudden invention during the early Han",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "However, more than one script was used by Qin scribes: a rectilinear vulgar style had also been in use in Qin for centuries prior to the wars of unification",
+              "refs": []
+            },
+            {
+              "sentence": "The popularity of this form grew as writing became more widespread",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Clerical script",
+          "section_content": [
+            {
+              "sentence": "By the Warring States period (c.\u2009475\u00a0\u2013 221\u00a0BCE), an immature form of clerical script (\u96b6\u4e66; \u96b8\u66f8; l\u00ecsh\u016b) had emerged based on the vulgar form developed within Qin, often called \"early clerical\" or \"proto-clerical\"",
+              "refs": []
+            },
+            {
+              "sentence": "The proto-clerical script evolved gradually; by the Han dynasty (202\u00a0BCE\u00a0\u2013 220\u00a0CE), it had arrived at a mature form, also called \u516b\u5206 (b\u0101f\u0113n)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Bamboo slips discovered during the late 20th century point to this maturation being completed during the reign of Emperor Wu of Han (r.\u2009141\u201387\u00a0BCE)",
+              "refs": []
+            },
+            {
+              "sentence": "This process, called libian (\u96b6\u53d8; \u96b8\u8b8a), involved character forms being mutated and simplified, with many components being consolidated, substituted, or omitted",
+              "refs": []
+            },
+            {
+              "sentence": "In turn, the components themselves were regularized to use fewer, straighter, and more well-defined strokes",
+              "refs": []
+            },
+            {
+              "sentence": "The resulting clerical forms largely lacked any of the pictorial qualities that remained in seal script",
+              "refs": []
+            },
+            {
+              "sentence": "Around the midpoint of the Eastern Han (25\u2013220\u00a0CE), a simplified and easier form of clerical script appeared, which Qiu terms 'neo-clerical' (\u65b0\u96b6\u4f53; \u65b0\u96b8\u9ad4; x\u012bnl\u00ect\u01d0)",
+              "refs": []
+            },
+            {
+              "sentence": "By the end of the Han, this had become the dominant script used by scribes, though clerical script remained in use for formal works, such as engraved stelae",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Qiu describes neo-clerical as a transitional form between clerical and regular script which remained in use through the Three Kingdoms period (220\u2013280\u00a0CE) and beyond",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Cursive and semi-cursive",
+          "section_content": [
+            {
+              "sentence": "Cursive script (\u8349\u4e66; \u8349\u66f8; c\u01ceosh\u016b) was in use as early as 24\u00a0BCE, synthesizing elements of the vulgar writing that had originated in Qin with flowing cursive brushwork",
+              "refs": []
+            },
+            {
+              "sentence": "By the Jin dynasty (266\u2013420), the Han cursive style became known as \u7ae0\u8349 (zh\u0101ngc\u01ceo; 'orderly cursive'), sometimes known in English as 'clerical cursive', 'ancient cursive', or 'draft cursive'",
+              "refs": []
+            },
+            {
+              "sentence": "Some attribute this name to the fact that the style was considered more orderly than a later form referred to as \u4eca\u8349 (j\u012bnc\u01ceo; 'modern cursive'), which had first emerged during the Jin and was influenced by semi-cursive and regular script",
+              "refs": []
+            },
+            {
+              "sentence": "This later form was exemplified by the work of figures like Wang Xizhi (fl.\u20094th\u00a0century), who is often regarded as the most important calligrapher in Chinese history",
+              "refs": []
+            },
+            {
+              "sentence": "An early form of semi-cursive script (\u884c\u4e66; \u884c\u66f8; x\u00edngsh\u016b; 'running script') can be identified during the late Han, with its development stemming from a cursive form of neo-clerical script",
+              "refs": []
+            },
+            {
+              "sentence": "Liu Desheng (\u5218\u5fb7\u5347; \u5289\u5fb7\u5347; fl.\u20092nd century\u00a0CE) is traditionally recognized as the inventor of the semi-cursive style, though accreditations of this kind often indicate a given style's early masters, rather than its earliest practitioners",
+              "refs": []
+            },
+            {
+              "sentence": "Later analysis has suggested popular origins for semi-cursive, as opposed to it being an invention of Liu",
+              "refs": []
+            },
+            {
+              "sentence": "It can be characterized partly as the result of clerical forms being written more quickly, without formal rules of technique or composition: what would be discrete strokes in clerical script frequently flow together instead",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The semi-cursive style is commonly adopted in contemporary handwriting",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Regular script",
+          "section_content": [
+            {
+              "sentence": "Regular script (\u6977\u4e66; \u6977\u66f8; k\u01ceish\u016b), based on clerical and semi-cursive forms, is the predominant form in which characters are written and printed",
+              "refs": []
+            },
+            {
+              "sentence": "Its innovations have traditionally been credited to the calligrapher Zhong Yao, who lived in the state of Cao Wei (220\u2013266); he is often called the \"father of regular script\"",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The earliest surviving writing in regular script comprises copies of Zhong Yao's work, including at least one copy by Wang Xizhi",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Characteristics of regular script include the 'pause' (\u9813; d\u00f9n) technique used to end horizontal strokes, as well as heavy tails on diagonal strokes made going down and to the right",
+              "refs": []
+            },
+            {
+              "sentence": "It developed further during the Eastern Jin (317\u2013420) in the hands of Wang Xizhi and his son Wang Xianzhi",
+              "refs": []
+            },
+            {
+              "sentence": "However, most Jin-era writers continued to use neo-clerical and semi-cursive styles in their daily writing",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It was not until the Northern and Southern period (420\u2013589) that regular script became the predominant form",
+              "refs": []
+            },
+            {
+              "sentence": "The system of imperial examinations for the civil service established during the Sui dynasty (581\u2013618) required test takers to write in Literary Chinese using regular script, which contributed to the prevalence of both throughout later Chinese history",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Structure",
+      "section_content": [
+        {
+          "sentence": "Each character of a text is written within a uniform square allotted for it",
+          "refs": []
+        },
+        {
+          "sentence": "As part of the evolution from seal script into clerical script, character components became regularized as discrete series of strokes (\u7b14\u753b; \u7b46\u756b; b\u01d0hu\u00e0)",
+          "refs": []
+        },
+        {
+          "sentence": "Strokes can be considered both the basic unit of handwriting, as well as the writing system's basic unit of graphemic organization",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "In clerical and regular script, individual strokes traditionally belong to one of eight categories according to their technique and graphemic function",
+          "refs": []
+        },
+        {
+          "sentence": "In what is known as the Eight Principles of Yong, calligraphers practice their technique using the character \u6c38 (y\u01d2ng; 'eternity'), which can be written with one stroke of each type",
+          "refs": []
+        },
+        {
+          "sentence": "In ordinary writing, \u6c38 is now written with five strokes instead of eight, and a system of five basic stroke types is commonly employed in analysis\u2014with certain compound strokes treated as sequences of basic strokes made in a single motion",
+          "refs": [
+            "https://dl.ndl.go.jp/en/pid/1287529/1/2"
+          ]
+        },
+        {
+          "sentence": "Characters are constructed according to predictable visual patterns",
+          "refs": []
+        },
+        {
+          "sentence": "Some components have distinct combining forms when occupying specific positions within a character\u2014for example, the \u2f11\u2004'KNIFE' component appears as \u5202 on the right side of characters, but as \u2e88 at the top of characters",
+          "refs": []
+        },
+        {
+          "sentence": "The order in which components are drawn within a character is fixed",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "The order in which the strokes of a component are drawn is also largely fixed, but may vary according to several different standards",
+          "refs": []
+        },
+        {
+          "sentence": "This is summed up in practice with a few rules of thumb, including that characters are generally assembled from left to right, then from top to bottom, with \"enclosing\" components started before, then closed after, the components they enclose",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "For example, \u6c38 is drawn in the following order:",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Variant characters",
+          "section_content": [
+            {
+              "sentence": "Over a character's history, variant character forms (\u5f02\u4f53\u5b57; \u7570\u9ad4\u5b57; y\u00ect\u01d0z\u00ec) emerge via several processes",
+              "refs": []
+            },
+            {
+              "sentence": "Variant forms have distinct structures, but represent the same morpheme; as such, they can be considered instances of the same underlying character",
+              "refs": []
+            },
+            {
+              "sentence": "This is comparable to visually distinct double-storey |a| and single-storey |\u0251| forms both representing the Latin letter \u27e8A\u27e9",
+              "refs": []
+            },
+            {
+              "sentence": "Variants also emerge for aesthetic reasons, to make handwriting easier, or to correct what the writer perceives to be errors in a character's form",
+              "refs": []
+            },
+            {
+              "sentence": "Individual components may be replaced with visually, phonetically, or semantically similar alternatives",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The boundary between character structure and style\u2014and thus whether forms represent different characters, or are merely variants of the same character\u2014is often non-trivial or unclear",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "For example, prior to the Qin dynasty the character meaning 'bright' was written as either \u660e or \u6719\u2014with either \u65e5\u2004'Sun' or \u56e7\u2004'window' on the left, and \u6708\u2004'Moon' on the right",
+              "refs": []
+            },
+            {
+              "sentence": "As part of the Qin programme to standardize small seal script across China, the \u6719 form was promoted",
+              "refs": []
+            },
+            {
+              "sentence": "Some scribes ignored this, and continued to write the character as \u660e",
+              "refs": []
+            },
+            {
+              "sentence": "However, the increased usage of \u6719 was followed by the proliferation of a third variant: \u7700, with \u76ee\u2004'eye' on the left\u2014likely derived as a contraction of \u6719",
+              "refs": []
+            },
+            {
+              "sentence": "Ultimately, \u660e became the character's standard form",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Layout",
+          "section_content": [
+            {
+              "sentence": "From the earliest inscriptions until the 20th century, texts were generally laid out vertically\u2014with characters written from top to bottom in columns, arranged from right to left",
+              "refs": []
+            },
+            {
+              "sentence": "Word boundaries are generally not indicated with spaces",
+              "refs": []
+            },
+            {
+              "sentence": "A horizontal writing direction\u2014with characters written from left to right in rows, arranged from top to bottom\u2014only became predominant in the Sinosphere during the 20th century as a result of Western influence",
+              "refs": []
+            },
+            {
+              "sentence": "Many publications outside mainland China continue to use the traditional vertical writing direction",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Western influence also resulted in the generalized use of punctuation being widely adopted in print during the 19th and 20th centuries",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Prior to this, the context of a passage was considered adequate to guide readers; this was enabled by characters being easier to read than alphabets when written without spaces or punctuation due to their more discretized shapes",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Methods of writing",
+      "section_content": [
+        {
+          "sentence": "The earliest attested Chinese characters were carved into bone, or marked using a stylus in clay moulds used to cast ritual bronzes",
+          "refs": []
+        },
+        {
+          "sentence": "Characters have also been incised into stone, or written in ink onto slips of silk, wood, and bamboo",
+          "refs": []
+        },
+        {
+          "sentence": "The invention of paper for use as a writing medium occurred during the 1st century\u00a0CE, and is traditionally credited to Cai Lun",
+          "refs": []
+        },
+        {
+          "sentence": "There are numerous styles, or scripts (\u4e66; \u66f8; sh\u016b) in which characters can be written, including the historical forms like seal script and clerical script",
+          "refs": [
+            "https://archive.org/details/bub_gb_2va5Ayf9u-sC/bub_gb_2va5Ayf9u-sC/page/n29/mode/2up"
+          ]
+        },
+        {
+          "sentence": "Most styles used throughout the Sinosphere originated within China, though they may display regional variation",
+          "refs": []
+        },
+        {
+          "sentence": "Styles that have been created outside of China tend to remain localized in their use: these include the Japanese edomoji and Vietnamese l\u1ec7nh th\u01b0 scripts",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Calligraphy",
+          "section_content": [
+            {
+              "sentence": "Calligraphy was traditionally one of the four arts to be mastered by Chinese scholars, considered to be an artful means of expressing thoughts and teachings",
+              "refs": []
+            },
+            {
+              "sentence": "Chinese calligraphy typically makes use of an ink brush to write characters",
+              "refs": []
+            },
+            {
+              "sentence": "Strict regularity is not required, and character forms may be accentuated to evoke a variety of aesthetic effects",
+              "refs": []
+            },
+            {
+              "sentence": "Traditional ideals of calligraphic beauty often tie into broader philosophical concepts native to East Asia",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "For example, aesthetics can be conceptualized using the framework of yin and yang, where the extremes of any number of mutually reinforcing dualities are balanced by the calligrapher\u2014such as the duality between strokes made quickly or slowly, between applying ink heavily or lightly, between characters written with symmetrical or asymmetrical forms, and between characters representing concrete or abstract concepts",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Printing and typefaces",
+          "section_content": [
+            {
+              "sentence": "Woodblock printing was invented in China between the 6th and 9th centuries,  followed by the invention of moveable type by Bi Sheng during the 11th century",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The increasing use of print during the Ming (1368\u20131644) and Qing dynasties (1644\u20131912) led to considerable standardization in character forms, which prefigured later script reforms during the 20th century",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "This print orthography, exemplified by the 1716 Kangxi Dictionary, was later dubbed the jiu zixing ('old character shapes')",
+              "refs": []
+            },
+            {
+              "sentence": "Printed Chinese characters may use different typefaces,  of which there are four broad classes in use:",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Use with computers",
+          "section_content": [
+            {
+              "sentence": "Before computers became ubiquitous, earlier electro-mechanical communications devices like telegraphs and typewriters were originally designed for use with alphabets, often by means of alphabetic text encodings like Morse code and ASCII",
+              "refs": []
+            },
+            {
+              "sentence": "Adapting these technologies for a writing system that uses thousands of distinct characters was non-trivial",
+              "refs": []
+            }
+          ],
+          "subsections": [
+            {
+              "section_title": "Input methods",
+              "section_content": [
+                {
+                  "sentence": "Chinese characters are predominantly input on computers using a standard keyboard",
+                  "refs": []
+                },
+                {
+                  "sentence": "Many input methods (IMEs) are phonetic, where typists enter characters according to schemes like pinyin or bopomofo for Mandarin, Jyutping for Cantonese, or Hepburn for Japanese",
+                  "refs": []
+                },
+                {
+                  "sentence": "For example, \u9999\u6e2f ('Hong Kong') could be input as xiang1gang3 using pinyin, or as hoeng1gong2 using Jyutping",
+                  "refs": []
+                },
+                {
+                  "sentence": "Character input methods may also be based on form, using the shape of characters and existing rules of handwriting to assign unique codes to each character, potentially increasing the speed of typing",
+                  "refs": []
+                },
+                {
+                  "sentence": "Popular form-based input methods include Wubi on the mainland, and Cangjie\u2014named after the mythological inventor of writing\u2014in Taiwan and Hong Kong",
+                  "refs": []
+                },
+                {
+                  "sentence": "Often, unnecessary parts are omitted from the encoding according to predictable rules",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "For example, \u7586 ('border') is encoded using the Cangjie method as NGMWM, which corresponds to the components \u5f13\u571f\u4e00\u7530\u4e00",
+                  "refs": []
+                },
+                {
+                  "sentence": "Contextual constraints may be used to improve candidate character selection",
+                  "refs": []
+                },
+                {
+                  "sentence": "When ignoring tones, \u77e5\u9053 and \u76f4\u5200 are both transcribed as zhidao; the system may prioritize which candidate appears first based on context",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Encoding and interchange",
+              "section_content": [
+                {
+                  "sentence": "While special text encodings for Chinese characters were introduced prior to its popularization, The Unicode Standard is the predominant text encoding worldwide",
+                  "refs": []
+                },
+                {
+                  "sentence": "According to the philosophy of the Unicode Consortium, each distinct graph is assigned a number in the standard, but specifying its appearance or the particular allograph used is a choice made by the engine rendering the text",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "[F] Unicode's Basic Multilingual Plane (BMP) represents the standard's 216 smallest code points",
+                  "refs": []
+                },
+                {
+                  "sentence": "Of these, 20992 (or 32%) are assigned to CJK Unified Ideographs, a designation comprising characters used in each of the Chinese family of scripts",
+                  "refs": []
+                },
+                {
+                  "sentence": "As of version 16.0, published in 2024, Unicode defines a total of 98682 Chinese characters",
+                  "refs": []
+                },
+                {
+                  "sentence": "[G]",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Vocabulary and adaptation",
+      "section_content": [
+        {
+          "sentence": "Writing first emerged during the historical stage of the Chinese language known as Old Chinese",
+          "refs": []
+        },
+        {
+          "sentence": "Most characters correspond to morphemes that originally functioned as stand-alone Old Chinese words",
+          "refs": []
+        },
+        {
+          "sentence": "Classical Chinese is the form of written Chinese used in the classic works of Chinese literature between roughly the 5th\u00a0century\u00a0BCE and the 2nd\u00a0century\u00a0CE",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "This form of the language was imitated by later authors, even as it began to diverge from the language they spoke",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "This later form, referred to as Literary Chinese, remained the predominant written language in China until the 20th\u00a0century",
+          "refs": []
+        },
+        {
+          "sentence": "Its use in the Sinosphere was loosely analogous to that of Latin in pre-modern Europe",
+          "refs": []
+        },
+        {
+          "sentence": "While it was not static over time, Literary Chinese retained many properties of spoken Old Chinese",
+          "refs": []
+        },
+        {
+          "sentence": "Informed by the local spoken vernaculars, texts were read aloud using literary and colloquial readings that varied by region",
+          "refs": []
+        },
+        {
+          "sentence": "Over time, sound mergers created ambiguities in vernacular speech as more words became homophonic",
+          "refs": []
+        },
+        {
+          "sentence": "This ambiguity was often reduced through the introduction of multi-syllable compound words,  which comprise much of the vocabulary in modern varieties of Chinese",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Over time, use of Literary Chinese spread to neighbouring countries, including Vietnam, Korea, and Japan",
+          "refs": []
+        },
+        {
+          "sentence": "Alongside other aspects of Chinese culture, local elites adopted writing for record-keeping, histories, and official communications",
+          "refs": []
+        },
+        {
+          "sentence": "Excepting hypotheses by some linguists of the latter two sharing a common ancestor, Chinese, Vietnamese, Korean, and Japanese each belong to different language families,  and tend to function differently from one another",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Reading systems were devised to enable non-Chinese speakers to interpret Literary Chinese texts in terms of their native language, a phenomenon that has been variously described as either a form of diglossia, as reading by gloss,  or as a process of translation into and out of Chinese",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Compared to other traditions that wrote using alphabets or syllabaries, the literary culture that developed in this context was less directly tied to a specific spoken language",
+          "refs": []
+        },
+        {
+          "sentence": "This is exemplified by the cross-linguistic phenomenon of brushtalk, where mutual literacy allowed speakers of different languages to engage in face-to-face conversations",
+          "refs": []
+        },
+        {
+          "sentence": "Following the introduction of Literary Chinese, characters were later adapted to write many non-Chinese languages spoken throughout the Sinosphere",
+          "refs": []
+        },
+        {
+          "sentence": "These new writing systems used characters to write both native vocabulary and the numerous loanwords each language had borrowed from Chinese, collectively termed Sino-Xenic vocabulary",
+          "refs": []
+        },
+        {
+          "sentence": "Characters may have native readings, Sino-Xenic readings, or both",
+          "refs": []
+        },
+        {
+          "sentence": "Comparison of Sino-Xenic vocabulary across the Sinosphere has been useful in the reconstruction of Middle Chinese phonology",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Literary Chinese was used in Vietnam during the millennium of Chinese rule that began in 111\u00a0BCE",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "By the 15th\u00a0century, a system that adapted characters to write Vietnamese called ch\u1eef N\u00f4m had fully matured",
+          "refs": []
+        },
+        {
+          "sentence": "The 2nd\u00a0century\u00a0BCE is the earliest possible period for the introduction of writing to Korea; the oldest surviving manuscripts in the country date to the early 5th\u00a0century\u00a0CE",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Also during the 5th\u00a0century, writing spread from Korea to Japan",
+          "refs": []
+        },
+        {
+          "sentence": "Characters were being used to write both Korean and Japanese by the 6th\u00a0century",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "By the late 20th\u00a0century, characters had largely been replaced with alphabets designed to write Vietnamese and Korean",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "This leaves Japanese as the only major non-Sinitic language typically written using Chinese characters",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Literary and vernacular Chinese",
+          "section_content": [
+            {
+              "sentence": "Words in Classical Chinese were generally a single character in length",
+              "refs": []
+            },
+            {
+              "sentence": "An estimated 25\u201330% of the vocabulary used in Classical Chinese texts consists of two-character words",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Over time, the introduction of multi-syllable vocabulary into vernacular varieties of Chinese was encouraged by phonetic shifts that increased the number of homophones",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The most common process of Chinese word formation after the Classical period has been to create compounds of existing words",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Words have also been created by appending affixes to words, by reduplication, and by borrowing words from other languages",
+              "refs": []
+            },
+            {
+              "sentence": "While multi-syllable words are generally written with one character per syllable, abbreviations are occasionally used",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "For example, \u4e8c\u5341 (\u00e8rsh\u00ed; 'twenty') may be written as the contracted form \u5eff",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Sometimes, different morphemes come to be represented by characters with identical shapes",
+              "refs": []
+            },
+            {
+              "sentence": "For example, \u884c may represent either 'road' (x\u00edng) or the extended sense of 'row' (h\u00e1ng): these morphemes are ultimately cognates that diverged in pronunciation but remained written with the same character",
+              "refs": []
+            },
+            {
+              "sentence": "However, Qiu reserves the term homograph to describe identically shaped characters with different meanings that emerge via processes other than semantic extension",
+              "refs": []
+            },
+            {
+              "sentence": "An example homograph is \u94ca; \u9248, which originally meant 'weight used at a steelyard' (tu\u00f3)",
+              "refs": []
+            },
+            {
+              "sentence": "In the 20th century, this character was created again with the meaning 'thallium' (t\u0101)",
+              "refs": []
+            },
+            {
+              "sentence": "Both of these characters are phono-semantic compounds with \u2fa6\u2004'GOLD' as the semantic component and \u5b83 as the phonetic component, but the words represented by each are not related",
+              "refs": []
+            },
+            {
+              "sentence": "There are a number of 'dialect characters' (\u65b9\u8a00\u5b57; f\u0101ngy\u00e1nz\u00ec) that are not used in standard written vernacular Chinese, but reflect the vocabulary of other spoken varieties",
+              "refs": []
+            },
+            {
+              "sentence": "The most complete example of an orthography based on a variety other than Standard Chinese is Written Cantonese",
+              "refs": []
+            },
+            {
+              "sentence": "A common Cantonese character is \u5187 (mou5; 'to not have'), derived by removing two strokes from \u6709 (jau5; 'to have')",
+              "refs": []
+            },
+            {
+              "sentence": "It is common to use standard characters to transcribe previously unwritten words in Chinese dialects when obvious cognates exist",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "When no obvious cognate exists due to factors like irregular sound changes, semantic drift, or an origin in a non-Chinese language, characters are often borrowed or invented to transcribe the word\u2014either ad hoc, or according to existing principles",
+              "refs": []
+            },
+            {
+              "sentence": "These new characters are generally phono-semantic compounds",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Japanese",
+          "section_content": [
+            {
+              "sentence": "In Japanese, Chinese characters are referred to as kanji",
+              "refs": []
+            },
+            {
+              "sentence": "During the Nara period (710\u2013794), readers and writers of kanbun\u2014the Japanese term for Literary Chinese writing\u2014began utilizing a system of reading techniques and annotations called kundoku",
+              "refs": []
+            },
+            {
+              "sentence": "When reading, Japanese speakers would adapt the syntax and vocabulary of Literary Chinese texts to reflect their Japanese-language equivalents",
+              "refs": []
+            },
+            {
+              "sentence": "Writing essentially involved the inverse of this process, and resulted in ordinary Literary Chinese",
+              "refs": []
+            },
+            {
+              "sentence": "When adapted to write Japanese, characters were used to represent both Sino-Japanese vocabulary loaned from Chinese, as well as the corresponding native synonyms",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Most kanji were subject to both borrowing processes, and as a result have both Sino-Japanese and native readings, known as on'yomi and kun'yomi respectively",
+              "refs": []
+            },
+            {
+              "sentence": "Moreover, kanji may have multiple readings of either kind",
+              "refs": []
+            },
+            {
+              "sentence": "Distinct classes of on'yomi were borrowed into Japanese at different points in time from different varieties of Chinese",
+              "refs": []
+            },
+            {
+              "sentence": "The Japanese writing system is a mixed script, and has also incorporated syllabaries called kana to represent phonetic units called moras, rather than morphemes",
+              "refs": []
+            },
+            {
+              "sentence": "Prior to the Meiji era (1868\u20131912), writers used certain kanji to represent their sound values instead, in a system known as man'y\u014dgana",
+              "refs": []
+            },
+            {
+              "sentence": "Starting in the 9th century, specific man'y\u014dgana were graphically simplified to create two distinct syllabaries called hiragana and katakana, which slowly replaced the earlier convention",
+              "refs": []
+            },
+            {
+              "sentence": "Modern Japanese retains the use of kanji to represent most word stems, while kana syllabograms are generally used for grammatical affixes, particles, and loanwords",
+              "refs": []
+            },
+            {
+              "sentence": "The forms of hiragana and katakana are visually distinct from one another, owing in large part to different methods of simplification: katakana were derived from smaller components of each man'y\u014dgana, while hiragana were derived from the cursive forms of man'y\u014dgana in their entirety",
+              "refs": []
+            },
+            {
+              "sentence": "In addition, the hiragana and katakana for some moras were derived from different man'y\u014dgana",
+              "refs": []
+            },
+            {
+              "sentence": "Characters invented for Japanese-language use are called kokuji",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The methods employed to create kokuji are equivalent to those used by Chinese-original characters, though most are ideographic compounds",
+              "refs": []
+            },
+            {
+              "sentence": "For example, \u5ce0 (t\u014dge; 'mountain pass') is a compound kokuji composed of \u2f2d\u2004'MOUNTAIN', \u4e0a\u2004'above', and \u4e0b\u2004'below'",
+              "refs": []
+            },
+            {
+              "sentence": "While characters used to write Chinese are monosyllabic, many kanji have multi-syllable readings",
+              "refs": []
+            },
+            {
+              "sentence": "For example, the kanji \u5200 has a native kun'yomi reading of katana",
+              "refs": []
+            },
+            {
+              "sentence": "In different contexts, it can also be read with the on'yomi reading t\u014d, such as in the Chinese loanword \u65e5\u672c\u5200 (nihont\u014d; 'Japanese sword'), with a pronunciation corresponding to that in Chinese at the time of borrowing",
+              "refs": []
+            },
+            {
+              "sentence": "Prior to the universal adoption of katakana, loanwords were typically written with unrelated kanji with on'yomi readings matching the syllables in the loanword",
+              "refs": []
+            },
+            {
+              "sentence": "These spellings are called ateji: for example, \u4e9c\u7c73\u5229\u52a0 (Amerika) was the ateji spelling of 'America', now rendered as \u30a2\u30e1\u30ea\u30ab",
+              "refs": []
+            },
+            {
+              "sentence": "As opposed to man'y\u014dgana used solely for their pronunciation, ateji still corresponded to specific Japanese words",
+              "refs": []
+            },
+            {
+              "sentence": "Some are still in use: the official list of j\u014dy\u014d kanji includes 106 ateji readings",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Korean",
+          "section_content": [
+            {
+              "sentence": "In Korean, Chinese characters are referred to as hanja",
+              "refs": []
+            },
+            {
+              "sentence": "Literary Chinese may have been written in Korea as early as the 2nd century\u00a0BCE",
+              "refs": []
+            },
+            {
+              "sentence": "During Korea's Three Kingdoms period (57\u00a0BCE\u00a0\u2013 668\u00a0CE), characters were also used to write idu, a form of Korean-language literature that mostly made use of Sino-Korean vocabulary",
+              "refs": []
+            },
+            {
+              "sentence": "During the Goryeo period (918\u20131392), Korean writers developed a system of phonetic annotations for Literary Chinese called gugyeol, comparable to kundoku in Japan, though it only entered widespread use during the later Joseon period (1392\u20131897)",
+              "refs": []
+            },
+            {
+              "sentence": "While the hangul alphabet was invented by the Joseon king Sejong in 1443, it was not adopted by the Korean literati and was relegated to use in glosses for Literary Chinese texts until the late 19th century",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Much of the Korean lexicon consists of Chinese loanwords, especially technical and academic vocabulary",
+              "refs": []
+            },
+            {
+              "sentence": "While hanja were usually only used to write this Sino-Korean vocabulary, there is evidence that vernacular readings were sometimes used",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Compared to the other written vernaculars, very few characters were invented to write Korean words; these are called gukja",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "During the late 19th and early 20th centuries, Korean was written either using a mixed script of hangul and hanja, or only using hangul",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Following the end of the Empire of Japan's occupation of Korea in 1945, the total replacement of hanja with hangul was advocated throughout the country as part of a broader \"purification movement\" of the national language and culture",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "However, due to the lack of tones in spoken Korean, there are many Sino-Korean words that are homophones with identical hangul spellings",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "For example, the phonetic dictionary entry for \uae30\uc0ac (gisa) yields more than 30 different entries",
+              "refs": []
+            },
+            {
+              "sentence": "This ambiguity had historically been resolved by also including the associated hanja",
+              "refs": []
+            },
+            {
+              "sentence": "While still sometimes used for Sino-Korean vocabulary, it is much rarer for native Korean words to be written using hanja",
+              "refs": []
+            },
+            {
+              "sentence": "When learning new characters, Korean students are instructed to associate each one with both its Sino-Korean pronunciation, as well as a native Korean synonym",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Examples include:",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Vietnamese",
+          "section_content": [
+            {
+              "sentence": "In Vietnamese, Chinese characters are referred to as ch\u1eef H\u00e1n (\ud846\ude38\u6f22), ch\u1eef Nho (\ud846\ude38\u5112; 'Confucian characters'), or H\u00e1n t\u1ef1 (\u6f22\u5b57)",
+              "refs": []
+            },
+            {
+              "sentence": "Literary Chinese was used for all formal writing in Vietnam until the modern era,  having first acquired official status in 1010",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Literary Chinese written by Vietnamese authors is first attested in the late 10th century, though the local practice of writing is likely several centuries older",
+              "refs": []
+            },
+            {
+              "sentence": "Characters used to write Vietnamese called ch\u1eef N\u00f4m (\ud846\ude38\u5583) are first attested in an inscription dated to 1209 made at the site of a pagoda",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A mature ch\u1eef N\u00f4m script had likely emerged by the 13th century, and was initially used to record Vietnamese folk literature",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Some ch\u1eef N\u00f4m characters are phono-semantic compounds corresponding to spoken Vietnamese syllables",
+              "refs": []
+            },
+            {
+              "sentence": "Another technique with no equivalent in China created ch\u1eef N\u00f4m compounds using two phonetic components",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "This was done because Vietnamese phonology included consonant clusters not found in Chinese, and were thus poorly approximated by the sound values of borrowed characters",
+              "refs": []
+            },
+            {
+              "sentence": "Compounds used components with two distinct consonant sounds to specify the cluster, e.g",
+              "refs": []
+            },
+            {
+              "sentence": "\ud848\udc4b (bl\u0103ng; [d] 'Moon') was created as a compound of \u5df4 (ba) and \u9675 (l\u0103ng)",
+              "refs": []
+            },
+            {
+              "sentence": "As a system, ch\u1eef N\u00f4m was highly complex, and the literacy rate among the Vietnamese population never exceeded 5%",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Both Literary Chinese and ch\u1eef N\u00f4m fell out of use during the French colonial period, and were gradually replaced by the Latin-based Vietnamese alphabet",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Following the end of colonial rule in 1954, the Vietnamese alphabet has been sole official writing system in Vietnam, and is used exclusively in Vietnamese-language media",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Other languages",
+          "section_content": [
+            {
+              "sentence": "Several minority languages of South and Southwestern China have been written with scripts using both borrowed and locally created characters",
+              "refs": []
+            },
+            {
+              "sentence": "The most well-documented of these is the sawndip script for the Zhuang languages of Guangxi",
+              "refs": []
+            },
+            {
+              "sentence": "While little is known about its early development, a tradition of vernacular Zhuang writing likely first emerged during the Tang dynasty (618\u2013907)",
+              "refs": []
+            },
+            {
+              "sentence": "Modern scholarship characterizes sawndip writing as a network of regional traditions that have mutually influenced one another while maintaining their local characteristics",
+              "refs": []
+            },
+            {
+              "sentence": "Like Vietnamese, some invented Zhuang characters are phonetic\u2013phonetic compounds, though not primarily ones intended to describe consonant clusters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Despite the Chinese government encouraging its replacement with a Latin-based Zhuang alphabet, sawndip remains in use",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Other non-Sinitic languages of China historically written with Chinese characters include Miao, Yao, Bouyei, Bai, and Hani; each of these are now written with Latin-based alphabets designed for use with each language",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Graphically derived scripts",
+          "section_content": [
+            {
+              "sentence": "Between the 10th and 13th centuries, dynasties founded by non-Han peoples in northern China also created scripts for their languages that were inspired by Chinese characters, but did not use them directly: these included the Khitan large script, Khitan small script, Tangut script, and Jurchen script",
+              "refs": []
+            },
+            {
+              "sentence": "This has occurred in other contexts as well: N\u00fcshu was a script used by Yao women to write the Xiangnan Tuhua language,  and bopomofo (\u6ce8\u97f3\u7b26\u53f7; \u6ce8\u97f3\u7b26\u865f; zh\u00f9y\u012bn f\u00fah\u00e0o) is a semi-syllabary first invented in 1907  to represent the sounds of Standard Chinese;  both use forms graphically derived from Chinese characters",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Other scripts within China that have adapted some characters but are otherwise distinct include the Geba syllabary used to write the Naxi language, the script for the Sui language, the script for the Yi languages, and the syllabary for the Lisu language",
+              "refs": []
+            },
+            {
+              "sentence": "Chinese characters have also been repurposed phonetically to transcribe the sounds of non-Chinese languages",
+              "refs": []
+            },
+            {
+              "sentence": "For example, the only manuscripts of the 13th-century Secret History of the Mongols that have survived from the medieval era use characters in this manner to write the Mongolian language",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Literacy and lexicography",
+      "section_content": [
+        {
+          "sentence": "The memorization of thousands of different characters is required to achieve literacy in languages written with them, in contrast to the relatively small inventory of graphemes used in phonetic writing",
+          "refs": []
+        },
+        {
+          "sentence": "Historically, character literacy was often acquired via Chinese primers like the 6th-century Thousand Character Classic and 13th-century Three Character Classic,  as well as surname dictionaries like the Song-era Hundred Family Surnames",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Studies of Chinese-language literacy suggest that literate individuals generally have an active vocabulary of three to four thousand characters; for specialists in fields like literature or history, this figure may be between five and six thousand",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Dictionaries",
+          "section_content": [
+            {
+              "sentence": "According to analyses of mainland Chinese, Taiwanese, Hong Kong, Japanese, and Korean sources, the total number of characters in the modern lexicon is around 15000",
+              "refs": []
+            },
+            {
+              "sentence": "Dozens of schemes have been devised for indexing Chinese characters and arranging them in dictionaries, though relatively few have achieved widespread use",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Characters may be ordered according to methods based on their meaning, visual structure, or pronunciation",
+              "refs": []
+            },
+            {
+              "sentence": "The Erya (c.\u20093rd century\u00a0BCE) organized the Chinese lexicon into 16 semantic categories, as well as 3 describing abstract characters such as grammatical particles",
+              "refs": []
+            },
+            {
+              "sentence": "The Shuowen Jiezi (c.\u2009100\u00a0CE) introduced what would ultimately become the predominant method of organization used by later character dictionaries, whereby characters are grouped according to certain visually prominent components called radicals (\u90e8\u9996; b\u00f9sh\u01d2u; 'section headers')",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The Shuowen Jiezi used a system of 540 radicals, while subsequent dictionaries have generally used fewer",
+              "refs": []
+            },
+            {
+              "sentence": "The set of 214 Kangxi radicals was popularized by the Kangxi Dictionary (1716), but originally appeared in the earlier Zihui (1615)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Character dictionaries have historically been indexed using radical-and-stroke sorting, where characters are grouped by radical and sorted within each group by stroke number",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Some modern dictionaries arrange character entries alphabetically according to their pinyin spelling, while also providing a traditional radical-based index",
+              "refs": []
+            },
+            {
+              "sentence": "Before the invention of romanization systems for Chinese, the pronunciation of characters was transmitted via rhyme dictionaries",
+              "refs": []
+            },
+            {
+              "sentence": "These used the fanqie (\u53cd\u5207; 'reverse cut') method, where each entry lists a common character with the same initial sound as the character in question, alongside one with the same final sound",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Neurolinguistics",
+          "section_content": [
+            {
+              "sentence": "Using functional magnetic resonance imaging (fMRI), neurolinguists have studied the brain activity associated with literacy",
+              "refs": []
+            },
+            {
+              "sentence": "Compared to phonetic systems, reading and writing with characters involves additional areas of the brain\u2014including those associated with visual processing",
+              "refs": []
+            },
+            {
+              "sentence": "While the level of memorization required for character literacy is significant, identification of the phonetic and semantic components in compounds\u2014which constitute the vast majority of characters\u2014also plays a key role in reading comprehension",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The ease of recognition for a given character is impacted by how regular the positioning of its components is, as well as how reliable its phonetic component is in indicating a specific pronunciation",
+              "refs": []
+            },
+            {
+              "sentence": "Moreover, due to the high level of homophony in Chinese languages and the more irregular correspondences between writing and the sounds of speech, it has been suggested that knowledge of orthography plays a greater role in speech recognition for literate Chinese speakers",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Developmental dyslexia in readers of character-based languages appears to involve independent visuospatial and phonological disorders co-occurring",
+              "refs": []
+            },
+            {
+              "sentence": "This seems to be a distinct phenomenon from dyslexia as experienced with phonetic orthographies, which can result from only one of the aforementioned disorders",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Reform and standardization",
+      "section_content": [
+        {
+          "sentence": "Attempts to reform and standardize the use of characters\u2014including aspects of form, stroke order, and pronunciation\u2014have been undertaken by states throughout history",
+          "refs": []
+        },
+        {
+          "sentence": "Thousands of simplified characters were standardized and adopted in mainland China during the 1950s and 1960s, with most either already existing as common variants, or being produced via the systematic simplification of their components",
+          "refs": []
+        },
+        {
+          "sentence": "After World War II, the Japanese government also simplified hundreds of character forms, including some simplifications distinct from those adopted in China",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Orthodox forms that have not undergone simplification are referred to as traditional characters",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Across Chinese-speaking polities, mainland China, Malaysia, and Singapore use simplified characters, while Taiwan, Hong Kong, and Macau use traditional characters",
+          "refs": []
+        },
+        {
+          "sentence": "In general, Chinese and Japanese readers can successfully identify characters from all three standards",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Prior to the 20th century, reforms were generally conservative and sought to reduce the use of simplified variants",
+          "refs": []
+        },
+        {
+          "sentence": "During the late 19th and early 20th centuries, an increasing number of intellectuals in China came to see both the Chinese writing system and the lack of a national spoken dialect as serious impediments to achieving the mass literacy and mutual intelligibility required for the country's successful modernization",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Many began advocating for the replacement of Literary Chinese with a written language that more closely reflected speech, as well as for a mass simplification of character forms, or even the total replacement of characters with an alphabet tailored to a specific spoken variety",
+          "refs": []
+        },
+        {
+          "sentence": "In 1909, the educator and linguist Lufei Kui formally proposed the adoption of simplified characters in education for the first time",
+          "refs": []
+        },
+        {
+          "sentence": "In 1911, the Xinhai Revolution toppled the Qing dynasty, and resulted in the establishment of the Republic of China the following year",
+          "refs": []
+        },
+        {
+          "sentence": "The early Republican era (1912\u20131949) was characterized by growing social and political discontent that erupted into the 1919 May Fourth Movement, catalysing the replacement of Literary Chinese with written vernacular Chinese over the subsequent decades",
+          "refs": []
+        },
+        {
+          "sentence": "Alongside the corresponding spoken variety of Standard Chinese, this written vernacular was promoted by intellectuals and writers such as Lu Xun and Hu Shih",
+          "refs": []
+        },
+        {
+          "sentence": "It was based on the Beijing dialect of Mandarin,  as well as on the existing body of vernacular literature authored over the preceding centuries, which included classic novels such as Journey to the West (c.\u20091592) and Dream of the Red Chamber (mid-18th century)",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "At this time, character simplification and phonetic writing were being discussed within both the ruling Kuomintang (KMT) party, as well as the Chinese Communist Party (CCP)",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "In 1935, the Republican government published the first official list of simplified characters, comprising 324 forms collated by Peking University professor Qian Xuantong",
+          "refs": []
+        },
+        {
+          "sentence": "However, strong opposition within the party resulted in the list being rescinded in 1936",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "People's Republic of China",
+          "section_content": [
+            {
+              "sentence": "The project of script reform in China was ultimately inherited by the Communists, who resumed work following the proclamation of the People's Republic of China in 1949",
+              "refs": []
+            },
+            {
+              "sentence": "In 1951, Premier Zhou Enlai ordered the formation of a Script Reform Committee, with subgroups investigating both simplification and alphabetization",
+              "refs": []
+            },
+            {
+              "sentence": "The simplification subgroup began surveying and collating simplified forms the following year,  ultimately publishing a draft scheme of simplified characters and components in 1956",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In 1958, Zhou Enlai announced the government's intent to focus on simplification, as opposed to replacing characters with Hanyu Pinyin, which had been introduced earlier that year",
+              "refs": []
+            },
+            {
+              "sentence": "The 1956 scheme was largely ratified by a revised list of 2235 characters promulgated in 1964",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The majority of these characters were drawn from conventional abbreviations or ancient forms with fewer strokes",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The committee also sought to reduce the total number of characters in use by merging some forms together",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "For example, \u96f2 ('cloud') was written as \u4e91 in oracle bone script",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The simpler form remained in use as a loangraph meaning 'to say'; it was replaced in its original sense of 'cloud' with a form that added a semantic \u2fac\u2004'RAIN' component",
+              "refs": []
+            },
+            {
+              "sentence": "The simplified forms of these two characters have been merged into \u4e91",
+              "refs": []
+            },
+            {
+              "sentence": "A second round of simplified characters was promulgated in 1977, but was poorly received by the public and quickly fell out of official use",
+              "refs": []
+            },
+            {
+              "sentence": "It was ultimately formally rescinded in 1986",
+              "refs": []
+            },
+            {
+              "sentence": "The second-round simplifications were unpopular in large part because most of the forms were completely new, in contrast to the familiar variants comprising the majority of the first round",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "With the rescission of the second round, work toward further character simplification largely came to an end",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The Chart of Generally Utilized Characters of Modern Chinese was published in 1988 and included 7000 simplified and unsimplified characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Of these, half were also included in the revised List of Commonly Used Characters in Modern Chinese, which specified 2500 common characters and 1000 less common characters",
+              "refs": []
+            },
+            {
+              "sentence": "In 2013, the List of Commonly Used Standard Chinese Characters was published as a revision of the 1988 lists; it included a total of 8105 characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Japan",
+          "section_content": [
+            {
+              "sentence": "After World War II, the Japanese government instituted its own program of orthographic reforms",
+              "refs": []
+            },
+            {
+              "sentence": "Some characters were assigned simplified forms called shinjitai; the older forms were then labelled ky\u016bjitai",
+              "refs": []
+            },
+            {
+              "sentence": "Inconsistent use of different variant forms was discouraged, and lists of characters to be taught to students at each grade level were developed",
+              "refs": []
+            },
+            {
+              "sentence": "The first of these was the 1850-character t\u014dy\u014d kanji list published in 1946, later replaced by the 1945-character j\u014dy\u014d kanji list in 1981",
+              "refs": []
+            },
+            {
+              "sentence": "In 2010, the j\u014dy\u014d kanji were expanded to include a total of 2136 characters",
+              "refs": []
+            },
+            {
+              "sentence": "The Japanese government restricts characters that may be used in names to the j\u014dy\u014d kanji, plus an additional list of 983 jinmeiy\u014d kanji whose use are historically prevalent in names",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "South Korea",
+          "section_content": [
+            {
+              "sentence": "Hanja are still used in South Korea, though not to the extent that kanji are used in Japan",
+              "refs": []
+            },
+            {
+              "sentence": "In general, there is a trend toward the exclusive use of hangul in ordinary contexts",
+              "refs": []
+            },
+            {
+              "sentence": "Characters remain in use in place names, newspapers, and to disambiguate homophones",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "They are also used in the practice of calligraphy",
+              "refs": []
+            },
+            {
+              "sentence": "Use of hanja in education is politically contentious, with official policy regarding the prominence of hanja in curricula having vacillated since the country's independence",
+              "refs": []
+            },
+            {
+              "sentence": "Some support the total abandonment of hanja, while others advocate an increase in use to levels previously seen during the 1970s and 1980s",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Students in grades 7\u201312 are presently taught with a principal focus on simple recognition and attaining sufficient literacy to read a newspaper",
+              "refs": []
+            },
+            {
+              "sentence": "The South Korean Ministry of Education published the Basic Hanja for Educational Use in 1972, which specified 1800 characters meant to be learned by secondary school students",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In 1991, the Supreme Court of Korea published the Table of Hanja for Use in Personal Names (\uc778\uba85\uc6a9 \ud55c\uc790; Inmyeong-yong Hanja), which initially included 2854 characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The list has been expanded several times since; as of 2022 [update], it includes 8319 characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "North Korea",
+          "section_content": [
+            {
+              "sentence": "In the years following its establishment, the North Korean government sought to eliminate the use of hanja in standard writing; by 1949, characters had been almost entirely replaced with hangul in North Korean publications",
+              "refs": []
+            },
+            {
+              "sentence": "While mostly unused in writing, hanja remain an important part of North Korean education: a 1971 textbook for university history departments contained 3323 distinct characters, and in the 1990s North Korean schoolchildren were still expected to learn 2000 characters",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A 2013 textbook appears to integrate the use of hanja in secondary school education",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It has been estimated that North Korean students learn around 3000 hanja by the time they graduate university",
+              "refs": [
+                "http://www.nikkei.com/article/DGXNASDG22043_U0A121C1CR0000/"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Taiwan",
+          "section_content": [
+            {
+              "sentence": "The Chart of Standard Forms of Common National Characters was published by Taiwan's Ministry of Education in 1982, and lists 4808 traditional characters",
+              "refs": []
+            },
+            {
+              "sentence": "The Ministry of Education also compiles dictionaries of characters used in Taiwanese Hokkien and Hakka",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "[H]",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Other regional standards",
+          "section_content": [
+            {
+              "sentence": "Singapore's Ministry of Education promulgated three successive rounds of simplifications: the first round in 1969 included 502 simplified characters, and the second round in 1974 included 2287 simplified characters\u2014including 49 that differed from those in the PRC, which were ultimately removed in the final round in 1976",
+              "refs": []
+            },
+            {
+              "sentence": "In 1993, Singapore adopted the revisions made in mainland China in 1986",
+              "refs": []
+            },
+            {
+              "sentence": "The Hong Kong Education and Manpower Bureau's List of Graphemes of Commonly-Used Chinese Characters includes 4762 traditional characters used in elementary and junior secondary education",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Notes",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "References",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Citations",
+          "section_content": [],
+          "subsections": []
+        },
+        {
+          "section_title": "Works cited",
+          "section_content": [],
+          "subsections": []
+        },
+        {
+          "section_title": "Primary and media sources",
+          "section_content": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Further reading",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "External links",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "2": "[ERROR retrieving ref link]",
+    "4": "[ERROR retrieving ref link]",
+    "13": "[ERROR retrieving ref link]",
+    "169": "[ERROR retrieving ref link]",
+    "1": "[ERROR retrieving ref link]",
+    "3": "[ERROR retrieving ref link]",
+    "5": "[ERROR retrieving ref link]",
+    "6": "[ERROR retrieving ref link]",
+    "7": "[ERROR retrieving ref link]",
+    "8": "[ERROR retrieving ref link]",
+    "9": "[ERROR retrieving ref link]",
+    "10": "[ERROR retrieving ref link]",
+    "11": "[ERROR retrieving ref link]",
+    "12": "[ERROR retrieving ref link]",
+    "14": "[ERROR retrieving ref link]",
+    "15": "[ERROR retrieving ref link]",
+    "16": "[ERROR retrieving ref link]",
+    "17": "[ERROR retrieving ref link]",
+    "18": "[ERROR retrieving ref link]",
+    "19": "[ERROR retrieving ref link]",
+    "20": "[ERROR retrieving ref link]",
+    "21": "[ERROR retrieving ref link]",
+    "22": "[ERROR retrieving ref link]",
+    "23": "[ERROR retrieving ref link]",
+    "24": "[ERROR retrieving ref link]",
+    "25": "[ERROR retrieving ref link]",
+    "26": "[ERROR retrieving ref link]",
+    "27": "[ERROR retrieving ref link]",
+    "28": "[ERROR retrieving ref link]",
+    "29": "[ERROR retrieving ref link]",
+    "30": "[ERROR retrieving ref link]",
+    "31": "[ERROR retrieving ref link]",
+    "32": "[ERROR retrieving ref link]",
+    "33": "[ERROR retrieving ref link]",
+    "34": "[ERROR retrieving ref link]",
+    "35": "[ERROR retrieving ref link]",
+    "36": "[ERROR retrieving ref link]",
+    "37": "[ERROR retrieving ref link]",
+    "38": "[ERROR retrieving ref link]",
+    "39": "[ERROR retrieving ref link]",
+    "40": "[ERROR retrieving ref link]",
+    "41": "[ERROR retrieving ref link]",
+    "42": "[ERROR retrieving ref link]",
+    "43": "[ERROR retrieving ref link]",
+    "44": "[ERROR retrieving ref link]",
+    "45": "[ERROR retrieving ref link]",
+    "46": "[ERROR retrieving ref link]",
+    "47": "[ERROR retrieving ref link]",
+    "48": "[ERROR retrieving ref link]",
+    "49": "[ERROR retrieving ref link]",
+    "50": "[ERROR retrieving ref link]",
+    "51": "[ERROR retrieving ref link]",
+    "52": "[ERROR retrieving ref link]",
+    "54": "[ERROR retrieving ref link]",
+    "55": "[ERROR retrieving ref link]",
+    "56": "[ERROR retrieving ref link]",
+    "59": "[ERROR retrieving ref link]",
+    "60": "[ERROR retrieving ref link]",
+    "61": "[ERROR retrieving ref link]",
+    "62": "[ERROR retrieving ref link]",
+    "63": "[ERROR retrieving ref link]",
+    "64": "[ERROR retrieving ref link]",
+    "65": "[ERROR retrieving ref link]",
+    "66": "[ERROR retrieving ref link]",
+    "67": "[ERROR retrieving ref link]",
+    "68": "[ERROR retrieving ref link]",
+    "69": "[ERROR retrieving ref link]",
+    "70": "[ERROR retrieving ref link]",
+    "71": "[ERROR retrieving ref link]",
+    "72": "[ERROR retrieving ref link]",
+    "73": "[ERROR retrieving ref link]",
+    "74": "[ERROR retrieving ref link]",
+    "75": "[ERROR retrieving ref link]",
+    "76": "[ERROR retrieving ref link]",
+    "77": "[ERROR retrieving ref link]",
+    "78": "[ERROR retrieving ref link]",
+    "79": "[ERROR retrieving ref link]",
+    "80": "[ERROR retrieving ref link]",
+    "81": "[ERROR retrieving ref link]",
+    "82": "[ERROR retrieving ref link]",
+    "83": "[ERROR retrieving ref link]",
+    "84": "[ERROR retrieving ref link]",
+    "85": "[ERROR retrieving ref link]",
+    "86": "[ERROR retrieving ref link]",
+    "88": "[ERROR retrieving ref link]",
+    "89": "[ERROR retrieving ref link]",
+    "90": "[ERROR retrieving ref link]",
+    "91": "[ERROR retrieving ref link]",
+    "92": "[ERROR retrieving ref link]",
+    "93": "[ERROR retrieving ref link]",
+    "94": "[ERROR retrieving ref link]",
+    "95": "[ERROR retrieving ref link]",
+    "96": "[ERROR retrieving ref link]",
+    "97": "[ERROR retrieving ref link]",
+    "98": "[ERROR retrieving ref link]",
+    "99": "[ERROR retrieving ref link]",
+    "101": "[ERROR retrieving ref link]",
+    "102": "[ERROR retrieving ref link]",
+    "103": "[ERROR retrieving ref link]",
+    "104": "[ERROR retrieving ref link]",
+    "105": "[ERROR retrieving ref link]",
+    "106": "[ERROR retrieving ref link]",
+    "107": "[ERROR retrieving ref link]",
+    "108": "[ERROR retrieving ref link]",
+    "109": "[ERROR retrieving ref link]",
+    "110": "[ERROR retrieving ref link]",
+    "111": "[ERROR retrieving ref link]",
+    "112": "[ERROR retrieving ref link]",
+    "113": "[ERROR retrieving ref link]",
+    "114": "[ERROR retrieving ref link]",
+    "115": "[ERROR retrieving ref link]",
+    "116": "[ERROR retrieving ref link]",
+    "117": "[ERROR retrieving ref link]",
+    "118": "[ERROR retrieving ref link]",
+    "119": "[ERROR retrieving ref link]",
+    "120": "[ERROR retrieving ref link]",
+    "121": "[ERROR retrieving ref link]",
+    "122": "[ERROR retrieving ref link]",
+    "125": "[ERROR retrieving ref link]",
+    "126": "[ERROR retrieving ref link]",
+    "127": "[ERROR retrieving ref link]",
+    "128": "[ERROR retrieving ref link]",
+    "129": "[ERROR retrieving ref link]",
+    "130": "[ERROR retrieving ref link]",
+    "131": "[ERROR retrieving ref link]",
+    "132": "[ERROR retrieving ref link]",
+    "133": "[ERROR retrieving ref link]",
+    "134": "[ERROR retrieving ref link]",
+    "135": "[ERROR retrieving ref link]",
+    "136": "[ERROR retrieving ref link]",
+    "137": "[ERROR retrieving ref link]",
+    "138": "[ERROR retrieving ref link]",
+    "139": "[ERROR retrieving ref link]",
+    "140": "[ERROR retrieving ref link]",
+    "141": "[ERROR retrieving ref link]",
+    "142": "[ERROR retrieving ref link]",
+    "143": "[ERROR retrieving ref link]",
+    "144": "[ERROR retrieving ref link]",
+    "145": "[ERROR retrieving ref link]",
+    "146": "[ERROR retrieving ref link]",
+    "147": "[ERROR retrieving ref link]",
+    "148": "[ERROR retrieving ref link]",
+    "149": "[ERROR retrieving ref link]",
+    "150": "[ERROR retrieving ref link]",
+    "151": "[ERROR retrieving ref link]",
+    "152": "[ERROR retrieving ref link]",
+    "153": "[ERROR retrieving ref link]",
+    "154": "[ERROR retrieving ref link]",
+    "155": "[ERROR retrieving ref link]",
+    "156": "[ERROR retrieving ref link]",
+    "157": "[ERROR retrieving ref link]",
+    "158": "[ERROR retrieving ref link]",
+    "159": "[ERROR retrieving ref link]",
+    "160": "[ERROR retrieving ref link]",
+    "161": "[ERROR retrieving ref link]",
+    "162": "[ERROR retrieving ref link]",
+    "163": "[ERROR retrieving ref link]",
+    "164": "[ERROR retrieving ref link]",
+    "165": "[ERROR retrieving ref link]",
+    "166": "[ERROR retrieving ref link]",
+    "167": "[ERROR retrieving ref link]",
+    "168": "[ERROR retrieving ref link]",
+    "170": "[ERROR retrieving ref link]",
+    "171": "[ERROR retrieving ref link]",
+    "172": "[ERROR retrieving ref link]",
+    "173": "[ERROR retrieving ref link]",
+    "174": "[ERROR retrieving ref link]",
+    "175": "[ERROR retrieving ref link]",
+    "176": "[ERROR retrieving ref link]",
+    "177": "[ERROR retrieving ref link]",
+    "178": "[ERROR retrieving ref link]",
+    "179": "[ERROR retrieving ref link]",
+    "180": "[ERROR retrieving ref link]",
+    "181": "[ERROR retrieving ref link]",
+    "182": "[ERROR retrieving ref link]",
+    "183": "[ERROR retrieving ref link]",
+    "184": "[ERROR retrieving ref link]",
+    "185": "[ERROR retrieving ref link]",
+    "186": "[ERROR retrieving ref link]",
+    "187": "[ERROR retrieving ref link]",
+    "188": "[ERROR retrieving ref link]",
+    "189": "[ERROR retrieving ref link]",
+    "190": "[ERROR retrieving ref link]",
+    "191": "[ERROR retrieving ref link]",
+    "192": "[ERROR retrieving ref link]",
+    "193": "[ERROR retrieving ref link]",
+    "194": "[ERROR retrieving ref link]",
+    "195": "[ERROR retrieving ref link]",
+    "196": "[ERROR retrieving ref link]",
+    "197": "[ERROR retrieving ref link]",
+    "198": "[ERROR retrieving ref link]",
+    "199": "[ERROR retrieving ref link]",
+    "200": "[ERROR retrieving ref link]",
+    "201": "[ERROR retrieving ref link]",
+    "202": "[ERROR retrieving ref link]",
+    "203": "[ERROR retrieving ref link]",
+    "204": "[ERROR retrieving ref link]",
+    "205": "[ERROR retrieving ref link]",
+    "206": "[ERROR retrieving ref link]",
+    "207": "[ERROR retrieving ref link]",
+    "208": "[ERROR retrieving ref link]",
+    "209": "[ERROR retrieving ref link]",
+    "210": "[ERROR retrieving ref link]",
+    "211": "[ERROR retrieving ref link]",
+    "212": "[ERROR retrieving ref link]",
+    "213": "[ERROR retrieving ref link]",
+    "214": "[ERROR retrieving ref link]",
+    "215": "[ERROR retrieving ref link]",
+    "216": "[ERROR retrieving ref link]",
+    "217": "[ERROR retrieving ref link]",
+    "218": "[ERROR retrieving ref link]",
+    "219": "http://www.nikkei.com/article/DGXNASDG22043_U0A121C1CR0000/",
+    "220": "https://www.nikkei.com/article/DGXLASDG24H0N_U7A920C1000000/",
+    "221": "[ERROR retrieving ref link]",
+    "222": "[ERROR retrieving ref link]",
+    "223": "[ERROR retrieving ref link]",
+    "224": "[ERROR retrieving ref link]",
+    "225": "[ERROR retrieving ref link]",
+    "226": "[ERROR retrieving ref link]",
+    "227": "https://www.chosun.com/national/court_law/2021/12/26/OZCAQQTHSFANXKF4UU2C7GEBQM",
+    "228": "[ERROR retrieving ref link]",
+    "229": "[ERROR retrieving ref link]",
+    "230": "http://nk.chosun.com/news/articleView.html?idxno=155532",
+    "231": "https://nk.chosun.com/news/articleView.html?idxno=7252",
+    "232": "[ERROR retrieving ref link]",
+    "234": "[ERROR retrieving ref link]",
+    "235": "[ERROR retrieving ref link]",
+    "236": "[ERROR retrieving ref link]",
+    "237": "[ERROR retrieving ref link]",
+    "53": "http://archive.org/details/recueildetravaux27masp/page/244/mode/2up",
+    "57": "https://ctext.org/dao-de-jing/ens#n11671",
+    "58": "https://ctext.org/book-of-changes/xi-ci-xia#n46944",
+    "87": "https://dl.ndl.go.jp/en/pid/1287529/1/2",
+    "100": "https://archive.org/details/bub_gb_2va5Ayf9u-sC/bub_gb_2va5Ayf9u-sC/page/n29/mode/2up",
+    "123": "https://www.unicode.org/standard/principles.html",
+    "124": "https://www.unicode.org/reports/tr38/tr38-37.html#BlockListing",
+    "233": "https://sutian.moe.edu.tw/zh-hant/introduction/"
+  },
+  "flair_entities": [
+    "ce",
+    "calligraphy  calligraphy",
+    "peter a",
+    "kangxi",
+    "north korean",
+    "macau",
+    "liu",
+    "prc",
+    "morse code",
+    "the unicode standard",
+    "bi sheng",
+    "zhou",
+    "xi\u01ceozhu\u00e0n",
+    "japanese-language",
+    "unicode consortium",
+    "kmt",
+    "vietnamese",
+    "zhuang",
+    "taiwanese hokkien",
+    "korean  in korean",
+    "lisu",
+    "japanese",
+    "chinese-speaking",
+    "han dynasty",
+    "communists",
+    "yellow river",
+    "yao",
+    "western",
+    "moon')",
+    "hakka",
+    "li si",
+    "xici ii",
+    "literary chinese",
+    "classical chinese",
+    "three kingdoms",
+    "beijing",
+    "xiangnan tuhua",
+    "dadiwan",
+    "buddhist",
+    "french",
+    "hong kong",
+    "joseon",
+    "qing",
+    "cjk unified ideographs",
+    "shandong",
+    "non-chinese",
+    "korean-language",
+    "three character classic",
+    "kuomintang",
+    "emperor wu of han",
+    "wang xianzhi",
+    "east asia",
+    "tao te ching",
+    "zhong yao",
+    "sinosphere",
+    "qiu",
+    "boltz",
+    "nara",
+    "khitan",
+    "geba",
+    "southwestern china",
+    "qin",
+    "liu desheng",
+    "lufei kui",
+    "moon",
+    "classical",
+    "ji\u0101n\u00e1d\u00e0",
+    "canada",
+    "hu shih",
+    "mandarin",
+    "south korea",
+    "late shang",
+    "boodberg",
+    "inmyeong-yong hanja",
+    "yin",
+    "latin-based",
+    "li ji",
+    "miao",
+    "republic of china",
+    "modern chinese",
+    "journey to the west",
+    "script reform committee",
+    "empire of japan",
+    "sejong",
+    "anyang",
+    "english",
+    "qiu xigui",
+    "cai lun",
+    "south",
+    "b\u00f9ji\u00e0n",
+    "america",
+    "may fourth movement",
+    "latin",
+    "table of hanja for use in personal names",
+    "tang",
+    "neolithic",
+    "coca-cola",
+    "i ching",
+    "sino-xenic",
+    "unicode",
+    "dream of the red chamber",
+    "chinese",
+    "warring states",
+    "song-era hundred family surnames",
+    "middle chinese",
+    "yi",
+    "chinese-language",
+    "shang",
+    "chart of generally utilized characters of modern chinese",
+    "chinese-original",
+    "han",
+    "chinese communist party",
+    "jin-era",
+    "n\u00fcshu",
+    "bce",
+    "neolithic dawenkou",
+    "non-qin",
+    "list of commonly used standard chinese characters",
+    "thousand character classic",
+    "banpo",
+    "zhou enlai",
+    "japan",
+    "xu",
+    "ascii",
+    "north korea",
+    "meiji",
+    "vietnamese-language",
+    "jin",
+    "jyutping",
+    "chen mengjia",
+    "ngmwm",
+    "jurchen",
+    "lu xun",
+    "qian xuantong",
+    "taiwan",
+    "h\u00e1n",
+    "non-han",
+    "damaidi",
+    "academia sinica",
+    "eastern jin",
+    "erya",
+    "ministry of education",
+    "cantonese",
+    "oracle",
+    "vietnam",
+    "yellow emperor",
+    "hong kong education and manpower bureau",
+    "europe",
+    "non-sinitic",
+    "written cantonese",
+    "wang xizhi",
+    "woman",
+    "singapore",
+    "standard chinese",
+    "tangut",
+    "sino-japanese",
+    "william g",
+    "peking university",
+    "supreme court of korea",
+    "old chinese",
+    "wu ding",
+    "sino-korean",
+    "hani",
+    "south korea  hanja",
+    "the shuowen jiezi",
+    "goryeo",
+    "n\u00f4m",
+    "world war ii",
+    "cangjie",
+    "naxi",
+    "henan",
+    "eight principles of yong",
+    "xinhai revolution",
+    "wubi",
+    "hepburn",
+    "bouyei",
+    "mongols",
+    "republican",
+    "taiwan  the chart of standard forms of common national characters",
+    "jiahu",
+    "malaysia",
+    "hanyu pinyin",
+    "eastern han",
+    "d\u00e0zhu\u00e0n",
+    "guangxi",
+    "china",
+    "taiwanese",
+    "xu shen",
+    "sui",
+    "amerika",
+    "bai",
+    "zihui",
+    "basic hanja for educational use",
+    "northern and southern",
+    "ccp",
+    "korean",
+    "south korean",
+    "shuowen jiezi",
+    "confucian",
+    "mongolian",
+    "cao wei",
+    "kangxi dictionary",
+    "korea",
+    "people's republic of china",
+    "ming",
+    "tang lan"
+  ]
+}

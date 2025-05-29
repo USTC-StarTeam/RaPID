@@ -1,0 +1,154 @@
+Typhoon_Gaemi
+
+Typhoon Gaemi, known in the Philippines as Super Typhoon Carina, was a powerful and destructive tropical cyclone which impacted East China, Taiwan, and the Philippines in late July 2024. Gaemi, which means ant in Korean, the third named storm and second typhoon of the annual typhoon season, formed as a tropical depression east of Palau on July 19. Owing to favorable environmental conditions, the typhoon intensified and reached its peak with ten-minute maximum sustained winds of 165 km/h (105 mph), and a central atmospheric pressure of 935 hPa (27.61 inHg). With one-minute sustained winds at 230 km/h (145 mph), Gaemi was classified as a Category 4-equivalent typhoon. The storm then turned north-northwestward, along the western periphery of a subtropical ridge. After stalling and executing a tight counter-clockwise loop near the coast, Gaemi slightly weakened due to land interaction before making landfall on the northeastern coast of Taiwan on July 24. It emerged over the Taiwan Strait just six hours after landfall. Gaemi made landfall in China as a minimal tropical storm in the Xiuyu District of Putian in Fujian Province. Once inland, the system weakened to a tropical depression by July 26 and continued tracking the system until it dissipated on July 29.   
+Together with the southwest monsoon and Tropical Storm Prapiroon, heavy rains were reported over southern and northern Luzon, triggering widespread flash floods in various areas of the region. The monsoon enhanced by Gaemi's impact on Luzon led to comparisons to 2009's Typhoon Ketsana. The oil tanker MT Terra Nova, carrying around 1.5 million liters of industrial fuel, capsized and sank in 34 m (112 ft) depth of water in Manila Bay off the coast of Limay, Bataan. In Japan, the island of Yonaguni recorded wind speeds of up to 180 km/h (110 mph). In Indonesia, large waves of up to 2.5 m (8.2 ft) in height affected the Molucca Sea, North Natuna Sea, Natuna Sea, and the areas between the Sitaro Islands and Bitung, and between the Sangihe Islands and Talaud Islands. A maximum rainfall accumulation of 512.8 mm (20.19 in) was observed in Luoyuan County in Fujian Province. The remnants of Gaemi also hit North Korea, where up to 4,000 may have died. North Korean state media did not provide figures on casualties. In total, the typhoon killed at least 107 people, injured 924 others, left 42 missing, and caused US$4.57 billion in damages.
+
+# Meteorological history
+
+The origins of Typhoon Gaemi can be traced back to July 17, when the Japan Meteorological Agency (JMA) reported that a low-pressure area had formed east of Palau. Environment was generally favourable for tropical cyclogenesis, with warm sea surface temperatures of 27–28 °C (81–82 °F), low vertical wind shear and excellent poleward and equatorward outflow [1]. Satellite imagery indicated that formative convective banding had begun to wrap into the centre of circulation. After slowly consolidating for two days, the Joint Typhoon Warning Center (JTWC) issued a tropical cyclone formation alert for the system on July 19, due to its rapidly consolidating broad low-level circulation center [2]. Shortly after, both the JMA and the JTWC followed suit and upgraded the tropical depression, with the latter designating the system as 05W [3]. The Philippine Atmospheric, Geophysical and Astronomical Services Administration followed suit a few hours later, upgrading the system from a low-pressure area to a depression and assigning it the name Carina [4] [5]. Early the following day, the depression strengthened into a tropical storm and was named Gaemi by the JMA [6]. Gaemi's deep convection later began to consolidate into a small central dense overcast, with cloud tops reaching temperatures of −90 °C (−130 °F). It then intensified into a severe tropical storm due to being in a conducive environment for development on July 21 [8]. The storm displayed convective banding features around its western periphery, wrapping into a low-level center of circulation [9]. Around 00:00 UTC on July 22, the JMA then reported that Gaemi had intensified into a typhoon due to good upper-level outflow, warm sea surface temperatures, and high ocean heat content [10]. Gaemi then turned north-northwestward, along the western periphery of a subtropical ridge [11]. As it remained quasi-stationary six hours later, due to a weak steering environment between the subtropical ridge to the northwest and east, the JTWC upgraded Gaemi to minimal typhoon-equivalent status around 21:00 UTC that day [12]. After undergoing an eyewall replacement cycle and developing a pinhole eye, Gaemi rapidly intensified and peaked at Category 4-equivalent intensity on the Saffir-Simpson scale at 21:00 UTC on July 23, with 1-minute sustained winds of 230 km/h (145 mph). The JMA reported that Gaemi reached its peak intensity at 06:00 UTC on July 24, with 10-minute sustained winds of 165 km/h (105 mph) and a central pressure of 935 hPa (27.61 inHg) [14]. A study by World Weather Attribution in August 2024 suggests that Gaemi's extreme winds and heavy precipitation were exacerbated by climate change [15] [16]. After stalling and executing a tight counter-clockwise loop near the coast,  Gaemi slightly weakened into a below-equivalent typhoon status due to land interaction before it made landfall on the northeastern coast of Taiwan on July 24 [17] [18]. Gaemi accelerated as it moved across the island and emerged into the Taiwan Strait just six hours after making landfall [19]. The system quickly weakened to a minimal tropical storm as it made its closest approach offshore of eastern China [20]. Soon after,  the JTWC ceased issuing advisories on the system as it made its final landfall at Xiuyu, Putian in Fujian Province [21] [22]. Once inland, the JMA downgraded Gaemi into a tropical depression on July 26 and continued tracking the system until it dissipated at 00:00 UTC on July 29 [23]. 
+
+# Preparations
+
+## Philippines
+
+Combined with moisture from the southwest monsoon, the influence of Gaemi produced heavy rainfall across parts of the Philippines. Heavy rainfall occurred in Albay, Aklan, Antique, Bataan, Batangas, Cavite, Capiz, Oriental Mindoro, Rizal, and Zambales. Residents of Romblon also received flood warnings and a yellow warning for heavy rainfall. Two thoroughfares in the Zamboanga Peninsula and Cordillera Administrative Region, respectively, were blocked due to rockfalls, with access only possible to small vehicles. The Angat Dam saw water level increases of up to 3.8 m (12 ft) amidst rainfall from Gaemi [57]. Downstream, the reservoir of La Mesa Dam in Quezon City also rose up causing water to overflow [58]. On July 24, the third and highest alarm was raised on the Marikina River after it rose to 18.4 m (60 ft) before peaking at 20.7 m (68 ft), prompting evacuations [59]. Strong water currents along the river also caused several barges to collide into the F [60]. Manalo Bridge in Pasig. In Taguig, floodwaters reached waist-level [61]. Houses in coastal villages of Orani, Bataan were inundated by floodwaters [62]. Homes were also inundated by floodwaters in Samal, where rice and other crops received partial losses due to the flooding. Soil erosion occurred in Baguio, damaging a riprap. Strong winds impacted Olongapo, toppling electrical poles. A downed tree also blocked traffic in Quezon City [31]. Several sections of the North Luzon Expressway were rendered impassable due to the torrential rain brought by the two weather conditions [63]. Highways connecting Nueva Vizcaya with Benguet and Pangasinan were blocked by landslides,  with 34 houses in Kayapa also damaged [64] [65]. Severe weather conditions forced vessels to remain in ports, stranding 70 people in Southern Tagalog and Bicol Region, combined [66]. An additional 48 passengers were stranded in Pasacao, Camarines Sur. A total of 224 families were affected by the storm across Bataan, Camarines Sur, Iloilo City, Masbate, and Pampanga [58]. A total of 1,215 schools were forced to postpone the start of the school year on July 29 due to damage or conversion into evacuation shelters [63]. A state of calamity was declared in Metro Manila and in the provinces of Bataan, Batangas, Bulacan, Cavite, Ilocos Norte, Oriental Mindoro and Pampanga    due to the widespread floods that occurred in various areas of the region [67] [68] [69] [70] [71]. The monsoon enhanced by Gaemi's impact on Luzon led to comparisons to 2009's Typhoon Ketsana, which was known locally as Tropical Storm Ondoy [72]. The oil tanker MT Terra Nova, carrying around 1.5 million liters of industrial fuel, capsized and sank in 34 m (112 ft) depth of water  in Manila Bay off the coast of Limay, Bataan, causing an oil spill with a length of four kilometers [73] [74] [75] [76]. As of August 26, 2024 [update], the National Disaster Risk Reduction and Management Council reported that 6,498,918 people were affected by Gaemi, along with the impacts of the southwest monsoon and nearby Tropical Storm Prapiroon (Butchoy), resulting in 1,141,926 individuals displaced from their homes, 108 cities experiencing power outages, and 9,790 houses damaged. At least 48 fatalities and five missing persons were reported, along with 16 injuries, while the agricultural damage reached ₱5.98 billion (US$121.47 million) and infrastructure damage was estimated at ₱4.39 billion (US$89.06 million), leading to a total damage of ₱10.37 billion (US$210.53 million). 
+
+## Taiwan
+
+Gaemi killed 10 people in Taiwan as it approached the island;  a woman killed by a falling tree in Kaohsiung, and another death caused by a falling excavator in Sanxia District, New Taipei [51]. Additionally, a woman was killed and her son was critically injured after a wall collapsed and struck their car in Hualien City,  three more died in Chiayi County,  an elderly man was killed by a landslide in Cishan District,  another was killed in a related car accident in Yunlin County,  and one more death occurred in Tainan [78] [79] [80] [81] [82]. While docked in southern Taiwan, the freighter Fu Shun capsized,  killing the ship's captain [83] [77]. Three other vessels ran aground near Tainan [84]. Across the island, 902 people were injured, two others were missing and 262,000 were left without power [85]. Up to 1,204.5 mm (47.4 in) of rainfall was observed in the Maolin District of Kaohsiung [86] [40] [87]. A total of 1,232 people were displaced by the typhoon and were placed into 279 emergency camps [88]. Initial estimates indicate that Gaemi caused economic losses of US$245 million [89]. 
+
+## Japan
+
+The Japan Meteorological Agency said that rainfall on July 25 could reach 8 in (200 mm) in the Yaeyama Islands, 5.9 in (150 mm) on Okinawa Island and nearby areas, and 4 in (100 mm) in Miyako-jima within a 24-hour period. Authorities in Okinawa Prefecture warned residents of the Sakishima Islands to remain indoors and for boats to not leave port [47]. Japan Airlines and All Nippon Airways cancelled 100 flights in and out of Ishigaki, Miyako-jima, and Naha [48]. 
+
+# Impact and aftermath
+
+## Philippines
+
+Combined with moisture from the southwest monsoon, the influence of Gaemi produced heavy rainfall across parts of the Philippines. Heavy rainfall occurred in Albay, Aklan, Antique, Bataan, Batangas, Cavite, Capiz, Oriental Mindoro, Rizal, and Zambales. Residents of Romblon also received flood warnings and a yellow warning for heavy rainfall. Two thoroughfares in the Zamboanga Peninsula and Cordillera Administrative Region, respectively, were blocked due to rockfalls, with access only possible to small vehicles. The Angat Dam saw water level increases of up to 3.8 m (12 ft) amidst rainfall from Gaemi [57]. Downstream, the reservoir of La Mesa Dam in Quezon City also rose up causing water to overflow [58]. On July 24, the third and highest alarm was raised on the Marikina River after it rose to 18.4 m (60 ft) before peaking at 20.7 m (68 ft), prompting evacuations [59]. Strong water currents along the river also caused several barges to collide into the F [60]. Manalo Bridge in Pasig. In Taguig, floodwaters reached waist-level [61]. Houses in coastal villages of Orani, Bataan were inundated by floodwaters [62]. Homes were also inundated by floodwaters in Samal, where rice and other crops received partial losses due to the flooding. Soil erosion occurred in Baguio, damaging a riprap. Strong winds impacted Olongapo, toppling electrical poles. A downed tree also blocked traffic in Quezon City [31]. Several sections of the North Luzon Expressway were rendered impassable due to the torrential rain brought by the two weather conditions [63]. Highways connecting Nueva Vizcaya with Benguet and Pangasinan were blocked by landslides,  with 34 houses in Kayapa also damaged [64] [65]. Severe weather conditions forced vessels to remain in ports, stranding 70 people in Southern Tagalog and Bicol Region, combined [66]. An additional 48 passengers were stranded in Pasacao, Camarines Sur. A total of 224 families were affected by the storm across Bataan, Camarines Sur, Iloilo City, Masbate, and Pampanga [58]. A total of 1,215 schools were forced to postpone the start of the school year on July 29 due to damage or conversion into evacuation shelters [63]. A state of calamity was declared in Metro Manila and in the provinces of Bataan, Batangas, Bulacan, Cavite, Ilocos Norte, Oriental Mindoro and Pampanga    due to the widespread floods that occurred in various areas of the region [67] [68] [69] [70] [71]. The monsoon enhanced by Gaemi's impact on Luzon led to comparisons to 2009's Typhoon Ketsana, which was known locally as Tropical Storm Ondoy [72]. The oil tanker MT Terra Nova, carrying around 1.5 million liters of industrial fuel, capsized and sank in 34 m (112 ft) depth of water  in Manila Bay off the coast of Limay, Bataan, causing an oil spill with a length of four kilometers [73] [74] [75] [76]. As of August 26, 2024 [update], the National Disaster Risk Reduction and Management Council reported that 6,498,918 people were affected by Gaemi, along with the impacts of the southwest monsoon and nearby Tropical Storm Prapiroon (Butchoy), resulting in 1,141,926 individuals displaced from their homes, 108 cities experiencing power outages, and 9,790 houses damaged. At least 48 fatalities and five missing persons were reported, along with 16 injuries, while the agricultural damage reached ₱5.98 billion (US$121.47 million) and infrastructure damage was estimated at ₱4.39 billion (US$89.06 million), leading to a total damage of ₱10.37 billion (US$210.53 million). 
+
+## Taiwan
+
+Gaemi killed 10 people in Taiwan as it approached the island;  a woman killed by a falling tree in Kaohsiung, and another death caused by a falling excavator in Sanxia District, New Taipei [51]. Additionally, a woman was killed and her son was critically injured after a wall collapsed and struck their car in Hualien City,  three more died in Chiayi County,  an elderly man was killed by a landslide in Cishan District,  another was killed in a related car accident in Yunlin County,  and one more death occurred in Tainan [78] [79] [80] [81] [82]. While docked in southern Taiwan, the freighter Fu Shun capsized,  killing the ship's captain [83] [77]. Three other vessels ran aground near Tainan [84]. Across the island, 902 people were injured, two others were missing and 262,000 were left without power [85]. Up to 1,204.5 mm (47.4 in) of rainfall was observed in the Maolin District of Kaohsiung [86] [40] [87]. A total of 1,232 people were displaced by the typhoon and were placed into 279 emergency camps [88]. Initial estimates indicate that Gaemi caused economic losses of US$245 million [89]. 
+
+## China
+
+Gaemi made landfall in China as a tropical storm with maximum sustained winds of around 120 km/h (75 mph) in the Xiuyu District of Putian in Fujian Province. There were 49 deaths confirmed in the country, 48 of them in Hunan Province, where 35 others were missing;  15 people were killed, 21 were missing and six more were injured after a mudslide struck a homestay in Hengyang, Hunan [90]. Additionally, a delivery driver was killed by a falling tree in Shanghai. About 1,000 homes were damaged and 1,345 road collapses were reported in Zixing,  where 30 people died [91] [92]. Heavy rainfall occurred in more than ten provinces and cities, including the cities of Fuzhou, Shenyang, Wuzhou, and Zhengzhou. A maximum rainfall accumulation of 512.8 mm (20.19 in) was observed in Luoyuan County in Fujian [93]. Precipitation was reported in over 72 townships in Fujian [94]. Across Fujian, a total of 85 hectares (210 acres) of crops were damaged [95]. Approximately 628,000 people were affected by the typhoon in Fujian, 290,000 of which were evacuated [96]. Total economic losses by the typhoon in China were estimated at 5.79 billion yuan (US$806 million). The remnants of Gaemi caused flooding in Chenzhou, Hengyang ang Henan and damage exceed at 8.61 billion yuan (US$1.2 billion),  and in an end-year total record, flooding in late July by Gaemi caused a total damage at 24.13 billion yuan (US$3.36 billion) [54] [54]. Total damage by Gaemi in China and the flooding by storm reached 29.92 billion yuan (US$4.12 billion) [55]. 
+
+## North Korea
+
+Gaemi's remnants also hit North Korea,  resulting in heavy flooding in North Pyongan Province which stranded 5,000 people [92]. In the city of Sinuiju and the neighboring Uiju County, about 4,100 houses, 3,000 hectares (7,410 acres) of agricultural fields and numerous public buildings, roads and railways were flooded [98]. North Korean media covered the disasters much more prominently compared to previous disasters or incidents, with North Korea's state newspaper calling it a "grave crisis", as well as television showing footage of flooded areas [103]. North Korean state media reported that Supreme Leader Kim Jong Un traveled to flooding sites to survey damages [100]. State media stated that he "personally directed the battle" towards rescuing civilians, and declared sections of three provinces as disaster zones [101]. By September 4, 30 officials were reportedly executed after being charged with "corruption and dereliction of duty" [102]. [dubious – discuss] [56]. A government meeting agreed on constructing 4,400 new houses in Sinuiju and Uiju, while also reinforcing embankments and restoring damaged infrastructure in Jagang province. South Korea offered to give humanitarian aid to North Korea following the downpours, which the DPRK indicated that it would reject it [103]. Russian President Vladimir Putin expressed condolences to North Korea for damage caused by the flooding, and offered to provide humanitarian support [101]. In August, TV Chosun reported that between 1,000 and 1,500 people could have been killed or left missing due to the floods. However, North Korean state media said there were casualties but did not provide figures. There was no official mention of deaths from the state government [104]. On September 4, reports circulated that Supreme Leader Kim Jong Un may have ordered the execution of 30 officials in a purge [105]. At the same time, TV Chosun reported the death toll may have been 4,000. The Korean Central News Agency estimated some 5,000 people were rescued [56]. 
+
+## Elsewhere
+
+In Japan, the island of Yonaguni recorded wind speeds of up to 50 m/s (180 km/h; 110 mph) on July 24. In Indonesia, the Meteorology, Climatology, and Geophysical Agency warned of heavy rainfall in North Kalimantan, East Kalimantan, Central Sulawesi, North Maluku, and Maluku, due to the influence of Gaemi [47]. Large waves of up to 2.5 m (8.2 ft) in height affected the Molucca Sea, North Natuna Sea, Natuna Sea, and the areas between the Sitaro Islands and Bitung, and between the Sangihe Islands and Talaud Islands. 
+
+# References
+
+[1] https://archive.today/20240717134711/https://tgftp.nws.noaa.gov/data/raw/ww/wwjp27.rjtd..txt
+[2] https://archive.today/20240719020247/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[3] https://archive.today/20240719113248/https://www.metoc.navy.mil/jtwc/products/wp9224web.txt
+[4] https://archive.today/20240719114043/https://tgftp.nws.noaa.gov/data/raw/ww/wwjp27.rjtd..txt
+[5] https://archive.today/20240719204655/https://www.metoc.navy.mil/jtwc/products/wp0524web.txt
+[6] https://archive.today/20240719165058/https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin/2
+[7] https://archive.today/20240720105406/https://tgftp.nws.noaa.gov/data/raw/wt/wtpq31.rjtd..txt
+[8] https://archive.today/20240721152620/https://www.wis-jma.go.jp/d/o/PGTW/Alphanumeric/Warning/Tropical_cyclone/20240721/030000/A_WDPN32PGTW210300_C_RJTD_20240721032317_43.txt
+[9] https://archive.today/20240721113809/https://tgftp.nws.noaa.gov/data/raw/wt/wtpq31.rjtd..txt
+[10] https://archive.today/20240721152638/https://www.wis-jma.go.jp/d/o/PGTW/Alphanumeric/Warning/Tropical_cyclone/20240721/090000/A_WDPN32PGTW210900_C_RJTD_20240721085117_11.txt
+[11] https://archive.today/20240722020557/https://tgftp.nws.noaa.gov/data/raw/wt/wtpq31.rjtd..txt
+[12] https://archive.today/20240722140543/https://tgftp.nws.noaa.gov/data/raw/wd/wdpn32.pgtw..txt
+[13] https://archive.today/20240723150147/https://www.wis-jma.go.jp/d/o/PGTW/Alphanumeric/Warning/Tropical_cyclone/20240722/210000/A_WDPN32PGTW222100_C_RJTD_20240722233316_10.txt
+[14] https://archive.today/20240724145813/https://tgftp.nws.noaa.gov/data/raw/wd/wdpn32.pgtw..txt
+[15] https://archive.today/20241021084404/https://tgftp.nws.noaa.gov/data/raw/ax/axpq20.rjtd..txt
+[16] https://archive.today/20240724151201/https://www.wis-jma.go.jp/d/o/RJTD/Alphanumeric/Warning/Tropical_cyclone/20240724/060000/A_WTPQ31RJTD240600_C_RJTD_20240724072116_13.txt
+[17] https://www.worldweatherattribution.org/climate-change-increased-typhoon-gaemis-wind-speeds-and-rainfall/
+[18] https://www.washingtonpost.com/weather/2024/07/24/typhoon-gaemi-path-taiwan-explained/
+[19] https://archive.today/20240725150548/https://www.wis-jma.go.jp/d/o/PGTW/Alphanumeric/Warning/Tropical_cyclone/20240724/210000/A_WDPN32PGTW242100_C_RJTD_20240724202417_55.txt
+[20] https://archive.today/20240725150929/https://www.wis-jma.go.jp/d/o/PGTW/Alphanumeric/Warning/Tropical_cyclone/20240725/030000/A_WDPN32PGTW250300_C_RJTD_20240725023919_38.txt
+[21] https://archive.today/20240725144453/https://tgftp.nws.noaa.gov/data/raw/wd/wdpn32.pgtw..txt
+[22] https://www.nytimes.com/2024/07/25/world/asia/typhoon-gaemi-china-taiwan.html
+[23] https://archive.today/20240725144333/https://www.metoc.navy.mil/jtwc/products/wp0524web.txt
+[24] https://archive.today/20240727192211/https://tgftp.nws.noaa.gov/data/raw/wt/wtpq31.rjtd..txt
+[25] https://www.gmanetwork.com/news/scitech/weather/913999/tropical-depressions-butchoy-carina-form-in-par/story/?amp
+[26] https://mb.com.ph/2024/7/22/10-luzon-areas-under-signal-no-1-as-typhoon-carina-maintains-strength
+[27] https://newsinfo.inquirer.net/1963906/carina-intensifies-into-typhoon-signal-no-1-up-in-4-luzon-areas
+[28] https://www.gmanetwork.com/news/scitech/weather/914365/carina-slightly-intensifies-as-signal-no-2-raised-over-batanes/story/
+[29] https://www.philstar.com/headlines/2024/07/23/2372156/walang-pasok-class-suspensions-july-23-due-carina
+[30] https://x.com/ABSCBNNews/status/1815626969695825957
+[31] https://newsinfo.inquirer.net/1964027/carina-halts-air-sea-trips-in-parts-of-luzon/amp
+[32] https://www.pna.gov.ph/articles/1229607
+[33] https://www.pna.gov.ph/articles/1229464
+[34] https://www.pna.gov.ph/articles/1229470
+[35] https://www.pna.gov.ph/articles/1229468
+[36] https://www.pna.gov.ph/articles/1229590
+[37] https://www.taiwannews.com.tw/news/5906189
+[38] https://www.reuters.com/world/asia-pacific/taiwan-curtails-annual-war-games-typhoon-gaemi-barrels-towards-island-2024-07-23/
+[39] https://www.usnews.com/news/world/articles/2024-07-23/taiwan-hunkers-down-ahead-of-arrival-of-typhoon-gaemi
+[40] https://focustaiwan.tw/society/202407240019
+[41] https://www.taipeitimes.com/News/biz/archives/2024/07/24/2003821219
+[42] https://focustaiwan.tw/society/202407240026
+[43] https://focustaiwan.tw/society/202407240004
+[44] https://focustaiwan.tw/society/202407230017
+[45] https://www.taiwannews.com.tw/news/5907207
+[46] https://focustaiwan.tw/society/202407240020
+[47] https://www3.nhk.or.jp/nhkworld/en/news/20240724_30/
+[48] https://www.okinawatimes.co.jp/articles/-/1402506
+[49] https://japannews.yomiuri.co.jp/society/general-news/20240724-200402/
+[50] https://ndrrmc.gov.ph/attachments/article/4259/SitRep_No_46_for_the_Combined_Effects_of_Southwest_Monsoon_TC_BUTCHOY_2024_and_TC_CARINA_2024_Whole_Report.pdf
+[51] https://focustaiwan.tw/society/202407270013
+[52] https://insuranceasia.com/insurance/news/typhoon-gaemi-causes-multi-million-dollar-losses-in-asia
+[53] https://www.typhooncommittee.org/19IWS/docs/Members%20REport/CHina/Member%20Report%5bChina%5d.pdf
+[54] https://web.archive.org/web/20241118235553/http://www.mem.gov.cn/xw/yjglbgzdt/202408/t20240808_497247.shtml
+[55] https://www.mem.gov.cn/xw/yjglbgzdt/202501/t20250117_518491.shtml
+[56] https://www.independent.co.uk/asia/southeast-asia/north-korea-kim-jong-un-executes-officials-floods-b2606762.html
+[57] https://www.pna.gov.ph/articles/1229543
+[58] https://www.philstar.com/headlines/2024/07/23/2372223/carina-intensifies-typhoon-leaves-philippines-thursday/amp/
+[59] https://newsinfo.inquirer.net/1965139/la-mesa-dam-overflows-due-to-carina
+[60] https://www.philstar.com/nation/2024/07/24/2372605/marikina-river-breaches-third-alarm
+[61] https://www.rappler.com/philippines/barges-marikina-river-hit-pasig-bridge-july-24-2024/
+[62] https://uk.news.yahoo.com/flooding-hits-metro-manila-typhoon-123144995.html
+[63] https://malaya.com.ph/news_news/carina-floods-parts-of-metro-continues-to-move-away-from-ph/?amp
+[64] https://www.manilatimes.net/2024/07/24/news/several-areas-along-nlex-not-passable-due-to-floods/1959521
+[65] https://tuguegarao.bomboradyo.com/dalawang-kalsada-sa-nueva-vizcaya-passable-na-matapos-magkaroon-ng-landslide-dahil-sa-epekto-ng-bagyong-carina/
+[66] https://cauayan.bomboradyo.com/34-na-mga-bahay-partially-damaged-sa-mga-landslide-sa-kayapa-pdrrmc/
+[67] https://www.philstar.com/headlines/2024/07/27/2373308/738-schools-postpone-start-classes-deped
+[68] https://news.abs-cbn.com/news/2024/7/27/deped-1-215-public-schools-to-delay-opening-in-habagat-carina-aftermath-1845
+[69] https://news.abs-cbn.com/regions/2024/7/29/state-of-calamity-idineklara-sa-ilocos-norte-2032
+[70] https://news.abs-cbn.com/news/2024/7/25/5-provinces-declare-state-of-calamity-due-to-habagat-carina-1347
+[71] https://news.abs-cbn.com/regions/2024/7/26/pampanga-isinailalim-na-sa-state-of-calamity-dahil-sa-tindi-ng-epekto-ng-baha-1809
+[72] https://mb.com.ph/2024/07/24/metro-manila-placed-under-state-of-calamity
+[73] https://manilastandard.net/news/314475622/carina-brings-back-memories-of-ondoy-as-floods-engulf-metro-manila-parts-of-luzon.html
+[74] https://www.gmanetwork.com/news/scitech/science/914599/pagasa-ondoy-dumped-more-rain-than-carina-enhanced-habagat-in-6-hours/story/
+[75] https://filipinotimes.net/latest-news/2024/07/24/carina-turns-into-super-typhoon-qc-surpasses-its-historical-highest-24-hour-rainfall/
+[76] https://gulfnews.com/business/energy/philippine-tanker-carrying-14-million-litres-of-oil-capsizes-off-manila-1.1721896998931
+[77] https://www.bbc.co.uk/news/live/ce98pq4e3d1t
+[78] https://focustaiwan.tw/society/202407240021
+[79] https://taiwanenglishnews.com/typhoon-gaemi-hits-taiwans-east-coast-mother-dead-child-critical-after-brick-wall-falls-6-floors-onto-car/
+[80] https://www.ettoday.net/news/20240726/2785384.htm
+[81] https://www.taiwannews.com.tw/news/5907938
+[82] https://www.ettoday.net/news/20240727/2785728.htm
+[83] https://news.abs-cbn.com/world/2024/7/25/typhoon-gaemi-hits-taiwan-6-sailors-missing-after-ship-sinks-2146
+[84] https://www.worldcargonews.com/news/2024/07/captains-body-found-four-missing-after-ship-sank-near-taiwan
+[85] https://focustaiwan.tw/society/202410010019
+[86] https://www.singtaousa.com/2024-07-28/%E9%A2%B1%E9%A2%A8%E6%A0%BC%E7%BE%8E%EF%B8%B1%E5%90%B9%E8%A5%B2%E5%8F%B0%E7%81%A3%E5%B7%B2%E8%87%B410%E6%AD%BB2%E5%A4%B1%E8%B9%A4902%E4%BA%BA%E5%82%B7-%E8%BE%B2%E6%A5%AD%E7%B6%93%E6%BF%9F%E6%90%8D/4940949
+[87] https://www.ksat.com/news/world/2024/07/26/typhoon-gaemi-wreaked-the-most-havoc-in-the-country-it-didnt-hit-directly-the-philippines/
+[88] https://focustaiwan.tw/society/202407250016
+[89] https://focustaiwan.tw/society/202407260020
+[90] https://www.independent.co.uk/news/ap-cctv-hunan-xinhua-news-agency-north-korea-b2589604.html
+[91] https://www.thealbertan.com/world-news/mudslide-kills-15-people-near-tourist-site-in-china-as-rains-from-tropical-storm-gaemi-drench-region-9279124
+[92] https://www.aljazeera.com/news/2024/7/30/dozens-dead-as-tail-end-of-typhoon-gaemi-lashes-china
+[93] https://www.ntdtv.com/b5/2024/07/26/a103900509.html
+[94] https://cn.inform.kz/news/zhongguo-62ren-7271f3/
+[95] https://www.usnews.com/news/world/articles/2024-07-26/typhoon-gaemi-lashes-southeast-china-after-pounding-taiwan-flooding-philippines
+[96] https://apnews.com/article/china-taiwan-philippines-typhoon-gaemi-tropical-storm-3a9281c8213e46e5717dafb1f8b571ea
+[97] https://www.chinadaily.com.cn/a/202407/26/WS66a31957a31095c51c5101f9.html
+[98] https://edition.cnn.com/2024/07/29/asia/north-korea-flooding-kim-jong-un-china-intl-hnk/index.html
+[99] https://apnews.com/article/north-korea-flooding-409cb4fb8e506fadf4451104a7bd1912
+[100] https://www.bbc.com/news/articles/c84jnn9llgzo
+[101] https://www.theguardian.com/world/article/2024/aug/04/north-korea-floods-putin-pledges-aid-after-kim-jong-un-rebuffs-seouls-offer-of-assistance
+[102] https://apnews.com/article/north-korea-floods-kim-south-aid-d363e48b3cb000111124e0c17ca6b854
+[103] https://apnews.com/article/north-korea-flooding-409cb4fb8e506fadf4451104a7bd1912
+[104] https://www.straitstimes.com/asia/east-asia/north-korea-s-kim-blasts-south-media-over-flood-damage-rumours
+[105] https://apnews.com/article/north-korea-flooding-kim-jong-un-df39fd7fbc2fb49d16e438ec4f02a6b9
+[106] https://www.straitstimes.com/asia/east-asia/kim-jong-un-executes-scores-of-officials-after-deadly-floods-media-says
+[107] https://amp.kontan.co.id/news/badai-siklon-tropis-gaemi-terus-meningkat-cuaca-hujan-lebat-di-provinsi-ini

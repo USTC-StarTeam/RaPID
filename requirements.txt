@@ -1,0 +1,9 @@
+dspy_ai==2.4.9
+wikipedia==1.4.0
+sentence_transformers
+toml
+langchain-text-splitters
+trafilatura
+langchain-huggingface
+qdrant-client
+langchain-qdrant

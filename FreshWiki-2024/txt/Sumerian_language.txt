@@ -1,0 +1,877 @@
+Sumerian_language
+
+Sumerian  was the language of ancient Sumer. It is one of the oldest attested languages, dating back to at least 2900 BC. It is a local language isolate that was native to and  spoken in ancient Mesopotamia, in the area that is modern-day Iraq.
+Akkadian, a Semitic language, gradually replaced Sumerian as the primary spoken language in the area c. 2000 BC (the exact date is debated), but Sumerian continued to be used as a sacred, ceremonial, literary, and scientific language in Akkadian-speaking Mesopotamian states such as Assyria and Babylonia until the 1st century AD. Thereafter, it seems to have fallen into obscurity until the 19th century, when Assyriologists began deciphering the cuneiform inscriptions and excavated tablets that had been left by its speakers.
+In spite of its extinction, Sumerian exerted a significant impact on the languages of the area. The cuneiform script, originally used for Sumerian, was widely adopted by numerous regional languages such as Akkadian, Elamite, Eblaite, Amorite, the Canaanite languages, Hittite, Hurrian, Luwian and Urartian; it similarly inspired (via Assyrian influence) the Old Persian alphabet which was used to write the eponymous language. The impact was perhaps the greatest on Akkadian, whose grammar and vocabulary were significantly influenced by Sumerian.
+
+# Stages
+
+The history of written Sumerian can be divided into several periods: [10]. The pictographic writing system used during the Proto-literate period (3200 BC – 3000 BC), corresponding to the Uruk III and Uruk IV periods in archeology, was still so rudimentary that there remains some scholarly disagreement about whether the language written with it is Sumerian at all, although it has been argued that there are some, albeit still very rare, cases of phonetic indicators and spelling that show this to be the case. The texts from this period are mostly administrative; there are also a number of sign lists, which were apparently used for the training of scribes [15]. The next period, Archaic Sumerian (3000 BC – 2500 BC), is the first stage of inscriptions that indicate grammatical elements, so the identification of the language is certain. It includes some administrative texts and sign lists from Ur (c. 2800 BC). Texts from Shuruppak and Abu Salabikh from 2600 to 2500 BC (the so-called Fara period or Early Dynastic Period IIIa) are the first to span a greater variety of genres, including not only administrative texts and sign lists, but also incantations, legal and literary texts (including proverbs and early versions of the famous works The Instructions of Shuruppak and The Kesh temple hymn). However, the spelling of grammatical elements remains optional, making the interpretation and linguistic analysis of these texts difficult. The Old Sumerian period (2500-2350 BC) is the first one from which well-understood texts survive. It corresponds mostly to the last part of the Early Dynastic period (ED IIIb) and specifically to the First Dynasty of Lagash, from where the overwhelming majority of surviving texts come. The sources include important royal inscriptions with historical content as well as extensive administrative records. Sometimes included in the Old Sumerian stage is also the Old Akkadian period (c [10]. 2350 BC – c. 2200 BC),  during which Mesopotamia, including Sumer, was united under the rule of the Akkadian Empire [18]. At this time Akkadian functioned as the primary official language, but texts in Sumerian (primarily administrative) did continue to be produced as well. The first phase of the Neo-Sumerian period corresponds to the time of Gutian rule in Mesopotamia; the most important sources come from the autonomous Second Dynasty of Lagash, especially from the rule of Gudea, which has produced extensive royal inscriptions. The second phase corresponds to the unification of Mesopotamia under the Third Dynasty of Ur, which oversaw a "renaissance" in the use of Sumerian throughout Mesopotamia, using it as its sole official written language. There is a wealth of texts greater than from any preceding time – besides the extremely detailed and meticulous administrative records, there are numerous royal inscriptions, legal documents, letters and incantations. In spite of the dominant position of written Sumerian during the Ur III dynasty, it is controversial to what extent it was actually spoken or had already gone extinct in most parts of its empire [18]. Some facts have been interpreted as suggesting that many scribes   and even the royal court actually used Akkadian as their main spoken and native language [20]. On the other hand, evidence has been adduced to the effect that Sumerian continued to be spoken natively and even remained dominant as an everyday language in Southern Babylonia, including Nippur and the area to its south [20] [20]. By the Old Babylonian period (c. 2000 – c. 1600 BC), Akkadian had clearly supplanted Sumerian as a spoken language in nearly all of its original territory, whereas Sumerian continued its existence as a liturgical and classical language for religious, artistic and scholarly purposes. In addition, it has been argued that Sumerian persisted as a spoken language at least in a small part of Southern Mesopotamia (Nippur and its surroundings) at least until about 1900 BC   and possibly until as late as 1700 BC [20]. Nonetheless, it seems clear that by far the majority of scribes writing in Sumerian in this point were not native speakers and errors resulting from their Akkadian mother tongue become apparent [20]. For this reason, this period as well as the remaining time during which Sumerian was written are sometimes referred to as the "Post-Sumerian" period . The written language of administration, law and royal inscriptions continued to be Sumerian in the undoubtedly Semitic-speaking successor states of Ur III during the so-called Isin-Larsa period (c . 2000 BC – c. 1750 BC). The Old Babylonian Empire, however, mostly used Akkadian in inscriptions, sometimes adding Sumerian versions. The Old Babylonian period, especially its early part,  has produced extremely numerous and varied Sumerian literary texts: myths, epics, hymns, prayers, wisdom literature and letters [10]. In fact, nearly all preserved Sumerian religious and wisdom literature  and the overwhelming majority of surviving manuscripts of Sumerian literary texts in general    can be dated to that time, and it is often seen as the "classical age" of Sumerian literature . Conversely, far more literary texts on tablets surviving from the Old Babylonian period are in Sumerian than in Akkadian, even though that time is viewed as the classical period of Babylonian culture and language [29]. However, it has sometimes been suggested that many or most of these "Old Babylonian Sumerian" texts may be copies of works that were originally composed in the preceding Ur III period or earlier, and some copies or fragments of known compositions or literary genres have indeed been found in tablets of Neo-Sumerian and Old Sumerian provenance . In addition, some of the first bilingual Sumerian-Akkadian lexical lists are preserved from that time (although the lists were still usually monolingual and Akkadian translations did not become common until the late Middle Babylonian period)  and there are also grammatical texts - essentially bilingual paradigms listing Sumerian grammatical forms and their postulated Akkadian equivalents . After the Old Babylonian period  or, according to some, as early as 1700 BC,  the active use of Sumerian declined [10]. Scribes did continue to produce texts in Sumerian at a more modest scale, but generally with interlinear Akkadian translations  and only part of the literature known in the Old Babylonian period continued to be copied after its end around 1600 BC [35]. During the Middle Babylonian period, approximately from 1600 to 1000 BC, the Kassite rulers continued to use Sumerian in many of their inscriptions,   but Akkadian seems to have taken the place of Sumerian as the primary language of texts used for the training of scribes  and their Sumerian itself acquires an increasingly artificial and Akkadian-influenced form [37]. In some cases a text may not even have been meant to be read in Sumerian; instead, it may have functioned as a prestigious way of "encoding" Akkadian via Sumerograms (cf . Japanese kanbun). Nonetheless, the study of Sumerian and copying of Sumerian texts remained an integral part of scribal education and literary culture of Mesopotamia and surrounding societies influenced by it     [b] and it retained that role until the eclipse of the tradition of cuneiform literacy itself in the beginning of the Common Era [37] [42]. The most popular genres for Sumerian texts after the Old Babylonian period were incantations, liturgical texts and proverbs; among longer texts, the classics Lugal-e and An-gim were most commonly copied. Of the 29 royal inscriptions of the late second millennium BC 2nd dynasty of Isin about half were in Sumerian, described as "hypersophisticated classroom Sumerian". 
+
+# Classification
+
+Sumerian is a language isolate. At one time it was widely held to be an Indo-European language, but that view has been almost universally rejected [46] [47]. Since decipherment began in the early 20th century, scholars have tried to relate Sumerian to a wide variety of languages . Because of its prestige as the first attested written language, proposals for linguistic affinity often have a nationalistic flavour. Attempts have been made without success to link Sumerian with a range of widely disparate groups such as Indo-European, Austroasiatic,  Dravidian ,  Uralic,     Sino-Tibetan,  and Turkic (the last being promoted by Turkish nationalists as part of the Sun language theory  ) [55] [58] [60]. Additionally, long-range proposals have attempted to include Sumerian in broad macrofamilies, often including other notable isolates like Basque or small families like Koreanic [62]. Such proposals enjoy virtually no support among modern linguists, Sumerologists, and Assyriologists, and are typically seen as fringe theories due to their unverifiability. It has also been suggested that the Sumerian language descended from a late prehistoric creole language (Høyrup 1992). However, no conclusive evidence beyond a handful of typological features can be found to support Høyrup's view [63]. A more widespread hypothesis posits a Proto-Euphratean language family that preceded Sumerian in Mesopotamia and exerted an areal influence on it, especially in the form of polysyllabic words that appear "un-Sumerian"—making them suspect of being loanwords—and are not traceable to any other known language family. There is little speculation as to the affinities of this hypothetical substratum language, or these languages, and it is thus best treated as unclassified. Other researchers disagree with the assumption of a single substratum language and argue that several languages are involved . A related proposal by Gordon Whittaker  is that the language of the proto-literary texts from the Late Uruk period (c [65]. 3350–3100 BC) is really an early extinct branch of Indo-European language which he terms "Euphratic" which somehow emerged long prior to the accepted timeline for the spread of Indo-European into West Asia, though this is rejected by mainstream opinion which accepts Sumerian as a language isolate.. 
+
+# Writing system
+
+## Development
+
+Pictographic proto-writing was used starting in c. 3300 BC. It is unclear what underlying language it encoded, if any. By c. 2800 BC, some tablets began using syllabic elements that clearly indicated a relation to the Sumerian language. Around 2600 BC,   cuneiform symbols were developed using a wedge-shaped stylus to impress the shapes into wet clay [67] [68]. This cuneiform ("wedge-shaped") mode of writing co-existed with the proto-cuneiform archaic mode. Deimel (1922) lists 870 signs used in the Early Dynastic IIIa period (26th century). In the same period the large set of logographic signs had been simplified into a logosyllabic script comprising several hundred signs. Rosengarten (1967) lists 468 signs used in Sumerian (pre-Sargonian) Lagash.. The cuneiform script was adapted to Akkadian writing beginning in the mid-third millennium. Over the long period of bi-lingual overlap of active Sumerian and Akkadian usage the two languages influenced each other, as reflected in numerous loanwords and even word order changes. 
+
+## Transliteration
+
+Depending on the context, a cuneiform sign can be read either as one of several possible logograms, each of which corresponds to a word in the Sumerian spoken language, as a phonetic syllable (V, VC, CV, or CVC), or as a determinative (a marker of semantic category, such as occupation or place). (See the article Cuneiform.) Some Sumerian logograms were written with multiple cuneiform signs. These logograms are called diri-spellings, after the logogram 𒋛𒀀 DIRI which is written with the signs 𒋛 SI and 𒀀 A. The text transliteration of a tablet will show just the logogram, such as the word dirig, not the separate component signs.. Not all epigraphists are equally reliable, and before publication of an important treatment of a text, scholars will often arrange to collate the published transliteration against the actual tablet, to see if any signs, especially broken or damaged signs, should be represented differently.. Our knowledge of the readings of Sumerian signs is based, to a great extent, on lexical lists made for Akkadian speakers, where they are expressed by means of syllabic signs. The established readings were originally based on lexical lists from the Neo-Babylonian Period, which were found in the 19th century; in the 20th century, earlier lists from the Old Babylonian Period were published and some researchers in the 21st century have switched to using readings from them. [c] There is also variation in the degree to which so-called "Auslauts" or "amissable consonants" (morpheme-final consonants that stopped being pronounced at one point or another in the history of Sumerian) are reflected in the transliterations [70]. This article generally used the versions with expressed Auslauts. . 
+
+# Historiography
+
+The key to reading logosyllabic cuneiform came from the Behistun inscription, a trilingual cuneiform inscription written in Old Persian, Elamite and Akkadian. (In a similar manner, the key to understanding Egyptian hieroglyphs was the bilingual  [Greek and Egyptian with the Egyptian text in two scripts] Rosetta stone and Jean-François Champollion's transcription in 1822.). In 1838 Henry Rawlinson, building on the 1802 work of Georg Friedrich Grotefend, was able to decipher the Old Persian section of the Behistun inscriptions, using his knowledge of modern Persian. When he recovered the rest of the text in 1843, he and others were gradually able to translate the Elamite and Akkadian sections of it, starting with the 37 signs he had deciphered for the Old Persian. Meanwhile, many more cuneiform texts were coming to light from archaeological excavations, mostly in the Semitic Akkadian language, which were duly deciphered.. By 1850, however, Edward Hincks came to suspect a non-Semitic origin for cuneiform. Semitic languages are structured according to consonantal forms, whereas cuneiform, when functioning phonetically, was a syllabary, binding consonants to particular vowels. Furthermore, no Semitic words could be found to explain the syllabic values given to particular signs. Julius Oppert suggested that a non-Semitic language had preceded Akkadian in Mesopotamia, and that speakers of this language had developed the cuneiform script. . In 1855 Rawlinson announced the discovery of non-Semitic inscriptions at the southern Babylonian sites of Nippur, Larsa, and Uruk.. In 1856, Hincks argued that the untranslated language was agglutinative in character. The language was called "Scythic" by some, and, confusingly, "Akkadian" by others. In 1869, Oppert proposed the name "Sumerian", based on the known title "King of Sumer and Akkad", reasoning that if Akkad signified the Semitic portion of the kingdom, Sumer might describe the non-Semitic annex.. Credit for being first to scientifically treat a bilingual Sumerian-Akkadian text belongs to Paul Haupt, who published Die sumerischen Familiengesetze (The Sumerian family laws) in 1879. Ernest de Sarzec began excavating the Sumerian site of Tello (ancient Girsu, capital of the state of Lagash) in 1877, and published the first part of Découvertes en Chaldée with transcriptions of Sumerian tablets in 1884. The University of Pennsylvania began excavating Sumerian Nippur in 1888.. A Classified List of Sumerian Ideographs by R. Brünnow appeared in 1889.. The bewildering number and variety of phonetic values that signs could have in Sumerian led to a detour in understanding the language – a Paris-based orientalist, Joseph Halévy, argued from 1874 onward that Sumerian was not a natural language, but rather a secret code (a cryptolect), and for over a decade the leading Assyriologists battled over this issue. For a dozen years, starting in 1885, Friedrich Delitzsch accepted Halévy's arguments, not renouncing Halévy until 1897. François Thureau-Dangin working at the Louvre in Paris also made significant contributions to deciphering Sumerian with publications from 1898 to 1938, such as his 1905 publication of Les inscriptions de Sumer et d'Akkad. Charles Fossey at the Collège de France in Paris was another prolific and reliable scholar. His pioneering Contribution au Dictionnaire sumérien–assyrien, Paris 1905–1907, turns out to provide the foundation for P. Anton Deimel's 1934 Sumerisch-Akkadisches Glossar (vol. III of Deimel's 4-volume Sumerisches Lexikon).. In 1908, Stephen Herbert Langdon summarized the rapid expansion in knowledge of Sumerian and Akkadian vocabulary in the pages of Babyloniaca, a journal edited by Charles Virolleaud, in an article "Sumerian-Assyrian Vocabularies", which reviewed a valuable new book on rare logograms by Bruno Meissner. Subsequent scholars have found Langdon's work, including his tablet transcriptions, to be not entirely reliable. [77]. In 1944, the Sumerologist Samuel Noah Kramer provided a detailed and readable summary of the decipherment of Sumerian in his Sumerian Mythology. Friedrich Delitzsch published a learned Sumerian dictionary and grammar in the form of his Sumerisches Glossar and Grundzüge der sumerischen Grammatik, both appearing in 1914. Delitzsch's student, Arno Poebel, published a grammar with the same title, Grundzüge der sumerischen Grammatik, in 1923, and for 50 years it would be the standard for students studying Sumerian . Another highly influential figure in Sumerology during much of the 20th century was Adam Falkenstein, who produced a grammar of the language of Gudea's inscriptions. Poebel's grammar was finally superseded in 1984 on the publication of The Sumerian Language: An Introduction to its History and Grammatical Structure, by Marie-Louise Thomsen [80]. While there are various points in Sumerian grammar on which Thomsen's views are not shared by most Sumerologists today, Thomsen's grammar (often with express mention of the critiques put forward by Pascal Attinger in his 1993 Eléments de linguistique sumérienne: La construction de du11/e/di 'dire') is the starting point of most recent academic discussions of Sumerian grammar.. More recent monograph-length grammars of Sumerian include Dietz Otto Edzard's 2003 Sumerian Grammar and Bram Jagersma's 2010 A Descriptive Grammar of Sumerian (currently digital, but soon [when?] to be printed in revised form by Oxford University Press). Piotr Michalowski's essay (entitled, simply, "Sumerian") in the 2004 The Cambridge Encyclopedia of the World's Ancient Languages has also been recognized as a good modern grammatical sketch.. There is relatively little consensus, even among reasonable Sumerologists, in comparison to the state of most modern or classical languages. Verbal morphology, in particular, is hotly disputed. In addition to the general grammars, there are many monographs and articles about particular areas of Sumerian grammar, without which a survey of the field could not be considered complete.. The primary institutional lexical effort in Sumerian is the Pennsylvania Sumerian Dictionary project, begun in 1974. In 2004, the PSD was released on the Web as the ePSD. The project is currently supervised by Steve Tinney. It has not been updated online since 2006, but Tinney and colleagues are working on a new edition of the ePSD, a working draft of which is available online.. 
+
+# Phonology
+
+Assumed phonological and morphological forms will be between slashes // and curly brackets {}, respectively, with plain text used for the standard Assyriological transcription of Sumerian. Most of the following examples are unattested. Note also that, not unlike most other pre-modern orthographies, Sumerian cuneiform spelling is highly variable, so the transcriptions and the cuneiform examples will generally show only one or at most a few common graphic forms out of many that may occur. Spelling practices have also changed significantly in the course of the history of Sumerian: the examples in the article will use the most phonetically explicit spellings attested, which usually means Old Babylonian or Ur III period spellings. except where an authentic example from another period is used.. Modern knowledge of Sumerian phonology is flawed and incomplete because of the lack of speakers, the transmission through the filter of Akkadian phonology and the difficulties posed by the cuneiform script. As I. M. Diakonoff observes, "when we try to find out the morphophonological structure of the Sumerian language, we must constantly bear in mind that we are not dealing with a language directly but are reconstructing it from a very imperfect mnemonic writing system which had not been basically aimed at the rendering of morphophonemics". 
+
+## Consonants
+
+Early Sumerian is conjectured to have had at least the consonants listed in the table below. The consonants in parentheses are reconstructed by some scholars based on indirect evidence; if they existed, they were lost around the Ur III period in the late 3rd millennium BC.. The existence of various other consonants has been hypothesized based on graphic alternations and loans, though none have found wide acceptance. For example, Diakonoff lists evidence for two lateral phonemes, two rhotics, two back fricatives, and two g-sounds (excluding the velar nasal), and assumes a phonemic difference between consonants that are dropped word-finally (such as the g in 𒍠 zag > za3) and consonants that remain (such as the g in 𒆷𒀝 lag). Other "hidden" consonant phonemes that have been suggested include semivowels such as /j/ and /w/,  and a glottal fricative /h/ or a glottal stop that could explain the absence of vowel contraction in some words —though objections have been raised against that as well . A recent descriptive grammar by Bram Jagersma includes /j/, /h/, and /ʔ/ as unwritten consonants, with the glottal stop even serving as the first-person pronominal prefix . However, these unwritten consonants had been lost by the Ur III period according to Jagersma. Very often, a word-final consonant was not expressed in writing—and was possibly omitted in pronunciation—so it surfaced only when followed by a vowel: for example the /k/ of the genitive case ending -ak does not appear in 𒂍𒈗𒆷 e2 lugal-la "the king's house", but it becomes obvious in 𒂍𒈗𒆷𒄰 e2 lugal-la-kam "(it) is the king's house" (compare liaison in French). Jagersma believes that the lack of expression of word-final consonants was originally mostly a graphic convention,  but that in the late 3rd millennium voiceless aspirated stops and affricates (/pʰ/, /tʰ/, /kʰ/ and /tsʰ/ were, indeed, gradually lost in syllable-final position, as were the unaspirated stops /d/ and /ɡ/ . 
+
+## Vowels
+
+The vowels that are clearly distinguished by the cuneiform script are /a/, /e/, /i/, and /u/. Various researchers have posited the existence of more vowel phonemes such as /o/ and even /ɛ/ and /ɔ/, which would have been concealed by the transmission through Akkadian, as that language does not distinguish them. That would explain the seeming existence of numerous homophones in transliterated Sumerian, as well as some details of the phenomena mentioned in the next paragraph [99]. These hypotheses are not yet generally accepted . Phonemic vowel length has also been posited by many scholars based on vowel length in Sumerian loanwords in Akkadian,   occasional so-called plene spellings with extra vowel signs, and some internal evidence from alternations . [f]   However, scholars who believe in the existence of phonemic vowel length do not consider it possible to reconstruct the length of the vowels in most Sumerian words . [g] [106]. During the Old Sumerian period, the southern dialects (those used in the cities of Lagash, Umma, Ur and Uruk),  which also provide the overwhelming majority of material from that stage, exhibited a vowel harmony rule based on vowel height or advanced tongue root . Essentially, prefixes containing /e/ or /i/ appear to alternate between /e/ in front of syllables containing open vowels and /i/ in front of syllables containing close vowels; e.g [99]. 𒂊𒁽 e-kaš4 "he runs", but 𒉌𒁺 i3-gub "he stands". Certain verbs with stem vowels spelt with /u/ and /e/, however, seem to take prefixes with a vowel quality opposite to the one that would have been expected according to this rule, [h] which has been variously interpreted as an indication either of the existence of  additional vowel phonemes in Sumerian  or simply of incorrectly reconstructed readings of individual lexemes [99]. The 3rd person plural dimensional prefix 𒉈 -ne- is also unaffected, which Jagersma believes to be caused by the length of its vowel . In addition, some have argued for a second vowel harmony rule . There also appear to be many cases of partial or complete assimilation of the vowel of certain prefixes and suffixes to one in the adjacent syllable reflected in writing in some of the later periods, and there is a noticeable, albeit not absolute, tendency for disyllabic stems to have the same vowel in both syllables. These patterns, too, are interpreted as evidence for a richer vowel inventory by some researchers . For example, we find forms like 𒂵𒁽 ga-kaš4 "let me run", but, from the Neo-Sumerian period onwards, occasional spellings like 𒄘𒈬𒊏𒀊𒋧 gu2-mu-ra-ab-šum2 "let me give it to you" [99]. According to Jagersma, these assimilations are limited to open syllables  and, as with vowel harmony, Jagersma interprets their absence as the result of vowel length or of stress in at least some cases . There is evidence of various cases of elision of vowels, apparently in unstressed syllables; in particular an initial vowel in a word of more than two syllables seems to have been elided in many cases . What appears to be vowel contraction in hiatus (*/aa/, */ia/, */ua/ > a, */ae/ > a, */ie/ > i or e, */ue/ > u or e, etc.) is also very common . There is some uncertainty and variance of opinion as to whether the result in each specific case is a long vowel or whether a vowel is simply replaced/deleted . Syllables could have any of the following structures: V, CV, VC, CVC. More complex syllables, if Sumerian had them, are not expressed as such by the cuneiform script.. 
+
+## Stress
+
+Sumerian stress is usually presumed to have been dynamic, since it seems to have caused vowel elisions on many occasions. Opinions vary on its placement. As argued by Bram Jagersma  and confirmed by other scholars,   the adaptation of Akkadian words of Sumerian origin seems to suggest that Sumerian stress tended to be on the last syllable of the word, at least in its citation form . The treatment of forms with grammatical morphemes is less clear. Many cases of apheresis in forms with enclitics have been interpreted as entailing that the same rule was true of the phonological word on many occasions, i.e. that the stress could be shifted onto the enclitics; however, the fact that many of these same enclitics have allomorphs with apocopated final vowels (e.g. /‑še/ ~ /-š/) suggests that they were, on the contrary, unstressed when these allomorphs arose. It has also been conjectured that the frequent assimilation of the vowels of non-final syllables to the vowel of the final syllable of the word may be due to stress on it . However, a number of suffixes and enclitics consisting of /e/ or beginning in /e/ are also assimilated and reduced [117]. In earlier scholarship, somewhat different views were expressed and attempts were made to formulate detailed rules for the effect of  grammatical morphemes and compounding on stress, but with inconclusive results. Based predominantly on patterns of vowel elision, Adam Falkenstein  argued that stress in monomorphemic words tended to be on the first syllable, and that the same applied without exception to reduplicated stems, but that the stress shifted onto the last syllable in a first member of a compound or idiomatic phrase, onto the syllable preceding a (final) suffix/enclitic, and onto the first syllable of the possessive enclitic /-ani/ . In his view, single verbal prefixes were unstressed, but longer sequences of verbal prefixes attracted the stress to their first syllable. Jagersma  has objected that many of Falkenstein's examples of elision are medial and so, while the stress was obviously not on the medial syllable in question, the examples do not show where it was. . Joachim Krecher  attempted to find more clues in texts written phonetically by assuming that geminations, plene spellings and unexpected "stronger" consonant qualities were clues to stress placement . Using this method, he confirmed Falkenstein's views that reduplicated forms were stressed on the first syllable and that there was generally stress on the syllable preceding a (final) suffix/enclitic, on the penultimate syllable of a polysyllabic enclitic such as -/ani/, -/zunene/ etc., on the last syllable of the first member of a compound, and on the first syllable in a sequence of verbal prefixes. However, he found that single verbal prefixes received the stress just as prefix sequences did, and that in most of the above cases, another stress often seemed to be present as well: on the stem to which the suffixes/enclitics were added, on the second compound member in compounds, and possibly on the verbal stem that prefixes were added to or on following syllables. He also did not agree that the stress of monomorphemic words was typically initial and believed to have found evidence of words with initial as well as with final stress;  in fact, he did not even exclude the possibility that stress was normally stem-final . Pascal Attinger  has partly concurred with Krecher, but doubts that the stress was always on the syllable preceding a suffix/enclitic and argues that in a prefix sequence, the stressed syllable wasn't the first one, but rather the last one if heavy and the next-to-the-last one in other cases . Attinger has also remarked that the patterns observed may be the result of Akkadian influence - either due to linguistic convergence while Sumerian was still a living language or, since the data comes from the Old Babylonian period, a feature of Sumerian as pronounced by native speakers of Akkadian. The latter has also been pointed out by Jagersma, who is, in addition, sceptical about the very assumptions underlying the method used by Krecher to establish the place of stress. 
+
+## Orthography
+
+Sumerian writing expressed pronunciation only roughly. It was often morphophonemic, so much of the allomorphic variation could be ignored. Especially in earlier Sumerian, coda consonants were also often ignored in spelling; e.g . /mung̃areš/ 'they put it here' could be written 𒈬𒃻𒌷 mu-g̃ar-re2. The use of VC signs for that purpose, producing more elaborate spellings such as 𒈬𒌦𒃻𒌷𒌍 mu-un-g̃ar-re2-eš3, became more common only in the Neo-Sumerian and especially in the Old Babylonian period. Conversely, an intervocalic consonant, especially at the end of a morpheme followed by a vowel-initial morpheme, was usually "repeated" by the use of a CV sign for the same consonant; e.g. 𒊬 sar "write" - 𒊬𒊏 sar-ra "written". [i] This results in orthographic gemination that is usually reflected in Sumerological transliteration, but does not actually designate any phonological phenomenon such as length. [j] It is also relevant in this context that, as explained above, many morpheme-final consonants seem to have been elided unless followed by a vowel at various stages in the history of Sumerian . These are traditionally termed Auslauts in Sumerology and may or may not be expressed in transliteration: e.g. the logogram 𒊮 for /šag/ > /ša(g)/ "heart" may be transliterated as šag4 or as ša3. Thus, when the following consonant appears in front of a vowel, it can be said to be expressed only by the next sign: for example, 𒊮𒂵 šag4-ga "in the heart" can also be interpreted as ša3-ga. Of course, when a CVC sound sequence is expressed by a sequence of signs with the sound values CV-VC, that does not necessarily indicate a long vowel or a sequence of identical vowels either. To mark such a thing, so-called "plene" writings with an additional vowel sign repeating the preceding vowel were used, although that never came to be done systematically. A typical plene writing involved a sequence such as (C)V-V(-VC/CV), e.g. 𒂼𒀀 ama-a for /amaa/ < {ama-e} "the mother (ergative case)"). Sumerian texts vary in the degree to which they use logograms or opt for syllabic (phonetic) spellings instead: e.g. the word 𒃻 g̃ar  "put" may also be written phonetically as 𒂷𒅈 g̃a2-ar. They also vary in the degree to which allomorphic variation was expressed, e.g. 𒁀𒄄𒌍 ba-gi4-eš or 𒁀𒄄𒅖 ba-gi4-iš for "they returned". While early Sumerian writing was highly logographic, there was a tendency towards more phonetic spelling in the Neo-Sumerian period. Consistent syllabic spelling was employed when writing down the Emesal dialect (since the usual logograms would have been read in Emegir by default), for the purpose of teaching the language and often in recording incantations . As already mentioned, texts written in the Archaic Sumerian period are difficult to interpret, because they often omit grammatical elements and determinatives. In addition, many literary-mythological texts from that period use a special orthographic style called UD.GAL.NUN, which seems to be based on substitution of certain signs or groups of signs for others [10]. For example, the three signs 𒌓 UD, 𒃲 GAL and 𒉣 NUN, which the system is named for, are substituted for 𒀭 AN, 𒂗 EN, and 𒆤 LIL2 respectively, producing the name of the god den-lil2. The motivation for this practice is mysterious; it has been suggested that it was a kind of cryptography. Texts written in UD.GAL.NUN are still understood very poorly and only partially. 
+
+# Grammar
+
+Ever since its decipherment, research of Sumerian has been made difficult by the relative sparseness of linguistic data, the apparent lack of a closely related language, and the features of the writing system. A further oft-mentioned and paradoxical problem for the study of Sumerian is that the most numerous and varied texts written in the most phonetically explicit and precise orthography are only dated to periods when the scribes themselves were no longer native speakers and often demonstrably had less-than-perfect command of the language they were writing in; conversely, for much of the time during which Sumerian was still a living language, the surviving sources are few, unvaried and/or written in an orthography that is more difficult to interpret. Typologically, Sumerian is classified as an agglutinative, ergative (consistently so in its nominal morphology and split ergative in its verbal morphology), and subject-object-verb language. 
+
+## Nominal morphology
+
+### Noun phrases
+
+The Sumerian noun is typically a one or two-syllable root (𒅆 igi "eye", 𒂍 e2 "house, household", 𒎏 nin "lady"), although there are also some roots with three syllables like 𒆠𒇴 šakanka "market". There are two semantically predictable grammatical genders, which have traditionally been called animate and inanimate, although these names do not express their membership exactly, as explained below.. The adjectives and other modifiers follow the noun (𒈗𒈤 lugal maḫ "great king"). The noun itself is not inflected; rather, grammatical markers attach to the noun phrase as a whole, in a certain order. Typically, that order would be:. An example may be: . The possessive, plural and case markers are traditionally referred to as "suffixes", but have recently also been described as enclitics  or postpositions . 
+
+#### Gender
+
+The two genders have been variously called animate and inanimate,     human and non-human,   or personal/person and impersonal/non-person . Their assignment is semantically predictable: the first gender includes humans and gods, while the second one includes animals, plants, non-living objects, abstract concepts, and groups of humans [146] [147]. Since the second gender includes animals, the use of the terms animate and inanimate is somewhat misleading  and conventional,  but it is most common in the literature, so it will be maintained in this article. [146]. There are some minor deviations from the gender assignment rules, for example:. 
+
+#### Number
+
+The plural marker proper is (𒂊)𒉈 /-(e)ne/. [l] It is used only with nouns of the animate gender and its use is optional. It is often omitted when other parts of the clause indicate the plurality of the referent. Thus, it is not used if the noun is modified by a numeral (𒇽𒁹𒁹𒁹 lu2 eš5 "three men") . It has also been observed that until the Ur III period, the marker generally isn't used in a noun phrase in the absolutive case,    unless this is necessary for disambiguation . Instead, the plurality of the absolutive participant is commonly expressed only by the form of the verb in the clause:   e.g . 𒇽𒁀𒀄𒀄𒌍 lu2 ba-zaḫ3-zaḫ3-eš "the men ran away", 𒇽𒈬𒅇𒆪𒁉𒌍 lu2 mu-u3-dab5-be2-eš "I caught the men". The plural marker is not used when referring to a group of people, because a group of people is treated as inanimate; e.g. 𒀳 engar "farmer" with no plural marker may refer to "(the group of) farmers". As the following example shows, the marker is appended to the end of the phrase, even after a relative clause: . Likewise, the plural marker is usually (albeit not always) added only once when a whole series of coordinated nouns have plural reference: . Another way in which a kind of plurality is expressed is by means of reduplication of the noun: 𒀭𒀭 dig̃ir-dig̃ir "gods", 𒌈𒌈 ib2-ib2 "hips". However, this construction is usually considered to have a more specialized meaning, variously interpreted as totality ("all the gods", "both of my hips")   or distribution/separateness ("each of the gods taken separately") . An especially frequently occurring reduplicated word, 𒆳𒆳 kur-kur "foreign lands", may have simply plural meaning,  and in very late usage, the meaning of the reduplication in general might be simple plurality [150]. At least a few adjectives (notably 𒃲 gal "great" and 𒌉 tur "small") are also reduplicated when the noun they modify has plural reference: 𒀀𒃲𒃲 a gal-gal "the great waters". In that case, the noun itself is not reduplicated . This is sometimes interpreted as an expression of simple plurality,  while a minority view is that the meaning of these forms is not purely plural, but rather the same as that of noun reduplication . Two other ways of expressing plurality are characteristic only of very late Sumerian usage and have made their way into Sumerograms used in writing Akkadian and other languages. One is used with inanimate nouns and consists of the modification of the noun with the adjective 𒄭𒀀 ḫi-a "various" (lit. "mixed"), e.g. 𒇻𒄭𒀀 udu ḫi-a "sheep". The other is adding the 3rd person plural form of the enclitic copula 𒈨𒌍 -me-eš to a noun (𒈗𒈨𒌍 lugal-me-eš "kings", originally "they (who) are kings") . 
+
+#### Case
+
+##### Case markers
+
+The generally recognized case markers are: . The final vowels of most of the above markers are subject to loss if they are attached to vowel-final words.. In addition, there are the enclitic particles 𒈾𒀭𒈾 na-an-na meaning "without"  and (𒀀)𒅗𒉆 (-a)-ka-nam -/akanam/ (in earlier Sumerian) or (𒀀)𒆤𒌍 (-a)-ke4-eš2 -/akeš/ "because of" (in later Sumerian) . Note that these nominal cases enter interact with the so-called dimensional prefixes of the verb that the noun modifies, producing additional meanings. While the dative and directive are in complementary distribution in the noun, they can nevertheless be distinguished when the verbal prefixes are taken into account. Likewise, whereas the meanings "in(to)" and "on(to)" are expressed by the same nominal case, they can be disambiguated by the verbal prefixes. This is explained in more detail in the section on Dimensional prefixes.. Additional spatial or temporal meanings can be expressed by genitive phrases like "at the head of" = "above", "at the face of" = "in front of", "at the outer side of" = "because of", etc.:. The embedded structure of the noun phrase can be further illustrated with the following phrase:. Here, the first genitive morpheme (-a(k)) subordinates 𒋠 siki "wool" to 𒇻 udu "sheep", and the second subordinates 𒇻𒋠 udu siki-(a)k "sheep of wool" (or "woolly sheep") to 𒉺𒇻 sipad "shepherd". 
+
+##### Case usage
+
+The uses of the ergative and absolutive case are those typical of ergative languages. The subject of an intransitive verb such as "come" is in the same case as the object of a transitive verb such as "build", namely the so-called absolutive case. In contrast, the subject of a transitive verb has a different case, which is termed ergative. This can be illustrated with the following examples:. In contrast with the verbal morphology, Sumerian nominal morphology consistently follows this ergative principle regardless of tense/aspect, person and mood.. Besides the general meanings of the case forms outlined above, there are many lexically determined and more or less unpredictable uses of specific cases, often governed by a certain verb in a certain sense:. For the government of phrasal verbs, see the relevant section.. 
+
+### Pronouns
+
+The attested personal pronouns are:. The stem vowels of 𒂷(𒂊) g̃e26(-e) and 𒂊 ze2 are assimilated to a following case suffix containing /a/ and then have the forms 𒂷 g̃a- and 𒍝 za-; e.g. 𒍝𒊏 za-ra 'to you (sg.)'.. As far as demonstrative pronouns are concerned, Sumerian most commonly uses the enclitic 𒁉 -bi to express the meaning "this". There are rare instances of other demonstrative enclitics such as 𒂊 -e "this", 𒊺 -še "that" and 𒊑 -re "that". The difference between the three has been explained in terms of increasing distance from the speaker  or as a difference between proximity to the speaker, proximity to the listener and distance from both, akin to the Japanese or Latin three-term demonstrative system . The independent demonstrative pronouns are 𒉈𒂗/𒉈𒂊 ne-e(n) "this (thing)" and 𒄯 ur5 "that (thing)";  -ne(n) might also be used as another enclitic . [aj] "Now" is 𒉌𒉈𒂠 i3-ne-eš2 or 𒀀𒁕𒀠 a-da-al . For "then" and "there", the declined noun phrases 𒌓𒁀 ud-ba "at that time" and 𒆠𒁀 ki-ba "at that place" are used; "so" is 𒄯𒁶 ur5-gen7, lit. "like that". The interrogative pronouns are 𒀀𒁀 a-ba "who" and 𒀀𒈾 a-na "what" (also used as "whoever" and "whatever" when introducing dependent clauses). The stem for "where" is 𒈨 me-  (used in the locative, terminative and ablative to express "where", "whither" and "whence", respectively   ) . "When" is 𒇷/𒂗 en3/en,  but also the stem  𒈨(𒂊)𒈾 me-(e)-na is attested for "when" (in the emphatic form me-na-am3 and in the terminative me-na-še3 "until when?", "how long?") . "How" and "why" are expressed by 𒀀𒈾𒀸 a-na-aš (lit . "what for?") and 𒀀𒁶 a-gen7 "how" (an equative case form, perhaps "like what?"). The expected form 𒀀𒈾𒁶 a-na-gen7 is used in Old Babylonian . An indefinite pronoun is 𒈾𒈨 na-me "any", which is only attested in attributive function until the Old Babylonian period,  but may also stand alone in the sense "anyone, anything" in late texts . It can be added to nouns to produce further expressions with pronominal meaning such as 𒇽𒈾𒈨 lu2 na-me "anyone", 𒃻𒈾𒈨 nig̃2 na-me "anything", 𒆠𒈾𒈨 ki na-me "anywhere", 𒌓𒈾𒈨 ud4 na-me "ever, any time" [215]. The nouns 𒇽 lu2 "man" and 𒃻 nig̃2 "thing" are also used for "someone, anyone" and "something, anything". With negation, all of these expressions naturally acquire the meanings "nobody", "nothing", "nowhere" and "never" . The reflexive pronoun is 𒅎(𒋼) ni2(-te) "self", which generally occurs with possessive pronouns attached: 𒅎𒈬 ni2-g̃u10 "my-self", etc. The longer form appears in the third person animate (𒅎𒋼𒉌 ni2-te-ni "him/herself", 𒅎𒋼𒉈𒉈 ni2-te-ne-ne "themselves"). 
+
+### Adjectives
+
+It is controversial whether Sumerian has adjectives at all, since nearly all stems with adjectival meaning are also attested as verb stems and may be conjugated as verbs: 𒈤 maḫ "great" > 𒎏𒀠𒈤 nin al-maḫ "the lady is great". Jagersma believes that there is a distinction in that the few true adjectives cannot be negated, and a few stems are different depending on the part of speech: 𒃲 gal "big", but 𒄖𒌌 gu-ul "be big" . Furthermore, stems with adjective-like meaning sometimes occur with the nominalizing suffix /-a/, but their behaviour varies  in this respect . Some stems appear to require the suffix always: e.g. 𒆗𒂵 kalag-ga "mighty", 𒊷𒂵 sag9-ga "beautiful", 𒁍𒁕 gid2-da "long"   (these are verbs with adjectival meaning according to Jagersma ) . Some never take the suffix: e.g. 𒃲 gal "big", 𒌉 tur "small" and 𒈤 maḫ "great"  (these are genuine adjectives according to Jagersma ) . Finally, some alternate: 𒍣 zid "right" often occurs as 𒍣𒁕 zid-da (these are pairs of adjectives and verbs derived from them, respectively, according to Jagersma ) . In the latter case, attempts have been made to find a difference of meaning between the forms with and without -a; it has been suggested that the form with -a expresses a kind of determination,  e.g . zid "righteous, true" vs zid-da "right (not left)", or restrictiveness, e.g. 𒂍𒉋 e2 gibil "a new house" vs 𒂍𒉋𒆷 e2 gibil-la "the new house (as contrasted with the old one)", "a/the newer (kind of) house" or "the newest house", as well as nominalization, e.g. tur-ra "a/the small one" or "a small thing". Other scholars have remained sceptical about the posited contrasts . A few adjectives, like 𒃲 gal "big" and 𒌉 tur "small" appear to "agree in number" with a preceding noun in the plural by reduplication; with some other adjectives, the meaning seems to be "each of them ADJ". The colour term 𒌓(𒌓) bar6-bar6 / babbar "white" appears to have always been reduplicated, and the same may be true of 𒈪 gig2 (actually giggig) "black". To express the comparative or superlative degree, various constructions with the word 𒋛𒀀 dirig "exceed"/"excess" are used: X + locative + dirig-ga "which exceeds (all) X", dirig + X + genitive + terminative "exceeding X", lit. "to the excess of X". 
+
+### Adverbs and adverbial expressions
+
+Most commonly, adverbial meanings are expressed by noun phrases in a certain case, e.g. 𒌓 ud-ba "then", lit. "at that time". There are two main ways to form an adverb of manner:. For pronominal adverbs, see the section on Pronouns.. 
+
+### Numerals
+
+Sumerian has a combination decimal and sexagesimal system (for example, 600 is 'ten sixties'), so that the Sumerian lexical numeral system is sexagesimal with 10 as a subbase. The cardinal numerals and ways of forming composite numbers are as follows: [240]. Ordinal numerals are formed with the suffix 𒄰𒈠 -kam-ma in Old Sumerian and 𒄰(𒈠) -kam(-ma) (with the final vowel still surfacing in front of enclitics) in subsequent periods. However, a cardinal numeral may also have ordinal meaning sometimes . The syntax of numerals has some peculiarities. Besides just being placed after a noun like other modifiers (𒌉𒐈 dumu eš5 "three children" - which may, however, also be written 𒐈𒌉 3 dumu), the numeral may be reinforced by the copula (𒌉𒐈𒀀𒀭 dumu eš5-am3, lit. "the children, being three". Finally, there is a third construction in which the possessive pronoun 𒁉 -bi is added after the numeral, which gives the whole phrase a definite meaning: 𒌉𒐈𒀀𒁉 dumu eš5-a-bi: "the three children" (lit. "children - the three of them"). The numerals 𒈫 min "two" and 𒐈 eš5 "three" are also supplied with the nominalizing marker -a before the pronoun, as the above example shows. Fractions are formed with the phrase 𒅆...N...𒅅 igi-N-g̃al2 : "one-Nth"; where 𒅅 g̃al2 may be omitted. "One-half", however, is 𒋗𒊒𒀀 šu-ru-a, later 𒋗𒊑𒀀 šu-ri-a. Another way of expressing fractions was originally limited to weight measures, specifically fractions of the mina (𒈠𒈾 ma-na): 𒑚 šuššana "one-third" (literarlly "two-sixths"), 𒑛 šanabi "two-thirds" (the former two words are of Akkadian origins), 𒑜 gig̃usila or 𒇲𒌋𒂆 la2 gig̃4 u "five-sixths" (literally "ten shekels split off (from the mina)" or "(a mina) minus ten shekels", respectively), 𒂆 gig̃4 "one-sixtieth", lit. "a shekel" (since a shekel is one-sixtieth of a mina). Smaller fractions are formed by combining these: e.g. one-fifth is 𒌋𒁹𒁹𒂆 "12×1/60 = 1/5", and two-fifths are 𒑚𒇹𒂆 "1/3 + (4 × 1/60) = 5/15 + 1/15 = 6/15 = 2/5". 
+
+## Verbal morphology
+
+### General
+
+The Sumerian finite verb distinguishes a number of moods and agrees (more or less consistently) with the subject and the object in person, number and gender. The verb chain may also incorporate pronominal references to the verb's other modifiers, which has also traditionally been described as "agreement", although, in fact, such a reference and the presence of an actual modifier in the clause need not co-occur: not only 𒂍𒂠𒌈𒌈𒅆𒁺𒌦 e2-še3 ib2-ši-du-un "I'm going to the house", but also 𒂍𒂠𒉌𒁺𒌦 e2-še3 i3-du-un "I'm going to the house" and simply 𒌈𒅆𒁺𒌦 ib2-ši-du-un "I'm going to it" are possible. Hence, the term "cross-reference" instead of "agreement" has been proposed . This article will predominantly use the term "agreement". The Sumerian verb also makes a binary distinction according to a category that some regard as tense (past vs present-future), others as aspect (perfective vs imperfective), and that will be designated as TA (tense/aspect) in the following. The two members of the opposition entail different conjugation patterns and, at least for many verbs, different stems; they are theory-neutrally referred to with the Akkadian grammatical terms for the two respective forms – ḫamṭu "quick" and marû "slow, fat". [an] Finally, opinions differ on whether the verb has a passive or a middle voice and how it is expressed.. It is often pointed out that a Sumerian verb does not seem to be strictly limited to only transitive or only intransitive usage: e.g. the verb 𒆭 kur9 can mean both "enter" and "insert / bring in", and the verb 𒌣 de2 can mean both "flow out" and "pour out". This depends simply on whether an ergative participant causing the event is explicitly mentioned (in the clause and in the agreement markers on the verb). Some have even concluded that instead of speaking about intransitive and transitive verbs, it may be better to speak only of intransitive and transitive constructions in Sumerian. The verbal root is almost always a monosyllable and, together with various affixes, forms a so-called verbal chain which is described as a sequence of about 15 slots, though the precise models differ. The finite verb has both prefixes and suffixes, while the non-finite verb may only have suffixes . Broadly, the prefixes have been divided in three groups that occur in the following order: modal prefixes, "conjugation prefixes", and pronominal and dimensional prefixes. The suffixes are a future or imperfective marker /-ed-/, pronominal suffixes, and an /-a/ ending that nominalizes the whole verb chain . The overall structure can be summarized as follows:. Examples using most of the above slots may be:. More than one dimensional prefix may occur within the verb chain. If so, the prefixes are placed in a specific order, which is shown the section Dimensional prefixes below. The "conjugation prefixes" appear to be mutually exclusive to a great extent, since the "finite" prefixes /i/~/e/- and /a/- do not appear before  [mu]-, /ba/- and the sequence -/b/-+-/i/-, nor does the realization  [mu] appear before /ba-/ or /b-i/. However, it is commonly assumed that the spellings im-, im-ma- and im-mi- are equivalent to {i-} + {-mu-}, {i-} + {-mu-} + {-ba-} and {i-} + {-mu-} + {-bi-}, respectively. According to Jagersma, the reason for the restrictions is that the "finite" prefixes /i/~/e/- and /a/- have been elided prehistorically in open syllables, in front of prefixes of the shape CV (consonant-vowel). The exception is the position in front of the locative prefix -/ni/-, the second person dative 𒊏 /-r-a/ and the second person directive 𒊑 /-r-i/, where the dominant dialect of the Old Babylonian period retains them. 
+
+### Modal prefixes
+
+The modal prefixes express modality. Some of them are generally combined with certain TAs; in other cases, the meaning of a modal prefix can depend on the TA.. E.g.: 𒅔𒅥 in-gu7 {Ø-i-n-gu} "He ate it.". E.g.: 𒉡𒌦𒅥 nu(-u3)-un-gu7 {nu-i-n-gu} "He didn't eat it.". E.g.: 𒃶𒅁𒅥𒂊 ḫe2-eb-gu7-e {ḫa-ib-gu7-e} "let him eat it!"; 𒄩𒀭𒅥 ḫa-an-gu7 "He ate it indeed.". E.g.: 𒂵𒀊𒅥 ga-ab-gu7 "Let me eat it!". E.g.: 𒌦𒅥 un-gu7 "If/when he eats it...". E.g.: 𒈾𒀊𒅥𒂊 na-ab-gu7-e "He must not eat it!"; 𒈾𒀭𒅥 na-an-gu7 "He ate it indeed.". E.g.: 𒁀𒊏𒀊𒅥𒂗 ba-ra-ab-gu7-en "I certainly will not eat it!"; 𒁀𒊏𒀭𒅥 ba-ra-an-gu7 "He certainly didn't eat it.". E.g.: 𒉡𒍑𒌈𒅥𒂊 nu-uš-ib2-gu7-e "If only he would eat it!". E.g.: 𒅆𒅔𒅥 ši-in-gu7 "So/correspondingly/accordingly(?), he ate it.". Although the modal prefixes are traditionally grouped together in one slot in the verbal chain, their behaviour suggests a certain difference in status: only nu- and ḫa- exhibit morphophonemic evidence of co-occurring with a following finite "conjugation prefix", while the others do not and hence seem to be mutually exclusive with it. For this reason, Jagersma separates the first two as "proclitics" and groups the others together with the finite prefix as (non-proclitic) "preformatives". 
+
+### "Conjugation prefixes"
+
+The meaning, structure, identity and even the number of the various "conjugation prefixes" have always been a subject of disagreements. The term "conjugation prefix" simply alludes to the fact that a Sumerian finite verb in the indicative mood must (nearly) always contain one of them. Which of these prefixes is used seems to have, more often than not, no effect on its translation into European languages. Proposed explanations of the choice of conjugation prefix usually revolve around the subtleties of spatial grammar, information structure (focus ), verb valency, and, most recently, voice . The following description primarily follows the analysis of Jagersma (2010), largely seconded by Zólyomi (2017) and Sallaberger (2023), in its specifics; nonetheless, most of the interpretations in it are held widely, if not universally . E.g.: 𒅔𒁺 in-ře6 {Ø-i-n-ře} "He brought (it).". E.g.: 𒀠𒁺 al-ře6 "It is/was brought.". E.g. 𒈬𒌦𒁺 mu-un-ře6 "He brought it here.". E.g. 𒅎𒁺𒈬 im-tum3-mu {i-mu-b-tum-e} "He will bring it here.". E.g. 𒈪𒉌𒅔𒁺 mi-ni-in-ře6 "He brought it in here.". E.g. 𒈠𒊏𒀭𒁺 ma-ra-an-ře6 "He brought (it) here to you.". E.g. 𒉈𒅔𒁺 bi2-in-ře6 "He made it (the ox, the group of workers) bring (it).". E.g. 𒁀𒀭𒁺 ba-an-ře6 "He brought it to it" / "He took it for himself" / "He took it away"; 𒁀𒁺 ba-ře6 "It was brought.". E.g. 𒅎𒈪𒅔𒁺 im-mi-in-ře6 "He made it (the ox, the group of workers) bring it here"; 𒅎𒈠𒁺 im-ma-ře6 "It was brought here.". The rare prefix -/nga/- means 'also', 'equally' (often written without the initial /n/, especially in earlier periods). It is of crucial importance for the ordering of the "conjugation prefixes", because it is usually placed between the conjugation prefix /i/- and the pronominal prefix, e.g. 𒅔𒂵𒀭𒍪 in-ga-an-zu 'he, too, knows it', but it precedes the conjugation prefix /mu/-: 𒈾𒂵𒈬𒍪 na-ga-mu-zu 'he also understood it'. This suggests that these two conjugation prefixes must belong to different slots . Although a conjugation prefix is almost always present, Sumerian until the Old Babylonian period allows a finite verb to begin directly with the locative prefix -/ni/-, the second person singular dative -/r-a/-, or the second person directive -/r-i/- (see below), because the prefixes i3-/e- and a- are apparently elided in front of them. 
+
+### Pronominal and dimensional prefixes
+
+The dimensional prefixes of the verb chain basically correspond to, and often repeat, the case markers of the noun phrase. Like the case markers of the noun phrase, the first dimensional prefix is normally attached to a preceding "head" – a pronominal prefix, which expresses the person, gender and number of its referent. The first dimensional prefix may be followed by up to two other dimensional prefixes,  but unlike the first one, these prefixes never have an explicit "head" and cannot refer to animate nouns . The other slot where a pronominal prefix can occur is immediately before the stem, where it can have a different allomorph and expresses the person, gender and absolutive or the ergative participant (the transitive subject, the intransitive subject or the direct object), depending on the TA and other factors, as explained below. . There is some variation in the extent to which the verb of a clause that contains a noun in a given case also contains the corresponding pronominal and dimensional prefixes in the verb. The ergative participant is always expressed in the verb, as is, generally, the absolutive one (with some vacillation for the third person singular inanimate in transitive forms, as explained below); the dative, comitative, the locative and directive participant (used in a local meaning) also tend to be expressed relatively consistently; with the ablative and terminative, on the other hand, there is considerable variability. [as] There are some cases, specified below, where the meanings of the cases in the noun phrase and in the verb diverge, so a noun case enclitic may not be reflected in the verb or, conversely, a verb may have a prefix that has no specific reference in the clause or in reality . 
+
+#### Pronominal prefixes
+
+The forms of the pronominal prefixes are the following: . Confusingly, the subject and object prefixes (/-n-/, /-b-/, /-e-/, /-V-/) are not commonly spelled out in early texts, as both coda consonants and vowel length are often ignored in them. The "full" spellings do become more usual during the Third Dynasty of Ur (in the Neo-Sumerian period) and especially during the Old Babylonian period. Thus, in earlier texts, one finds 𒈬𒀝 mu-ak and 𒉌𒀝 i3-ak (𒂊𒀝 e-ak in Southern Sumerian) instead of 𒈬𒌦𒀝 mu-un-ak and 𒅔𒀝 in-ak for {mu-n-ak} and {i-n-ak} "he/she made", and also 𒈬𒀝 mu-ak instead of Neo-Sumerian 𒈬(𒅇)𒀝 mu(-u3)-ak  or Old Babylonian 𒈬𒂊𒀝 mu-e-ak "you made". Vowel length never came to be expressed systematically, so the 1st person prefix was often graphically -∅- during the entire existence of Sumerian.. 
+
+#### Dimensional prefixes
+
+The generally recognized dimensional prefixes are shown in the table below; if several occur within the same verb complex, they are placed in the order they are listed in. The ablative does not co-occur with the terminative, and the directive does not co-occur with the locative, so these pairs may be argued to share the same slot. [be] Accordingly, the template can be said to include the following dimensional slots: dative - comitative - ablative/terminative - directive/locative . A major exception from the general system of personal and dimensional prefixes is the very frequent prefix 𒉌 -ni- "(in) there", which corresponds to a noun phrase in the locative, but doesn't seem to be preceded by any pronominal prefix and has demonstrative meaning by itself. This prefix is not to be confused with the homographic sequence 𒉌 -ni- which corresponds to an animate noun phrase in the directive. In the latter case, ni is analysed as a combination of pronominal /-nn-/ and directive /-i-/ (roughly: "at him/her", "on him/her", etc.), whereas in the former, ni is unanalysable. An example of a verb chain where several dimensional slots are occupied can be:. The comitative prefix -da- can, in addition, express the meaning "to be able to". In that case, there is a preceding pronominal prefix agreeing with the subject of the action: e.g. {nu-mu-e-da-n-dab-en} "you cannot catch him" (lit. "you won't catch him with yourself"). The directive has the meaning "on(to)" when the verb is combined with a noun in the locative case: e.g . {banšur-a ninda b-i-b-g̃a-g̃a-en} "I will put bread on the table". 
+
+#### Differences and combinations between dimensional prefixes and noun case markers
+
+While the meanings of the prefixes are generally the same as those of the corresponding nominal case markers, there are some differences:. At the systemic level, there are some asymmetries between the nominal case markers and the verbal dimensional prefixes: they partly make different distinctions, and the nominal case marking is influenced by animacy. Because of these mismatches, different meanings are expressed by combinations of matching or non-matching noun cases and verb prefixes. The combinations may be summarized as follows: . In some cases, there are also mismatches between nominal and verbal markers when exact correspondences would have been possible;   these may serve to express additional shades of meaning . A dative noun case marker and terminative dimensional prefix may co-occur in the Ur III period . In general, from that time on, the choice of noun cases begins to be influenced by the government of corresponding Akkadian verbs, while the verbs themselves retain their older prefixes . According to Foxvog, /-ni-/ can resume non-locative cases such as the terminative and the dative . A peculiar pattern of agreement occurs in what has been referred to as an external possession construction, in which a modifier of the verb refers to a certain object, almost always a body part, but it is emphasised that the action affects the possessor of that object (cf. English "he hit me on the head"). In that case, the verb may agree with the possessor with the directive prefix, while not agreeing with the object itself: thus, "he put barley in your hand" may be expressed by {šu-z(u).a še i-r-i-n-g̃ar}, lit. "he put barley at you, in your hand". Alternatively, it may agree with both the possessor and the object: the possessor is then referred to by the dative prefix: {šu-z(u)-a še (i-)r-a-ni-n-g̃ar}, lit . "he put barley to you, in there, in your hand". 
+
+##### Use of the ventive as a 1st person marker
+
+When the dimensional prefix is dative -/a/-, the personal prefix of the 1st person appears to be absent, but the 1st person reference is expressed by the choice of the ventive conjugation prefix /mu/-. The sequence that expresses the 1st person dative is then: /mu-/ + /-a-/ → 𒈠 ma-. When the intended meaning is that of the directive -/i/~/e/- ("on me", "in contact with me", etc.), it seems that the ventive conjugation prefix 𒈬 mu- alone serves to express it . 
+
+##### Syncope of /i/ in -/ni/- and -/bi/-
+
+Two special phenomena occur if there is no absolutive–ergative pronominal prefix in the pre-stem position.. 1. The sequences 𒉌 -/ni/- (locative {-ni-} and personal + directive {-nn-i-}) and 𒉈 /bi/- (personal + directive {b-i-}) acquire the forms -/n/- and -/b/- (coinciding with the absolutive–ergative pronominal prefixes) before the stem if there isn't already an absolutive–ergative pronominal prefix in pre-stem position. This is typically the case when the verb is used intransitively. For example, the normal appearance of -ni- is seen in: . In contrast, in an intransitive form, we find a syncopated realization:. The preceding vowel undergoes compensatory lengthening, which is sometimes indicated by its doubling in the spelling:. Likewise, the normal realisation of bi- is seen in:. This is to be contrasted with the syncopated version in an intransitive form:. The same phonological pattern is claimed to account for the alternation between the forms of the ventive prefix. The standard appearance is seen in:. {i-mu-n-ak} > mu-un-ak 𒈬𒌦𒀝 "he did it here".. In an intransitive form, however, we find:. {i-mu-g̃en} > i3-im-g̃en 𒉌𒅎𒁺 "he came here". 
+
+##### Expression of the directive by a pre-stem personal prefix
+
+A superficially very similar, but distinct phenomenon is that if there isn't already an absolutive–ergative pronominal prefix in pre-stem position, the personal prefix of the directive participant does not receive the dimensional prefix -/i/~/e/- at all and is moved to the pre-stem position. For example, the normal position of the directive participant is seen in:. In contrast, in an intransitive form, we find:. In the same way, the normal position is seen in:. This can be contrasted with an intransitive form:. 
+
+##### Absence of {-b-}
+
+In some cases, the 3rd person inanimate prefix -b- appears to be unexpectedly absent.. 
+
+### Pronominal suffixes
+
+The pronominal suffixes are as follows:. The initial vowel in all of the above suffixes can be assimilated to the vowel of the verb root; more specifically, it can become /u/ or /i/ if the vowel of the verb root is /u/ or /i/, respectively. It can also undergo contraction with an immediately preceding vowel. Pre-Ur III texts also spell the first- and second-person suffix -/en/ as -/e/, making it coincide with the third person in the marû form. . 
+
+### Pronominal agreement with subjects and direct objects
+
+Sumerian verbal agreement follows a nominative–accusative pattern in the 1st and 2nd persons of the marû tense-aspect, but an ergative–absolutive pattern in most other forms of the indicative mood. Because of this presence of both patterns, Sumerian is considered a language with split ergativity. The general principle is that in the ḫamṭu TA, the transitive subject is expressed by the prefix, and the direct object by the suffix, and in the marû TA it is the other way round . For example, {i-b-dab-en} can be a ḫamṭu form meaning "it caught me", where {-b-} expresses the subject "it" and {-en} expresses the object "I". However, it can also be a marû form meaning "I will catch it", where {-en} expresses the subject "I" and {-b-} expresses the object "it". As for the intransitive subject, it is expressed, in both TAs, by the suffixes. For example, {i-kaš-en} is "I ran", and {i-kaš-ed-en} can be "I will run". This means that the intransitive subject is treated like the object in ḫamṭu (which makes the ḫamṭu pattern ergative) and like the subject in marû (which makes the marû pattern nominative-accusative).. There are two exceptions from the above generalization:. 1. A transitive subject of the third person in marû uses unique suffixes that are not the same as those of the intransitive subject and the ḫamṭu direct object. For example, while "they ran" can be {i-kaš-eš}, just as "it caught them" can be {i-b-dab-eš}, the corresponding form for "they will catch it" would be {i-b-dab-ene}. This pattern can be described as a case of tripartite alignment. 2. A plural transitive subject in the ḫamṭu TA is expressed not only by the prefix, but also by the suffix: e.g. {i-n-dab-eš} can mean "they caught (it)". Specifically, the prefix expresses only the person, while the suffix expresses both the person and the number of the subject. Note that the prefixes of the plural transitive subject are identical to those of the singular – -/V/-, -/e/-, -/n/- – as opposed to the special plural forms -me-, -e-ne-, -ne- found in non-pre-stem position.. The use of the personal affixes for subjects and direct objects can be summarized as follows: . Examples for TA and pronominal agreement: (ḫamṭu is rendered with past tense, marû with present):. 
+
+### Stem
+
+The verbal stem itself can also express grammatical distinctions within the categories number and tense-aspect. In a number of verbs, this involves suppletion or morphonological alternations that are not fully predictable.. 1. With respect to number, plurality can be expressed by complete reduplication of the ḫamṭu stem (e.g. 𒆭𒆭 kur9-kur9 "enter (pl.)" or by a suppletive stem (e.g. 𒁺 gub "stand (sing.)" - 𒁻 sug2 "stand (pl.)". The traditional view is that both of these morphological means express plurality of the absolutive participant in Sumerian. However, it has often been pointed out that complete reduplication of the verb in Sumerian can also express "plurality of the action itself"  intensity or iterativity,  and that it is not obligatory in the presence of plural participants, but rather seems to expressly emphasize the plurality . According to some researchers,    the predominant meaning of the suppletive plural stem is, indeed, plurality of the most affected participants, whereas the predominant meaning of complete reduplication is plurality of events (because they occur at multiple times or locations) . However, even with suppletive plural stems, the singular may occur with a plural participant, presumably because the event is perceived as a single one. 2. With respect to tense-aspect marking, verbs are divided in four types; ḫamṭu is always the unmarked TA.. The following tables show some of the most frequent stem alternations. [bp]. 
+
+### The modal or imperfective suffix -/ed/
+
+Before the pronominal suffixes, a suffix -/ed/ or -/d/ can be inserted (the /d/ is only realized if other vowels follow, in which case the /e/ in turn may be elided): e.g. 𒉌𒀄(𒂊)𒉈𒂗 i3-zaḫ3(-e)-de3-en {i-zaḫ-ed-en} "I will/must escape", 𒉌𒀄𒂊 i3-zaḫ3-e {i-zaḫ-ed} "he will/must escape". This suffix is considered to account for occurrences of -e in the third-person singular marû of intransitive forms by those who do not accept the theory that -e itself is a marû stem formant. The function of the suffix is somewhat controversial. Some view it as having a primarily modal meaning of "must" or "can"  or future meaning . Others believe that it primarily signals simply the imperfective status of a verb form, i.e . a marû form,  although its presence is obligatory only in intransitive marû forms and in non-finite forms . In intransitive forms, it thus helps to distinguish marû from ḫamṭu;  for instance, in the above example, 𒉌𒀄𒂗 i3-zaḫ3-en alone, without -/ed/-, could have been interpreted as a ḫamṭu form "I escaped" [423]. In contrast, in the analysis of scholars who do not believe that -/ed/- is obligatory in marû, many intransitive forms like i3-zaḫ3-en can be both ḫamṭu and marû. [bz]. The vowel /e/ of this suffix undergoes the same allophonic changes as the initial /e/ of the person suffixes. It is regularly assimilated to /u/ in front of stems containing the vowel /u/ and a following labial consonant, /r/ or /l/, e.g. 𒋧𒈬𒁕 šum2-mu(-d) (< {šum-ed}). It is also assimilated and contracted with immediately preceding vowels, e.g. 𒄄 gi4-gi4 /gi-gi-i(d)/ < {gi-gi-ed} "which will/should return". The verb 𒁺 du "go" never takes the suffix. 
+
+### Use of the tense-aspect forms
+
+Jagersma systematizes the use of the tense-aspect forms in the following patterns: . In addition, different moods often require either a ḫamṭu or a marû stem and either a ḫamṭu or a marû agreement pattern depending on various conditions, as specified in the relevant sections above and below.. In more general terms, modern scholars usually state that the difference between the two forms is primarily one of aspect: ḫamṭu expresses perfective aspect, i.e. a completed action, or sometimes possibly punctual aspect, whereas marû expresses imperfective aspect, i.e. a non-completed action, or sometimes possibly durative aspect. In contrast, the time at which the action takes place or at which it is completed or non-completed is not specified and may be either past, present or future . This contrasts with the earlier view, prevalent in the first half of the 20th century, according to which the difference was one of tense: ḫamṭu was thought to express the past (preterite) tense, and marû was considered to express present-future tense, while the use of marû with past-tense reference was viewed as a stylistic device (cf . the so-called historical present use in other languages). Indeed it has been pointed out that a translation of ḫamṭu with past tense and marû with present or future tense does work well most of the time;  this may correspond to the cases in which the action was viewed by Sumerian speakers as completed or non-completed with respect to the present moment . [ca] . 
+
+### The imperative mood
+
+The imperative mood construction is produced with a ḫamṭu stem, but using the marû agreement pattern, by turning all prefixes into suffixes. In the plural, the second person plural ending is attached in a form that differs slightly from the indicative: it is /-(n)zen/, with the -/n/- appearing only after vowels . The stem is singular even in the plural imperative. Compare the following indicative-imperative pairs: . This may be compared with the French pair vous le lui donnez, but donnez-le-lui! . In addition, the prefix 𒉌 i3- is replaced by /-a/: 𒉌𒁺 i3-g̃en "he went", but 𒁺𒈾 g̃en-na "go!", 𒅔𒈾𒀊𒁉 in-na-ab-be2 "he will say it to him", but 𒅗𒂵𒀭𒈾(𒀊) dug4-ga-an-na(-ab) 'say it to him!'. However, the vowel /e/  and possibly /i/  occasionally also occur if no further prefixes follow, perhaps as a characteristic of southern dialects . The ventive prefix mu-, if not followed by others, has the form 𒌝 -um in the imperative: 𒁺𒌝 ře6-um 'bring it here!'  In Old Babylonian texts, the reduced form -/u/ and the more regular -/am/ {-a-m} are also found: 𒂷𒉡 g̃e26-nu, 𒁺𒀀𒀭 g̃en-am3, both "come here!" . 
+
+### Participles
+
+Sumerian participles can function both as verbal adjectives and as verbal nouns. As verbal adjectives, they can describe any participant involved in the action or state expressed by the verb: for instance, 𒋧𒈠 šum2-ma may mean either "(which was) given (to someone)", "who was given (something)" or "who gave". As verbal nouns, they denote the action or state itself, so 𒋧𒈠 šum2-ma may also mean  '(the act of) giving' or 'the fact that X gave Y' . Participles are formed in the following ways: . 
+
+### Copula verb
+
+The copula verb /me/ "to be" is mostly used in an enclitic form. Its conjugation is as follows:. In addition, the initial vowel of the form -am3 is reduced to -/m/ after enclitics ending in a vowel: 𒂍𒈬𒌝 e2-g̃u10-um "it is my house". Like other final consonants, the -m may not be expressed in early spelling. These enclitic forms are used instead of a simple sequence of finite prefix, root and personal suffix *i3-me-en, *i-me etc. For more complex forms, the independent copula form is used: 𒉌𒈨𒀀 i3-me-a "that he is", 𒉡𒅇𒈨𒂗 nu-u3-me-en "I am not". Unlike the enclitic, it typically uses the normal stem 𒈨 -me- in the 3rd person singular (𒁀𒊏𒈨 ba-ra-me "should not be"), except for the form prefixed with ḫa-, which is 𒃶𒅎 ḫe2-em or 𒃶𒀀𒀭 ḫe2-am3. For a negative equivalent of the copula in the 3rd person, it seems that the word 𒉡 nu "not" alone instead of *nu-um is used predicatively (e.g. 𒍏𒉡 urud nu "it is not copper" ) although the form 𒉡(𒌦)𒂵𒀀𒀭 nu-(un)-ga-am3 "it is also not ..." is attested . A different word is used to express existence or being present/located somewhere: 𒅅 g̃al2 . A peculiar feature of the copula is that it seems to form a relative clause without the nominalizing suffix /-a/ and thus uses the finite form: thus, instead of 𒉌𒈨𒀀 i3-me-a, simply 𒀀𒀭 -am3 is used: 𒆬𒃻𒂵𒊏𒉌𒅎𒈠𒀭𒋧 kug nig̃2-gur11-ra-ni-im ma-an-šum2 "he gave me silver (which) was his property", which appears to say "The silver was his property, he gave it to me". In the negative, the full form 𒉡𒈨𒀀 nu-me-a "which is not" is used, and likewise in non-relative functions. 
+
+### Passive voice
+
+Some scholars believe that it is possible to speak of a passive voice in Sumerian. Jagersma (2010) distinguishes three attested passive constructions. In each case, the ergative participant and the corresponding agreement marker on the verb are removed, so that the verb is inflected intransitively, but there may also be some additional cues to ensure a passive interpretation . The passive may be formed:. The agent is never expressed in the passive clause in Sumerian. While the existence of such intransitive constructions of normally transitive verbs is widely recognized, some other scholars have disputed the view that these constructions should be called "passives". They prefer to speak of one-participant or agentless constructions and to limit themselves to the observation that the prefixes ba- and a- tend to be preferred with such constructions, apparently as a secondary effect of another, more subtle feature of their meaning. Concerning the history of the constructions, it has been claimed that the passive(-like) use of ba- does not appear before the Ur III period;  Jagersma, on the contrary, states that it is attested already in the Old Sumerian period, although it becomes especially frequent in Ur III times . A different construction has been posited and labelled "Sumerian passive voice" by a significant number of scholars. According to them, too, a passive is formed by removing the ergative participant and the verbal marker that agrees with it, but the verb is not inflected as an intransitive one: instead, it has a personal prefix, which refers to the "logical object": {e i-b-řu} or {e ba-b-řu} "the house is being built" . The stem is always ḫamṭu. Some consider this construction to have only the function and meaning of a marû form , while others consider the tense-aspect opposition to be neutralized in it . The personal prefix is nearly always -b- in identified cases; views differ on whether it agrees in gender with an animate logical object, appearing as -n-,  or whether it remains -b- . Critics have argued that most alleged examples of the construction are actually instances of the pre-stem personal prefix referring to the directive participant in an intransitive verb, at least before the Old Babylonian period . Pascal Attinger considers it plausible that the original construction was indeed a directive one, whereas its new passive function as described by him arose via a reinterpretation in the Old Babylonian period;  Walther Sallaberger, on the contrary, believes this kind of passive to be characteristic of Neo-Sumerian and to have been lost in Old Babylonian . A further possibility is that at least some of these cases actually have an impersonal 3rd person inanimate subject: "'it' has / they have built the house" . 
+
+### Causative construction
+
+Sumerian doesn't have dedicated causative morphology. Causativity is expressed syntactically in two ways, depending on the transitivity of the verb.. In Old Babylonian Sumerian, new causative markers have been claimed to have arisen under the influence of Akkadian; this is explained in the section on Interference from Akkadian and other late phenomena.. 
+
+### Phrasal verbs
+
+A specific problem of Sumerian syntax is posed by the numerous phrasal verbs (traditionally called "compound verbs" in Sumerology in spite of the fact that they are not compounds, but idiomatic combinations ) . They usually involve a noun immediately before the verb, forming a lexical/idiomatic unit:  e.g . 𒅆...𒂃 igi ...du8, lit. "open the eye" = "see, look". Their case government and agreement patterns vary depending on the specific verb. [cc] The component noun is usually in the absolutive case, but may be in the directive . If the phrasal verb takes another noun as a "logical object", the verbal infix is typically the directive, while the noun case is most commonly either the directive (dative if animate), which otherwise has the meaning "at / with respect to", or the locative (dative if animate), which otherwise has the meaning "on":. Less commonly, the case of the logical object and the pronominal infix may be:. Another possibility is for the component noun to be in the dative (directive if inanimate), while the object is in the absolutive:. 
+
+## Syntax
+
+### General features
+
+The basic word order is subject–object–verb; verb finality is only violated in rare instances, in poetry. The moving of a constituent towards the beginning of the phrase may be a way to highlight it,  as may the addition of the copula to it . Modifiers (adjectives, genitive phrases etc.) are normally placed after the noun: 𒂍𒉋 e2 gibil "a new house" 𒂍𒈗𒆷 e2 lugal-la "the house of the owner". However, the so-called anticipatory genitive (𒂍𒀀𒈗𒉈 e2-a lugal-bi "the owner of the house", lit. "of the house, its owner") is common and may signal the possessor's topicality. There are no adpositions, but noun phrases in a certain case may resemble prepositions and have a similar function: . 
+
+### Subordinate clauses
+
+There are various ways to express subordination. Many of them include the nominalization of a finite verb with the suffix -/a/, which is also used to form participles, as shown above. Like the participles, this nominalized clause can either modify a noun, as adjectives do, or refer to the event itself, as nouns do. It usually functions as a relative clause, corresponding to an English clause with "which ..." or "who ...", as in the following example:. Like the participles, the relative clauses can describe any participant involved in the action or state expressed by the verb, and the specific participant is determined by context: e.g. 𒈬𒌦𒈾𒀭𒋧𒈠 {mu-nna-n-šum-a} can be "which he gave to him", "who gave (something) to him", etc. The nominalized clause can also be a complement clause, corresponding to an English clause with "that ...", e.g. e2 in-řu2-a (in-zu) "(he knows) that he built the house". Like a noun, it can be followed by case morphemes:. The nominalized clause can directly modify a noun expressing time such as 𒌓 ud "day, time", 𒈬 mu "year" and 𒌗 itid "month", and this in turn can then stand in the locative and ablative in the same meanings as the clauses themselves: ud e2 in-řu2-a-a/ta "when/after he built the house". In this case, the particle -bi sometimes precedes the case morpheme: ud e2 in-řu2-a-ba; the basic meaning is still of "when" . The nominalized clause can also be included in the various "prepositional constructions" mentioned above:. The structure is shown more clearly in the following example:. Several clauses can be nominalized by a single {-a} enclitic: {kaʾa ba-zaḫ engar-e nu-i-b-dab-a b-i-n-dug} "he said that the fox had escaped and the farmer had not caught it". Participles can function in a very similar way to the nominalized clauses and be combined with the same kinds of adjuncts. One peculiarity is that, unlike nominalized clauses, they may also express the agent as a possessor, in the genitive case: 𒂍𒆕𒀀𒈗𒆷 e2 řu2-a lugal-la "the house built by the king". However, when the head noun (e2) is specified as here, a more common construction uses the ergative: 𒂍𒈗𒂊𒆕𒀀 e2 lugal-e řu2-a. A special subordinating construction with the temporal meaning of an English when-clause is the so-called pronominal conjugation, which contains a verb nominalized with -/a/ and following possessive pronominal markers referring to the subject (transitive or intransitive). In the 3rd person, the form appears to end in the possessive pronominal marker alone: 𒆭𒊏𒉌 kur9-ra-ni "when he entered", lit. "his entering", etc. It has been suggested that these forms actually also contain a final directive marker -e; in this example, the analysis would be {kur-a-ni-e}, "at his entering". Similarly, in Old Babylonian Sumerian, one sometimes finds the locative or ablative markers after the possessive (kur9-ra-na, kur9-ra-ni-ta) . In contrast, in the 1st and 2nd persons, the 1st and 2nd person pronouns are followed by the syllable 𒉈 -ne: [cd] 𒍣𒂵𒈬𒉈 zig3-ga-g̃u10-ne "as I rose") . The verb itself may be in ḫamṭu, as in the above examples, or in marû followed by the modal/imperfective suffix -/ed/-: 𒍣𒍣𒁕𒈬𒉈 zi-zi-da-g̃u10-ne "when I rise". The same construction is used with the word 𒀸 dili "alone": 𒀸𒈬𒉈 dili-g̃u10-ne "I alone", etc . Subordinating conjunctions such as 𒌓𒁕 ud-da "when, if", 𒋗𒃻𒌉𒇲𒁉 tukum-bi "if" and 𒂗𒈾 en-na "until" also exist. 
+
+### Coordination
+
+Coordinating conjunctions are rarely used. The most common way to express the sense of "and" is by simple juxtaposition. Nominal phrases may be conjoined, perhaps emphatically, by adding 𒁉 -bi to the second one: 𒀭𒂗𒆤𒀭𒎏𒆤𒉌 en-lil2 nin-lil2-bi "both Enlil and Ninlil"; sometimes the enclitic is further reinforced by 𒁕 -da "with". More surprisingly, 𒋫 -ta "from" is also sometimes used in the sense of "and". The word 𒅇 u3 "and" was borrowed from Akkadian in the Old Akkadian period and occurs mostly in relatively colloquial texts;  Old Babylonian Sumerian also borrowed from Akkadian the enclitic 𒈠 -ma "and" . There is no conjunction "or" and its sense can also be expressed by simple juxtaposition; a more explicit and emphatic alternative is the repetition of 𒃶𒅎 ḫe2-em, "let it be": 𒇻𒃶𒅎𒈧𒃶𒅎 udu ḫe2-em maš ḫe2-em  "(be it) a sheep or a goat" . 
+
+### Other issues
+
+A quotative particle -/(e)še/ or -/ši/ "saying", variously spelt 𒂠 -eše2, 𒅆 -ši or 𒀪𒊺 -e-še, has been identified. Its use is not obligatory and it is attested only or almost only in texts from the Old Babylonian period or later . Another, rarely attested, particle, 𒄑(𒊺)𒂗 -g̃eš(-še)-en, apparently expresses irrealis modality: "were it that ..." . Highlighting uses of the copula somewhat similar to English cleft constructions are present: 𒈗𒀀𒀭𒉌𒁺 lugal-am3 i3-g̃en "It is the king who came", 𒀀𒈾𒀸𒀀𒀭𒉌𒁺 a-na-aš-am3 i3-g̃en "Why is it that he came?", 𒉌𒁺𒈾𒀀𒀭 i3-g̃en "It is the case that he came". Sumerian generally links a nominal predicate to the subject using the copula verb, like English. However, it does use zero-copula constructions in some contexts. In interrogative sentences, the 3rd person copula is omitted: 𒀀𒈾𒈬𒍪 a-na mu-zu "What is your name?", 𒉈𒂗𒈬𒍪 ne-en mu-zu "Is this your name?". Sumerian proper names that consist of entire sentences normally lack a copula as well, e.g. 𒀀𒁀𒀭𒌓𒁶 a-ba dutu-gen7 "Who is like Utu?" As explained above, negative sentences also omit the copula in *nu-am3/nu-um "isn't" and use simply 𒉡 nu instead. Yes/no-interrogative sentences appear to have been marked only by intonation and possibly by resulting lengthening of final vowels. There is no wh-movement to the beginning of the clause, but the interrogative words are placed immediately before the verb: e.g . 𒈗𒂊𒀀𒈾𒈬𒌦𒀝 lugal-e a-na mu-un-ak "What did the king do?", 𒂍𒀀𒁀𒀀𒅔𒆕 e2 a-ba-a in-řu3 "Who built the temple?" Two exceptions from this are that the constituent noun of a phrasal verb is normally closer to the verb,   and that an interrogative word emphasized with a copula such as 𒀀𒈾𒀸𒀀𒀭 a-na-aš-am3 "why is it that ...?" is placed at the beginning of the clause . In addition, as already mentioned, interrogative sentences omit the copula where a declarative would have used it. . 
+
+## Word formation
+
+Derivation by affixation is largely non-existent. An exception may be a few nouns ending in -/u/ denoting the object of a corresponding verb: 𒊬𒊒 sar-ru "document" < 𒊬 sar "write" . Compounding, on the other hand, is common in nouns . Compounds are normally left-headed. The dependent may be:. An older obsolete pattern was right-headed instead:. A participle may be the head of the compound, preceded by a dependent:. There are a few cases of nominalized finite verbs, too: 𒁀𒍗 ba-uš4 "(who) has died" > "dead". Abstract nouns are formed as compounds headed by the word 𒉆 nam- "fate, status": 𒌉 dumu "child" > 𒉆𒌉 nam-dumu "childhood", 𒋻 tar "cut, decide" > 𒉆𒋻 nam-tar "fate". Nouns that express the object of an action or an object possessing a characteristic are formed as compounds headed by the word 𒃻 nig̃2 "thing": 𒅥 gu4 "eat" > 𒃻𒅥 nig̃2-gu7 "food", 𒄭 "good, sweet" > 𒃻𒄭 nig̃2-dug "something sweet" . The meaning may also be abstract: 𒋛...𒁲 si...sa2 "straighten, put in order" > nig̃2-si-sa2 "justice". A small number of terms of professions are derived with the preposed element 𒉡 nu-: 𒄑𒊬 g̃eškiri6 "garden" > 𒉡𒄑𒊬 nu-g̃eškiri6-(k) "gardener" . Apparent coordinative compounds also exist, e.g. 𒀭𒆠 an-ki "the universe", lit. "heaven and earth". A noun can be formed from an adjective by conversion: for example, 𒂼 dag̃al "wide" also means "width". On verbs acquiring the properties of adjectives and nouns (agent nouns and action nouns), see the section on Participles.. While new verbs cannot be derived, verbal meanings may be expressed by phrasal verbs (see above); in particular, new phrasal verbs are often formed on the basis of nouns by making them the object of the verbs 𒅗 dug4 "do" or 𒀝 ak "make":  𒀀...𒅗 a ...dug4, lit. "to do water" > "to irrigate", 𒄑𒂵...𒍮 g̃ešga-rig2 ...ak, lit. "to do the comb" > "to comb". 
+
+# Dialects
+
+The standard variety of Sumerian was Emegir (𒅴𒂠: eme-gir15). A notable variety or sociolect was Emesal (𒅴𒊩: eme-sal), possibly to be interpreted as "fine tongue" or "high-pitched voice". Other apparent terms for registers or dialects were eme-galam "high tongue", eme-si-sa2 "straight tongue", eme-te-na2 "oblique [?] tongue",  emesukudda, emesuha, emesidi   and emeku . Recently, a regional differentiation into a Northern and a Southern Sumerian dialect area has been posited . 
+
+## Emesal
+
+Emesal is used exclusively by female characters in some literary texts. In addition, it is dominant in certain genres of cult songs such as the hymns sung by Gala priests. It has been argued that it might have been a female language variety of the kind that exists or has existed in some cultures, such as among the Chukchis and the Garifuna . Alternatively, it has been contended that it must have been originally a regional dialect, since instances of apparent Emesal-like forms are attested in the area of late 3rd millennium Lagash,  and some loanwords into Akkadian appear to come from Emesal rather than Emegir . Apart from such isolated glosses, Emesal is first attested in writing in the early Old Babylonian period . It is typically written with syllable signs rather than logograms . A text is often not written consistently in Emesal, but contains apparent Emegir forms as well.. The special features of Emesal are mostly phonological and lexical. In terms of phonology, the following are some of the most common sound correspondences: . There are also specifically Emesal lexemes that do not seem to be cognate with their Emegir counterparts, for example:. In grammar, both the cohortative prefix 𒂵 ga- and the precative prefix 𒄩 ḫa- are replaced by the morpheme 𒁕 da- (with the allomorphs 𒉈 de3- and 𒂅 du5- conditioned by context in the same way as that of the corresponding Emegir prefixes). 
+
+## Southern and Northern Sumerian
+
+Bram Jagersma  and Gábor Zólyomi  distinguish two regional dialects of Sumerian: the Southern Sumerian dialect of Lagash, Umma, Ur and Uruk, which eventually formed the basis for the common standard of the Neo-Sumerian (Ur III) period, and the Northern Sumerian dialect as seen in texts from Nippur, Adab, Isin and Shuruppak (although eventually texts in the standard variety begin to be produced in that area as well) . The differences that he finds between the two varieties are:. 
+
+## Old Babylonian Sumerian
+
+The dominant Sumerian variety of the Old Babylonian period, in turn, reflected a different regional dialect from the standard Neo-Sumerian of the Ur III period:. 
+
+# Interference from Akkadian and other late phenomena
+
+In the Old Babylonian period and after it, the Sumerian used by scribes was influenced by their mother tongue, Akkadian, and sometimes more generally by imperfect acquisition of the language. As a result, various deviations from its original structure occur in texts or copies of texts from these times. The following effects have been found in the Old Babylonian period: . For Middle Babylonian and later texts, additional deviations have been noted: . 
+
+# Syllabary
+
+The table below shows signs used for simple syllables of the form CV or VC. As used for the Sumerian language, the cuneiform script was in principle capable of distinguishing at least 16 consonants,   transliterated as . as well as four vowel qualities, a, e, i, u.. 
+
+# Sample text
+
+## Inscription by Entemena of Lagaš
+
+This text was inscribed on a small clay cone c. 2400 BC. It recounts the beginning of a war between the city-states of Lagaš and Umma during the Early Dynastic III period, one of the earliest border conflicts recorded. (RIME 1.09.05.01) . 
+
+# References
+
+# References
+
+[5] [ERROR retrieving ref link]
+[45] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[88] [ERROR retrieving ref link]
+[96] [ERROR retrieving ref link]
+[110] [ERROR retrieving ref link]
+[114] [ERROR retrieving ref link]
+[116] [ERROR retrieving ref link]
+[135] [ERROR retrieving ref link]
+[138] [ERROR retrieving ref link]
+[148] [ERROR retrieving ref link]
+[163] [ERROR retrieving ref link]
+[180] [ERROR retrieving ref link]
+[182] [ERROR retrieving ref link]
+[186] [ERROR retrieving ref link]
+[188] [ERROR retrieving ref link]
+[193] [ERROR retrieving ref link]
+[194] [ERROR retrieving ref link]
+[197] [ERROR retrieving ref link]
+[199] [ERROR retrieving ref link]
+[200] [ERROR retrieving ref link]
+[202] [ERROR retrieving ref link]
+[204] [ERROR retrieving ref link]
+[205] [ERROR retrieving ref link]
+[208] [ERROR retrieving ref link]
+[210] [ERROR retrieving ref link]
+[212] [ERROR retrieving ref link]
+[219] [ERROR retrieving ref link]
+[224] [ERROR retrieving ref link]
+[226] [ERROR retrieving ref link]
+[227] [ERROR retrieving ref link]
+[230] [ERROR retrieving ref link]
+[231] [ERROR retrieving ref link]
+[236] [ERROR retrieving ref link]
+[237] [ERROR retrieving ref link]
+[243] [ERROR retrieving ref link]
+[272] [ERROR retrieving ref link]
+[278] [ERROR retrieving ref link]
+[279] [ERROR retrieving ref link]
+[291] [ERROR retrieving ref link]
+[337] [ERROR retrieving ref link]
+[351] [ERROR retrieving ref link]
+[362] [ERROR retrieving ref link]
+[368] [ERROR retrieving ref link]
+[387] [ERROR retrieving ref link]
+[393] [ERROR retrieving ref link]
+[398] [ERROR retrieving ref link]
+[400] [ERROR retrieving ref link]
+[404] [ERROR retrieving ref link]
+[407] [ERROR retrieving ref link]
+[410] [ERROR retrieving ref link]
+[412] [ERROR retrieving ref link]
+[414] [ERROR retrieving ref link]
+[415] [ERROR retrieving ref link]
+[417] [ERROR retrieving ref link]
+[418] [ERROR retrieving ref link]
+[421] [ERROR retrieving ref link]
+[431] [ERROR retrieving ref link]
+[444] [ERROR retrieving ref link]
+[452] [ERROR retrieving ref link]
+[456] [ERROR retrieving ref link]
+[457] [ERROR retrieving ref link]
+[458] [ERROR retrieving ref link]
+[460] [ERROR retrieving ref link]
+[462] [ERROR retrieving ref link]
+[464] [ERROR retrieving ref link]
+[476] [ERROR retrieving ref link]
+[477] https://www.sumerian.org/sumerian.pdf
+[479] [ERROR retrieving ref link]
+[484] [ERROR retrieving ref link]
+[487] [ERROR retrieving ref link]
+[489] [ERROR retrieving ref link]
+[490] [ERROR retrieving ref link]
+[491] [ERROR retrieving ref link]
+[492] [ERROR retrieving ref link]
+[494] [ERROR retrieving ref link]
+[495] [ERROR retrieving ref link]
+[503] [ERROR retrieving ref link]
+[512] [ERROR retrieving ref link]
+[538] [ERROR retrieving ref link]
+[554] [ERROR retrieving ref link]
+[582] [ERROR retrieving ref link]
+[620] [ERROR retrieving ref link]
+[1] [ERROR retrieving ref link]
+[2] https://web.archive.org/web/20130627130707/http://multitree.org/codes/sux
+[3] [ERROR retrieving ref link]
+[4] [ERROR retrieving ref link]
+[6] https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois2_2007.pdf
+[7] [ERROR retrieving ref link]
+[8] [ERROR retrieving ref link]
+[9] ISBN: 978-1-119-19380-7
+[10] https://search.worldcat.org/issn/0373-6032
+[11] [ERROR retrieving ref link]
+[12] [ERROR retrieving ref link]
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[15] https://www.jstor.org/stable/43927313
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] https://www.academia.edu/14612978/UD_GAL_NUN_versus_Normal_Sumerian_Two_Literatures_or_One
+[19] [ERROR retrieving ref link]
+[20] https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois2_2007.pdf
+[21] [ERROR retrieving ref link]
+[22] [ERROR retrieving ref link]
+[23] [ERROR retrieving ref link]
+[24] https://etcsl.orinst.ox.ac.uk/edition2/pdf/diachronsum.pdf
+[25] [ERROR retrieving ref link]
+[26] [ERROR retrieving ref link]
+[27] [ERROR retrieving ref link]
+[28] [ERROR retrieving ref link]
+[29] https://web.archive.org/web/20180916001123/http://dcsl.orinst.ox.ac.uk/cgi-bin/dcsl_time.cgi
+[30] [ERROR retrieving ref link]
+[31] [ERROR retrieving ref link]
+[32] [ERROR retrieving ref link]
+[33] [ERROR retrieving ref link]
+[34] [ERROR retrieving ref link]
+[35] https://cdli.mpiwg-berlin.mpg.de/articles/cdlp/1.0.pdf
+[36] [ERROR retrieving ref link]
+[37] https://oracc.museum.upenn.edu/ckst/introduction/index.html
+[38] [ERROR retrieving ref link]
+[39] [ERROR retrieving ref link]
+[40] [ERROR retrieving ref link]
+[41] [ERROR retrieving ref link]
+[42] https://mprl-series.mpg.de/studies/10/11/index.html
+[43] [ERROR retrieving ref link]
+[44] https://discovery.ucl.ac.uk/id/eprint/10061318/1/info-flows-rural-babylonia-2018-07-20.pdf
+[46] https://findit.library.yale.edu/images_layout/view?parentoid=15763289&increment=115
+[47] https://tspace.library.utoronto.ca/bitstream/1807/138097/1/McGrath_William_202403_PhD_thesis.pdf
+[48] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[52] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[54] [ERROR retrieving ref link]
+[55] ISBN: 978-1-85201-024-9
+[56] [ERROR retrieving ref link]
+[57] [ERROR retrieving ref link]
+[58] https://doi.org/10.1086%2F201193
+[59] [ERROR retrieving ref link]
+[60] ISBN: 83-87111-32-5
+[61] [ERROR retrieving ref link]
+[62] ISBN: 9781521532362
+[63] ISBN: 9789027235190
+[64] [ERROR retrieving ref link]
+[65] http://files.eric.ed.gov/fulltext/ED368171.pdf
+[66] [ERROR retrieving ref link]
+[67] https://doi.org/10.2307%2F1359726
+[68] http://science.org.ge/old/moambe/2-3/Gordon%20Whitteker.pdf
+[69] https://www.persee.fr/doc/paleo_0153-9345_1980_num_6_1_4262
+[70] https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip99.pdf
+[71] [ERROR retrieving ref link]
+[72] [ERROR retrieving ref link]
+[74] [ERROR retrieving ref link]
+[75] https://books.google.com/books?id=M88CVW8RkCcC&pg=PA34
+[76] https://archive.org/details/mmoires02franuoft/page/53
+[77] http://cdli.ucla.edu/pubs/cdlj/2011/cdlj2011_001.html
+[78] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[80] https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=genpub;cc=genpub;sid=925969e1cdb54224dccf86fdb4bdef76;rgn=full+text;idno=ACG1616.0002.001;view=image;seq=00000217
+[81] http://www.sacred-texts.com/ane/sum
+[82] https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20142AuOrMarsal.pdf
+[83] https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20152AuOrMarsal.pdf
+[84] https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/as20.pdf#page=126
+[85] [ERROR retrieving ref link]
+[86] [ERROR retrieving ref link]
+[87] [ERROR retrieving ref link]
+[89] [ERROR retrieving ref link]
+[90] [ERROR retrieving ref link]
+[91] [ERROR retrieving ref link]
+[92] https://www.academia.edu/7754980
+[93] [ERROR retrieving ref link]
+[94] [ERROR retrieving ref link]
+[95] [ERROR retrieving ref link]
+[97] [ERROR retrieving ref link]
+[98] http://etcsl.orinst.ox.ac.uk/edition2/language.php
+[99] http://web.archive.org/web/20110103084319/http://doc.rero.ch/lm.php?url=1000%2C40%2C4%2C20080304131832-QE%2Fth_AttingerP.pdf
+[100] [ERROR retrieving ref link]
+[101] [ERROR retrieving ref link]
+[102] [ERROR retrieving ref link]
+[103] [ERROR retrieving ref link]
+[104] [ERROR retrieving ref link]
+[105] [ERROR retrieving ref link]
+[106] https://web.archive.org/web/20180916130913/https://core.ac.uk/download/pdf/51326989.pdf
+[107] [ERROR retrieving ref link]
+[108] [ERROR retrieving ref link]
+[109] [ERROR retrieving ref link]
+[111] [ERROR retrieving ref link]
+[112] [ERROR retrieving ref link]
+[113] [ERROR retrieving ref link]
+[115] [ERROR retrieving ref link]
+[117] http://sepoa.fr/wp/wp-content/uploads/2012/06/2009-4.pdf
+[118] [ERROR retrieving ref link]
+[119] [ERROR retrieving ref link]
+[120] [ERROR retrieving ref link]
+[121] [ERROR retrieving ref link]
+[122] [ERROR retrieving ref link]
+[123] [ERROR retrieving ref link]
+[124] [ERROR retrieving ref link]
+[125] [ERROR retrieving ref link]
+[126] [ERROR retrieving ref link]
+[127] [ERROR retrieving ref link]
+[128] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[130] [ERROR retrieving ref link]
+[131] [ERROR retrieving ref link]
+[132] [ERROR retrieving ref link]
+[133] [ERROR retrieving ref link]
+[134] [ERROR retrieving ref link]
+[136] https://web.archive.org/web/20211026164324/https://cdli.ox.ac.uk/wiki/doku.php?id=sumerian:transliteration_and_the_diacritics
+[137] [ERROR retrieving ref link]
+[139] [ERROR retrieving ref link]
+[140] [ERROR retrieving ref link]
+[141] [ERROR retrieving ref link]
+[142] [ERROR retrieving ref link]
+[143] [ERROR retrieving ref link]
+[144] [ERROR retrieving ref link]
+[145] [ERROR retrieving ref link]
+[146] https://core.ac.uk/download/pdf/51326989.pdf
+[147] http://homepages.fh-giessen.de/kausen/wordtexte/Sumerisch.doc
+[149] http://www.assziriologia.hu/downloads/gzolyomiphd.pdf
+[150] http://cdli.ucla.edu/staff/johnson/Johnson_diss_2004.pdf
+[151] [ERROR retrieving ref link]
+[152] [ERROR retrieving ref link]
+[153] [ERROR retrieving ref link]
+[154] [ERROR retrieving ref link]
+[155] [ERROR retrieving ref link]
+[156] [ERROR retrieving ref link]
+[157] [ERROR retrieving ref link]
+[158] [ERROR retrieving ref link]
+[159] [ERROR retrieving ref link]
+[160] [ERROR retrieving ref link]
+[161] [ERROR retrieving ref link]
+[162] [ERROR retrieving ref link]
+[164] [ERROR retrieving ref link]
+[165] [ERROR retrieving ref link]
+[166] [ERROR retrieving ref link]
+[167] [ERROR retrieving ref link]
+[168] [ERROR retrieving ref link]
+[169] [ERROR retrieving ref link]
+[170] [ERROR retrieving ref link]
+[171] [ERROR retrieving ref link]
+[172] [ERROR retrieving ref link]
+[173] [ERROR retrieving ref link]
+[174] [ERROR retrieving ref link]
+[175] [ERROR retrieving ref link]
+[176] [ERROR retrieving ref link]
+[177] [ERROR retrieving ref link]
+[178] [ERROR retrieving ref link]
+[179] [ERROR retrieving ref link]
+[181] [ERROR retrieving ref link]
+[183] [ERROR retrieving ref link]
+[184] [ERROR retrieving ref link]
+[185] [ERROR retrieving ref link]
+[187] [ERROR retrieving ref link]
+[189] [ERROR retrieving ref link]
+[190] [ERROR retrieving ref link]
+[191] [ERROR retrieving ref link]
+[192] [ERROR retrieving ref link]
+[195] [ERROR retrieving ref link]
+[196] [ERROR retrieving ref link]
+[198] [ERROR retrieving ref link]
+[201] [ERROR retrieving ref link]
+[203] [ERROR retrieving ref link]
+[206] [ERROR retrieving ref link]
+[207] [ERROR retrieving ref link]
+[209] [ERROR retrieving ref link]
+[211] [ERROR retrieving ref link]
+[213] [ERROR retrieving ref link]
+[214] [ERROR retrieving ref link]
+[215] https://books.google.com/books?id=jQruCAAAQBAJ&pg=PA8
+[216] [ERROR retrieving ref link]
+[217] [ERROR retrieving ref link]
+[218] [ERROR retrieving ref link]
+[220] [ERROR retrieving ref link]
+[221] [ERROR retrieving ref link]
+[222] [ERROR retrieving ref link]
+[223] [ERROR retrieving ref link]
+[225] [ERROR retrieving ref link]
+[228] [ERROR retrieving ref link]
+[229] [ERROR retrieving ref link]
+[232] [ERROR retrieving ref link]
+[233] [ERROR retrieving ref link]
+[234] [ERROR retrieving ref link]
+[235] [ERROR retrieving ref link]
+[238] [ERROR retrieving ref link]
+[239] [ERROR retrieving ref link]
+[240] https://www.cairn.info/revue-d-assyriologie-2013-1-page-173.htm
+[241] [ERROR retrieving ref link]
+[242] [ERROR retrieving ref link]
+[244] [ERROR retrieving ref link]
+[245] [ERROR retrieving ref link]
+[246] [ERROR retrieving ref link]
+[247] [ERROR retrieving ref link]
+[248] [ERROR retrieving ref link]
+[249] [ERROR retrieving ref link]
+[250] [ERROR retrieving ref link]
+[251] [ERROR retrieving ref link]
+[252] [ERROR retrieving ref link]
+[253] [ERROR retrieving ref link]
+[254] [ERROR retrieving ref link]
+[255] [ERROR retrieving ref link]
+[256] [ERROR retrieving ref link]
+[257] [ERROR retrieving ref link]
+[258] [ERROR retrieving ref link]
+[259] [ERROR retrieving ref link]
+[260] [ERROR retrieving ref link]
+[261] [ERROR retrieving ref link]
+[262] [ERROR retrieving ref link]
+[263] [ERROR retrieving ref link]
+[264] [ERROR retrieving ref link]
+[265] [ERROR retrieving ref link]
+[266] [ERROR retrieving ref link]
+[267] [ERROR retrieving ref link]
+[268] [ERROR retrieving ref link]
+[269] [ERROR retrieving ref link]
+[270] [ERROR retrieving ref link]
+[271] [ERROR retrieving ref link]
+[273] [ERROR retrieving ref link]
+[274] https://books.google.com/books?id=ux--OWgWvBQC&q=sumerian+lexical+numeral&pg=PA247
+[275] [ERROR retrieving ref link]
+[276] [ERROR retrieving ref link]
+[277] [ERROR retrieving ref link]
+[280] [ERROR retrieving ref link]
+[281] https://books.google.com/books?id=ux--OWgWvBQC&q=sumerian+lexical+numeral&pg=PA247
+[282] https://books.google.com/books?id=ux--OWgWvBQC&q=sumerian+lexical+numeral&pg=PA247
+[283] [ERROR retrieving ref link]
+[284] [ERROR retrieving ref link]
+[285] [ERROR retrieving ref link]
+[286] [ERROR retrieving ref link]
+[287] [ERROR retrieving ref link]
+[288] [ERROR retrieving ref link]
+[289] [ERROR retrieving ref link]
+[290] [ERROR retrieving ref link]
+[292] [ERROR retrieving ref link]
+[293] http://psd.museum.upenn.edu/ppcs/MorphologyTable.html
+[294] [ERROR retrieving ref link]
+[295] [ERROR retrieving ref link]
+[296] [ERROR retrieving ref link]
+[297] [ERROR retrieving ref link]
+[298] [ERROR retrieving ref link]
+[299] [ERROR retrieving ref link]
+[300] [ERROR retrieving ref link]
+[301] [ERROR retrieving ref link]
+[302] [ERROR retrieving ref link]
+[303] [ERROR retrieving ref link]
+[304] [ERROR retrieving ref link]
+[305] [ERROR retrieving ref link]
+[306] [ERROR retrieving ref link]
+[307] [ERROR retrieving ref link]
+[308] [ERROR retrieving ref link]
+[309] [ERROR retrieving ref link]
+[310] [ERROR retrieving ref link]
+[311] [ERROR retrieving ref link]
+[312] [ERROR retrieving ref link]
+[313] [ERROR retrieving ref link]
+[314] [ERROR retrieving ref link]
+[315] [ERROR retrieving ref link]
+[316] [ERROR retrieving ref link]
+[317] [ERROR retrieving ref link]
+[318] [ERROR retrieving ref link]
+[319] [ERROR retrieving ref link]
+[320] [ERROR retrieving ref link]
+[321] [ERROR retrieving ref link]
+[322] [ERROR retrieving ref link]
+[323] [ERROR retrieving ref link]
+[324] [ERROR retrieving ref link]
+[325] [ERROR retrieving ref link]
+[326] [ERROR retrieving ref link]
+[327] [ERROR retrieving ref link]
+[328] [ERROR retrieving ref link]
+[329] [ERROR retrieving ref link]
+[330] [ERROR retrieving ref link]
+[331] [ERROR retrieving ref link]
+[332] [ERROR retrieving ref link]
+[333] [ERROR retrieving ref link]
+[334] [ERROR retrieving ref link]
+[335] [ERROR retrieving ref link]
+[336] [ERROR retrieving ref link]
+[338] [ERROR retrieving ref link]
+[339] [ERROR retrieving ref link]
+[340] [ERROR retrieving ref link]
+[341] [ERROR retrieving ref link]
+[342] [ERROR retrieving ref link]
+[343] [ERROR retrieving ref link]
+[344] [ERROR retrieving ref link]
+[345] [ERROR retrieving ref link]
+[346] [ERROR retrieving ref link]
+[347] [ERROR retrieving ref link]
+[348] [ERROR retrieving ref link]
+[349] [ERROR retrieving ref link]
+[350] [ERROR retrieving ref link]
+[352] [ERROR retrieving ref link]
+[353] [ERROR retrieving ref link]
+[354] [ERROR retrieving ref link]
+[355] [ERROR retrieving ref link]
+[356] [ERROR retrieving ref link]
+[357] [ERROR retrieving ref link]
+[358] [ERROR retrieving ref link]
+[359] [ERROR retrieving ref link]
+[360] [ERROR retrieving ref link]
+[361] [ERROR retrieving ref link]
+[363] [ERROR retrieving ref link]
+[364] [ERROR retrieving ref link]
+[365] [ERROR retrieving ref link]
+[366] [ERROR retrieving ref link]
+[367] [ERROR retrieving ref link]
+[369] [ERROR retrieving ref link]
+[370] [ERROR retrieving ref link]
+[371] [ERROR retrieving ref link]
+[372] [ERROR retrieving ref link]
+[373] [ERROR retrieving ref link]
+[374] [ERROR retrieving ref link]
+[375] [ERROR retrieving ref link]
+[376] [ERROR retrieving ref link]
+[377] [ERROR retrieving ref link]
+[378] [ERROR retrieving ref link]
+[379] [ERROR retrieving ref link]
+[380] [ERROR retrieving ref link]
+[381] [ERROR retrieving ref link]
+[382] [ERROR retrieving ref link]
+[383] [ERROR retrieving ref link]
+[384] [ERROR retrieving ref link]
+[385] [ERROR retrieving ref link]
+[386] [ERROR retrieving ref link]
+[388] [ERROR retrieving ref link]
+[389] [ERROR retrieving ref link]
+[390] [ERROR retrieving ref link]
+[391] [ERROR retrieving ref link]
+[392] [ERROR retrieving ref link]
+[394] [ERROR retrieving ref link]
+[395] [ERROR retrieving ref link]
+[396] [ERROR retrieving ref link]
+[397] [ERROR retrieving ref link]
+[399] [ERROR retrieving ref link]
+[401] [ERROR retrieving ref link]
+[402] [ERROR retrieving ref link]
+[403] [ERROR retrieving ref link]
+[405] [ERROR retrieving ref link]
+[406] [ERROR retrieving ref link]
+[408] [ERROR retrieving ref link]
+[409] [ERROR retrieving ref link]
+[411] [ERROR retrieving ref link]
+[413] [ERROR retrieving ref link]
+[416] [ERROR retrieving ref link]
+[419] [ERROR retrieving ref link]
+[420] [ERROR retrieving ref link]
+[422] [ERROR retrieving ref link]
+[423] http://www.assziriologia.hu/downloads/gz_structural_interference.pdf
+[424] [ERROR retrieving ref link]
+[425] [ERROR retrieving ref link]
+[426] [ERROR retrieving ref link]
+[427] [ERROR retrieving ref link]
+[428] [ERROR retrieving ref link]
+[429] [ERROR retrieving ref link]
+[430] [ERROR retrieving ref link]
+[432] [ERROR retrieving ref link]
+[433] [ERROR retrieving ref link]
+[434] [ERROR retrieving ref link]
+[435] [ERROR retrieving ref link]
+[436] [ERROR retrieving ref link]
+[437] [ERROR retrieving ref link]
+[438] [ERROR retrieving ref link]
+[439] [ERROR retrieving ref link]
+[440] [ERROR retrieving ref link]
+[441] [ERROR retrieving ref link]
+[442] [ERROR retrieving ref link]
+[443] [ERROR retrieving ref link]
+[445] [ERROR retrieving ref link]
+[446] [ERROR retrieving ref link]
+[447] [ERROR retrieving ref link]
+[448] [ERROR retrieving ref link]
+[449] [ERROR retrieving ref link]
+[450] [ERROR retrieving ref link]
+[451] [ERROR retrieving ref link]
+[453] [ERROR retrieving ref link]
+[454] [ERROR retrieving ref link]
+[455] [ERROR retrieving ref link]
+[459] [ERROR retrieving ref link]
+[461] [ERROR retrieving ref link]
+[463] [ERROR retrieving ref link]
+[465] [ERROR retrieving ref link]
+[466] [ERROR retrieving ref link]
+[467] [ERROR retrieving ref link]
+[468] [ERROR retrieving ref link]
+[469] [ERROR retrieving ref link]
+[470] [ERROR retrieving ref link]
+[471] [ERROR retrieving ref link]
+[472] [ERROR retrieving ref link]
+[473] [ERROR retrieving ref link]
+[474] [ERROR retrieving ref link]
+[475] [ERROR retrieving ref link]
+[478] [ERROR retrieving ref link]
+[480] [ERROR retrieving ref link]
+[481] [ERROR retrieving ref link]
+[482] [ERROR retrieving ref link]
+[483] [ERROR retrieving ref link]
+[485] [ERROR retrieving ref link]
+[486] [ERROR retrieving ref link]
+[488] [ERROR retrieving ref link]
+[493] [ERROR retrieving ref link]
+[496] [ERROR retrieving ref link]
+[497] [ERROR retrieving ref link]
+[498] [ERROR retrieving ref link]
+[499] [ERROR retrieving ref link]
+[500] [ERROR retrieving ref link]
+[501] [ERROR retrieving ref link]
+[502] [ERROR retrieving ref link]
+[504] [ERROR retrieving ref link]
+[505] [ERROR retrieving ref link]
+[506] [ERROR retrieving ref link]
+[507] [ERROR retrieving ref link]
+[508] [ERROR retrieving ref link]
+[509] [ERROR retrieving ref link]
+[510] [ERROR retrieving ref link]
+[511] [ERROR retrieving ref link]
+[513] [ERROR retrieving ref link]
+[514] [ERROR retrieving ref link]
+[515] [ERROR retrieving ref link]
+[516] [ERROR retrieving ref link]
+[517] [ERROR retrieving ref link]
+[518] [ERROR retrieving ref link]
+[519] [ERROR retrieving ref link]
+[520] [ERROR retrieving ref link]
+[521] [ERROR retrieving ref link]
+[522] [ERROR retrieving ref link]
+[523] http://oracc.museum.upenn.edu/epsd2/o0039914
+[524] [ERROR retrieving ref link]
+[525] [ERROR retrieving ref link]
+[526] [ERROR retrieving ref link]
+[527] [ERROR retrieving ref link]
+[528] [ERROR retrieving ref link]
+[529] [ERROR retrieving ref link]
+[530] [ERROR retrieving ref link]
+[531] [ERROR retrieving ref link]
+[532] [ERROR retrieving ref link]
+[533] [ERROR retrieving ref link]
+[534] [ERROR retrieving ref link]
+[535] [ERROR retrieving ref link]
+[536] [ERROR retrieving ref link]
+[537] [ERROR retrieving ref link]
+[539] [ERROR retrieving ref link]
+[540] [ERROR retrieving ref link]
+[541] [ERROR retrieving ref link]
+[542] [ERROR retrieving ref link]
+[543] [ERROR retrieving ref link]
+[544] [ERROR retrieving ref link]
+[545] [ERROR retrieving ref link]
+[546] [ERROR retrieving ref link]
+[547] [ERROR retrieving ref link]
+[548] https://www.academia.edu/7754972/The_final_person_prefixes_and_the_passive
+[549] https://www.academia.edu/618029/Voice_and_Topicalization_in_Sumerian
+[550] [ERROR retrieving ref link]
+[551] [ERROR retrieving ref link]
+[552] [ERROR retrieving ref link]
+[553] [ERROR retrieving ref link]
+[555] [ERROR retrieving ref link]
+[556] [ERROR retrieving ref link]
+[557] [ERROR retrieving ref link]
+[558] [ERROR retrieving ref link]
+[559] [ERROR retrieving ref link]
+[560] [ERROR retrieving ref link]
+[561] [ERROR retrieving ref link]
+[562] [ERROR retrieving ref link]
+[563] [ERROR retrieving ref link]
+[564] [ERROR retrieving ref link]
+[565] [ERROR retrieving ref link]
+[566] [ERROR retrieving ref link]
+[567] [ERROR retrieving ref link]
+[568] [ERROR retrieving ref link]
+[569] [ERROR retrieving ref link]
+[570] [ERROR retrieving ref link]
+[571] [ERROR retrieving ref link]
+[572] [ERROR retrieving ref link]
+[573] [ERROR retrieving ref link]
+[574] [ERROR retrieving ref link]
+[575] [ERROR retrieving ref link]
+[576] [ERROR retrieving ref link]
+[577] [ERROR retrieving ref link]
+[578] [ERROR retrieving ref link]
+[579] [ERROR retrieving ref link]
+[580] [ERROR retrieving ref link]
+[581] [ERROR retrieving ref link]
+[583] [ERROR retrieving ref link]
+[584] [ERROR retrieving ref link]
+[585] [ERROR retrieving ref link]
+[586] [ERROR retrieving ref link]
+[587] [ERROR retrieving ref link]
+[588] [ERROR retrieving ref link]
+[589] [ERROR retrieving ref link]
+[590] [ERROR retrieving ref link]
+[591] [ERROR retrieving ref link]
+[592] [ERROR retrieving ref link]
+[593] [ERROR retrieving ref link]
+[594] [ERROR retrieving ref link]
+[595] [ERROR retrieving ref link]
+[596] [ERROR retrieving ref link]
+[597] [ERROR retrieving ref link]
+[598] [ERROR retrieving ref link]
+[599] [ERROR retrieving ref link]
+[600] [ERROR retrieving ref link]
+[601] [ERROR retrieving ref link]
+[602] [ERROR retrieving ref link]
+[603] [ERROR retrieving ref link]
+[604] [ERROR retrieving ref link]
+[605] [ERROR retrieving ref link]
+[606] [ERROR retrieving ref link]
+[607] [ERROR retrieving ref link]
+[608] [ERROR retrieving ref link]
+[609] https://books.google.com/books?id=JqxnjTKaQvQC&pg=PA2
+[610] https://www.jstor.org/stable/592740
+[611] [ERROR retrieving ref link]
+[612] https://www.jstor.org/stable/pdf/592549.pdf
+[613] [ERROR retrieving ref link]
+[614] [ERROR retrieving ref link]
+[615] [ERROR retrieving ref link]
+[616] [ERROR retrieving ref link]
+[617] [ERROR retrieving ref link]
+[618] [ERROR retrieving ref link]
+[619] [ERROR retrieving ref link]
+[621] [ERROR retrieving ref link]
+[622] https://books.google.com/books?id=gaktTQ8vq28C&pg=PA1370
+[623] [ERROR retrieving ref link]
+[624] [ERROR retrieving ref link]
+[625] [ERROR retrieving ref link]
+[626] [ERROR retrieving ref link]
+[627] [ERROR retrieving ref link]
+[628] [ERROR retrieving ref link]
+[629] [ERROR retrieving ref link]
+[630] https://oracc.museum.upenn.edu/etcsri/parsing/index.html
+[631] [ERROR retrieving ref link]
+[632] [ERROR retrieving ref link]
+[633] [ERROR retrieving ref link]
+[634] [ERROR retrieving ref link]
+[635] [ERROR retrieving ref link]
+[636] https://cdli.ucla.edu/pubs/cdlp/cdlp0002_20160104.pdf
+[637] https://openaccess.leidenuniv.nl/bitstream/handle/1887/16107/Binnenwerk-jagersma.pdf?sequence=2
+[638] https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P222532
+[639] https://www.louvre.fr/en/oeuvre-notices/cone-enmetena-king-lagash

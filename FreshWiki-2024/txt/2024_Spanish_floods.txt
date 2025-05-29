@@ -1,0 +1,295 @@
+2024_Spanish_floods
+
+On 29 October 2024, torrential rain caused by an isolated low-pressure area at high levels brought over a year's worth of precipitation to several areas in eastern Spain, including the Valencian Community, Castilla–La Mancha, and Andalusia. The resulting floodwaters caused the deaths of 232 people, with three more missing and substantial property damage. It is one of the deadliest natural disasters in Spanish history.
+Though similar torrential rain events had happened in the past in the region, the flooding was more intense, likely due to the effects of climate change. The poor preparation and disaster response of the regional and national governments also likely aggravated the human cost of the event, notably in Valencia. After the flooding, thousands of volunteers from all around Spain and numerous nonprofit organizations mobilized to help with the cleanup and recovery.
+
+# Background
+
+Disastrous floods have been reported throughout the history of Valencia, from the 14th century up to the contemporary period. The 1957 Valencia flood was caused by a three-day cold drop (Spanish: gota fría) (which usually leads to heavy autumn rains in Spain and France); it overflowed the banks of the Túria river and devastated the city of Valencia [5]. The 1957 flood resulted in at least 81 fatalities. In response, the government of Francisco Franco initiated work on a "Southern Solution" (Spanish: Solución Sur), a giant canal to reroute the Túria River around the south of the city centre, three kilometres from its original course [6]. From 1964 to 1973, the Franco government built the new 12 kilometre long, 175 metre wide channel, capable of draining 5,000 cubic metres of water per second [6]. The Southern Solution was later revised from a hydraulic engineering project into a comprehensive Southern Plan (Spanish: Plan Sur) which also included roads, railways, and other urban development projects [6]. Since then, the Southern Plan has shielded the city centre, but did nothing to protect the rapidly growing towns to the south [6]. In 2008, a hydraulic infrastructure program was proposed to protect the southern towns, at a cost of about €200 million [7]. Very little of that program was ever implemented, leaving those towns vulnerable to severe flooding [7]. In September 2019, floods killed six people in Vega Baja del Segura. To respond to future floods, the Valencian government of Ximo Puig established the Valencian Emergencies Unit (Valencian: Unitat Valenciana d'Emergències; Spanish: Unidad Valenciana de Emergencias). After the 2023 Valencian regional election. The new Valencian government of Carlos Mazón shut down the unit, which it considered a "superfluous expense". On 25 October 2024, Spanish national agency AEMET meteorologist Juan Jesús González Alemán warned that the upcoming cold drop or DANA could become a high impact storm. This was initially ridiculed and described as "alarmism" on the social media platform X by climate change denialists. 
+
+# Environmental factors
+
+Four environmental factors combined to produce the devastation of the 2024 Spanish floods:. The first factor is that the urban area of the City of Valencia lies flat around a riverbed on an alluvial plain, which places it at high risk of flooding. When heavy rains coincide with a convective storm during which the sea level tends to rise, the drainage of water is hindered and flood risk is doubled. The areas where it rained the most have not been flooded, but those whose geography is more predisposed to accumulate water, like the peripheral municipalities, but not the well protected city centre, were quickly flooded. The second factor is the urbanisation of the coastal area. Impervious surfaces, such as roads and buildings,  impede water from penetrating the ground [12]. Water pools on level land,  and is further retained by the metre-high beach ridge . When runoff is prevented and water gathers, flash flooding results . Rising sea levels will further slow drainage time to days or even weeks . From 1997–2007 there was intense urbanisation of the area around the City of Valencia and coastal areas generally, with little regard for the growing danger of severe flooding due to climate change. . The third factor are the mountains of Valencia's interior. Blocked from entering the interior of Spain by the mountains, humid air from over the sea is forced up by the wind, where it cools, condensing its water vapour, which rapidly precipitates as rain, producing torrents that can quickly flood low lying areas . For example, the town of Oliva south of the City of Valencia has experienced 20 intense floods since 1972 . The fourth factor is that climate change had increased the destructive power of the storm in several ways. After the 2024 summer, the record high temperatures of the Mediterranean Sea and Atlantic Ocean caused unusually high levels of water evaporation, that precipitated with record intensity when it came into contact with high altitude cold air arriving from the north. It made the storm 2 times more likely and the rainfall 12% heavier. Increasing the flood risk, the hotter recent summers made the soil drier,  reducing the ground's ability to soak up water, which facilitates flash flooding [22]. Scientists suggest that climate change may also have caused the storm to move more slowly, creating more rainfall in the same place; the same is said about the central European storm "Boris". The warmer sea waters also increase wind speed during such storms [23]. The warming of the Arctic makes the jet stream weaker, which facilitated the movement of cold arctic air further south, as occurred in this instance, when a pocket of cold air from over Greenland penetrated the warm air mass over Spain [24]. When the cold air from the north meets the warm humid air from over the sea, it creates intense rainfall and strong winds. Climate change warming has also extended the season in which this DANA phenomena can occur: from only November, to anytime in the year. Climate Central extreme event attribution analysis indicates that the unprecedented intensity of the rainfalls were largely due to the rising temperature of the Atlantic Ocean. 
+
+# Flooding
+
+## In the Valencian Community
+
+Starting on 29 October 2024, a cold drop brought drastic flash flooding to southern and south-eastern Spain, primarily in the Valencia region. At 06:42, the State Meteorological Agency (AEMET) issued an orange weather warning for the south of Valencia [27]. Less than 20 minutes later, the port of Valencia announced it would be shutting down. At 07:36, the AEMET issued a red weather warning for the Valencian interior and upgraded its previous warning to the highest level [28]. By this time, the Plana d'Utiel was already receiving heavy rain. By 10:30, emergency services were rescuing people from their vehicles in Ribera [28]. At 11:30, the ravine in Chiva overflowed and flooded the municipality;  Chiva saw nearly 500 millimetres (20 in) of rainfall during the day [28]. At 11:45, emergency services alerted municipalities along the Magro River [27]. At 12:00, the Magro burst its banks in Utiel,  which recorded 200 mm (7.9 in) of rainfall [28]. Utiel mayor Ricardo Gabaldon reported water levels three meters high, leaving several trapped and others missing [29]. The University of Valencia, who had suspended classes the day before due to forecast of heavy rainfall and had set up an emergency committee years ago, decided to suspend at noon all teaching, administrative, research and cultural activities at all campuses and university facilities [30]. At 12:20, emergency services alerted municipalities along the Poyo ravine [31]. By the following hour, affected municipalities lost electricity and telephone services. At noon, the Provincial Deputation of Valencia  [es; ca] sent all of its workers home, citing the "very high risk to the population" of the cold drop [28]. By 14:00, all of its offices were closed. The Poyo ravine registered peaks of discharge of about 2,300 m3·s−1 in Paiporta [32]. At 13:00, Valencian President Carlos Mazón held a press conference to claim the storm would dissipate by 18:00. But by 17:35, emergency services were already issuing alerts regarding the overflow of the Magro and Júcar rivers. At 18:00, the town of Turís recorded 42 mm of precipitation in 10 minutes, and set the new Spanish record with 184.6 mm in one hour [28]. At 18:30, the Poyo burst its banks in Torrent and flooded downstream through several towns in Horta Sud [34] [35]. Many people died, while others sought refuge on the Autovía V-30  [es; ca] or in shopping centres. At 19:25, surging waters destroyed a bridge in Picanya. It was not until 20:11 that the Generalitat Valenciana issued an ES-alert cell phone warning, advising Valencian citizens to remain indoors [28]. At 20:36, the Spanish government's Military Emergencies Unit (UME) was requested in the Valencian Community. At 21:00, Mazón reappeared to declare the floods an "unprecedented situation" [28]. Around midnight on 30 October, Mazón's social media team deleted a tweet claiming the storm would dissipate [28]. The South Plan  [es; ca] is a new riverbed for the Turia built after the catastrophic 1957 flood, but it only protected the city proper of Valencia from major damage. In the ground zero town of Paiporta alone, 62 people died [7] [37] [33]. The floods eventually affected all population centers in Horta Sud and most in Camp de Túria and Requena-Utiel [38] [39]. 
+
+## Other regions
+
+In Andalusia, the storm caused landslides   and damage to buildings, roads, bridges and agricultural land [42] [43]. Several people had to be rescued by the Civil Guard [44] [45] [46]. Meteorologists predicted further storms would hit the regions on 31 October 2024 [47]. On 11 November 2024 it caused floods in Balanegra, Vícar, Roquetas de Mar, El Ejido, Aguadulce and El Parador, in the province of Almería,  where three people were rescued [48] [49]. On 13 November 2024 the province of Málaga was in red alert [50]. The Region of Murcia was also flooded, although to a lesser degree than other regions. Flooding also reached the Aragon provinces of Teruel and Zaragoza [52]. Several videos taken of flash flooding showed people holding on to trees to resist the flood's rapid flow, with 30 people in Letur, Castilla–La Mancha trapped by floodwaters. Two dead women and five missing people were reported in the municipality [54]. On 5 November, the death toll reached five [55]. On the night of 3 November 2024 streets in Martorell, Castelldefels and Gavà in Barcelona were flooded by rain. Sitges and Tarragona were also affected,   and Tarragona again on 13 November [57] [58] [59]. On the evening of 8 November, torrential rain caused flooding in Cadaqués and Girona [60]. 
+
+# Casualties and damage
+
+The floodwaters killed at least 232 people,  including 224 in the province of Valencia,  seven more in Castile–La Mancha  and one in Andalusia [66] [67]. According to AEMET chief climatologist José Ángel Núñez, most deaths occurred in localities with no rain [68] [69] [70]. A total of 78 municipalities registered at least one fatality [71]. A total of 36,605 people were rescued nationwide. Seventeen foreign nationals were among those killed. Half of the fatalities were aged over 60, while nine were children [73]. 65% of the fatalities were men [74]. Football player José Castillejo  [ca] and business executives Vicente Tarancón (Luanvi), Miguel Burdeos, José Luis Marín and Antonio Noblejas (Deloitte) were confirmed among the fatalities [75]. Initially, around 2,000 people were declared missing in Valencia as of 3 November,  generally based on calls to an emergency number regarding missing family members [80]. By 5 November, that number had decreased to 89  on 6 November then it increased to 93,   and on 11 November it decreased to 23 [81] [82] [83] [84]. Five more were missing in Castilla–La Mancha,  and five deaths [85] [55]. Among the missing were 16 members of Spain's Romanian community [56]. Many victims were trapped in their cars in underground garages due to the rapid rise in water levels [86]. The flooding significantly damaged buildings and infrastructure, derailing a high-speed train near Málaga but not injuring any of its nearly 300 passengers. The high-speed railway line linking Valencia to Madrid was cut, while  232 kilometers of rail and road links required repair [54]. Over 100,000 cars were damaged [72]. About 40,000 vehicles may be totalled since the damage and their age would not justify a repair. Across Valencia, 1,800 businesses were destroyed and 4,500 others were damaged [88]. The Insurance Compensation Consortium recorded at least 116,000 insurance claims for flood damage with a total value of at least 3.5 billion euros ($3.8 billion), with 60% of the claims for cars and 31% for homes [89]. Munich Re estimates the total damage to have been 10.7 billion euros ($11 billion) of which 4.1 billion euros ($4.2 billion) were insured [72]. 
+
+# Aftermath
+
+Spanish rail operator Administrador de Infraestructuras Ferroviarias is suspending all Valencia rail services until the situation normalizes. This included suspensions for high-speed rail services from Valencia to Madrid, and all commuter train services in Valencia [91]. Moreover, floods and subsequent crashes blocked parts of major highways Autovía A-3/E-901, Autovía A-7/E-15,  and other roads [92]. Metrovalencia suspended services, with the lines south of the city particularly badly affected [93]. It was expected that it would take months to restore normal service. Twelve flights were diverted from Valencia Airport due to heavy rainfall and winds, while 10 more arrivals and departures there were cancelled. [citation needed] At Málaga Airport, numerous flights were cancelled or rerouted on 29 October,  until normal services resumed on 30 October [97]. With the emergency number saturated by reported incidents, many people asked social media for help for themselves or family members. The Circuit Ricardo Tormo race track in Cheste, Valencian Community was used as a relief centre, but with access roads damaged [98]. The Valencia MotoGP scheduled on 17 November was cancelled, with organisers planning to hold the event at the Circuit de Barcelona-Catalunya in Montmeló, Barcelona [99] [100] [101]. The FIA Formula E Official Test and Women's Test, due on 4–7 November at the circuit, were postponed to 5–8 November at Circuito del Jarama in San Sebastián de los Reyes, Community of Madrid [102]. The Valencia municipal government suspended all sports and classes for 30 October. Football games in the Copa del Rey involving teams from the Valencia region on 30 October were postponed a week [106]. The Seville book fair was suspended on 29 and 30 October [107]. Five games in Valencia due on 2 and 3 November were postponed, including Valencia against Real Madrid [47]. Osasuna player Ante Budimir and Girona player Miguel Gutiérrez wore shirts carrying the caption "Be strong Valencia" during their respective La Liga matches on 2 November [108]. The Osasuna squad, which won 1–0 against Real Valladolid, said it dedicated their victory to the flood victims and coach Vicente Moreno, who is from the affected town of Massanassa. Starting the week of 5 November, a moment of silence was observed at all UEFA club matches for the victims of the floods [109]. The electric grid suffered serious damage, and natural gas distribution services were precautionarily suspended. The economic loss is expected to break the record of the 1983 Spanish floods [111]. Over 100 people were arrested for theft and looting in the aftermath of the floods. The Bank of Spain estimated that the floods could result in a 0.2% reduction in Spain's economic growth rate for the last quarter of 2024. 
+
+# Response
+
+## Valencian government
+
+The Mazón administration was criticised for its disaster response. Compromís spokesperson Àgueda Micó  [es; ca] held Mazón personally responsible for the deaths and "shirking his responsibilities". Mazón's People's Party's leader Alberto Núñez Feijóo defended him, instead blaming AEMET for failing to alert promptly [115]. However, AEMET's timeline of events contradicted Feijóo: it first issued a weather red alert at 07:31 for northern inland Valencia and extended the warning to southern Valencia at 07:36; however, at 13:00, Mazón spoke to the press where he downplayed the storm and claimed it would dissipate by 18:00 [116]. Several meteorologists said that Feijóo's blame of AEMET could engender distrust of the meteorological agency and further endanger people by delegitimising weather warnings [117]. Twenty Valencian civic organisations and trade unions also demanded Mazón's resignation [118]. The civil organisation "Justice for Valencia" opened a lawsuit against Mazón, as well as Emilio Argüeso and Salomé Pradas  [es], under the charges of reckless homicide [119]. The General Confederation of Labour (CGT) also requested that the Valencian prosecutor's office investigate Mazón for criminal negligence [120]. As of November, the Valencian government had not declared the situation a "catastrophic emergency", the maximum state of emergency available to a regional government, which would have made Mazón personally and legally responsible for managing the emergency response, thus keeping both political control at the regional level and legal blame to regional Minister of the Interior Salomé Pradas Ten  [es; ca],  who was dismissed by Mazón on 22 November [122]. [citation needed]. On 4 November, in an interview with Cadena COPE, Mazón blamed the Spanish government and commanders of the Military Emergencies Unit (UME) for mismanaging the response to the flooding. He claimed that, at 15:21 on 29 October, he had requested the intervention of the UME in Utiel and Requena, and that the Hydrographic Confederation, under the direction of Environment Minister Teresa Ribera, had suppressed the alerts. This was swiftly denied by the Confederation, which stated that the regional government is responsible for issuing any alerts. General Francisco Javier Marcos, the commander of the UME, also rejected Mazón's claims [123]. He stated that the UME had mobilised 1,000 soldiers on the day of the floods, but that it was subject to the orders of the regional government, which directed the emergency response. He said the moment the Valencian government gave the order, the UME deployed to affected zones within minutes. On 15 November, Mazón acknowledged failures in detection and warning systems but said that he would not step down from his post amid protests. On 20 November, Mazón appointed the retired military officer and former director of the Spanish Armed Forces Intelligence Center Francisco José Gan Pampols  [es] as the new Vice President of the Valencian Government for Reconstruction. 
+
+## Spanish government
+
+The Spanish government established a crisis committee to coordinate the national response to the disaster, with Prime Minister Pedro Sánchez publicly noting his monitoring of damage reports and missing persons updates. The Military Emergencies Unit deployed to Valencia to aid rescue efforts. Emergency responders needed helicopters to lift residents in Álora, Andalusia trapped by a nearby swollen river. King Felipe VI expressed his "desolation and concern at the tragedy" and "together with the Queen, we wish to send our condolences to all the families affected who have lost loved ones and who still do not know what happened to their relatives" and held a video conference with the Military Emergency Unit [91]. On 31 October, the King offered the Royal Guard and the Royal Household Security Service to the competent authorities to assist with the tragedy [127] [128]. Specifically, 195 royal guards and fifty civil guards with different specialties (divers, dog handlers and drone pilots, among others) were deployed [129]. Three days of mourning were declared nationwide, from 31 October to 2 November [130]. At the same time, over 30 October and 1 November, about 1,000 Spanish troops gradually deployed to the worst impacted areas [131]. During the first 48 hours of the response, the military rescued 4,800 people and provided aid to 30,000 more [30]. On 2 November, Sánchez deployed 10,000 troops of the Spanish Army to the Valencian Community, in the largest peacetime military deployment in Spanish history. On 4 November, opposition leader Alberto Núñez Feijóo called for prime minister Sánchez to declare a national state of emergency, which would involve the removal of the government of Carlos Mazón and the imposition of direct rule over the Valencian Community. On 5 November, the Sánchez government approved a decree to provide €10.6 billion (amounting to €60,000 per household) in fiscal aid to people affected by the floods [132]. On 29 November, Labour Minister Yolanda Díaz introduced a new system of "paid climate leave", which would allow workers to stay at home for up to four days during weather emergencies [133]. 
+
+## Other regional governments
+
+President of the Government of Catalonia Salvador Illa voiced "support and solidarity" to everyone affected. The Support Group for Special Operations  [ca] (GRAE) of the Corps of Firefighters of Catalonia was reportedly assembling in Terres de l'Ebre awaiting Valencian Government approval to help. On 30 October, GRAE once sent a medical team but was politically ordered back halfway, prompting GRAE members to decry Valencian regional president Carlos Mazón "prioritizing politics above rescuing and helping victims" but accepting firefighter help from the Community of Madrid and Asturias. On 1 November, after 48 hours of refusing Catalan aid, they were finally allowed in [135]. Navarre and other regional governments also sent numerous resources [136]. On 2 November it was reported that two Super Puma rescue helicopters from Andalusia were returned home after not being assigned any tasks for two whole days since deployed, with the Junta de Andalucía repeatedly asking the Valencian government to assign them duties [137] [138] [139]. 
+
+## Volunteers
+
+In the days after the flooding, without any government coordination, thousands of voluntary civilians self-organized to help affected towns; bringing supplies, including food and water, and helping clean up the mud and debris. As the Valencian government had not provided information for how to provide aid, and as police presence in the affected areas was minimal, volunteer groups were created autonomously to provide a response [142] [143] [144]. The Valencian government attempted to discourage volunteer activities due to the danger of using damaged infrastructure,  while emergency services requested that volunteers not use vehicles [143]. Minister of Health Mónica García advised volunteers to wear personal protective equipment and long clothes, in order to prevent infection by contaminated waters [143] [142]. Municipal governments in the affected areas themselves called for popular support from volunteers; in many towns affected by the floods, Valencian volunteers arrived before the Military Emergencies Unit (UME) or police [145]. Volunteers also set up and organized diverse websites to help finding missing people, ask for help or collaborate with others in better organization. On 1 November, the Mazón government announced the creation of a volunteer platform, in an attempt to centralise the volunteer response. Volunteers that attended the government-organised shifts reported "chaos" and "confusion" among the coordinators over the assignment of tasks and destinations; many volunteers disembarked their assigned buses and instead walked to the affected towns, returning to self-organisation [148]. Seven of the buses transported volunteers to clean up a shopping center, rather than any of the affected villages; the volunteers refused to disembark, with one volunteer saying "we refuse to clean a Zara, we are here to help people."  In response to orange weather warnings, on 3 November, the Valencian government imposed restrictions on freedom of movement, in particular setting the number of volunteers authorised to travel to Valencia’s southern suburbs to 2,000 and restricting access to 12 other localities;  volunteers disobeyed the restrictions and sought alternative routes to affected towns [149] [150] [151]. The restrictions coincided with the visit of the king and queen to the affected towns [156]. 
+
+## Protests
+
+King Felipe VI, Queen Letizia, Prime Minister Pedro Sánchez and Generalitat Valenciana President Carlos Mazón  visited the Valencia region to assess the damage and meet with those impacted on 3 November [154]. On arriving in Paiporta, the retinue, which also included Valencian president Mazón, was met with protests from the locals and volunteers, who hurled mud and chanted "murderers" [155]. People expressed frustration over the perceived absence of adequate warnings and support from officials following the floods,  while protesters urged Pedro Sánchez and Carlos Mazón to resign [156] [157] [159]. The King had broken his own security cordon to approach the residents and attempt to talk to them [159]. Among the people that Felipe spoke to were a young man wearing a Blue Division t-shirt    and another who, according to Valencian journalist Miquel Ramos  [es], is the leader of a local neo-Nazi group [160] [161] [162] [163]. Queen Letizia was also pelted with mud, after going over to talk to residents [161] [163]. Sánchez left the site shortly after, and official cars were vandalized [164]. Two bodyguards were injured [165]. A scheduled visit by the delegation later in the day to Chiva was cancelled. The prime minister later downplayed the attack as a "marginal act" and stated in a speech that: "the majority of the population wants a solution, commitments from the institutions, and what they want is to reject and marginalise any kind of violence that can be perpetrated" [167]. A volunteer of the far-right organization "Revuelta" claimed responsibility for the attack; the far-right party Vox offered its legal services to the attackers [168]. The Civil Guard subsequently opened an investigation into the involvement of far-right groups in the altercation [169]. Three men from the province without known far-right links were arrested [170]. On 9 November, a demonstration of 130,000 people in Valencia asked for Mazón to resign, criticizing his response to the emergency. The demonstration was organized by cultural groups and labour unions, and was described as "mostly peaceful" by the Spanish government. Four people were detained, and thirty-one police officers were wounded. Angry protesters were seen clashing with riot police in front of Valencia City Hall, while others waved signs and banners with messages such as "You killed us" and "Our hands are stained with mud, yours with blood" [172]. The king returned to the province on 12 November to check up on the Armed Forces' ongoing efforts to respond to the disaster  and on 19 November, the monarchs resumed the visit canceled two weeks earlier [174]. Accompanied by Mazón and minister Ángel Víctor Torres, the visit to Chiva went off peacefully [175]. 
+
+# Reaction
+
+## International
+
+Many governments sent their solidarity with the Valencian people, such as Argentina,  Brazil,  Chile,  China,  Cuba,   Germany,  Greece,  Ireland,  Italy,  Japan,  Mexico,  United Kingdom,  Ukraine  and Uruguay [177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190]. President Nayib Bukele of El Salvador offered 300 paramedics and 20 tons of supplies [191]. On 1 November, French Minister of the Interior Bruno Retailleau reportedly offered firefighters, but Spanish Minister of the Interior Fernando Grande-Marlaska rejected them because the Valencian regional government is still managing the crisis without escalating to the central government [192]. The Moroccan, Portuguese and Venezuelan governments also offered their help,    while the government of Equatorial Guinea approved aid to be sent to Spain "to help dealing with the tragic consequences" [193] [194] [195] [196] [197]. On 27 November, while Pedro Sánchez was addressing the Congress of Deputies,  Sky News published an investigation into the local authorities' handling of the emergency [199]. 
+
+## Climatologists
+
+German climatologist Friederike Otto of the Centre for Environmental Policy said climate change undoubtedly aggravated the heavy rain. Italian climatologist Stefano Materia also attributed the severity to climate change and called the current Mediterranean a "timebomb" [201]. 
+
+## Fundraisers
+
+Numerous Twitch streamers, such as AuronPlay and Ibai Llanos, made a charity fundraising to collect money for basic consumer goods and help the victims. Spanish role-playing server Marbella Vice II was reopened for the same purpose, to which streamers were invited to participate [203]. Espe in representation of the Queens League helped the association Damos Nuestra Ilusión,  while Elxokas and Reven sent food to people affected [204] [205]. TheGrefg did the same on Kick [206]. Several companies made donations to aid the victims. Real Madrid collected €1 million to help the victims,  while billionaire Amancio Ortega donated €4 million,  and Fundación La Caixa with more than five million [208] [209] [210]. On 4 November 2024, Fundación Amancio Ortega gave an additional $100 million [211]. In the case of Mercadona, alongside Consum,  it collaborated sending necessity goods with Cáritas and Bancos de Alimentos [212] [213]. 
+
+## Environmentalists
+
+In Edinburgh, Scotland, an environmentalist group defaced SUVs in the city with the message "These cars kill Valencians" and left photographs of flood victims on the cars' windscreens. The group held SUV drivers partially responsible for the deaths caused in the floods, stating that "If SUVs were a country they’d be the 5th biggest world polluter". 
+
+## European Parliament
+
+During her hearings for her commissioner’s role, the European People's Party questioned Teresa Ribera over the management of the disastrous flash floods in Valencia, accusing her of ignoring the needs to update, drain and improve the Rambla del Poyo as the head of the Ministry of Environment. Despite this initial opposition, her appointment was approved by European Parliament on 27 November 2024. [217]. 
+
+# References
+
+[1] [ERROR retrieving ref link]
+[2] https://www.lamoncloa.gob.es/info-dana/Paginas/2025/040125-datos-seguimiento-actuaciones-gobierno.aspx
+[3] https://www.independent.co.uk/news/world/europe/spain-floods-latest-valencia-map-rain-huelva-deaths-b2640194.html
+[4] https://www.theguardian.com/world/2024/nov/02/spain-floods-disaster-5000-more-troops-drafted-in-to-deal-with-aftermath
+[5] https://www.itv.com/news/2024-11-01/spain-floods-rescuers-search-for-missing-as-death-toll-hits-158
+[6] https://www.elespanol.com/historia/20241030/primera-gran-riada-historia-valencia-derribo-puentes-cientos-muertos/897410435_0.html
+[7] http://www.abc.es/hemeroteca/historico-13-08-2007/abc/Valencia/hasta-aqui-llego-la-riada_164364057827.html
+[8] https://www.wsj.com/world/europe/how-valencia-spain-flood-happened-347c9e25
+[9] https://www.eldiario.es/comunitat-valenciana/politica/unidad-valenciana-emergencias-servicio-coordinacion-mazon-suspendio-llegar-gobierno_1_11779165.html
+[10] https://www.eldiario.es/rastreador/experto-aemet-aviso-cinco-dias-peligro-suponia-dana-ridiculizado-redes-sociales_132_11778978.html
+[11] https://cadenaser.com/nacional/2024/10/30/farsante-los-insultos-que-recibio-un-experto-de-la-aemet-al-avisar-del-riesgo-de-esta-dana-cadena-ser/
+[12] https://valenciasecreta.com/en/history-geography-valencia-dana/
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[15] [ERROR retrieving ref link]
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[19] [ERROR retrieving ref link]
+[20] [ERROR retrieving ref link]
+[21] [ERROR retrieving ref link]
+[22] https://wmo.int/media/news/devastating-rainfall-hits-spain-yet-another-flood-related-disaster
+[23] https://www.bbc.com/news/articles/c62lkne32v9o
+[24] https://www.bbc.com/news/articles/c98eylqeg06o
+[25] https://www.sciencemediacentre.org/expert-reaction-to-flash-floods-in-south-eastern-spain/
+[26] https://theconversation.com/valencia-floods-our-warming-climate-is-making-once-rare-weather-more-common-and-more-destructive-242798
+[27] https://www.climatecentral.org/climate-shift-index-alert/ocean-csi-spain-floods
+[28] https://elpais.com/espana/comunidad-valenciana/2024-10-30/la-peor-gota-fria-del-siglo-devasta-valencia-con-victimas-mortales-desaparecidos-y-pueblos-anegados.html
+[29] https://www.eldiario.es/comunitat-valenciana/cronologia-alerta-llego-tarde-utiel-requena-inundan-pasar-despues-rio-abajo_1_11779079.html
+[30] https://www.euronews.com/2024/10/30/several-missing-in-spain-after-heavy-rain-causes-flooding
+[31] https://www.independent.co.uk/news/world/europe/spain-valencia-floods-flash-malaga-deaths-latest-b2638081.html
+[32] https://www.eldiario.es/comunitat-valenciana/val/l-avis-si-arribar-universitat-valencia-constituir-comite-crisi-per-suspendre-les-classes-dilluns_1_11787000.html
+[33] https://www.eldiario.es/comunitat-valenciana/diputacion-valencia-cerro-centros-trabajo-dana-seis-horas-aviso-personalizado-sms-poblacion_1_11781087.html
+[34] https://www.levante-emv.com/horta/2024/10/31/dana-en-valencia-el-efecto-embudo-y-el-brutal-caudal-de-la-rambla-del-poyo-claves-en-el-desastre-de-las-lluvias-torrenciales-110952711.html
+[35] https://www.levante-emv.com/comunitat-valenciana/2024/11/06/dana-valencia-lluvias-explosivas-record-solo-una-hora-espana-111434828.html
+[36] https://x.com/avamet/status/1854224209796374531
+[37] https://www.eldiario.es/comunitat-valenciana/mazon-borra-tuit-afirmaba-temporal-disminuiria-intensidad-18-00-horas_1_11779403.html
+[38] https://www.lasprovincias.es/comunitat/nuevo-cauce-turia-paso-valencia-imagen-nunca-20241030023414-nt.html
+[39] https://www.theguardian.com/world/2024/oct/31/it-was-a-trap-flood-alert-came-too-late-for-residents-of-paiporta-spain
+[40] https://apnews.com/article/flash-floods-spain-valencia-climate-change-what-to-know-f942142b82de24f5b4a18867bc32ae00
+[41] https://www.articulo14.es/espana-por-la-igualdad/comunidad-valenciana/se-confirma-la-tragedia-al-menos-13-muertos-por-la-dana-en-valencia-20241030.html
+[42] https://www.levante-emv.com/opinion/2024/10/30/alarma-sono-tarde-valencia-riada-temporal-muertos-tragedia-lluvia-dana-110875320.html
+[43] https://www.elespanol.com/malaga/malaga-ciudad/20241029/estragos-temporal-malaga-causa-fuerte-tormenta-desprendimientos-inundaciones-capital/897160601_0.html
+[44] https://www.diariosur.es/malaga/lluvias-torrenciales-inundaciones-malaga-imagenes-20241029121638-ga.html
+[45] https://elpais.com/espana/2024-10-29/las-fuertes-lluvias-provocan-importantes-danos-en-el-ejido-y-mas-de-200-incidencias-en-el-resto-de-andalucia.html
+[46] https://www.canalsur.es/noticias/andalucia/almeria/una-fuerte-tormenta-de-granizo-destroza-coches-y-arrasa-invernaderos-en-el-ejido/2093259.html
+[47] https://www.diariodealmeria.es/provincia/centenar-incidencias-temporal-lluvia-granizo_0_2002676669.html
+[48] https://www.abc.es/espana/andalucia/ultima-hora-alerta-lluvias-tormentas-dana-andalucia-20241030084921-dis.html
+[49] https://www.news10.com/news/international/ap-spanish-authorities-report-multiple-victims-from-flash-flooding/
+[50] https://www.diariodesevilla.es/andalucia/estragos-dana-almeria-videos-lluvias-inundaciones_0_2002770195.html
+[51] https://www.diariodealmeria.es/almeria/rescate-tres-personas-parador-causa_0_2002773374.html
+[52] https://www.elespanol.com/malaga/20241112/ultima-hora-nueva-dana-malaga-directo-provincia-prepara-lluvias-torrenciales-aviso-rojo/900759918_10.html
+[53] https://www.laverdad.es/murcia/dana-sustos-danos-20241030003819-nt.html
+[54] https://www.elmundo.es/aragon/2024/10/30/67221613e85eced91d8b457a.html
+[55] https://news.sky.com/story/amp/flash-floods-in-spain-leave-13-people-dead-as-british-couple-describe-mayhem-13244275
+[56] https://www.abc.es/sociedad/vecinos-letur-tras-tragedia-20241031160007-vi.html
+[57] https://elpais.com/espana/2024-11-05/ultima-hora-de-la-dana-en-directo.html
+[58] https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20241104/el-baix-llobregat-en-alerta-roja-las-lluvias-torrenciales-inundan-calles-de-martorell/898660139_0.html
+[59] https://www.elperiodico.com/es/sociedad/20241103/calles-inundadas-sitges-alerta-cataluna-lluvias-111320815
+[60] https://www.lavanguardia.com/local/tarragona/20241103/10074680/dana-provoca-inundaciones-sitges.html
+[61] https://www.ondacero.es/noticias/eltiempo/ultima-hora-dana-aemet-activa-alerta-roja-malaga-tarragona_202411136734639712e24a0001f34ccb.html
+[62] https://www.elespanol.com/espana/20241108/lluvias-torrenciales-inundan-cadaques-decenas-coches-arrastrados-sin-alerta-proteccion-civil/899660029_0.html
+[63] https://elpais.com/espana/comunidad-valenciana/2024-11-14/casi-la-mitad-de-las-216-victimas-mortales-de-la-dana-en-valencia-tenian-70-o-mas-anos.html
+[64] https://amp.rtve.es/noticias/20241114/datos-victimas-dana-valencia/16330827.shtml
+[65] https://elpais.com/espana/comunidad-valenciana/2024-11-14/casi-la-mitad-de-las-216-victimas-mortales-de-la-dana-en-valencia-tenian-70-o-mas-anos.html
+[66] https://www.lasprovincias.es/sucesos/hallan-paiporta-cadaver-desaparecido-tras-dana-20241212112527-nt.html?ref=https%3A%2F%2Fwww.lasprovincias.es%2Fsucesos%2Fhallan-paiporta-cadaver-desaparecido-tras-dana-20241212112527-nt.html
+[67] https://www.20minutos.es/noticia/5652095/0/ultima-hora-noticias-fallecidos-desaparecidos-dana-directo/
+[68] https://www.theguardian.com/world/2024/nov/04/spain-floods-military-unit-searches-car-parks-and-malls-amid-fears-death-toll-will-rise
+[69] https://www.ideal.es/andalucia/primer-fallecido-andalucia-consecuencia-inundaciones-20241030181350-nt.html
+[70] https://www.g24.gal/-/o-goberno-eleva-a-70-os-falecidos-pola-dina-e-decreta-tres-d%C3%ADas-de-loito-oficial
+[71] https://www.elconfidencial.com/espana/2024-10-30/dana-valencia-inundaciones-carreteras-cortadas_3993668/
+[72] https://www.eldiario.es/comunitat-valenciana/valencia/jose-angel-nunez-aemet-mayoria-personas-murieron-zonas-no-llovia-hay-reflexion_1_11781016.html
+[73] https://apnews.com/article/spain-floods-valencia-numbers-21fccd4a9eba4fada0745db0a5a0dd12
+[74] https://amp.rtve.es/noticias/20241114/datos-victimas-dana-valencia/16330827.shtml
+[75] https://www.levante-emv.com/comunitat-valenciana/2024/11/18/muertes-dana-valencia-victimas-mortales-equipos-buscan-11-desaparecidos-111811393.amp.html
+[76] https://elpais.com/espana/comunidad-valenciana/2024-11-14/casi-la-mitad-de-las-216-victimas-mortales-de-la-dana-en-valencia-tenian-70-o-mas-anos.html
+[77] https://www.infobae.com/america/agencias/2024/10/31/muere-jose-castillejo-canterano-del-valencia-cf-victima-de-la-dana/
+[78] https://www.antena3.com/noticias/sociedad/encuentran-cuerpos-vida-vicente-tarancon-miguel-burdeos-desaparecidos-dana_202411106730d2b239a16c0001a9a4d2.html
+[79] https://www.20minutos.es/noticia/5652705/0/confirman-muerte-propietario-colegio-mas-camarena-jose-luis-marin-desaparecido-tras-dana/
+[80] https://elpais.com/economia/2024-11-18/hallan-el-cuerpo-de-antonio-noblejas-el-cuarto-de-los-empresarios-valencianos-desaparecidos-por-la-dana.html
+[81] https://www.cadena3.com/noticia/rony-en-vivo/aumenta-a-216-el-numero-de-muertos-por-inundaciones-en-espana_399983
+[82] https://www.eldiario.es/comunitat-valenciana/acta-reunion-crisis-mazon-marlaska-1-900-desaparecidos-provisionales-riesgo-colapso-hospitales-valencia_1_11785052.html
+[83] https://www.reuters.com/world/europe/least-89-people-missing-floods-eastern-spain-court-authorities-say-2024-11-05/
+[84] https://www.elperiodico.com/es/sociedad/20241107/desaparecidos-dana-valencia-suben-111445442
+[85] https://www.lasprovincias.es/sociedad/desaparecidos-valencia-dana-ascienden-personas-20241106215441-ntrc.html
+[86] https://www.eleconomista.es/actualidad/noticias/13079557/11/24/dana-descienden-a-23-las-personas-desaparecidas-en-valencia.html
+[87] https://www.libertatea.ro/stiri/cinci-romani-dati-disparuti-in-inundatiile-din-spania-anunta-mae-5064586
+[88] https://www.elmundo.es/comunidad-valenciana/2024/11/04/6727a55afdddfff80e8b4570.html
+[89] https://www.expansion.com/empresas/motor/2024/11/05/672a182f468aeb2d228b45a3.html
+[90] https://news.sky.com/story/spain-floods-latest-valencia-rain-weather-live-13244547
+[91] https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2025/natural-disaster-figures-2024.html
+[92] https://www.france24.com/en/europe/20241030-several-bodies-found-as-heavy-rains-flash-floods-slam-spain
+[93] https://www.rtve.es/noticias/20241029/graves-inundaciones-por-dana-directo/16308850.shtml
+[94] https://x.com/DGTes/status/1851642298146189642
+[95] https://valenciaplaza.com/metrovalencia-tardara-meses-en-recuperar-la-conexion-con-los-municipios-del-sur
+[96] https://www.economiadigital.es/valencia/empresas/agua-mercadona-consum-dana-valencia.html
+[97] https://www.todoalicante.es/comunitat/supermercados-vacios-panico-nueva-dana-20241101085854-nt.html
+[98] https://www.abc.es/espana/andalucia/malaga/atascos-retrasos-vuelos-paso-dana-malaga-20241029092435-nts.html
+[99] https://elpais.com/videos/2024-10-29/personas-atrapadas-por-la-dana-piden-auxilio-por-redes-sociales-con-videos-y-mensajes-angustiosos.html
+[100] https://www.motorsport.com/motogp/news/motogp-committed-on-valencia-gp-but-focus-on-flooding-support-effort/10668388/
+[101] https://fiaformulae.com/en/news/512031
+[102] https://www.roadracingworld.com/news/motogp-valencia-facility-damaged-in-deadly-floods/
+[103] https://www.aljazeera.com/sports/2024/11/1/valencia-motogp-race-cancelled-due-to-deadly-flood-damage-in-spain
+[104] https://www.motorsport.com/formula-e/news/formula-e-jarama-pre-season-test-valencia-flooding/10668824/
+[105] https://fiaformulae.com/en/news/512188
+[106] https://racingnews365.com/formula-e-switches-testing-venue-after-deadly-flash-floods-strike-spain
+[107] https://www.abc.net.au/news/2024-10-30/over-95-dead-in-spain-flash-flooding-emergency/104539978
+[108] https://www.marca.com/futbol/copa-rey/2024/10/30/aplazado-pontevedra-levante-copa.html
+[109] https://as.com/futbol/oficial-el-valencia-real-madrid-aplazado-por-la-dana-n/
+[110] https://apnews.com/article/osasuna-floods-moreno-girona-spanish-league-42f0b65f8e4a48dbca248cbb26dd1411
+[111] https://supersport.com/golf/uefa-champions-league/news/ff9493d7-d6a6-4103-bafd-908fac6d613b/minute-s-silence-for-spain-before-uefa-matches
+[112] https://x.com/generalitat/status/1852018899945992503
+[113] https://www.bbc.com/news/live/ckmgmdxg254t?page=2
+[114] https://www.elmundo.es/comunidad-valenciana/2024/11/02/672681a7e4d4d864438b456f.html
+[115] https://www.france24.com/en/live-news/20241120-floods-to-shave-0-2-percentage-points-off-spain-s-growth
+[116] https://www.elperiodico.com/es/politica/20241031/compromis-carga-mazon-muertes-gestion-111010896
+[117] https://www.eldiario.es/politica/feijoo-sale-defensa-mazon-cuestiona-previsiones-aemet-dana_1_11780615.html
+[118] https://www.eldiario.es/rastreador/datos-aemet-desmienten-feijoo-primera-alerta-envio-7-36-martes_132_11781301.html
+[119] https://www.eldiario.es/sociedad/cientificos-advierten-cuestionar-aemet-hecho-feijoo-pone-peligro_1_11782595.html
+[120] https://www.elsaltodiario.com/valencia/convocan-manifestacion-mazon-dimision
+[121] https://directa.cat/la-demanda-penal-contra-carlos-mazon-apuntara-al-delicte-dhomicidi-imprudent/
+[122] https://directa.cat/cgt-denuncia-carlos-mazon-per-multiples-delictes-contra-els-drets-dels-treballadors/
+[123] https://elpais.com/espana/2024-11-02/la-generalitat-valenciana-no-ha-declarado-el-maximo-nivel-de-emergencia-que-permite-su-legislacion.html
+[124] https://www.eldiario.es/comunitat-valenciana/politica/mazon-cambia-estrategia-busca-confrontacion-sanchez-culpa-ahora-ume-confederacion-hidrografica-retraso_1_11789229.html
+[125] https://www.eldiario.es/politica/jefe-ume-desmiente-mazon-comunidad-autonoma-dirige-emergencia-decide_1_11790706.html
+[126] https://apnews.com/article/valencia-floods-spain-mazon-3b0cfbb67f5a8d8a9ba3696766c26d04
+[127] https://elpais.com/espana/2024-11-19/mazon-sorprende-con-el-fichaje-de-un-militar-en-la-reserva-para-la-vicepresidencia-de-la-reconstruccion.html
+[128] https://www.abc.es/espana/casa-rey-muestra-desolada-efectos-dana-pesame-20241030112218-nt.html
+[129] https://www.abc.es/sociedad/rey-reune-videconferencia-ume-zonas-afectadas-dana-20241030195707-vi.html
+[130] https://www.eldiario.es/sociedad/ultima-hora-dana-directo_6_11780269_1110263.html
+[131] https://www.europapress.es/nacional/noticia-total-195-guardias-reales-48-guardias-civiles-seguridad-rey-participan-operativo-dana-20241106191319.html
+[132] https://www.abc.es/espana/gobierno-decreta-luto-oficial-declarara-zona-altamente-20241030151836-nt.html?ref=https%3A%2F%2Fwww.abc.es%2Fespana%2Fgobierno-decreta-luto-oficial-declarara-zona-altamente-20241030151836-nt.html
+[133] https://www.eldiario.es/politica/feijoo-insiste-gobierno-declare-emergencia-nacional-dana-tome-mando-comunitat-valenciana_1_11790263.html
+[134] https://www.eldiario.es/economia/gobierno-despliega-importante-paquete-ayudas-directas-familias-empresas-afectadas-dana_1_11792666.html
+[135] https://www.theguardian.com/world/2024/nov/29/spain-paid-climate-leave-floods
+[136] https://naciodigital.cat/politica/mazon-va-rebutjar-ajut-unitat-elit-bombers-catalans-va-fer-tornar_2049971_102.html
+[137] https://www.rac1.cat/societat/20241101/210464/valencia-accepta-finalment-bombers-catalunya-vagin-ajudar-pobles-inundats.html
+[138] https://www.libertaddigital.com/madrid/2024-11-01/madrid-se-vuelca-con-valencia-estos-son-los-recursos-que-ayuso-y-almeida-han-enviado-por-ahora-7181282/
+[139] https://www.eldiario.es/asturias/asturias-ofrece-apoyo-unidades-canina-proteccion-civil-afectados-tragedia-dana_1_11782797.html
+[140] https://www.abc.es/sociedad/comunidades-vuelcan-zonas-afectadas-dana-enviando-ayudas-20241031091010-nt.html
+[141] https://www.eldiario.es/andalucia/helicopteros-comunitat-valenciana-pidio-andalucia-vuelven-dias-despues-no-asignarles-trabajo_1_11786630.html
+[142] https://www.diariosur.es/andalucia/dos-helicopteros-andalucia-mando-valencia-regresan-bases-sin-recibir-tareas-20241103104927-nt.html
+[143] https://www.lavanguardia.com/local/valencia/20241101/10070101/miles-valencianos-lanzan-calle-palas-alimentos-ayuda-damnificados.html
+[144] https://www.eldiario.es/comunitat-valenciana/valencia/sociedad-valenciana-autogestiona-asistir-afectados-falta-organizacion-generalitat_1_11785238.html
+[145] https://www.elmundo.es/comunidad-valenciana/2024/11/01/6724baa2fdddff88378b4574.html
+[146] https://elpais.com/sociedad/2024-11-03/recomendaciones-de-sanidad-tras-la-dana-desechar-alimentos-humedos-y-que-los-voluntarios-usen-mascarilla-guantes-y-ropa-larga.html
+[147] https://www.lavanguardia.com/andro4all/internet/como-funciona-la-pagina-web-para-encontrar-desaparecidos-por-la-dana
+[148] https://valenciaplaza.com/plataforma-online-grupo-voluntario-gestiona-peticiones-ayuda-afectados
+[149] https://www.eldiario.es/comunitat-valenciana/generalitat-centralizara-plataforma-voluntariado-organizacion-distribucion-voluntarios_1_11785378.html
+[150] https://www.eldiario.es/comunitat-valenciana/politica/generalitat-valenciana-comunica-cubierto-turnos-voluntarios-sabado_1_11786032.html
+[151] https://www.elsaltodiario.com/valencia/nos-hemos-negado-limpiar-un-zara-estamos-aqui-ayudar-gente
+[152] https://www.france24.com/en/europe/20241103-spanish-royals-set-to-visit-flood-hit-valencia-as-recovery-efforts-intensify
+[153] https://elpais.com/espana/comunidad-valenciana/2024-11-03/valencia-afronta-la-amenaza-de-mas-lluvia-mientras-se-esfuma-la-esperanza-de-encontrar-desaparecidos-con-vida.html
+[154] https://www.elsaltodiario.com/valencia/generalitat-prohibe-entrada-voluntarios-doce-municipios-afectados-dana
+[155] https://elpais.com/videos/2024-11-03/video-tension-en-paiporta-con-la-visita-de-felipe-vi-sanchez-y-mazon.html
+[156] https://www.france24.com/en/europe/20241103-spanish-royals-set-to-visit-flood-hit-valencia-as-recovery-efforts-intensify
+[157] https://www.eldiario.es/comunitat-valenciana/valencia/vecinos-vecinas-lanzan-fango-abuchean-reyes-felipe-letizia-paiporta-grito-asesinos_1_11787840.html
+[158] https://www.bbc.com/news/articles/c5ypgjg2jrpo
+[159] https://www.bbc.com/news/articles/c5ypgjg2jrpo
+[160] https://www.theguardian.com/world/2024/nov/03/residents-throw-mud-and-insults-at-spanish-king-on-visit-to-flood-hit-town
+[161] https://www.levante-emv.com/videos/comunitat-valenciana/2024/11/03/abucheos-autoridades-llegada-paiporta-111307119.html
+[162] https://www.elsaltodiario.com/valencia/paiporta-lanza-barro-al-rey-recibe-carlos-mazon-al-grito-asesino-asesino
+[163] https://elpais.com/espana/2024-11-04/el-gobierno-ve-a-la-ultraderecha-detras-de-los-incidentes-y-asegura-que-la-zarzuela-se-empeno-en-disenar-esta-visita-fallida.html
+[164] https://www.levante-emv.com/comunitat-valenciana/2024/11/03/dana-en-valencia-ataque-extrema-derecha-al-rey-y-pedro-sanchez-en-paiporta-111338691.html
+[165] https://www.elcomercio.es/sociedad/reina-letizia-manchada-barro-rompe-llorar-valencia-20241103140925-nt.html
+[166] https://x.com/TSJCV/status/1854156707003240711
+[167] https://apnews.com/article/spain-floods-king-protest-mud-a8525bd82cf4cc3fc6273d535cbb9d66
+[168] https://euroweeklynews.com/2024/11/03/violence-and-protests-in-paiporta-force-king-and-leaders-to-evacuate/
+[169] https://www.eldiario.es/politica/sanchez-no-desviar-pese-actos-absolutamente-marginales_1_11788180.html
+[170] https://www.eldiario.es/comunitat-valenciana/extrema-derecha-reivindica-ataque-pedro-sanchez_1_11788203.html
+[171] https://www.infobae.com/espana/2024/11/04/la-guardia-civil-investiga-si-grupos-de-ultraderecha-organizaron-el-ataque-a-pedro-sanchez-y-los-reyes-en-paiporta/
+[172] https://www.farodevigo.es/espana/2024/11/06/detenido-paiporta-disturbios-reyes-sanchez-mazon-111429863.html
+[173] https://www.rtve.es/noticias/20241109/valencia-manifestacion-pide-dimision-mazon-gestion-dana/16323642.shtml
+[174] https://www.theguardian.com/world/2024/nov/09/thousands-call-for-valencias-leader-to-resign-over-deadly-floods-response
+[175] https://elpais.com/espana/2024-11-12/el-rey-vuelve-a-valencia-solo-y-como-jefe-de-las-fuerzas-armadas.html
+[176] https://www.elmundo.es/espana/2024/11/19/673b3dc0fc6c83472e8b4593.html
+[177] https://www.france24.com/en/live-news/20241119-spain-royals-to-visit-flood-epicentre-after-chaotic-trip-media
+[178] https://www.infobae.com/politica/2024/10/31/el-gobierno-le-ofrecio-ayuda-humanitaria-a-espana-por-las-tragicas-inundaciones/
+[179] https://x.com/LulaOficial/status/1851634835548152150
+[180] https://x.com/GabrielBoric/status/1852045505053757636
+[181] https://x.com/ChinaEmbEsp/status/1852647086950392130?t=ySeoNDGfzcUbAFgPld-cXw&s=19
+[182] https://x.com/DiazCanelB/status/1851665260320624745
+[183] https://x.com/BrunoRguezP/status/1851643597726040470
+[184] https://www.eltriangle.eu/es/2024/10/30/los-principales-jefes-de-estado-europeos-se-solidarizan-con-espana-por-la-dana-y-ofrecen-su-apoyo/
+[185] https://x.com/PrimeministerGR/status/1851575114711609675
+[186] https://www.gov.ie/en/press-release/973b9-taoiseach-expresses-irelands-condolences-to-spanish-prime-minister/
+[187] https://www.infobae.com/america/agencias/2024/10/30/mattarella-y-meloni-muestran-su-cercania-al-pueblo-espanol-por-inundaciones-con-64-muertos/
+[188] https://x.com/shigeruishiba/status/1851949110695469520
+[189] https://lopezdoriga.com/internacional/apoyo-mexico-siempre-estar-ahi-sheinbaum-solidariza-espana-inundaciones/
+[190] https://x.com/Keir_Starmer/status/1852336915606900742
+[191] https://x.com/ZelenskyyUa/status/1851653062089159106
+[192] https://www.gub.uy/ministerio-relaciones-exteriores/embajada-republica-oriental-del-uruguay-espana/novedades-eventos/ante-situacion-emergencia-valencia
+[193] https://europeanconservative.com/articles/news/spain-storm-disaster-sanchez-faces-mounting-criticism-over-response/
+[194] https://www.elnacional.cat/es/politica/marlaska-rechaza-200-bomberos-ofrecidos-por-francia-por-dana_1310308_102.html
+[195] https://www.elmundo.es/espana/2024/11/01/6724e6a2e4d4d88f238b4587.html
+[196] https://www.swissinfo.ch/spa/marruecos-ofrece-a-espa%C3%B1a-ayuda-para-hacer-frente-a-las-inundaciones-en-valencia/87889583
+[197] https://www.eldiario.es/sociedad/portugal-ofrece-ayuda-necesaria-espana-ultimas-inundaciones_1_11776722.html
+[198] https://www.eluniversal.com.co/mundo/2024/11/01/maduro-ofrece-asistencia-a-espana-tras-devastadoras-inundaciones/
+[199] https://x.com/teonguema/status/1853529965305700475
+[200] https://www.reuters.com/world/europe/spain-announces-23-bln-euros-new-aid-valencia-after-floods-2024-11-27/
+[201] https://news.sky.com/story/why-were-we-not-warned-on-time-a-timeline-of-the-spanish-flood-disaster-13261188
+[202] https://www.theguardian.com/world/2024/oct/31/why-were-the-floods-in-spain-so-bad-a-visual-guide
+[203] https://www.theguardian.com/world/2024/oct/30/spain-deadly-floods-and-severe-droughts-are-two-faces-of-the-climate-change-coin
+[204] https://www.marca.com/videojuegos/streamers/2024/11/01/6724c7e0e2704e3e098b45a1.html
+[205] https://esports.as.com/bonus/influencers/Marbella-Vice-II-puertas-recaudar_0_1845115474.html
+[206] https://esports.as.com/bonus/kings-league/benefico-Espe-Queens-League-Americas_0_1845115472.html
+[207] https://esports.as.com/bonus/influencers/Grefg-Ibai-Xokas-Kings-League_0_1844815501.html
+[208] https://esports.as.com/bonus/influencers/directo-benefico-Grefg-primera-necesidad_0_1844815507.html
+[209] https://www.larazon.es/economia/empresas-vuelcan-victimas-dana-multiplican-sus-donaciones_202411046728cd912914190001eacae5.html
+[210] https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-dona-un-millon-de-euros-para-ayudar-a-las-victimas-de-la-dana-31-10-2024
+[211] https://www.ondacero.es/noticias/espana/fundacion-amancio-ortega-dona-100-millones-euros-afectados-dana_20241104672912f0d058410001ce7fcd.html
+[212] https://www.eleconomista.es/branded-content/noticias/13068885/11/24/la-fundacion-la-caixa-destina-mas-de-cinco-millones-a-los-afectados-por-la-dana.html
+[213] https://www.elconfidencial.com/empresas/2024-11-04/amancio-ortega-dona-100-millones-de-euros-a-los-afectados-por-la-dana_3996899/
+[214] https://www.hola.com/actualidad/20241104727846/juan-roig-mercadona-dana-valencia/
+[215] https://www.levante-emv.com/comunitat-valenciana/2024/11/02/mercadona-vuelca-donaciones-afectados-dana-111213171.html
+[216] https://www.levante-emv.com/comunitat-valenciana/2024/11/02/consum-colabora-generalitat-ayuntamientos-envio-111215798.html
+[217] https://www.theguardian.com/environment/2024/nov/04/edinburgh-activists-tyre-extinguishers-target-suvs-in-solidarity-with-spains-flood-victims
+[218] https://www.telemadrid.es/programas/telenoticias-1/El-ministerio-de-Ribera-freno-la-reforma-del-barranco-del-Poyo-en-2020-2-2724347557--20241112030641.amp.html

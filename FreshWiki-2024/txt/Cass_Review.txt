@@ -1,0 +1,384 @@
+Cass_Review
+
+The Independent Review of Gender Identity Services for Children and Young People (commonly, the Cass Review) was commissioned in 2020 by NHS England and NHS Improvement and led by Hilary Cass, a retired consultant paediatrician and the former president of the Royal College of Paediatrics and Child Health. It dealt with gender services for children and young people, including those with gender dysphoria and those identifying as transgender in England.
+The final report was published on 10 April 2024, and it was endorsed by both the Conservative and Labour parties though LGBT+ Labour criticized it. The Green Party initially supported the review but ceased following condemnation from LGBTQ members. The review's recommendations have been widely welcomed by UK medical organisations. However, it has been criticised by a number of medical organisations and academic groups outside of the UK and internationally for its methodology and findings. Following high profile media coverage, Cass expressed concern that misinformation about the review had spread online and elsewhere.
+The review led to a UK ban on prescribing puberty blockers to those under 18 experiencing gender dysphoria (with the exception of existing patients or those in a clinical trial). The Gender Identity Development Service (GIDS) at the Tavistock and Portman NHS Foundation Trust was closed in March 2024 and replaced in April with two new services, which are intended to be the first of eight regional centres. In August, the pathway by which patients are referred to gender clinics was revised and a review of adult services commissioned. In September, the Scottish government accepted the findings of a multidisciplinary team that NHS Scotland had set up to consider how the Cass Review's recommendations could best apply there. In England a delayed clinical trial into puberty blockers is planned for early 2025.
+
+# Background
+
+The Gender Identity Development Service (GIDS) was the specialist clinic nationally commissioned by NHS England to provide care to transgender and gender diverse children, including those with gender dysphoria. In the years leading up to the Cass Review, several GIDS staff members voiced concerns over the evidence base for the treatments being given and the extent of prior assessment. At the same time, professional disagreements over the strength of evidence for treatments provided to children and young people, such as puberty blockers, was growing [22] [23] [24]. The case of Bell v Tavistock also explored issues of informed consent [25] [26]. Several systematic reviews had found the evidence base supporting these treatments to be poor,    and European countries, such as Finland and Sweden, limited the use of puberty blockers and other hormone treatments for this patient cohort, citing a lack of evidence supporting their use [27] [28] [29] [30] [31] [32]. In January 2021, the Care Quality Commission (CQC) gave GIDS an "inadequate" rating (the lowest one possible) [97] [34] [35]. These issues led to GIDS becoming controversial and gaining extensive news coverage [36] [37]. The Cass Review was commissioned by NHS England in September 2020, following a significant increase in referrals to the Gender Identity Development Service [a] and a shift in the service from a psychosocial and psychotherapeutic model to one that included hormonal treatment. [b] [c] Hilary Cass, a former president of the Royal College of Paediatrics and Child Health (RCPCH), was asked by NHS England and NHS Improvement's Quality and Innovation Committee to chair an independent review with the aim of improving gender identity services for children and young people. The Cass Review's final report stated the concerns which led to its creation included very long waiting lists, of over two years per patient; an "exponential" increase in the number of children and young people requesting gender-affirming care from the NHS; a change towards earlier medical treatment in this patient cohort; [d] and concerns that there was insufficient evidence to justify the treatments being given . [e]. 
+
+# Methodology
+
+The Cass Review was a non-peer-reviewed, independent service review which made policy recommendations for services offered to transgender and gender-expansive youth for gender dysphoria in the NHS. [f]  To assist its decision-making,  the Cass Review commissioned a series of several peer-reviewed,  independent  systematic reviews that looked into different areas of healthcare for children and young people with distress related to gender identity,   supplemented by qualitative and quantitative research into the treatment and experiences of young people with gender dysphoria and their health outcomes [52] [55]. A single search strategy was used for all reviews, with an initial search in May 2021, updated in April 2022 [52] [57]. The research programme was carried out by the University of York's Centre for Reviews and Dissemination, [g] and was published in Archives of Disease in Childhood [74]. The reviews examined English-language studies of minors, [h] excluding case studies, and the quality of studies was assessed using the Mixed Methods Appraisal Tool and a modified version of the Newcastle–Ottawa scale,   though certainty-of-evidence ratings were not provided for individual outcomes [60] [61] [64]. The systematic reviews covered: [50]. The review supplemented   the evidence with an engagement programme which included listening sessions and focus groups with service users and parents, and meeting with advocacy groups [75] [76]. 
+
+# Interim report
+
+The interim report of the Cass Review was published in March 2022. It said the rise in referrals had led to staff being overwhelmed, and recommended the creation of a network of regional hubs to provide care and support to young people. The report said the clinical approach used by the Gender Identity Development Service (GIDS) "has not been subjected to some of the usual control measures" typically applied with new treatments, and raised concerns about the lack of data collection by GIDS. While most children referred to GIDS did not receive endocrine treatment, there was insufficient detail provided about their broader needs when they did [78] [79] [80]. The report said that while the GIDS approach to hormone interventions was initially based on the Dutch protocol, there were "significant differences" in the current NHS approach. For example, the report said there were no clear guidelines for when to provide psychological support before or instead of medical treatment, endocrinologists administering puberty blockers did not attend multidisciplinary meetings, and there was insufficient capacity to increase (or even maintain) appointments once adolescents received puberty blockers [82]. The interim report said GPs and other non-GIDS staff felt "under pressure to adopt an unquestioning affirmative approach" to children unsure of their gender. The report also said that diagnosis of gender-related distress sometimes led to "diagnostic overshadowing", where comorbidities such as poor mental health – which were usually managed by local services – were overlooked. The report suggested that long wait times to access GIDS had resulted in increased distress for patients and their families, as well as less time for exploration – since patients arrived having already begun social transition and with expectations of a rapid assessment process . In response, the Tavistock and Portman NHS Foundation Trust said "being respectful of someone's identity does not preclude exploration", and that it agreed "support should be holistic, based on the best available evidence" without making assumptions about "the right outcome for any given young person" . The interim report further said there were "gaps in the evidence" over the use of puberty blockers. A public consultation was held and a further review of evidence by NICE said there was "not enough evidence to support the safety or clinical effectiveness of puberty suppressing hormones to make the treatment routinely available at this time". Subsequently, NHS England stopped prescribing them to children. In April 2022, Health Secretary Sajid Javid told MPs that services in this area were too affirmative and narrow, and "bordering on ideological". In November 2022, the World Professional Association for Transgender Health (WPATH) – along with regional groups ASIAPATH, EPATH, PATHA, and USPATH – issued a statement criticising the NHS England interim service specifications based on the interim report . It contested several points in the report, including the pathologising of gender diversity, the making of "outdated" assumptions regarding the nature of transgender individuals, "ignoring" newer evidence regarding such matters, and making calls for an "unconscionable degree of medical and state intrusion" into everyday matters such as pronouns and clothing choice, as well as into access to gender-affirming care. It further said that "the denial of gender-affirming treatment under the guise of 'exploratory therapy' is tantamount to 'conversion' or 'reparative' therapy under another name". 
+
+# Final report
+
+The final report of the Cass Review was published on 10 April 2024, alongside a series of systematic reviews and a survey carried out by the University of York, encompassing the patient cohort, service pathways, international guidelines, social transitioning, puberty blockers, hormone treatments, and  psychosocial treatments. 
+
+## Findings
+
+### Lack of research
+
+The report states that the existing evidence for both endocrine (puberty blockers and hormone therapy) and non-endocrine treatments (psychosocial interventions) in children and adolescents with gender incongruence is weak. [i]. 
+
+### Increase in referrals
+
+The report found no clear explanation for the rise in the number of children and adolescents with gender dysphoria, but said there was broad agreement for attribution to a mix of biological and psychosocial factors. The report's suggested influences included a lower threshold for medical treatment, social media-related mental health consequences, abuse, access to information regarding gender dysphoria, struggles with emerging sexual orientation, and early exposure to online pornography. The report considered a rise in acceptance of transgender identities to be insufficient to explain the increase on its own. 
+
+### Social transition
+
+A systematic review evaluated 11 studies assessing the outcomes of social transition in minors using a modified version of the Newcastle-Ottawa scale and considered nine to be low quality and two to be moderate quality. The report said that insufficient evidence was available to assess whether social transition in childhood has positive or negative effects on mental health, and that there was weak evidence for efficacy in adolescence [64] [68]. It also said that sex of rearing seems to influence gender identity, and suggested that early social transition may "change the trajectory" of gender identity development in children. The report said that although social transition was not usually seen as a treatment, it should be considered an "active intervention". It suggests taking "a more cautious approach" for social transition for children than for adolescents, and said pre-pubertal children undergoing social transition should be seen "as early as possible" by an experienced clinician. 
+
+### Puberty blockers
+
+The report said the evidence base and rationale for early puberty suppression remains unclear, with unknown effects on cognitive and psychosexual development. A systematic review examined 50 studies on the use of puberty blockers using a modified version of the Newcastle–Ottawa scale and rated one as high quality, 25 as moderate quality, and 24 as low quality. The review concluded that the lack of evidence means no conclusions can be made regarding the impact on gender dysphoria and mental health, but did find evidence of bone health being compromised during treatment [70]. The review suggested puberty blockers did not provide children and young people with "time to think", since nearly all patients who went on blockers later proceeded with hormone therapy. For youth assigned male at birth, the report states that blockers taken too early can make a later penile inversion vaginoplasty more difficult due to insufficient penile growth [70]. The report states one of the benefits of puberty blockers is preventing the irreversible changes of a lower voice and facial hair . 
+
+### Hormone therapy
+
+The report said many unknowns remained for the use of hormone treatment among under-18s, despite longstanding use among transgender adults, with poor long-term follow-up data and outcome information on those starting younger. A systematic review evaluated 53 studies on transgender hormone therapy using a modified version of the Newcastle-Ottawa scale, and rated one study as high quality, 33 as moderate quality and 19 as low quality. Overall, the review found some evidence that hormone treatment improves psychological outcomes after 12 months, but found insufficient evidence regarding physical benefits and risks. The review said hormone therapy should be available from 16 years old, but that there should be a "clear clinical rationale" for the prescription of hormone therapy for anyone under 18. 
+
+### Psychosocial intervention
+
+A systematic review assessed ten studies on the efficacy of psychosocial support interventions in transgender minors using the Mixed Methods Appraisal Tool and rated one as medium quality, and nine as low quality. The review said that no robust conclusions can be made and more research is needed. The report said the evidence for psychosocial interventions was "as weak as research on endocrine treatment". It recommended that psychosocial interventions also form part of a research programme, along with endocrine interventions . 
+
+### Clinical pathways
+
+The report said that clinicians cannot be certain which children and young people will have an enduring trans identity in adulthood, and that for most, a medical pathway will not be the most appropriate. When a medical pathway is clinically indicated, wider mental health or psychosocial issues should also be addressed. Due to a lack of follow-up, the number of individuals who detransitioned after hormone treatment was unknown. The Cass Review attempted to work with the Gender Identity Development Service and the NHS adult gender services to "fill some of the gaps in follow-up data for the approximately 9,000 young people who have been through GIDS to develop a stronger evidence base." However, despite encouragement from NHS England, "the necessary cooperation was not forthcoming." [110]. 
+
+### International guidelines
+
+A systematic review assessed 23 regional, national and international guidelines covering key areas of practice, such as care principles, assessment methods and medical interventions. The review said most guidelines lacked editorial independence and developmental rigour, and were nearly all influenced by the 2009 Endocrine Society guideline and the 2012 WPATH guideline, which were themselves closely linked. The Cass review questioned the guidelines' reliability, and concluded that no single international guideline regarding transgender care could be applied in its entirety to NHS England. 
+
+### Conflicting clinical views
+
+The report said there were conflicting views among clinicians regarding appropriate treatment. It suggested that disputes over language such as "exploratory" [j] and "affirmative" [k] approaches meant it was difficult to establish neutral terminology. Some clinicians avoided working with gender-questioning young people. The report said some professionals were concerned about being accused of conversion therapy, and were likewise concerned about the impact of legislation to ban conversion therapy [114]. 
+
+## Recommendations
+
+The report made 32 recommendations covering areas including assessment of children and young people, diagnosis, psychological interventions, social transition, improving the evidence base underpinning medical and non-medical interventions, puberty blockers and hormone treatments, service improvements, education and training, clinical pathways, detransition and private provision. Recommendations included:. 
+
+## Implementation
+
+NHS England responded positively to the interim and final reports. As of April 2024 [update] they have implemented a number of measures. In response to the interim report, in March 2024 NHS England announced that it would no longer prescribe puberty blockers to minors outside of use in clinical research trials, citing insufficient evidence of safety or clinical effectiveness [18]. GIDS closed in March 2024,  being replaced by the new NHS Children and Young People's Gender Services [18]. Two new services, located in the north-west of England and in London, opened in April 2024, and are intended to be the first of up to eight regional services . These will follow a new service specification for the "assessment, diagnosis and treatment of children and young people presenting with gender incongruence" [18]. Puberty suppressing hormones are no longer routinely available in NHS youth gender services [18]. New patients that have been assessed as possibly benefiting from them will be required to participate in a clinical trial that is being set up by the National Institute for Health and Care Research [18]. A new board, chaired by Simon Wessely will encourage further research in the areas highlighted in the review as having a weak evidence base [55]. On August 7, 2024, NHS England announced a status update, for young people being considered for referral to specialist gender services, including the publication of a new pathway specification. One recommendation is that those considering social transition be seen quickly by a clinical professional with relevant experience . The update also stated that, as there is no defined clinical pathway for individuals considering detransition, NHS England will "establish a programme of work to explore the issues around a detransition pathway by October 2024". The clinical trial on puberty blockers for children and young people was due to start late 2024, but is now delayed to early 2025. 
+
+# Reception
+
+## Response from UK political parties and public bodies
+
+Conservative Prime Minister at the time Rishi Sunak said that the findings "shine a spotlight" on the need for a cautious approach to child and adolescent gender care. In their manifesto for the 2024 United Kingdom general election, the Conservatives promised to implement the Cass Review recommendations . Wes Streeting, the Labour shadow Health Secretary at the time, welcomed the final report, saying it was "a watershed moment for the NHS's gender identity services". Both Streeting and then Shadow Home Secretary Yvette Cooper said Labour would implement the report's recommendations in full. In its statement, LGBT+ Labour urged their party to "exercise caution in responding to the review", saying that while it got things right, it had "received credible criticism from trans advocacy groups and researchers" [143] [144] [145] [146]. In April 2024, the Green Party of England and Wales released a statement on the review. This was withdrawn an hour later, after the LGBTIQA+ Greens threatened to remove support for their party's leaders. The withdrawal was criticised by gender-critical members. The Equality and Human Rights Commission, a non-departmental public body, described the Cass Review as a "vital milestone" and called for all service providers to fully implement its recommendations. 
+
+## Response from devolved governments
+
+The Scottish Government said it would "take the time to consider the findings" of the review. Humza Yousaf, First Minister of Scotland and Scottish National Party (SNP) leader at the time, said the review would be given "utmost consideration", that "all recommendations" made by it would be considered, and that decisions on changes to treatments as a result of the review would be made by clinicians rather than politicians [150]. The Scottish Greens, then a part of the Scottish Government, criticised the review at its initial publication. Patrick Harvie, co-leader of the Scottish Greens, said he'd seen "far too many criticisms" of the review for him to say it was a "valid scientific document" [153]. Harvie's comments were controversial and widely critcised,    and the resulting tension with the SNP has been cited as a factor in the collapse of the Bute House Agreement. [154] [155] [156] [157] [158] [155]. The Welsh Senedd initially voted against a motion tabled by the Welsh Conservatives Shadow Social Justice Minister to accept the findings of the Cass Review in full. Subsequently, the Senedd voted unanimously to pass an amended motion noting "NHS England has concluded there is not enough evidence to support the safety or clinical effectiveness of puberty suppressing hormones for the treatment of gender dysphoria in children and young people" and "the Welsh Government will continue to develop the transgender guidance for schools taking account of the Cass review and stakeholder views". Citing the Cass Review findings, in August 2024 the Northern Ireland Executive agreed to the extension of the ban on the private sale and supply of puberty blockers to Northern Ireland. This was supported by all parties in the Executive at the time apart from the Alliance Party [160]. 
+
+## Response from health bodies in the United Kingdom
+
+In April 2024, the British Psychological Society (BPS) said they supported "the report's primary focus of expanding service capacity across the country" and acknowledged that "while psychological therapies will continue to have an incredibly important role to play in the new services, more needs to be done to assess the effectiveness of these psychological interventions." BPS president Roman Raczka said the review was "thorough and sensitive", and welcomed the recommendation for a consortium of relevant bodies to develop better trainings and upskill the workforce. The Royal College of Psychiatrists (RCP) welcomed the report. They supported the emphasis on a holistic and person-centred approach and research to improve the evidence basis for treatment protocols. They said that some of its trans members, and the wider trans community, had concerns about availability of treatments while awaiting research, said there was "a strong view that the report makes assumptions in areas such as social transition and possible explanations for the increase in the numbers of people who have a trans or gender diverse identity, which contrasts with the more decisive statements about treatment approaches", and called for direct and comprehensive involvement of those with lived experience. The Royal College of Paediatrics and Child Health (RCPCH) said they would take the time to review the recommendations in full and said that data collected had identified a lack of confidence by paediatricians and GPs to support this patient group, which the RCPCH pledged to address by developing new training. In August 2024, the RCPCH acknowledged there had been some academic criticism of the Cass Review and a call to pause the implementation of recommendations, but that "pausing the implementation of the Cass report recommendations would be a backwards step for Gender Identity Services, as this will again delay care and therefore risks causing further harm to this patient population" [6]. They stated they were engaged with NHS England and as a part of this would "encourage NHSE to consider emerging criticisms of any chosen approach, as would be the case in the delivery of any other children's health service." [162]. In July 2024, the Royal College of General Practitioners updated its position statement on the role of the GP in transgender care in response to the Cass Review. They advise that, for patients under 18, GPs should not prescribe puberty blockers outside of clinical trials, and the prescription of gender-affirming hormones should be left to specialists. The GCGP says it will fully implement the Cass Review recommendations. They specifically highlight recommendations for continuity of care for 17–25 year olds, and the need for additional services for those people considering detransition. The Academy of Medical Royal Colleges (AoMRC) released a statement in August 2024 in support of the report's recommendations, stating that "further speculative work risks greater polarisation", and that "our focus should be on implementing the recommendations of the Cass Review". The British Medical Association (BMA) initially called for a pause on the review's implementation while it conducted an evaluation, due to be completed by January 2025. In response, more than 1,500 doctors signed an open letter to the BMA characterising their planned evaluation as a "pointless exercise" [13]. In September 2024, the BMA council voted to instead maintain a neutral position on the issue until the completion of its own evaluation [163] [164]. In April 2024, the British Association of Gender Identity Specialists (BAGIS) said it was "deeply troubled by some of the content of the Cass Review and the potential impact thereof". In December 2024, BAGIS also said it was "dismayed" to see the Department for Health and Social Care's "indefinite ban" on puberty blockers for under-18s, stating: "The Cass Review finds that puberty blockers have clearly defined benefits in narrow circumstances, which is inconsistent with a legislative ban". In July 2024, the UK's Association of LGBTQ+ Doctors and Dentists (GLADD) criticized the British Medical Journal's coverage of the Cass Review, stating that some recommendations could be beneficial while others could create new barriers to care for transgender youth and criticizing "The weaponisation of the Cass review against trans people" by political parties and campaigners. In October, GLADD released an official response to the review, stating they were broadly supportive of its recommendations but "concerned with what we believe to be an ingrained bias against the autonomy of trans people throughout the narrative text" which had also been noted by others [168]. Of the 32 recommendations of the Cass Review, GLADD supported 15, and said that it could support a further 14 with provisos, could not support two, and was neutral on one. 
+
+## Response from other health bodies globally
+
+The American Academy of Pediatrics and the Endocrine Society both responded to the report by reaffirming their support for gender-affirming care for minors and saying that their current policies supporting such treatments are "grounded in evidence and science". The Endocrine Society said the Review "does not contain any new research that would contradict the recommendations made in our Clinical Practice Guideline on gender-affirming care" and concluded "Banning evidence-based medical care based on misinformation takes away the ability of parents and patients to make informed decisions." [170]. The American Psychological Association stated they were studying the Cass report but "stand by" their position statement in support of gender-affirming care [170]. The Canadian Pediatric Society said, "Current evidence shows puberty blockers to be safe when used appropriately, and they remain an option to be considered within a wider view of the patient's mental and psychosocial health."  Members of the CPS Adolescent Health Committee stated "there are significant limitations, biases, and inaccuracies within the Review", that "the Review has been noted to include incorrect citations of evidence (6) and inaccurate, sometimes scientifically disproven speculations", and concluded "The Cass Review is a critique, authored by a single individual, presenting a perspective on current practices in a particular context, and it will inform care [172]. It does not, however, purport to be ‘the new international standard of care’, and it should not be treated as such." [173]. The Amsterdam University Medical Center said it agrees with the goals of reducing wait times and improving research, but disagrees that the research-base for puberty blockers is insufficient, stating that puberty blockers have been used in trans care for decades. It stated they did not consider it ethical to mandate youth who desire puberty blockers to be registered in research trials, that it was worrying that after closing GIDS youth seeking trans healthcare were deprived of care, and that it "regrets that this situation arose for patients in England." [174]. The Royal Australian and New Zealand College of Psychiatrists rejected calls for an inquiry into trans healthcare following the release of the Cass Review, characterising it as one review among several in the field. They emphasised that, "assessment and treatment should be patient centred, evidence-informed and responsive to and supportive of the child or young person's needs and that psychiatrists have a responsibility to counter stigma and discrimination directed towards trans and gender diverse people." [175]. In August 2024, the Japanese Society of Psychiatry and Neurology published updated guidelines on the treatment of gender dysphoria. The guidelines considered the Cass Review, describing it as specific to the unique situation in the UK, noted criticism of the Cass Review by other international organisations, and stated that the WPATH SOC8 considered more systematic reviews. The guidelines further said it is "self-evident" that, unless puberty is suppressed, development of sex characteristics are irreversible in AMAB individuals. The society stated they will continue to track and recommend prescriptions of puberty blockers in Japan to minors and expand to tracking discontinuations and switches to hormone therapy. 
+
+## Response from transgender specialist medical bodies
+
+The World Professional Association for Transgender Health (WPATH) released an email statement saying the report is "rooted in the false premise that non-medical alternatives to care will result in less adolescent distress" and further criticised recommendations which "severely restrict access to physical healthcare, and focus almost exclusively on mental healthcare for a population which the World Health Organization does not regard as inherently mentally ill". An official statement expanded on these concerns, saying Hilary Cass had "negligible prior knowledge or clinical experience" and that "the (research and consensus-based) evidence" suggests medical treatments such as puberty blockers and hormone therapy were "helpful and often life-saving" [178] [179]. It questioned the provision of puberty blockers only in the context of a research protocol: "The use of a randomized blinded control group, which would lead to the highest quality of evidence, is ethically not feasible." [180]. The Professional Association for Transgender Health Aotearoa (PATHA), a New Zealand professional organisation, said the Cass Review made "harmful recommendations" and was not in line with international consensus. It suggested that "Restricting access to social transition is restricting gender expression, a natural part of human diversity". It also said trans or non-binary people were not included in the Cass Review's planning and decision-making – including clinicians experienced with affirmative care – while several people involved in the review had "previously advocated for bans on gender-affirming care" in the U.S., and had "promoted non-affirming 'gender exploratory therapy', which is considered a conversion practice". They said that trans people were excluded from the review's Governance Assurance Group "on the basis of potential bias". A joint statement by Equality Australia, signed by the Australian Professional Association for Trans Health (AusPATH) and PATHA among others, said the review "downplays the risk of denying treatment to young people with gender dysphoria and limits their options by placing restrictions on their access to care". 
+
+## Other academic responses
+
+Some academics in the UK agreed with the Cass Review's findings stating a lack of evidence;    others, both in the UK  and internationally, disagreed with the report's methodology and findings [144] [184] [185]. In July 2024, The Integrity Project at Yale Law School released a white paper which said the Cass Review had "serious flaws". The white paper, co-authored by a group of eight legal scholars and medical researchers, suggests that the Cass Review "levies unsupported assertions about gender identity, gender dysphoria, standard practices, and safety of gender-affirming medical treatments, and it repeats claims that have been disproved by sound evidence" [188] [189] [190]. It concluded that the review "is not an authoritative guideline or standard of care, nor is it an accurate restatement of the available medical evidence on the treatment of gender dysphoria." [188] [189]. In September 2024, the Journal of Adolescent Health, the peer-reviewed medical journal of the international Society for Adolescent Health and Medicine, published a paper describing other scholars' "lengthy and nuanced rebuttals to the Cass report". The paper says that Cass' conclusions generally focus on "limiting or minimizing medical gender-affirming care (GAC) for youth" and that she "minimizes the robust data and the potential negative impact of increasing barriers for an already disenfranchised group". The paper states that "GAC for youth is well supported by evidence" and that concerns about the evidence base and the need for more research "do not warrant removal of access to this important care". The paper further suggests that randomised controlled trials (RCT) would not be ethically feasible for young people experiencing gender dysphoria. In November 2024, over 200 educational psychologists signed an open letter addressed to education secretary Bridget Phillipson. The letter expressed concerns about the "processes and findings of the Cass review" and the impact of the Cass Review on children and young people in education. That same month, the healthcare division of the RAND Corporation (a US-based research institute), released its own systematic review into treatments for trans and gender expansive young people, in which it described several similarities and differences between its own approach and that of the Cass Review [192]. [l] The report rated the existing evidence base as having low and very low certainty, but also found the treatments to be low risk and with little evidence of side-effects, regret, or dissatisfaction. [m] It said the Cass Review was "highly comprehensive", but said its findings may have limited applicability outside the context of the NHS. [n]. 
+
+## Reception by charities, unions and human rights organisations
+
+Amnesty International criticised "sensationalised coverage" of the review, stating it was "being weaponised by people who revel in spreading disinformation and myths about healthcare for trans young people". Trans youth charity Mermaids and the LGBTQ+ charity Stonewall endorsed some of the report's recommendations, such as expanding service provisions with the new regional hubs, but raised concerns the review's recommendations may lead to barriers for transgender youth in accessing care [196] [197]. In June 2024, the University and College Union's (UCU) national executive committee unanimously passed a motion criticising the review's methodology, sourcing and claims. [o] This was met with criticism from some academics and union members, who said the move "risks making the union appear anti-scientific". The UCU brought a version of the motion to the Trades Union Congress (TUC) LGBT+ conference, where it was carried without opposition [198]. In October 2024, 100 LGBTQ+ organisations and activists signed a letter to Wes Streeting expressing a "deep lack of confidence" in the Review. Concerns included Cass's selection without consideration of other candidates, "secrecy" regarding the report's commissioning, and "explicit exclusion of any trans people from involvement in the Governance Assurance Group, on the basis of potential bias". It described the review as "an absurd spectacle" with extensively documented technical failings and said, "There is a real concern, therefore, that the review promotes an inherently flawed approach to determining the efficacy and safety of clinical support for trans healthcare". The International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA), international LGBTQ student organization IGLYO, and Transgender Europe released a joint statement which criticized the Cass Review's "poor and inconsistent use of evidence, pathologising approaches, and exclusion of service users and trans healthcare experts". 
+
+## Reception by gender-critical organisations
+
+Gender-critical organisations including Sex Matters and Genspect welcomed the report. Stella O'Malley of Genspect said that if a conversion therapy ban were to criminalise any exploration into why a child identifies as trans, it "would ban the very therapy that Cass is saying should be prioritised". 
+
+## Hilary Cass's response
+
+In the week after the release of the final report, Cass described receiving abusive emails and was given security advice to avoid public transport. She said that "disinformation" had frequently been spread online about the report [14]. Cass said deliberate attempts "to undermine a report that has looked at the evidence of children's healthcare" were "unforgivable" and put children at risk. There were widespread misleading claims from critics of the report that it had dismissed 98% of the studies it collected and all studies which were not double-blind experiments [14]. Cass described these claims as being "completely incorrect" [15]. Although only 2% of the papers collected were considered to be of high quality, 60% of the papers, including those considered to be of moderate quality, were considered in the report's evidence synthesis. Cass criticised Labour MP Dawn Butler for repeating inaccurate claims that the review had dismissed more than 100 studies during a debate in the House of Commons . After talking with Cass, Butler used a point of order to admit her mistake and correct the record in Parliament, stating the figure came from a briefing she had received from Stonewall . In a May 2024 interview with The New York Times, Hilary Cass said:. She also said that the review was not about defining what trans means or rolling back healthcare, stating: "There are young people who absolutely benefit from a medical pathway, and we need to make sure that those young people have access — under a research protocol, because we need to improve the research — but not assume that that's the right pathway for everyone." [16]. In a May 2024 interview with WBUR-FM, Cass responded to WPATH's criticism about prioritising non-medical care, saying the review did not take a position about which is best. Cass hoped that "every young person who walks through the door should be included in some kind of proper research protocol" and for those "where there is a clear, clinical view" that the medical pathway is best will still receive that, and be followed up to eliminate the "black hole of not knowing what's best". Responding to claims that the review assumed a trans outcome was the worst outcome for a child, Cass emphasised that a medical pathway, with lifetime implications and treatment, required caution but "it's really important to say that a cis outcome and a trans outcome have equal value". 
+
+# Subsequent government actions in the UK
+
+## Ban on private prescription of puberty blockers
+
+In May 2024, then Health Secretary Victoria Atkins implemented an emergency three-month ban on the prescription of puberty blockers by medical providers outside of the NHS. [p] It went into effect on 3 June 2024 and was set to expire on 3 September 2024. The ban restricted their use to those already taking them, or within a clinical trial. In July, this ban was challenged by campaign groups TransActual and the Good Law Project who brought a legal case arguing the ban was unlawful. On 29 July 2024, the High Court of Justice ruled that the ban was lawful . The Health Secretary Wes Streeting welcomed the decision as “evidence led”, and said efforts were being made to set up a clinical trial to "establish the evidence on puberty blockers". Following the ruling, TransActual announced they would not appeal the decision due to limited funds and the unlikelihood of an appeal being heard before the ban expires [17] [215]. On 22 August 2024, the government extended the emergency ban until 26 November 2024. The ban was also extended to cover Northern Ireland, following agreement from the Northern Ireland Executive and came into effect on 27 August 2024. On 6 November 2024 the ban was extended again to 31 December 2024 [217] [218] [219]. On 11 December 2024, the ban was renewed indefinitely and is set to be reconsidered in 2027 [220]. 
+
+## Adult clinics
+
+The Cass Review did not cover adult care, but in April 2024, NHS England said it would also initiate a review of adult gender clinics. NHS England National Director of Specialised Commissioning John Stewart sent a letter to Cass stating that it would review the use of transgender hormone therapy in adults in a similar manner as was done for puberty blockers in the Cass Review [223]. In May 2024, Cass wrote to NHS England to pass on the feedback regarding adult care from clinicians who had approached her during the review process. Clinicians across the country in adult gender services had expressed concern about both the clinical practice and model of care. Some clinicians in other settings, especially general practice, had raised concerns about the treatment of patients under their care. On 7 August, NHS England included a response to the adult care letter in a status report for the under-18s services [227]. On 8 August, they stated the review of adult services would be led by Dr. David Levy, medical director for Lancashire and South Cumbria integrated care board, to assess "the quality (i.e. effectiveness, safety, and patient experience) and stability of each service, but also whether the existing service model is still appropriate for the patients it is caring for"; and that Dr. Levy would work with a group of "expert clinicians, patients and other key stakeholders, including representatives from the CQC, Royal Colleges and other professional bodies and will carefully consider experiences, feedback and outcomes from clinicians and patients, past and present". The first onsite visits are planned to start in September 2024. The findings will be used to support an updated adult gender service specification which will then be liable to engagement and public consultation. Unlike the Cass Review, the review of adult gender services is expected to be completed within months, rather than years. In December 2024, it was reported that a number of GPs had begun refusing or withdrawing hormone treatment from adult trans patients, for reasons including insufficient funds, the Cass Review, and the Royal College of GPs' response to the Cass Review – despite the Cass Review only applying to youth services. 
+
+## NHS Scotland
+
+On 18 April 2024, NHS Scotland announced that it had paused prescribing puberty blockers to children referred by its specialist gender clinic. The chief medical officer of Scotland set up a multidisciplinary clinical team to assess how the Cass Review's 32 recommendations might be applied to NHS Scotland [232]. Their Cass Review – implications for Scotland: findings report was published in July 2024 and found that the majority of recommendations were applicable to NHS Scotland to a varying degree, with some modification dealing with differences in the Scottish health service. They recommended that the use of puberty blockers be paused until clinical trials are begun. NHS Scotland will participate in the forthcoming UK study. That report was fully accepted by the Scottish government in September [233]. Among the changes recommended are that the gender identity service for children and young people should be moved to a paediatric setting and more than one service offered across the regions. In common with other specialities, a referral to these services will now have to come from a clinician. 
+
+## Department for Education
+
+In May 2024, the UK government released a draft of new Relationships, Sex and Health Education (RSHE) guidelines. The guidelines would ban lessons on the "contested theory of gender identity" and emphasized that any instruction on transgender people must focus on the legality of transitioning and the fact one has to be 18 to legally change their gender. A press release accompanying the guidelines stated that "In light of the Cass Review, it is important that schools take a cautious approach to teaching about this sensitive topic and do not use any materials that present contested views as fact, including the view that gender is a spectrum." [234] [235]. 
+
+## Rejection of independent review
+
+In January 2025, the government rejected a petition signed by over 11,000 people which called for an independent evaluation of the Cass Review. The petition said trans healthcare should be "based on unbiased research that is peer-reviewed" and a "transparent process" would ensure "children aren’t being unduly harmed" and "guarantee fair access and treatment for trans children, as well as restore faith in the current NHS services". The government and NHS England wrote that they "do not support an independent evaluation of the Review" and are "fully committed to implementing all recommendations from the independent and evidence-based Cass Review". 
+
+# References
+
+# References
+
+[1] https://www.england.nhs.uk/commissioning/spec-services/npc-crg/gender-dysphoria-clinical-programme/implementing-advice-from-the-cass-review/independent-review-into-gender-identity-services-for-children-and-young-people/
+[2] https://cass.independent-review.uk/about-the-review/the-chair/
+[3] https://www.bbc.co.uk/news/health-68770641
+[4] https://www.bps.org.uk/news/bps-responds-final-cass-review-report
+[5] https://www.rcpsych.ac.uk/news-and-features/latest-news/detail/2024/04/22/detailed-response-to-the-cass-review%27s-final-report
+[6] https://www.rcpch.ac.uk/news-events/news/rcpch-responds-publication-final-report-cass-review
+[7] https://www.rcgp.org.uk/representing-you/policy-areas/transgender-care
+[8] https://www.aomrc.org.uk/publication/academy-statement-implementation-of-the-cass-review/
+[9] https://www.wpath.org/media/cms/Documents/Public%20Policies/2022/25.11.22%20AUSPATH%20Statement%20reworked%20for%20WPATH%20Final%20ASIAPATH.EPATH.PATHA.USPATH.pdf
+[10] https://www.wpath.org/media/cms/Documents/Public%20Policies/2023/30.10.23%20EPATH%20-%20WPATH%20Joint%20NHS%20Statement%20Final.pdf
+[11] https://patha.nz/News/13341582
+[12] https://www.wbur.org/onpoint/2024/05/08/hilary-cass-review-caution-nhs-gender-affirming-care-youth
+[13] https://www.bma.org.uk/bma-media-centre/bma-to-undertake-an-evaluation-of-the-cass-review-on-gender-identity-services-for-children-and-young-people
+[14] https://www.thetimes.co.uk/article/hilary-cass-i-cant-travel-on-public-transport-any-more-35pt0mvnh
+[15] https://fullfact.org/health/cass-butler-stonewall-100-studies/
+[16] https://www.nytimes.com/2024/05/13/health/hilary-cass-transgender-youth-puberty-blockers.html
+[17] https://www.bbc.com/news/articles/c4ng3gz99nwo
+[18] https://www.england.nhs.uk/commissioning/spec-services/npc-crg/gender-dysphoria-clinical-programme/implementing-advice-from-the-cass-review/
+[19] https://www.england.nhs.uk/long-read/nhs-england-update-on-work-to-transform-gender-identity-services/
+[20] https://www.gov.scot/news/gender-identity-healthcare-2/
+[21] https://www.theguardian.com/society/article/2024/aug/07/delayed-puberty-blocker-clinical-trial-to-start-next-year-in-england
+[22] https://www.theguardian.com/society/2021/sep/04/gender-identity-clinic-whistleblower-wins-damages
+[23] https://www.bbc.co.uk/news/uk-54374165
+[24] https://www.theguardian.com/society/2021/may/02/tavistock-trust-whistleblower-david-bell-transgender-children-gids
+[25] https://doi.org/10.1136%2Fbmj.p382
+[26] https://www.reuters.com/investigates/special-report/britain-transyouth/
+[27] https://www.theguardian.com/society/2021/sep/17/appeal-court-overturns-uk-puberty-blockers-ruling-for-under-16s-tavistock-keira-bell
+[28] https://www.bbc.co.uk/news/uk-58598186
+[29] https://doi.org/10.1136%2Fbmj.n2307
+[30] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10409298
+[31] https://doi.org/10.1111%2Fapa.16791
+[32] https://doi.org/10.1007%2Fs11930-023-00358-x
+[33] https://www.nytimes.com/2024/04/09/health/europe-transgender-youth-hormone-treatments.html
+[34] https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors
+[35] https://www.euronews.com/health/2023/02/16/as-spain-advances-trans-rights-sweden-backtracks-on-gender-affirming-treatments-for-teens
+[36] https://www.theguardian.com/society/2021/jan/20/gender-identity-development-service-for-children-rated-inadequate
+[37] https://www.bbc.co.uk/news/health-55723250
+[38] https://www.theguardian.com/society/2022/jul/28/tavistock-gender-identity-clinic-is-closing-what-happens-next
+[39] https://www.bbc.co.uk/news/uk-56539466
+[40] https://www.theguardian.com/society/2024/apr/10/what-cass-review-says-about-surge-in-children-seeking-gender-services
+[41] https://www.bbc.co.uk/news/articles/clyd2qe5kkjo
+[42] https://doi.org/10.1136%2Fbmj.n205
+[44] [ERROR retrieving ref link]
+[45] https://archive.today/20240619040430/https://www.thetimes.com/uk/article/cass-report-review-key-findings-nhs-gender-puberty-blockers-j09ggw09c
+[47] https://www.bbc.co.uk/news/health-49036145
+[48] https://www.independent.co.uk/news/health/cass-review-child-gender-care-recommendations-b2526172.html
+[50] https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/gender-identity-services-for-children-and-young-people-navigating-uncertainty-through-communication-collaboration-and-care/D0F6B23F37C3D82B38C2470DF65854C9
+[52] https://www.rcgp.org.uk/about-us/news/2019/june/rcgp-calls-for-whole-system-approach-to-improving-nhs-care-for-trans-patients.aspx
+[53] [ERROR retrieving ref link]
+[55] https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3200/RRA3223-1/RAND_RRA3223-1.pdf
+[57] https://cass.independent-review.uk/about-the-review/terms-of-reference/
+[58] https://adc.bmj.com/pages/gender-identity-service-series
+[59] [ERROR retrieving ref link]
+[60] https://doi.org/10.1080%2F26895269.2024.2362304
+[61] https://doi.org/10.1016%2FS0140-6736%2824%2900808-0
+[62] [ERROR retrieving ref link]
+[63] [ERROR retrieving ref link]
+[64] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326681
+[65] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[68] https://adc.bmj.com/
+[69] https://doi.org/10.1177%2F10398562241276335
+[70] https://cass.independent-review.uk/contribute-to-the-review/lived-experience-focus-groups/
+[72] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[74] https://adc.bmj.com/pages/gender-identity-service-series
+[75] https://www.bbc.co.uk/news/health-68863594
+[76] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326112
+[77] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326347
+[78] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326669
+[79] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326670
+[80] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326760
+[81] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326499.long
+[82] https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326500.long
+[83] [ERROR retrieving ref link]
+[84] [ERROR retrieving ref link]
+[85] [ERROR retrieving ref link]
+[86] [ERROR retrieving ref link]
+[87] https://www.theguardian.com/society/2022/mar/10/nhs-gender-identity-service-for-children-cant-cope-with-demand-review-finds
+[88] https://www.thetimes.co.uk/article/tavistock-gender-clinic-not-safe-for-children-report-finds-w0ngnjnnf
+[89] [ERROR retrieving ref link]
+[90] [ERROR retrieving ref link]
+[91] [ERROR retrieving ref link]
+[92] [ERROR retrieving ref link]
+[93] [ERROR retrieving ref link]
+[94] https://www.bbc.co.uk/news/uk-politics-61203575
+[95] https://www.theguardian.com/society/2024/mar/12/children-to-stop-getting-puberty-blockers-at-gender-identity-clinics-says-nhs-england
+[96] https://www.bbc.co.uk/news/health-68549091
+[97] https://www.nytimes.com/2024/04/09/health/europe-transgender-youth-hormone-treatments.html
+[98] https://www.bbc.com/news/uk-politics-61203575
+[99] [ERROR retrieving ref link]
+[100] [ERROR retrieving ref link]
+[101] [ERROR retrieving ref link]
+[103] [ERROR retrieving ref link]
+[104] https://www.telegraph.co.uk/news/2024/04/08/trans-children-mental-health-issues/
+[105] https://www.thetimes.co.uk/article/cass-report-review-key-findings-nhs-gender-puberty-blockers-j09ggw09c
+[106] [ERROR retrieving ref link]
+[107] [ERROR retrieving ref link]
+[108] https://www.independent.co.uk/news/health/cass-review-gender-identity-nhs-b2525787.html
+[109] [ERROR retrieving ref link]
+[110] https://www.bbc.co.uk/news/health-68770641
+[111] [ERROR retrieving ref link]
+[112] [ERROR retrieving ref link]
+[113] [ERROR retrieving ref link]
+[114] https://www.theguardian.com/society/2024/apr/10/gender-medicine-built-on-shaky-foundations-cass-review-finds
+[115] [ERROR retrieving ref link]
+[116] [ERROR retrieving ref link]
+[117] [ERROR retrieving ref link]
+[118] https://www.bmj.com/content/385/bmj.q837
+[119] [ERROR retrieving ref link]
+[120] [ERROR retrieving ref link]
+[121] [ERROR retrieving ref link]
+[123] [ERROR retrieving ref link]
+[125] [ERROR retrieving ref link]
+[126] [ERROR retrieving ref link]
+[127] https://amp.theguardian.com/world/2024/apr/11/hilary-cass-warns-kemi-badenoch-over-risks-of-conversion-practices-ban
+[128] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[130] [ERROR retrieving ref link]
+[131] [ERROR retrieving ref link]
+[132] [ERROR retrieving ref link]
+[133] [ERROR retrieving ref link]
+[134] [ERROR retrieving ref link]
+[135] [ERROR retrieving ref link]
+[136] [ERROR retrieving ref link]
+[137] [ERROR retrieving ref link]
+[138] [ERROR retrieving ref link]
+[139] [ERROR retrieving ref link]
+[140] [ERROR retrieving ref link]
+[141] [ERROR retrieving ref link]
+[142] [ERROR retrieving ref link]
+[143] https://www.bbc.co.uk/news/health-68549091
+[144] https://amp.cnn.com/cnn/2024/03/13/uk/england-nhs-puberty-blockers-trans-children-intl-gbr/index.html
+[145] https://www.england.nhs.uk/long-read/children-and-young-peoples-gender-services-implementing-the-cass-review-recommendations
+[146] https://www.irishtimes.com/health/2024/04/29/what-now-for-transgender-healthcare-in-ireland-after-publication-of-the-cass-review/
+[147] https://www.telegraph.co.uk/health-fitness/parenting/children/what-to-do-if-your-child-wants-to-transition/
+[148] https://cass.independent-review.uk/home/publications/final-report/final-report-faqs/
+[149] https://www.england.nhs.uk/publication/referral-pathway-for-specialist-service-for-children-and-young-people-with-gender-incongruence/
+[150] https://www.telegraph.co.uk/news/2024/08/07/trans-first-service-detransition-cass-review-birth-gender/
+[151] https://news.sky.com/story/cass-report-pm-urges-extreme-caution-on-gender-treatments-as-nhs-plans-major-review-of-clinics-13111445
+[152] https://www.bbc.co.uk/news/uk-68786030
+[153] https://www.thebureauinvestigates.com/stories/2024-07-02/explainer-what-do-the-uk-party-manifestos-say-about-trans-issues/
+[154] https://www.theguardian.com/society/2024/apr/12/cass-review-watershed-moment-nhs-gender-services-wes-streeting-young-trans-people
+[155] https://www.theguardian.com/society/2024/apr/10/thousands-of-children-unsure-of-gender-identity-let-down-by-nhs-report-finds
+[156] https://www.irishtimes.com/world/europe/2024/04/10/british-labour-says-it-will-implement-cass-findings-on-care-for-trans-children-if-it-wins-election/
+[157] https://news.sky.com/video/how-could-we-be-giving-kids-puberty-blockers-for-20-years-labour-on-cass-report-13112037
+[158] https://www.lgbtlabour.org.uk/cass_report_here_s_why_politicians_should_not_treat_it_as_gospel
+[159] https://www.politicshome.com/news/article/green-party-withdrew-statement-cass-review
+[160] https://www.equalityhumanrights.com/statement-final-report-cass-review
+[161] https://www.independent.co.uk/news/uk/scottish-government-government-nhs-england-snp-scottish-b2526273.html
+[162] https://www.theguardian.com/society/2024/apr/16/no-case-to-close-scotlands-only-nhs-gender-services-clinic-says-first-minister-humza-yousaf
+[163] https://www.thenational.scot/news/24255848.humza-yousaf-responds-calls-puberty-blocker-ban-scotland/
+[164] https://www.bbc.com/news/articles/cx02gkzz0z7o
+[165] https://www.thetimes.co.uk/article/patrick-harvie-scottish-green-party-cass-review-gender-identity-5tm3hcznk
+[166] https://www.newstatesman.com/politics/scotland/2024/04/humza-yousaf-has-turned-on-the-scottish-greens-too-late
+[167] https://www.bbc.co.uk/news/articles/cqvn3jnj1z5o
+[168] https://www.scotsman.com/news/politics/bute-house-agreement-snp-figures-pressure-humza-yousaf-to-rethink-bute-house-deal-with-greens-4600847
+[169] https://www.bbc.co.uk/news/uk-scotland-scotland-business-68869020
+[170] https://nation.cymru/news/mss-vote-against-recommendations-of-cass-review/
+[171] https://www.health-ni.gov.uk/news/temporary-ban-prescription-and-supply-puberty-blockers-extended-ni
+[172] https://www.irishnews.com/news/northern-ireland/alliance-isolated-in-stormont-executive-as-puberty-blockers-ban-extended-to-northern-ireland-NSA2O3E6L5FPRCGFACKIP5P53Y/
+[173] https://www.rcpch.ac.uk/resources/gender-identity-services-advocacy-children-young-people#calls-to-evaluate-the-cass-review---rcpch-response
+[174] https://www.thetimes.com/uk/healthcare/article/bma-members-resign-in-revolt-over-transgender-children-stance-nvqd0vgv5
+[175] https://linkinghub.elsevier.com/retrieve/pii/S0140673624019238
+[176] https://www.bbc.com/news/articles/c20pn0164ypo.amp
+[177] https://www.newstatesman.com/thestaggers/2024/09/the-bma-turns-away-from-rejecting-the-cass-report
+[178] https://bagis.co.uk/position-process-statements/
+[179] https://www.attitude.co.uk/news/gland-response-bmj-cass-review-469835/
+[180] https://res.cloudinary.com/gladd/image/upload/v1730663301/GLADD_Response_to_the_Cass_Review_2024_xp8uoq.pdf
+[181] https://www.wbur.org/onpoint/2024/05/08/hilary-cass-review-caution-nhs-gender-affirming-care-youth
+[182] https://www.bmj.com/content/385/bmj.q1141
+[183] https://www.cbc.ca/news/health/puberty-blockers-review-1.7172920
+[184] https://academic.oup.com/pch/article-abstract/29/6/415/7816713?redirectedFrom=fulltext
+[185] https://www.amsterdamumc.org/nl/vandaag/een-reactie-van-amsterdam-umc-op-de-cass-review-over-transgenderzorg.htm
+[186] https://www.ranzcp.org/news-analysis/a-letter-from-members-regarding-the-cass-review-and-the-college-s-response
+[187] https://www.jspn.or.jp/uploads/uploads/files/activity/gid_guideline_no5.pdf
+[188] https://www.jspn.or.jp/modules/advocacy/index.php?content_id=23
+[189] https://www.medpagetoday.com/special-reports/transgender-medicine/109605
+[190] https://www.them.us/story/cass-review-nhs-trans-youth-healthcare-report
+[191] https://www.wpath.org/media/cms/Documents/Public%20Policies/2024/17.05.24%20Response%20Cass%20Review%20FINAL.pdf
+[192] https://www.gaytimes.co.uk/life/what-is-the-cass-review-final-recommendations/
+[193] https://equalityaustralia.org.au/cass-review-out-of-line-with-medical-consensus-and-lacks-relevance-in-australian-context/
+[194] https://www.starobserver.com.au/news/how-cass-review-affect-aussie-trans-youth/230011
+[195] https://www.theguardian.com/commentisfree/2024/apr/26/cass-review-gender-identity-services-report
+[196] https://www.theguardian.com/society/2024/apr/11/trans-children-in-england-worse-off-now-than-four-years-ago-says-psychologist
+[197] https://www.smh.com.au/lifestyle/health-and-wellness/contentious-uk-gender-medicine-report-prompts-reflection-outrage-in-australia-20240410-p5fivg.html
+[198] https://www.nzherald.co.nz/nz/nz-government-wont-say-if-it-will-follow-uks-move-to-ban-routine-use-of-puberty-blockers-as-treatment-for-trans-youth/XM4LR3XIVZF2JAKJU74OOELSOU/
+[199] https://www.thenational.scot/news/24425388.cass-review-contains-serious-flaws-according-yale-law-school/
+[200] https://abcnews.go.com/Health/yale-releases-report-critical-uk-transgender-youth-care/story?id=111639373
+[201] https://law.yale.edu/yls-today/news/white-paper-addresses-key-issues-legal-battles-over-gender-affirming-health-care
+[202] https://linkinghub.elsevier.com/retrieve/pii/S1054139X24004397
+[203] https://www.thepinknews.com/2024/11/12/educational-psychologists-open-letter-cass-review-trans/
+[204] [ERROR retrieving ref link]
+[206] [ERROR retrieving ref link]
+[208] [ERROR retrieving ref link]
+[210] https://www.amnesty.org.uk/press-releases/uk-cass-review-gender-identity-being-weaponised-anti-trans-groups
+[211] https://abcnews.go.com/Health/trans-care-recommendations-nhs-england-report/story?id=109081565
+[212] https://www.timeshighereducation.com/news/anger-over-ucus-anti-scientific-fight-against-cass-review
+[214] https://ucucommons.org/2024/07/29/british-trade-unions-oppose-the-cass-report-heres-why-that-matters/
+[215] https://www.thepinknews.com/2024/10/18/open-letter-transactual-cass-review/
+[216] https://transactual.org.uk/wp-content/uploads/Letter-to-Wes-Streeting-from-TransActual-and-others-re-the-Cass-Review-Oct-2024.pdf
+[217] https://www.ilga-europe.org/news/trans-children-and-young-people-in-schools-deserve-safety-and-understanding/
+[218] https://www.economist.com/britain/2024/04/10/the-cass-review-damns-englands-youth-gender-services
+[219] https://sex-matters.org/posts/schools-and-safeguarding/the-cass-review-is-a-damning-indictment-of-what-the-nhs-has-been-doing-to-children/
+[220] https://www.theguardian.com/society/2024/apr/20/doctor-hilary-cass-warned-of-threats-to-safety-after-vile-abuse-over-nhs-gender-services-review
+[221] https://www.thetimes.co.uk/article/cass-author-condemns-misinformation-spread-by-trans-lawyer-b5t9hd92m
+[222] https://www.independent.co.uk/news/uk/dawn-butler-british-victoria-atkins-nhs-labour-b2531821.html
+[223] https://www.itv.com/news/2024-04-20/hilary-cass-says-criticism-of-gender-care-review-inaccurate-and-unforgivable
+[224] https://news.sky.com/story/cass-review-gender-report-author-cannot-travel-on-public-transport-over-safety-fears-13119107
+[225] https://www.thepinknews.com/2024/04/24/dawn-butler-cass-report/
+[226] https://hansard.parliament.uk/commons/2024-04-22/debates/4E2D9E6C-065B-43B8-9578-3F24F2F3FFD6/PointsOfOrder#663
+[227] https://www.wbur.org/onpoint/2024/05/08/nhs-hilary-cass-review-gender-transgender-care
+[229] https://www.theguardian.com/world/article/2024/jul/12/ban-on-childrens-puberty-blockers-motivated-by-ex-health-secretarys-personal-view
+[230] https://www.independent.co.uk/news/health/pubery-blocker-ban-high-court-ruling-lawful-b2587503.html
+[231] https://www.theguardian.com/society/article/2024/jul/29/puberty-blockers-ban-tory-government-lawful-high-court-rules
+[232] https://transactual.org.uk/blog/2024/08/01/transactual-will-not-appeal-puberty-blocker-case/
+[233] https://www.legislation.gov.uk/uksi/2024/868/article/1/made
+[234] https://www.gov.uk/government/news/puberty-blockers-temporary-ban-extended
+[235] https://www.bbc.com/news/articles/cwy3l8pnld9o
+[236] https://www.gov.uk/government/news/extension-to-temporary-ban-on-puberty-blockers
+[237] https://www.theguardian.com/society/2024/dec/11/puberty-blockers-to-be-banned-indefinitely-for-under-18s-across-uk
+[238] https://www.nytimes.com/2024/12/11/world/europe/uk-bans-puberty-blockers-under-18.html#:~:text=Britain%20is%20to%20ban%20indefinitely,in%20place%20earlier%20this%20year.
+[239] https://www.telegraph.co.uk/news/2024/04/09/nhs-review-transgender-treatment/
+[240] https://www.theguardian.com/society/2024/apr/10/adult-transgender-clinics-in-england-face-inquiry-into-patient-care
+[241] https://www.england.nhs.uk/long-read/nhs-englands-response-to-the-final-report-of-the-independent-review-of-gender-identity-services-for-children-and-young-people/
+[242] https://www.telegraph.co.uk/news/2024/04/09/nhs-review-transgender-treatment/
+[243] https://www.england.nhs.uk/wp-content/uploads/2024/08/PRN01451-letter-from-dr-cass-to-john-stewart-james-palmer-may-2024.pdf
+[244] https://www.england.nhs.uk/long-read/nhs-england-update-on-work-to-transform-gender-identity-services/
+[245] https://www.independent.co.uk/news/uk/lancashire-nhs-b2592534.html
+[246] https://www.standard.co.uk/news/health/lancashire-nhs-b1175188.html
+[247] https://www.independent.co.uk/news/uk/home-news/gp-nhs-transgender-hormone-treatment-b2658721.html
+[248] https://www.bbc.co.uk/news/uk-scotland-68844119.amp
+[249] https://www.gov.scot/news/improving-gender-identity-healthcare/
+[250] https://www.them.us/story/uk-gender-identity-schools-proposed-ban
+[251] https://www.jurist.org/news/2024/05/uk-government-announces-draft-ban-on-contested-sex-education-topics-in-uk-schools/
+[252] https://www.thepinknews.com/2025/01/15/government-rejects-call-for-independent-review-of-cass-review/
+[43] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[54] [ERROR retrieving ref link]
+[56] [ERROR retrieving ref link]
+[66] [ERROR retrieving ref link]
+[71] [ERROR retrieving ref link]
+[102] [ERROR retrieving ref link]
+[122] [ERROR retrieving ref link]
+[124] [ERROR retrieving ref link]
+[205] [ERROR retrieving ref link]
+[207] [ERROR retrieving ref link]
+[209] [ERROR retrieving ref link]
+[213] [ERROR retrieving ref link]
+[228] [ERROR retrieving ref link]

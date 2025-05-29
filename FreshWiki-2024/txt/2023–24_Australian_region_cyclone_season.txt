@@ -1,0 +1,323 @@
+2023–24_Australian_region_cyclone_season
+
+The 2023–24 Australian region cyclone season was the fifth consecutive season to have below-average activity in terms of named storms. Despite this, it was the second in a row to have at least five severe tropical cyclones, including Australia's wettest tropical cyclone on record. The season officially started on 1 November 2023 and ended on 30 April 2024, however, a tropical cyclone could form at any time between 1 July 2023 and 30 June 2024 and would count towards the season total. During the season, tropical cyclones were officially monitored by one of the three tropical cyclone warning centres (TCWCs) for the region which are operated by the Australian Bureau of Meteorology, National Weather Service of Papua New Guinea and the Indonesian Agency for Meteorology, Climatology and Geophysics. The United States Joint Typhoon Warning Center (JTWC) and other national meteorological services including Météo-France and the Fiji Meteorological Service will also monitor the basin during the season.
+
+# Season forecasts
+
+Ahead of the season officially starting on 1 November, the Australian Bureau of Meteorology (BoM) and New Zealand's National Institute of Water and Atmospheric Research (NIWA) both issued a tropical cyclone outlook that discussed the upcoming season. These outlooks took into account a variety of factors such as a developing El Niño event and what had happened in previous seasons such as 1972–73, 1982–83, 1997–98, 2009–10 and 2015–16 [2] [4]. Within their seasonal outlook for the Australian region, the BoM suggested that there was an 80% chance, that the whole region between 90°E – 160°E, would be below average, having less than the long term average of 11 tropical cyclones [2] [4]. They also suggested that each of their self-defined Western, Northern, North-western and Eastern regions would see a below-average amount of tropical cyclone activity [2]. The BoM also issued a seasonal forecast that discussed tropical cyclone activity over the South Pacific Ocean for their self-defined eastern and western regions of the South Pacific Ocean. Within this forecast, they predicted that their western region between 142.5°E and 165°E would have a below average amount of activity, while their eastern region between 165°E and 120°W had a 60% chance of seeing activity above its average of 6 tropical cyclones [3]. Along with other Pacific Meteorological Services, the BoM contributed to NIWA's Southwest Pacific tropical cyclone outlook, which predicted that nine and fourteen tropical cyclones would occur between 135°E and 120°W [3]. At least four to eight of these systems were expected to intensify further and become either a Category 3, 4 or 5 severe tropical cyclone on the Australian tropical cyclone intensity scale [4]. 
+
+# Season summary
+
+## Early activity
+
+The season officially started on 1 November, however the first system, Cyclone Jasper, would not be active until 4 December, when it crossed into the basin as a tropical low from the South Pacific. The low became a named storm on 5 December, receiving the name Jasper,  and intensified into the season's first severe tropical cyclone the next day [5]. Jasper made landfall in Far North Queensland as a Category 2 tropical cyclone on 13 December [6]. 
+
+## Season starts
+
+After a significant lull in activity, Tropical Cyclone Anggrek and Tropical Low 03U formed on 10 and 11 January respectively,   with the latter dissipating on 23 January [41] [9]. The next day, Cyclone Kirrily formed [10]. Tropical Low 06U formed on 30 January, dancing out of basin the next day and waltzing back in on 5 February [63]. Tropical Cyclone Lincoln formed on 16 February and made landfall on the Gulf of Carpentaria coast [1] [12]. Severe Tropical Cyclone Neville formed north of the Cocos Islands  on 1 March and left the basin 20 days later [99] [112]. Severe Tropical Cyclone Megan formed on 13 March from a tropical low over the coast of the Gulf of Carpentaria [133]. Short-lived Tropical Low 10U formed and weakened within the same day of 14 March [155]. Severe Tropical Cyclone Olga formed within a monsoon trough south of Sumba   on 4 April [160] [161] [163]. Tropical Cyclone Paul formed 5 days later over the Louisiade Archipelago. Tropical Low 12U formed on 12 April and remained traceable [182]. 
+
+## Off-season
+
+The season ended with Tropical Low 16U, formed on 4 May and weakened the next day. 
+
+# Systems
+
+## Severe Tropical Cyclone Jasper
+
+On 2 December, the Australian Bureau of Meteorology (BoM) reported that Tropical Disturbance 03F, which was re-designated as Tropical Low 02U, had formed in the South Pacific Ocean in Fiji's area of responsibility. Two days later, on 00:00 UTC of 4 December, the system would enter the Australian area of responsibility [155]. The Joint Typhoon Warning Center (JTWC) issued a Tropical Cyclone Formation Alert (TCFA) later that day, projecting a high likelihood of a significant tropical cyclone developing [24] [155]. Later the next day, the JTWC subsequently initiated advisories on the system and classified it as Tropical Cyclone 03P [65]. The BoM subsequently followed suit and upgraded it to a Category 1 tropical cyclone, naming it Jasper [205]. Jasper started to track southward under the steering influence of a near equatorial ridge to the east [5]. During the next day, the cyclone's centre continued to organise, with deep convective bands starting to wrap around the centre, prompting the JTWC to upgrade the system to a Category 1 hurricane [28]. Jasper rapidly intensified into a Category 3 severe tropical cyclone,  due to being in an environment with warm sea surface temperatures and low wind shear [72] [6]. The next day, it further intensified, becoming a Category 5 severe tropical cyclone. Operationally, the BoM classified Jasper as a high-end Category 4 severe tropical cyclone with winds of 195 km/h (120 mph), but during post-cyclone reanalysis concluded a peak wind speed of 215 km/h (130 mph) based on Synthetic-aperture radar measurements [30]. Shortly thereafter, Jasper began weakening, with its eye becoming cloud-filled and the deep convection eroding due to dry air entrainment [1] [31]. Jasper would reintensify, and at 12:00 UTC on 13 December, made landfall as a Category 2 tropical cyclone in Wujal Wujal, Queensland [72]. After making landfall, the JTWC discontinue warnings on the system later that day [7]. By 14:00 UTC that day, the BoM reported that Jasper had weakened to a tropical low [72]. However, Jasper remained traceable, and the BoM would give the tropical low a moderate chance of redeveloping into a tropical cyclone on 15 December [34]. However, they would soon downgrade its chances of re-developing into a very low as the storm turned southeast further inland, causing the tropical low to rapidly weaken, and on 18 December, Jasper was last noted over the Cape York Peninsula [35]. Jasper produced torrential rainfall, peaking at 2,252 mm (88.7 in) at Bairds near the Daintree River, making the wettest tropical cyclone in Australian history, beating the previous record of Cyclone Peter in 1979. The Insurance Council of Australia estimated that Jasper caused AU$1 billion (US$670 million) in damages [37] [38]. 
+
+## Severe Tropical Cyclone Anggrek
+
+On 9 January, the BoM noted that a tropical low could form in the Indian Ocean, designating it as 04U. Later the next day, the BoM reported that it had formed to the northwest of the Cocos Islands [62]. On 11 January, the JTWC followed suit in monitoring the system, after convection had significantly consolidated around the circulation [41]. Three days later, the agency issued a TCFA, for the disturbance as it was situated in an environment of warm waters, low shear, and good outflow [42]. By 15 January, the JTWC began issuing advisories, recognising it as Tropical Cyclone 06S after its circulation had improved,   with the BoM subsequently followed suit and upgraded it to a Category 1 tropical cyclone [43] [44]. Since the cyclone was within their area of responsibility, Meteorology, Climatology, and Geophysical Agency (BMKG) named the system Anggrek [45]. It tracked southeast before changing direction and tracking west [46]. Anggrek remained nearly stationary due to weak steering ridges to the north and southwest, the system generated upwelling, causing sea surface temperatures to decrease [47]. Despite that, Anggrek steadily re-intensified,  and after entering favourable conditions on 24 January, became a Category 3 severe tropical cyclone, with estimated maximum 10-minute sustained winds of 150 km/h (90 mph), and a central barometric pressure of 968 hPa (28.59 inHg) [48] [49]. while the system's depiction showed that tightly circulating around a ragged eye [50] [205]. The next day, the system exited the basin towards the South West Indian Ocean [52]. 
+
+## Tropical Low 03U
+
+On 7 January, the BoM noted the possibility of a tropical low forming near the north Kimberley, as a monsoon trough was expected to develop along the Top End. It was predesignated as 03U. This came to fruition 4 days later, when the BoM reported that it was developing over the southern Joseph Bonaparte Gulf within the trough [54]. As the tropical low tracked overland, the system maintained a robust outflow channel in the upper troposphere [9]. The BoM continued to monitor the low as it moved slowly southeast,  then turning west towards Western Australia by 20 January,  until they determined that it would not develop into a tropical cyclone on 23 January [64] [56] [57]. The low and its associated monsoon brought heavy rainfall to the Northern Territory, resulting in the BoM issuing flood watches and warnings throughout the Top End and central Northern Territory. Wadeye received 661 mm (26.0 in) of rainfall [60]. 
+
+## Severe Tropical Cyclone Kirrily
+
+The BoM noted the possibility of a tropical low forming within the monsoon trough over the Gulf of Carpentaria on 9 January, designating it as 05U. Three days later, the BoM reported that it was developing over the eastern portion of the gulf [62]. By 17 January, the JTWC began monitoring the low [63]. Two days later, the JTWC issued a TCFA for the system [64]. By 21 January, the BoM started issuing warnings on the system [65]. By 23 January, the JTWC followed suit, recognising it as Tropical Cyclone 07P [66]. The next day, the BoM upgraded the low into a  Category 1 tropical cyclone, naming it Kirrily [67]. Deep convection shifted to the western side of Kirrily's circulation, though its centre remained well defined [68]. It subsequently intensified to a Category 3 severe tropical cyclone,  the JTWC followed suit the system and upgraded it to a Category 1 hurricane,  prior to landfall over Townsville, Australia on 25 January [69] [70] [71]. Shortly after the landfall, the JTWC discontinued warnings on the system [72]. The next day, the BoM discontinued warnings [72]. However, Kirrily remained traceable, as it moved westwards towards the Queensland region throughout the rest of January [73]. The JTWC began monitoring the remnants of Kirrily for potential regeneration as the system developed a partially exposed low-level circulation centre (LLCC) [74]. Early the next day, they issued a TCFA for the remnants [75]. The disturbance later regenerated into a tropical cyclone; the system showed a consolidating LLCC with convective banding and a central dense overcast (CDO) [76]. Since the system only produced near-gale-force winds in the Gulf of Carpentaria, the BoM determined that the low was not expected to redevelop into a tropical cyclone [205]. By 2 February, the JTWC discontinued their advisories again, as the storm accelerated inland with the rainbands unraveling and warming cloud tops,  until it was last noted on the BoM tropical cyclone outlooks by the next day [78] [205]. Before the storm made landfall on 24 January, the BoM issued cyclone warnings for Townsville, Mackay, Bowen, the Whitsunday Islands, which extended inland to Charters Towers. As the storm impacted Queensland, locally intense rainfall up to 300 mm (12 in) was recorded [81]. 
+
+## Tropical Low 06U
+
+On 29 January, the BoM noted that a subtropical low was expected to form off the coast of Eastern Australia in a few days, designating it as 06U. The next day, the BoM began monitoring the low as it was developing in the eastern portion of the basin, about 125 km (80 mi) to the northeast of Kgari in Queensland, Australia [83]. Over the next couple of days, the system moved north-eastwards and moved into the South Pacific basin during 1 February, where it was classified as Tropical Disturbance 05F by the Fiji Meteorological Service [1] [84] [85]. At this stage, the system was located in an area of moderate vertical wind shear and good upper-level divergence about 675 km (420 mi) to the northwest of Nouméa in New Caledonia, while atmospheric convection persisted over the system's LLCC [1] [12]. After meandering outside the basin for several days, the system re-entered the basin as a tropical low [12]. Environmental conditions were assessed as being marginally conducive for tropical cyclogenesis, with warm sea surface temperatures near 29–30 °C (84–86 °F) and low vertical wind shear [86]. It again exited the basin on 7 February, as the storm was struggling due to moderate wind shear [87]. 
+
+## Tropical Cyclone Lincoln
+
+During February 2024, the presence of the Madden–Julian Oscillation and an equatorial Indian Ocean in the Australian region contributed to the formation of Tropical Low 07U in the monsoon trough over the western Gulf of Carpentaria,    approximately 419 km (260 mi) to the east-southeast of Darwin in the Northern Territory during 14 February [89] [90] [91]. Initially located in an favourable environment for intensification, the tropical low began to encounter somewhat improved conditions [92] [90]. As the tropical low tracked slowly moving towards the coast, consolidating LLCC with convection started to develop and was wrapping toward the centre [93]. By 15 February, at 14:30 UTC, the JTWC issued a TCFA, noting that the system was in a favourable environment with low wind shear and sea surface temperatures exceeding 29–30 °C (84–86 °F) [94]. The agency later issued its first warning on the system, classifying it as Tropical Cyclone 14P [95]. The BoM followed suit—officially upgrading the system to a Category 1 tropical cyclone and assigning the name Lincoln [207]. Lincoln had a partially exposed LLCC with core convection confined to the western edge of the cyclone [97]. Lincoln made landfall on the Gulf of Carpentaria coast between Port McArthur and the Northern Territory—Queensland border just after 06:00 UTC on 16 February [207]. Shortly after the landfall, the JTWC discontinued warnings on the system [99]. Later that day, the BoM followed suit and released its last advisory as the system degenerated into a tropical low [207]. However, Lincoln remained traceable, and the BoM would give the system a high chance of redeveloping into a tropical cyclone on 18 February [101]. The following day, the tropical low continued moving west-southwest, aided by a ridge to the south, across inland parts of the Northern Territory [102]. By 21 February, the remnants of Lincoln turned westward into the offshore of the Kimberley coast and began to re-organise, resulting deep convection to the north [89]. The JTWC re-issued a TCFA for the system at 07:30 UTC as the formative convective banding was wrapping into a defined circulation [103]. With an increase in convective banding on the southern of the cyclone's circulation,   the JTWC re-initiated advisories on the storm approximately 446 km (275 mi) northeast of Learmonth at 03:00 UTC on 22 February [104] [207]. Turning northwest as it approached Western Australia, the storm failed to organised its deep convection [207]. By 24 February, the JTWC subsequently issued their final advisory on the system, as its circulation became exposed [107]. The storm then crossed just south of Coral Bay on the Australian northwestern coastline just after 12:00 UTC that day, before moving inland across Gascoyne and dissipating shortly afterward [207]. Tropical Cyclone Lincoln was the first tropical cyclone to form in the Gulf of the Carpentaria since Tropical Cyclone Alfred in February 2017 [109] [110]. 
+
+## Severe Tropical Cyclone Neville
+
+On 1 March, the BoM started to monitor a possible tropical low to the north of the Cocos Islands within the monsoon trough, designating it as 08U. An increased monsoon flow over the Indian Ocean towards Indonesia prompted the agency to report that the tropical low was forming on 4 March, within an unfavourable environment for further development [112]. By 10 March, the JTWC issued a TCFA for the tropical low after noting that its deep convection continued to build in the southern and central regions over the system's LLCC, and the next day, it recognised the system as Tropical Cyclone 18S [113] [114]. Afterwards, subsidence and high vertical wind shear caused the system to struggle to intensify, leaving the LLLC exposed [115] [150]. Although convection continued to fluctuate in the system, deep convection continued to improve near the centre [150] [118]. By 18 March, the JTWC subsequently issued their final advisory on the system, as its structure was to be disorganised [119]. During the next day, the tropical low began to displace to the south of the LLLC, the JTWC resumed monitoring the system [150]. The LLCC started to re–develop with deep convective bands wrapping into it, the JTWC re-initiated advisories approximately 341 km (210 mi) northwest of Learmonth at 03:00 UTC on 20 March [121]. Later that day, the BoM reported that the tropical low had developed into a Category 1 tropical cyclone and named it Neville [150]. Neville intensified shortly after, with an eye forming on microwave imagery [123]. A pinhole eye briefly emerged on infrared and visible satellite imagery as a ragged feature at the cyclone's centre, surrounded by well-defined rainbands [124]. Neville reached peak intensity at 06:00 UTC the following day as a high-end Category 4 severe tropical cyclone, with ten-minute sustained winds estimated at 175 km/h (110 mph), and a central barometric pressure of 952 hPa (28.11 inHg) [150]. The JTWC estimated that the system was generating one-minute sustained winds of 215 km/h (130 mph), equivalent to a low-end Category 4 major hurricane [126] [127]. Afterward, the storm's eye becoming cloud-filled caused Neville to gradually weaken as its track shifted west-southwestward [150]. Neville's eye disappeared from satellite imagery and the cloud tops of the central dense overcast warming [150]. Not long afterward, the storm began to deteriorate due to cooler waters, increasing vertical wind, and dry air entrainment [130]. The BoM downgraded the storm to a vigorous gale-force tropical low on 24 March. Around this time, Ex-Tropical Cyclone Neville assumed a more consistent course towards the southwest, and crossed over the 90th meridian east into the South-West Indian Ocean [131] [132]. Throughout its existence, Neville remained far from major landmasses; however, it brought near-gale-force gusts, as reported at Cocos Islands Airport, with winds reaching 42 km/h (26 mph), causing significant structural damage at the resort on the island. 
+
+## Severe Tropical Cyclone Megan
+
+On 4 March, the BoM noted the formation of a tropical low over south of Indonesia's Sumatra or Java, designating it as 09U. Over the next couple of days, the BoM reported that it was developing over the western Timor Sea within the trough [155]. Analysis from the JTWC indicated that the disturbance was in a favourable environment for development—featuring sea surface temperatures of 29 to 31 °C (84 to 88 °F), and low to moderate wind shear [155]. By 15 March, the JTWC issued a TCFA on the tropical low and warned that there was a high potential for the disturbance to develop into a tropical cyclone [137]. The tropical low moved into the Gulf of Carpentaria,  whereupon it gradually organised and began to intensify [164] [150]. The same day, the JTWC upgraded the system to Tropical Cyclone 19S, approximately 367 km (230 mi) east of Darwin, Northern Territory [140]. Later the next day, the BoM reported that the tropical low had developed into a Category 1 tropical cyclone and assigned the name Megan [150]. Rapid intensification began the same day, with Megan reaching Category 2 tropical cyclone [142]. The BoM upgraded the storm to a Category 4 severe tropical cyclone at 12:00 UTC,  Operationally, the BoM classified Megan a Category 3 severe tropical cyclone with winds of 155 km/h (100 mph), but during post-cyclone reanalysis concluded a peak wind speed of 165 km/h (105 mph) based on Synthetic-aperture radar measurements [143] [144]. Gradually approaching the southwestern coast of the Gulf of Carpentaria,  the JTWC indicated that one-minute sustained winds had reached 185 km/h (115 mph), equivalent to a Category 3 major hurricane on the SSHWS [145] [150] [150]. Megan made landfall on the southwestern Gulf of Carpentaria coast just after 06:00 UTC on 18 March [148]. Shortly after the landfall, the JTWC discontinued warnings on the system [149]. After moving ashore, the cyclone turned generally southeast and tracked along the inland of Borroloola [150]. The following day, the system was downgraded to a tropical low by the BoM as it approached the inland coast of the Gulf of Carpentaria [151] [152]. Ex-Tropical Cyclone Megan moved inland, tracking across the Northern Territory, before the BoM stopped monitoring the low on 21 March [153]. A planned evacuation in Borroloola was cancelled as planes were not able to land. Groote Eylandt got 600 mm (25 in) of rain. 
+
+## Tropical Low 10U
+
+On 12 March, the BoM started to monitor a possible tropical low within the monsoon trough off the eastern Top End in the Gulf of Carpentaria, designating it as 10U. Over the next couple of days, the tropical low remained poorly organised [157]. By 14 March, the BoM reported that a tropical low had developed within a monsoon trough east of Cape York Peninsula [158]. Later that day, the BoM stopped monitoring the low, as it moved southeast off the coast while continuing to weaken [159]. 
+
+## Severe Tropical Cyclone Olga
+
+On 4 April, the BoM reported that Tropical Low 11U had developed within a monsoonal trough over the south of Indonesia's Sumba. The JTWC assessed environmental conditions as being favourable for tropical cyclogenesis, with good poleward outflow and sea surface temperatures near 30 to 31 °C (86 to 88 °F) being offset by the effects of low to moderate vertical wind shear [161] [163]. Convective activity began organising into a symmetrical circulation, which prompted the JTWC to issue a TCFA on the disturbance as it tracked southwestwards into a favourable environment [163]. By 5 April, the JTWC initiated advisories on the system and classified it as Tropical Cyclone 21S, about 642 km (400 mi) northwest of Learmonth, Western Australia [164] [165]. Later the next day, the BoM reported that the tropical low had developed into a Category 1 tropical cyclone and assigned the name Olga as its deep convection had organised significantly along with improved curvature of its bands [179]. The system developed a central dense overcast and a weak-developing eye [167] [168]. The same day, Olga intensified into a Category 3 severe tropical cyclone, while the JTWC upgraded Olga to the equivalent of a low-end Category 1 hurricane with winds of 120 km/h (75 mph) [179]. By the following day, the storm had undergone rapid intensification to attain its peak strength with sustained winds of 205 km/h (125 mph)—equivalent to a  Category 5 severe tropical cyclone—and an estimated central pressure of 933 hPa (27.55 inHg) [170] [179]. The JTWC estimated one-minute sustained winds at this time to have been 220 km/h (140 mph)—equivalent to a Category 4 major hurricane [172] [173]. Operationally, the BoM classified Olga as a high-end Category 4 severe tropical cyclone with winds of 185 km/h (115 mph), but during post-cyclone reanalysis concluded a peak wind speed of 205 km/h (125 mph) based on Dvorak technique measurements [179]. Upon reaching its peak, Olga entered a phase of steady weakening, whereby its eye disappeared from satellite imagery [1] [31]. By 8 April, the cyclone began to encounter increasing west-northwesterly shear coupled with dry air entrainment [175]. Deep convection becoming displaced to the southeast of an increasingly-exposed LLLC [179]. Olga was re-classified as a tropical low by the BoM at 18:00 UTC on 9 April, despite still producing gale-force winds [179]. By the following day, the JTWC subsequently issued their final advisory on the system, as its gale-force winds soon became confined to the southern quadrant as the low became devoid of deep convection, leaving the LLLC exposed [178] [179]. Shortly after, the BoM stopped monitoring the low, as it moved southwest while continuing to weaken [180]. 
+
+## Tropical Cyclone Paul
+
+On 8 April, the BoM reported that a small Tropical low  had form within the monsoon trough in the northern Coral Sea near Louisiade Archipelago, and predesignated it as 13U. Two days later, the BoM reported that a low had formed within a trough, about 373 km (230 mi) east-southeast of Port Moresby [182]. The tropical low depicted flaring consolidated convection to the LLLC [183]. The same day, the JTWC issued a TCFA, noting a deep convective banding wrapping into a circulation centre [184]. Shortly after, the BoM reported that the tropical low had developed into a Category 1 tropical cyclone and assigned the name Paul [185]. The JTWC followed suit, initiated advisories on the system, and classified it as Tropical Cyclone 22S [186]. Paul featured a ragged central dense overcast and soon became sufficiently organised, obscuring the LLCC, with the BoM upgrading the storm to a Category 2 tropical cyclone [193]. Paul then peaked at 12:00 UTC on 11 April, with 10-minute sustained winds of 95 km/h (60 mph), and a central barometric pressure of 994 hPa (29.35 inHg) [188]. Flaring deep convection became disorganised into a weakly-defined centre due to increasing westerly wind shear [193] [190]. The system was downgraded to a tropical low by the BoM at 00:00 UTC on 12 April [193]. The JTWC subsequently issued their final advisory on the system, as its circulation became disorganised [192]. The circulation of Paul had dissipated on the same day [193]. 
+
+## Tropical Low 12U
+
+On 4 April, the BoM noted that a weak tropical low could form in the Arafura Sea, designating it as 12U. It remained traceable, and the BoM would give the developing tropical low an increased chance of developing into a tropical cyclone [196]. By 11 April, the BoM reported that the probability of becoming a tropical cyclogenesis had decreased due to model guidance [197]. As the system continued to move westwards, it organized further, prompting the tropical low to develop a weak circulation [198]. By 14 April, the BoM stopped monitoring the low as it moved westwards near East Timor while continuing to weaken [208]. 
+
+## Tropical Low 16U
+
+Towards the end of the Australian season, the BoM noted that a tropical low was expected to form north of the Australian Region and also gave the system a 15% chance of tropical cyclogenesis within a few days, designating it as 16U. On 4 May, the BoM reported that it was developing over the Banda Sea [201]. At this stage, the system was located in an area of low vertical wind shear and good upper-level divergence to the northwest of Gove Airport in Australia, while atmospheric isolated convection persisted over the system before the BoM stopped monitoring the tropical low [202]. 
+
+## Other systems
+
+The United States' Joint Typhoon Warning Center (JTWC) reported that Cyclone Djoungou entered the Australian region after crossing the 90th meridian east from the South-West Indian Ocean basin at 18:00 UTC on 19 February, located approximately 1,271 kilometres (790 mi) to the west-southwest of Learmonth, Western Australia. Upon entering the region, the Météo-France (MFR) issued its last advisory on Djoungou as it transitioned into a post-tropical depression [205]. The system had commenced upon entering the region due to the effects of hostile vertical wind shear of 35–40 kn (65–74 km/h) [206]. At this time, the JTWC assessed the system as a subtropical cyclone, with maximum one-minute sustained winds of 55 km/h (35 mph) [207]. The JTWC subsequently issued its final advisory on Djoungou, as its circulation became fully exposed. The Australian Bureau of Meteorology (BoM) indicated that a potential tropical low was expected to form north of Vanuatu in a few days on 12 April, designating it as 14U. The potential tropical low was assessed as having a low probability of developing into a tropical cyclogenesis [208]. Once formed, the low may contribute to a strengthening of the southeasterly winds to the south that will extend towards the southern Queensland coast, until they determine that it will not develop into a tropical cyclogenesis on 18 April [209]. On 15 April, the BoM started highlighting the chances of the development of a tropical low offshore the Top End and also gave the system a 30% chance of tropical cyclogenesis within a few days, designating it as 15U. On 19 April, the BoM also reported that a potential tropical low was starting to form in the eastern Arafura Sea [212] [213]. Shortly after, the BoM stopped monitoring the potential low, as its probability of becoming a tropical cyclogenesis had decreased [214]. 
+
+# Storm names
+
+## Bureau of Meteorology
+
+The Australian Bureau of Meteorology (TCWC Melbourne) monitors all tropical cyclones that form within the Australian region, including any within the areas of responsibility of TCWC Jakarta or TCWC Port Moresby. Should a tropical low intensify into a tropical cyclone  within the BoM's area of responsibility, it will be assigned the next name from the following naming list [216]. The names Lincoln and Megan were used for the first (and only time, in case of Megan) time this season, after replacing Laurence and Magda respectively, from the 2009–10 season. The names that will be used for the 2023–24 season are listed below:. 
+
+## Retirement
+
+Later in 2024, the World Meteorological Organisations RA V Tropical Cyclone Committee retired the names Jasper, Kirrily and Megan, replacing them with the names Julian, Kima and Merryn respectively, due to the damage caused by both systems in Western Australia and the South Pacific. 
+
+## TCWC Jakarta
+
+TCWC Jakarta monitors all tropical cyclones active from the Equator to 11S and from 90E to 145E. Should a tropical depression intensify into a tropical cyclone within TCWC Jakarta's Area of Responsibility, it will be assigned the next name from the following list. 
+
+## TCWC Port Moresby
+
+Tropical cyclones that develop north of 11°S between 151°E and 160°E are assigned names by the Tropical Cyclone Warning Centre in Port Moresby, Papua New Guinea. Tropical cyclone formation in this area is extremely rare, with no cyclones being named in it since 2007. As names are assigned in a random order, the whole list is shown below: [218]. 
+
+# Season effects
+
+This table lists all of the tropical cyclones and subtropical cyclones that were monitored during the 2023–2024 Australian region cyclone season. Information on their intensity, duration, name, areas affected, primarily comes from TCWC Melbourne. Death and damage reports come from either press reports or the relevant national disaster management agency while the damage totals are given in 2023 or 2024 USD.. 
+
+# References
+
+[1] http://www.bom.gov.au/clim_data/IDCKMSTM0S.csv
+[2] http://www.bom.gov.au/climate/cyclones/australia/archive/20231009.archive.shtml
+[3] http://www.bom.gov.au/climate/cyclones/south-pacific/archive/20231012.archive.shtml
+[4] https://web.archive.org/web/20231012095245/https://niwa.co.nz/sites/niwa.co.nz/files/tc_outlook_2023-24.pdf
+[5] https://archive.today/20231205074743/https://tgftp.nws.noaa.gov/data/raw/ax/axau21.abrf..txt
+[6] https://archive.today/20231206061948/https://www.wis-jma.go.jp/d/o/ABRF/Alphanumeric/Analysis/Miscellaneous/20231206/015500/A_AXAU21ABRF060155_C_RJTD_20231206015617_100.txt
+[7] https://news.yahoo.com/cyclone-jasper-makes-landfall-australia-073833747.html
+[8] https://archive.today/20240111061235/http://www.bom.gov.au/cyclone/
+[9] https://archive.today/20240111120259/http://www.bom.gov.au/cyclone/
+[10] https://web.archive.org/web/20240124004105/http://www.bom.gov.au/cyclone/
+[11] https://archive.today/20240112014028/http://www.bom.gov.au/cyclone/
+[12] https://archive.today/20240202133249/https://www.wis-jma.go.jp/d/o/NFFN/Alphanumeric/Warning/Warnings_and_weather_summary/20240202/000000/A_WWPS21NFFN020000_C_RJTD_20240202003131_37.txt
+[13] https://web.archive.org/web/20240216070211/http://www.bom.gov.au/products/IDD65011.shtml
+[14] https://archive.today/20240301182408/http://www.bom.gov.au/cyclone/
+[15] http://www.meteo.fr/temps/domtom/La_Reunion/webcmrs9.0/anglais/activiteope/bulletins/zcit/ZCITA_202403241211.pdf
+[16] http://www.bom.gov.au/cyclone/
+[17] https://archive.today/20240314111504/http://www.bom.gov.au/cyclone/
+[18] https://archive.today/20240404002319/http://www.bom.gov.au/cyclone/
+[19] http://web.archive.org/web/20240403000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[20] https://archive.today/20240408133316/http://www.bom.gov.au/cyclone/
+[21] https://archive.today/20240407122746/http://www.bom.gov.au/cyclone/
+[22] https://archive.today/20240504125201/http://www.bom.gov.au/cyclone/
+[23] http://www.bom.gov.au/cyclone/
+[24] https://archive.today/20231203125316/https://www.wis-jma.go.jp/d/o/NFFN/Alphanumeric/Warning/Warnings_and_weather_summary/20231203/060000/A_WWPS21NFFN030600_C_RJTD_20231203074117_56.txt
+[25] http://www.bom.gov.au/cyclone/
+[26] https://www.metoc.navy.mil/jtwc/products/sh9024web.txt
+[27] https://www.metoc.navy.mil/jtwc/products/sh0323web.txt
+[28] https://web.archive.org/web/20231205144959/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20018.txt
+[29] https://www.metoc.navy.mil/jtwc/products/sh0123web.txt
+[30] https://archive.today/20231207235452/https://www.wis-jma.go.jp/d/o/ABRF/Alphanumeric/Analysis/Miscellaneous/20231207/191100/A_AXAU21ABRF071911_C_RJTD_20231207191318_84.txt
+[31] http://www.bom.gov.au/climate/current/season/tropics/archive/202404.summary.shtml
+[32] https://www.metoc.navy.mil/jtwc/products/sh0123web.txt
+[33] https://www.metoc.navy.mil/jtwc/products/sh0123web.txt
+[34] https://archive.today/20231213142104/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20023.html
+[35] https://archive.today/20231215151705/http://www.bom.gov.au/cyclone/
+[36] https://archive.today/20231218123847/http://www.bom.gov.au/cyclone/
+[37] https://www.jbarisk.com/products-services/event-response/tropical-cyclone-jasper-december-2023/
+[38] https://www.weatherzone.com.au/news/two-qld-locations-register-australias-3rd-and-4th-wettest-day-on-record-provisional-data-shows/1685632
+[39] [ERROR retrieving ref link]
+[40] https://archive.today/20240109010628/http://www.bom.gov.au/cyclone/
+[41] https://archive.today/20240111061235/http://www.bom.gov.au/cyclone/
+[42] https://web.archive.org/web/20240111182229/https://www.metoc.navy.mil/jtwc/products/abioweb.txt
+[43] https://web.archive.org/web/20240114145501/https://www.metoc.navy.mil/jtwc/products/sh9824web.txt
+[44] https://web.archive.org/web/20240115130426/https://www.metoc.navy.mil/jtwc/products/sh0624prog.txt
+[45] https://archive.today/20240115134626/https://tgftp.nws.noaa.gov/data/raw/ax/axau02.aprf..txt
+[46] https://tropicalcyclone.bmkg.go.id/
+[47] https://web.archive.org/web/20240120071456/http://www.bom.gov.au/products/IDW60285.shtml
+[48] https://web.archive.org/web/20240122131149/https://www.metoc.navy.mil/jtwc/products/sh0624prog.txt
+[49] https://archive.today/20240124092353/https://www.wis-jma.go.jp/d/o/APRF/Alphanumeric/Analysis/Miscellaneous/20240124/073500/A_AXAU02APRF240735_C_RJTD_20240124073717_43.txt
+[50] https://archive.today/20240125083513/https://tgftp.nws.noaa.gov/data/raw/ax/axau02.aprf..txt
+[51] https://www.metoc.navy.mil/jtwc/products/sh0323web.txt
+[52] https://archive.today/20240124133030/https://tgftp.nws.noaa.gov/data/raw/ax/axau02.aprf..txt
+[53] http://www.meteo.fr/temps/domtom/La_Reunion/webcmrs9.0/anglais/activiteope/bulletins/cmrs/CMRSA_202401251434.pdf
+[54] https://archive.today/20240107123233/http://www.bom.gov.au/cyclone/
+[55] https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[56] https://archive.today/20240117005730/http://www.bom.gov.au/cyclone/
+[57] https://archive.today/20240120105055/http://www.bom.gov.au/cyclone/
+[58] https://archive.today/20240124002158/http://www.bom.gov.au/cyclone/
+[59] https://archive.today/20240122084134/http://www.bom.gov.au/cyclone/
+[60] https://www.abc.net.au/news/2024-01-16/weather-monsoon-heat-rain-cyclone-thunderstorms/103324904
+[61] https://www.weatherzone.com.au/news/monsoon-low-taking-flooding-rain-from-the-nt-to-kimberley/1749180
+[62] https://archive.today/20240109010628/http://www.bom.gov.au/cyclone/
+[63] https://archive.today/20240112014028/http://www.bom.gov.au/cyclone/
+[64] https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[65] https://www.metoc.navy.mil/jtwc/products/sh9024web.txt
+[66] https://web.archive.org/web/20240121010546/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20065.txt
+[67] http://web.archive.org/web/20240123000000/https://www.metoc.navy.mil/jtwc/products/sh0624prog.txt
+[68] https://web.archive.org/web/20240124090233/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20018.txt
+[69] https://archive.today/20240124130844/https://tgftp.nws.noaa.gov/data/raw/ax/axau21.abrf..txt
+[70] https://archive.today/20240125064942/https://tgftp.nws.noaa.gov/data/raw/ax/axau21.abrf..txt
+[71] https://www.ssd.noaa.gov/PS/TROP/DATA/ATCF/JTWC/bsh072024.dat
+[72] https://www.metoc.navy.mil/jtwc/products/sh0123web.txt
+[73] https://web.archive.org/web/20240125194757/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20018.txt
+[74] https://archive.today/20240126084957/http://www.bom.gov.au/cyclone/
+[75] https://web.archive.org/web/20240131000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[76] https://web.archive.org/web/20240201025934/https://www.metoc.navy.mil/jtwc/products/sh0724web.txt
+[77] https://www.metoc.navy.mil/jtwc/products/sh0323web.txt
+[78] https://archive.today/20240201123912/http://www.bom.gov.au/cyclone/
+[79] https://www.metoc.navy.mil/jtwc/products/sh0323web.txt
+[80] https://archive.today/20240203092203/http://www.bom.gov.au/cyclone/
+[81] https://crisis24.garda.com/alerts/2024/01/coral-sea-tropical-cyclone-kirrily-tracking-westward-toward-the-north-central-queensland-coast-jan-24-update-1
+[82] https://www.rnz.co.nz/news/world/507572/tropical-cyclone-kirrily-downgraded-to-category-one-system-as-it-crosses-north-queensland-coast
+[83] https://archive.today/20240129125725/http://www.bom.gov.au/cyclone/
+[84] https://archive.today/20240131103937/http://www.bom.gov.au/cyclone/
+[85] https://archive.today/20240130232214/http://www.bom.gov.au/cyclone/
+[86] https://archive.today/20240205013548/http://www.bom.gov.au/cyclone/
+[87] https://web.archive.org/web/20240207140114/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[88] https://archive.today/20240207211342/https://tgftp.nws.noaa.gov/data/raw/ax/axau21.abrf..txt
+[89] http://www.bom.gov.au/cyclone/history/lincoln2024.shtml
+[90] https://www.abc.net.au/news/2024-02-14/bom-issues-cyclone-watch-for-gulf-of-carpentaria-nt-queensland/103467800
+[91] https://archive.today/20240214014020/http://www.bom.gov.au/cyclone/
+[92] https://archive.today/20240206235148/http://www.bom.gov.au/cyclone/
+[93] https://web.archive.org/web/20240214071055/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[94] https://web.archive.org/web/20240215062243/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[95] http://web.archive.org/web/20240215000000/https://www.metoc.navy.mil/jtwc/products/sh9824web.txt
+[96] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[97] https://web.archive.org/web/20240216042715/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDD20020.txt
+[98] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[99] https://web.archive.org/web/20240216070211/http://www.bom.gov.au/products/IDD65011.shtml
+[100] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[101] https://web.archive.org/web/20240216131921/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDD20130.txt
+[102] https://archive.today/20240218121919/http://www.bom.gov.au/cyclone/
+[103] https://web.archive.org/web/20240221113102/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[104] https://web.archive.org/web/20240221142735/https://www.metoc.navy.mil/jtwc/products/sh1424web.txt
+[105] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[106] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[107] https://web.archive.org/web/20240224012611/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[108] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[109] https://archive.today/20240224142533/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[110] https://web.archive.org/web/20240302100749/http://www.bom.gov.au/climate/tropical-note/
+[111] https://web.archive.org/web/20240302132903/http://www.bom.gov.au/climate/tropical-note/archive/20240220.archive.shtml
+[112] https://archive.today/20240301182408/http://www.bom.gov.au/cyclone/
+[113] https://archive.today/20240304100551/http://www.bom.gov.au/cyclone/
+[114] http://web.archive.org/web/20240306000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[115] http://web.archive.org/web/20240318000000/https://www.metoc.navy.mil/jtwc/products/sh9824web.txt
+[116] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[117] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[118] https://archive.today/20240316094843/https://www.wis-jma.go.jp/d/o/APRF/Alphanumeric/Analysis/Miscellaneous/20240314/132100/A_AXAU01APRF141321_C_RJTD_20240314132318_1.txt
+[119] https://archive.today/20240317072910/https://tgftp.nws.noaa.gov/data/raw/ax/axau01.aprf..txt
+[120] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[121] http://web.archive.org/web/20240319000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[122] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[123] https://web.archive.org/web/20240320083454/http://www.bom.gov.au/products/IDW60281.shtml
+[124] https://web.archive.org/web/20240320142608/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[125] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[126] https://web.archive.org/web/20240322143154/https://tropicalcyclonedata.net/adv/arch/axau01aprf_211900.txt
+[127] https://web.archive.org/web/20240322144026/https://tropicalcyclonedata.net/adv/arch/axau01aprf_220729.txt
+[128] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[129] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[130] https://web.archive.org/web/20240323115014/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[131] https://web.archive.org/web/20240324045717/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[132] https://web.archive.org/web/20240324073052/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[133] http://www.meteo.fr/temps/domtom/La_Reunion/webcmrs9.0/anglais/activiteope/bulletins/zcit/ZCITA_202403241211.pdf
+[134] http://www.bom.gov.au/cyclone/history/neville24.shtml
+[135] http://www.bom.gov.au/cyclone/
+[136] http://www.bom.gov.au/cyclone/
+[137] https://wiki.chlod.net/jtwc/text/2024-03-11-1930-abpwweb.txt
+[138] http://web.archive.org/web/20240318000000/https://www.metoc.navy.mil/jtwc/products/sh9424web.txt
+[139] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[140] https://archive.today/20240316124835/https://www.wis-jma.go.jp/d/o/ADRM/Alphanumeric/Analysis/Miscellaneous/20240315/070100/A_AXAU01ADRM150701_C_RJTD_20240315070318_1.txt
+[141] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[142] https://archive.today/20240316125847/https://www.wis-jma.go.jp/d/o/ADRM/Alphanumeric/Analysis/Miscellaneous/20240316/070600/A_AXAU01ADRM160706_C_RJTD_20240316070817_60.txt
+[143] https://archive.today/20240316132711/https://tgftp.nws.noaa.gov/data/raw/ax/axau01.adrm..txt
+[144] https://archive.today/20240317054947/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDD20150.html
+[145] http://www.bom.gov.au/cyclone/history/megan2024.shtml
+[146] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[147] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[148] https://www.ssd.noaa.gov/PS/TROP/DATA/ATCF/JTWC/bsh192024.dat
+[149] https://archive.today/20240318123252/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDD20020.txt
+[150] https://www.metoc.navy.mil/jtwc/products/sh1824web.txt
+[151] https://archive.today/20240318132005/http://www.bom.gov.au/products/IDD65011.shtml
+[152] https://web.archive.org/web/20240318163755/http://www.bom.gov.au/products/IDD65011.shtml
+[153] https://web.archive.org/web/20240318222107/http://www.bom.gov.au/products/IDD65011.shtml
+[154] http://www.bom.gov.au/cyclone/
+[155] http://www.bom.gov.au/cyclone/
+[156] https://abcnews.go.com/International/wireStory/tropical-cyclone-megan-crossing-australias-northern-coast-strong-108258018
+[157] https://archive.today/20240312075051/http://www.bom.gov.au/cyclone/index.shtml
+[158] http://web.archive.org/web/20240311000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[159] https://archive.today/20240314035804/http://www.bom.gov.au/cyclone/
+[160] https://archive.today/20240314111504/http://www.bom.gov.au/cyclone/
+[161] https://archive.today/20240404002319/http://www.bom.gov.au/cyclone/
+[162] http://web.archive.org/web/20240403000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[163] http://web.archive.org/web/20240403000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[164] http://web.archive.org/web/20240318000000/https://www.metoc.navy.mil/jtwc/products/sh9424web.txt
+[165] http://web.archive.org/web/20240404000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[166] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[167] https://web.archive.org/web/20240406032440/http://www.bom.gov.au/products/IDW60281.shtml
+[168] https://web.archive.org/web/20240406074434/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[169] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[170] https://web.archive.org/web/20240406232300/http://www.bom.gov.au/products/IDW60281.shtml
+[171] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[172] https://web.archive.org/web/20240407135605/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[173] https://archive.today/20240414072033/https://www.wis-jma.go.jp/d/o/APRF/Alphanumeric/Analysis/Miscellaneous/20240407/133900/A_AXAU01APRF071339_C_RJTD_20240407134118_2.txt
+[174] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[175] https://web.archive.org/web/20240407212911/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[176] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[177] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[178] https://web.archive.org/web/20240409224758/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[179] https://www.metoc.navy.mil/jtwc/products/sh2124web.txt
+[180] https://archive.today/20240410142701/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDW27600.txt
+[181] https://archive.today/20240411020414/http://www.bom.gov.au/cyclone/
+[182] https://archive.today/20240408133316/http://www.bom.gov.au/cyclone/
+[183] https://archive.today/20240410045114/http://www.bom.gov.au/cyclone/
+[184] http://web.archive.org/web/20240410000000/https://www.metoc.navy.mil/jtwc/products/abpwweb.txt
+[185] http://web.archive.org/web/20240410000000/https://www.metoc.navy.mil/jtwc/products/sh9424web.txt
+[186] https://web.archive.org/web/20240410221725/http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20018.txt
+[187] https://www.metoc.navy.mil/jtwc/products/sh2224web.txt
+[188] https://web.archive.org/web/20240412013439/https://tropicalcyclonedata.net/adv/arch/axau21_110111.txt
+[189] https://www.metoc.navy.mil/jtwc/products/sh2224web.txt
+[190] https://web.archive.org/web/20240420132424/https://tropicalcyclonedata.net/adv/arch/axau21_111317.txt
+[191] https://www.metoc.navy.mil/jtwc/products/sh2224web.txt
+[192] https://web.archive.org/web/20240412113041/https://tropicalcyclonedata.net/adv/arch/axau21_120134.txt
+[193] https://www.metoc.navy.mil/jtwc/products/sh2224web.txt
+[194] https://archive.today/20240413004211/http://www.bom.gov.au/cyclone/
+[195] http://www.bom.gov.au/cyclone/history/paul24.shtml
+[196] https://archive.today/20240404125543/http://www.bom.gov.au/cyclone/
+[197] https://archive.today/20240407122746/http://www.bom.gov.au/cyclone/
+[198] https://archive.today/20240411094952/http://www.bom.gov.au/cyclone/
+[199] https://archive.today/20240412103037/http://www.bom.gov.au/cyclone/
+[200] https://archive.today/20240413233024/http://www.bom.gov.au/cyclone/
+[201] https://archive.today/20240429023140/http://www.bom.gov.au/cyclone/
+[202] https://archive.today/20240504125201/http://www.bom.gov.au/cyclone/
+[203] https://archive.today/20240504231846/http://www.bom.gov.au/cyclone/
+[204] https://wiki.chlod.net/jtwc/text/2024-05-05-0610-abpwweb.txt
+[205] https://www.metoc.navy.mil/jtwc/products/sh0323web.txt
+[206] http://www.meteo.fr/temps/domtom/La_Reunion/webcmrs9.0/anglais/activiteope/bulletins/cmrs/CMRSA_202402191314.pdf
+[207] https://www.metoc.navy.mil/jtwc/products/sh1324web.txt
+[208] https://archive.today/20240412103037/http://www.bom.gov.au/cyclone/
+[209] https://archive.today/20240413004211/http://www.bom.gov.au/cyclone/
+[210] https://archive.today/20240418001110/http://www.bom.gov.au/cyclone/
+[211] https://archive.today/20240417160350/http://www.bom.gov.au/cyclone/
+[212] https://archive.today/20240415100638/http://www.bom.gov.au/cyclone/
+[213] https://archive.today/20240417160350/http://www.bom.gov.au/cyclone/
+[214] https://archive.today/20240419110645/http://www.bom.gov.au/cyclone/
+[215] https://archive.today/20240420010911/http://www.bom.gov.au/cyclone/
+[216] https://community.wmo.int/tropical-cyclone-operational-plans
+[217] http://www.bom.gov.au/cyclone/tropical-cyclone-knowledge-centre/understanding/tc-names/
+[218] https://archive.today/20130704162247/http://www.australiasevereweather.com/cyclones/2008/summ0713a.htm
+[219] https://www.cairnspost.com.au/news/cairns/more-assessors-on-the-ground-in-fnq-to-aid-recovery-from-cyclone-jasper/news-story/70a712eb54756195c16c347986cd37d8

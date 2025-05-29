@@ -1,0 +1,405 @@
+2024_CrowdStrike-related_IT_outages
+
+On 19 July 2024, American cybersecurity company CrowdStrike distributed a faulty update to its Falcon Sensor security software that caused widespread problems with Microsoft Windows computers running the software. As a result, roughly 8.5 million systems crashed and were unable to properly restart in what has been called the largest outage in the history of information technology and "historic in scale".
+The outage disrupted daily life, businesses, and governments around the world. Many industries were affected—airlines, airports, banks, hotels, hospitals, manufacturing, stock markets, broadcasting, gas stations, retail stores, and more—as were governmental services, such as emergency services and websites. The worldwide financial damage has been estimated to be at least US$10 billion.
+Within hours, the error was discovered and a fix was released, but because many affected computers had to be fixed manually, outages continued to linger on many services.
+
+# Background
+
+CrowdStrike produces a suite of security software products for businesses, designed to protect computers from cyberattacks. Falcon, CrowdStrike's endpoint detection and response agent, works at the operating system kernel level on individual computers to detect and prevent threats. Patches are routinely distributed by CrowdStrike to its clients to enable their computers to address new threats [11]. CrowdStrike's own post-incident investigation identified several errors that led to the release of a fault update to the "Crowdstrike Sensor Detection Engine":  [non-primary source needed] [13]. 
+
+# Outage
+
+On 19 July at 04:09 UTC, CrowdStrike distributed a faulty configuration update for its Falcon sensor software running on Windows PCs and servers. A modification to a configuration file which was responsible for screening named pipes, Channel File 291, caused an out-of-bounds memory read  in the Windows sensor client that resulted in an invalid page fault [14]. The update caused machines to either enter into a bootloop or boot into recovery mode. Almost immediately, Windows virtual machines on the Microsoft Azure cloud platform began rebooting and crashing,  and at 06:48 UTC, Google Compute Engine also reported the problem [17]. The problem affected systems running Windows 10 and Windows 11 running the CrowdStrike Falcon software. Most personal Windows PCs were unaffected, as CrowdStrike's software is primarily used by organizations [18] [15]. The CrowdStrike software did not provide a way for subscribers to delay the installation of its content files [18]. Computers running macOS and Linux were unaffected, as the problematic content file was only for Windows,  but similar problems had affected Linux distributions of CrowdStrike software in April 2024 [19] [20]. CrowdStrike reverted the content update at 05:27 UTC,  and devices that booted after the revert were not affected [23]. At 07:15 UTC, Google said that the CrowdStrike update was at fault. Within hours, CrowdStrike CEO George Kurtz confirmed that CrowdStrike's faulty kernel configuration file update had caused the problem [25]. At 09:45 UTC, Kurtz confirmed that the fix was deployed   and that the problem was not the result of a cyberattack [8] [7] [26] [27]. The impact to companies in the Central United States was exacerbated by an unrelated outage with Microsoft Azure the previous day. On 18 July, the Azure platform had an outage that blocked some companies' access to their storage and to Microsoft 365 applications in Azure's Central United States region [29]. 
+
+## Remedy
+
+Affected machines could be restored by rebooting while connected to the network; ideally while connected to Ethernet, thus providing the opportunity to download the reverted channel file, with multiple reboots reportedly required. If crashes persisted, remediation required booting into safe mode or the Windows Recovery Environment and deleting any .sys file beginning with C-00000291- and with timestamp 04:09 UTC in the %windir%\System32\drivers\CrowdStrike\ directory. As this process needed to be done locally on each individual machine, it was "expected to take days" for affected businesses to restore all systems [28]. Technical staff needed to reboot the affected computers individually with manual intervention on each system [32]. On devices with Windows' BitLocker disk encryption enabled, which corporations often use to increase security, fixing the problem was exacerbated because the 48-digit numeric Bitlocker recovery keys (unique to each system) required manual input, with additional challenges supplying the recovery keys to end users working remotely. Additionally, several organisations utilising local servers for Bitlocker recovery key storage could not access keys that were stored on servers that themselves had crashed. Microsoft has also recommended restoring a backup from before 18 July to fix the issue. 
+
+# Impact
+
+Outages were experienced worldwide,    reflecting the wide use of Microsoft Windows and CrowdStrike software by global corporations in numerous business sectors [2] [39] [40]. At the time of the incident, CrowdStrike said it had more than 24,000 customers,  including nearly 60% of Fortune 500 companies and more than half of the Fortune 1000 [41] [42]. On 20 July, Microsoft estimated that 8.5 million devices were affected by the update, which it said was less than one percent of all Windows devices [43] [44]. Widespread outages were immediately reported across multiple countries, with major global disturbances experienced by the general public sweeping from east to west from time zone to time zone. [citation needed] [clarification needed] At 04:09 UTC on 19 July, the time when the faulty update was issued, it was the middle of the business day of Oceania and Asia, the early morning hours in Europe, and midnight in much of the Americas.. Some countries were less affected. China, which has striven toward self-sufficiency in IT, saw little impact to key services such as airlines and banks, although foreign businesses and luxury hotels in the country were affected. Russia and Iran—both restricted by international sanctions from using the services of American high-tech companies—reported no disruptions [45]. Cyber risk quantification company, Kovrr, calculated that the total cost to the UK economy will likely fall between £1.7 and £2.3 billion ($2.18 and $2.96 billion). A specialist cloud outage insurance business estimated that the top 500 US companies by revenue, excluding Microsoft, had faced near $5.4bn (£4.1bn) in financial losses because of the outage, but only between $540m (£418m) to $1.08bn (£840m) of those losses would be insured. 
+
+## CrowdStrike liability
+
+CrowdStrike's own terms and conditions for their Falcon software limit liability to "fees paid", effectively a refund. Larger customers may have negotiated different terms. In the EU, it is possible that CrowdStrike will be held liable under a GDPR regulation related to the impact of security incidents on user data. The regulation is best known in relation to data leaks but also applies to data destruction. It is unclear whether temporary loss of access to data is enough to trigger liability, or whether GDPR applies to all incidents related to security or only unauthorised access. Further, the incident could be classed as a "personal data breach" which would be a data breach of the GDPR under Article 4 named "Definitions", paragraph 12. On 19 July 2024, a data-protection expert reported a breach of Article 32 named "Security of processing" [51] [52]. 
+
+## Air transport
+
+Globally, 5,078 air flights, 4.6% of those scheduled that day, were cancelled. An unrelated Microsoft Azure outage, affecting services such as Microsoft 365, compounded airlines' problems [54] [27]. 
+
+### Oceania
+
+Australian airlines Qantas, Virgin Australia, and Jetstar were affected. A Sydney Airport spokesperson said that the outage had affected some operations and that "there may be some delays throughout the evening" [56] [57]. Melbourne Airport saw check-in procedures disrupted; officials advised passengers to consult with their airlines [58]. The Adelaide, Brisbane, Canberra, Darwin, Hobart, Launceston, and Perth airports were also affected. In New Zealand, Christchurch Airport was having problems [2] [5] [59] [60]. 
+
+### Asia
+
+Hong Kong International Airport experienced delays during check-in, primarily for passengers of the local budget carrier Hong Kong Express, whose staff members used handwritten signs to direct passengers to check-in counters. The Hong Kong Airport Authority activated an emergency response after airline websites and automatic check-in malfunctioned [63]. The booking systems of local airlines Cathay Pacific, Hong Kong Express, and Hong Kong Airlines were unavailable. HKExpress cancelled some flights on 20 July [64]. Jeju Air  and Spring Japan  experienced problems [65] [54] [54]. [clarification needed] Jetstar Japan cancelled many (mostly domestic) flights. Some of the self-check-in kiosks in Singapore Changi Airport were affected, delaying and forcing airlines to switch to manual check-in, and Singapore Airlines and Scoot reported various [weasel words] levels of service difficulties throughout 19 July [66] [67]. Cebu Pacific and Philippines AirAsia flights were delayed [68] [69]. Long queues formed at Ninoy Aquino International Airport [70] [71] [72]. In Taiwan, airline system disruptions were reported at Taoyuan International Airport [73]. In Indonesia, disruptions were reported for the check-in systems of AirAsia and Citilink [74] [75]. In Thailand, Thai AirAsia's reservation and check-in systems were affected [76]. In India, the outage affected Indigo Airlines, Akasa Air, SpiceJet, and Vistara. Handwritten boarding passes were being issued during the outage. The Ministry of Civil Aviation asked and ordered the airlines as well as the airports to be compassionate and provide food as well as seats to waiting customers as needed. As of 18:14 IST (12:44 UTC), over 200 Indian flights had been cancelled; IndiGo alone cancelled 192 [78] [79] [80] [81]. Airlines that relied on Microsoft Azure for their services were affected [82]. Air India and SpiceJet said that none of its flights were cancelled due to the outage, attributing it to their robust cyber system however, minute delays were reported [83]. 
+
+### Europe
+
+Prague Airport   in Czechia, Budapest Airport  in Hungary, Bratislava Airport  in Slovakia, and Schiphol Airport  in the Netherlands experienced problems [5] [85] [27] [86] [87]. Planes were not allowed to land at Zurich Airport. Near Brussels, Charleroi Airport employees manually checked passengers in, but other software alleviated problems by 10:00 (UTC+2) and there were minimal delays [54]. ENAIRE's Aena, the Spanish national airport traffic control manager, mentioned an IT outage in their website and social media [88]. All Spanish airports reported disruptions [89]. Charles de Gaulle Airport and Orly Airport experienced check-in problems and suspended flights [90]. Poznań–Ławica Airport and Warsaw Chopin Airport experienced check-in disruptions [91]. An emergency system was activated, and check-in processes were slower. Berlin Brandenburg Airport announced that since around 07:00 (UTC+2), operational processes were affected by "IT problems at an external provider", and that they planned to stop flights until 08:00 UTC [92]. While passenger handling continued with some restrictions, there were delays and airlines cancelled some flights [81] [93]. Several airlines (Eurowings, Ryanair, Vueling, and Turkish Airlines) in Hamburg Airport had to issue tickets by hand [94]. Croatian and Swedish air traffic control were also disrupted [95]. Swiss International Air Lines had 30% of flights grounded. Lufthansa in Germany experienced problems with the "profile and booking retrieval" features of their website [98]. Ryanair's booking and check-in services were unavailable and the airline was "forced to cancel a small number of flights", advising passengers to arrive at airports at least three hours before departure [99]. Wizz Air said the outage put its online services offline [100] [101]. Dutch airline KLM suspended most operations, announcing that flight handling was impossible with the issue, [citation needed] and Transavia Airlines experienced problems [102] [103]. Finnair reported that they were having trouble sending emails and SMS messages to customers [87] [104]. In Greece, citizens and tourists saw delays at major airports, notably at Athens International Airport and at Heraklion International Airport [105]. This disruption, occurring at the peak of the tourist season, resulted in chaotic scenes as passengers were forced to wait for hours for their flights. Contributing factors included severe staff shortages and new schedules. In Heraklion, eight flights were problematic [106] [107]. The airport's chief, George Pliakas, indicated that flights were being manually arranged to manage the disruption, but the influx of arriving flights strained the system. Several UK airports had problems, including Edinburgh Airport, whose departure boards froze,  and Gatwick Airport, where automatic barcode scanning stopped working and had to be checked manually [110]. Amadeus, which manages UK baggage at Heathrow, said they were affected by the IT outage [54]. Disruption to flights was anticipated in the Isle of Man, particularly to and from the UK, but ultimately minimal [111]. 
+
+### Middle East and North Africa
+
+Tunisia experienced temporary airport disruptions. Turkish Airlines cancelled some of its flights due to the outage [113]. 
+
+### North America
+
+In the mid-morning of Friday 19 July, a ground stop was issued by United, Delta, and American Airlines, halting takeoffs but allowing aircraft aloft to reach their destinations. Allegiant Air was also grounded by the outage [16] [115]. Around 10:30 a.m [5] [116]. Eastern time, AP reported that about 1,500 flights had already been cancelled in the United States due to the outage. American Airlines, United, and Allegiant recovered relatively quickly after Friday [66]. But Delta, by far the hardest hit of the US major airlines, experienced an operational meltdown that continued through the weekend. The airline cancelled more than 1,200 flights on Friday. Thousands of stranded travellers were forced to spend the night at Hartsfield–Jackson Atlanta International Airport, Delta's largest hub and the busiest airport in the world by passenger traffic [118] [119]. Metro Atlanta hotels and rental car companies were overwhelmed by the crisis, leaving travellers no option but to stay in the airport [119]. One traveller attempting to return home to Tampa (after giving up on reaching California) reported that Amtrak was charging $1,000 for a one-way train ticket from Atlanta to Tampa [120] [121]. Visibly distraught passengers with nowhere to go were seen trying to sleep in the airport on hard linoleum floors without blankets or food [122]. The airport's custodial staff were also overwhelmed, with restrooms and trash reportedly "out of control" [119]. Without warning, Delta banned unaccompanied minors on its flights through the end of 23 July [121]. This imposed hardship on parents who had been counting on that service to enable their children to fly without the expense of an accompanying adult [123]. Delta cancelled more than 1,400 flights on 20 July,  and more than 1,300 flights on 21 July [124]. With so many passengers still stuck in Hartsfield–Jackson after two consecutive nights, the airport implemented a "concessions crisis plan" and a plan to reunite passengers with their checked baggage [125]. However, passengers in Atlanta continued to report "jam-packed" conditions and "heartbreaking" scenes in the terminals [124]. On 21 July, Delta CEO Ed Bastian apologised to customers in a statement and revealed that the outage had left one of Delta's crew-tracking software programs "unable to effectively process the unprecedented number of changes triggered by the system shutdown". Delta CIO Rahul Samant said the program had been brought back online around 11 a.m [125] [127]. on 19 July, but was overwhelmed by the backlog of updates awaiting processing and had been trying to catch up ever since. After the ground stop left too many crew members in the wrong places, Delta struggled to assemble enough pilots and flight attendants at airport gates to operate scheduled flights [126]. Many flights were repeatedly delayed and finally cancelled because the one or two crew members who made it to the gate for a particular flight kept hitting their legal flight time limit before the airline could finish fully staffing the flight, and this caused the crisis to snowball as those crew and their aircraft were now in the wrong place for the following day's flights [127]. (A similar phenomenon occurred during the 2022 Southwest Airlines scheduling crisis [127]. ) That same day, US Secretary of Transportation Pete Buttigieg said on social media that the US Department of Transportation had received hundreds of complaints about Delta, and reminded the airline of its legal obligations to affected passengers [125]. On 22 July, Delta cancelled more than 1,200 flights. On 23 July, the Department of Transportation announced the launch of a formal investigation into Delta's treatment of passengers [126]. Delta officials promised to cooperate but said the airline was focused on its recovery [126]. Senator Maria Cantwell, in her capacity as chair of the Senate Committee on Commerce, Science, and Transportation, wrote to Bastian to express her concern for Delta passengers [126]. On 23 July, Secretary Buttigieg estimated that over 500,000 passengers had been affected by Delta flight cancellations [126]. He told a press conference, "There's a lot of things I'm very concerned about, including people being on hold for hours and hours, trying to get a new flight, people having to sleep on airport floors, even accounts of unaccompanied minors being stranded in airports, unable to get on a flight" [128]. He told CBS News: "Stories about people in lines of more than a hundred people with just one customer service agent serving them at an airport, that's completely unacceptable."  By then, numerous passengers had ended up in different airports than their baggage because of Delta's flight cancellations, resulting in large piles of unclaimed suitcases and other checked baggage at Delta's airport terminals around the world [129] [130]. On 25 July, Delta returned to normal flight operations, having cancelled more than 7,000 flights; passengers had filed more than 5,000 complaints about Delta with the Department of Transportation. On 26 July, The Washington Post reported that the department was investigating allegedly misleading communications from Delta that offered only credit towards future Delta flights as compensation for cancelled flights and failed to clearly notify passengers of their legal right to a cash refund [132]. On 31 July, Delta CEO Ed Bastian said the disruption had cost the airline $500 million, and he said that Delta would sue CrowdStrike to recoup some of its losses. On 8 August, Delta confirmed in a filing with the US Securities and Exchange Commission that over 7,000 flights had been cancelled over five days, and estimated its losses at $380 million in lost revenue and $170 million in expenses (adding up to about $550 million) [133]. Delta also estimated that around 1.3 million passengers had been affected by the flight cancellations [134]. United Airlines' smaller number of cancellations had a significant impact on its hubs. For example, San Mateo County hotels around San Francisco International Airport rapidly filled up with travellers on 19 July. Guests reported difficulty with checking into the local Marriott hotel because Marriott International was also recovering from the outage [136]. Southwest Airlines (the third largest US major airline by domestic passengers) was entirely unaffected. A Southwest spokesperson confirmed that the airline had seen no impact from the CrowdStrike outage but refused to confirm speculation among aviation industry analysts that it had been shielded by its notoriously outdated software. The flight delays meant that many people who had traveled to the 2024 Republican National Convention—which concluded the day the outages started—were stuck in the convention's host city of Milwaukee, Wisconsin. Montréal–Trudeau International Airport and Toronto Pearson International Airport were affected in Canada, and Porter Airlines cancelled all flights. Vancouver International Airport was also reportedly affected in Canada, although it was unclear whether this was directly related to the global outages [140]. 
+
+## Finance
+
+Microsoft and CrowdStrike stocks fell as a result of the outage. CrowdStrike's stock fell more than 11% on 19 July, although Microsoft stock was down less than 1%. Banks that were affected included Chase, Bank of America, Wells Fargo, U.S. Bank, Capital One and Charles Schwab in the US;  RBC, Scotiabank, and TD Bank in Canada;    Capitec Bank and other South African banks;  several Israeli banks;  and several banks in the Philippines, including RCBC, Metrobank, LandBank, BDO, UnionBank, BPI, and PNB [143] [144] [145] [146] [27] [147]. E-wallets such as Maya and GCash also experienced problems in the Philippines [148] [149]. The website and mobile banking application of DenizBank in Turkey could not be accessed [150]. Visa was affected [151]. Numerous Singaporean companies, including Singapore Exchange (SGX) and DBS Bank, reported various levels of service difficulties throughout 19 July [41]. In India, the Reserve Bank of India said that only 10 banks and NBFCs were affected by the outage;   few banks use CrowdStrike tools and many banks' critical systems do not run on the cloud [152] [153]. NSE, BSE,  and India's largest bank, State Bank of India, said they were unaffected [153]. In Brazil, Bradesco Bank confirmed it was affected. During the morning customers were able to login, but at 12:00 UTC the bank disabled the login button. New Zealand banks ASB and Kiwibank were affected, while Australian banks Westpac  and ANZ also had problems [58]. Apps of Australian banks NAB, Westpac, ANZ, Commonwealth Bank, Bendigo Bank, and Suncorp were affected [61]. The London Stock Exchange, while operating normally, was unable to push news updates to its website. English gambling company Ladbrokes Coral and English supermarket chain Morrisons also reported problems [54]. Polish banks, including Santander Bank Polska, ING Bank Śląski and mBank, encountered issues related to the outage [54]. Santander BP's helpline, video, and chat services were affected. PKO Bank Polski clarified that its iPKO and IKO services were stable, but other banks faced difficulties. In Finland, OP Financial Group reported minor disruptions on investment partner and stock savings accounts [156]. Sense Bank in Ukraine experienced outages due to the update [157]. Paraguayan banks Ueno and Banco Continental were affected; their customers were unable to log in. 
+
+## Government
+
+The United States Department of Homeland Security, NASA, Federal Trade Commission, National Nuclear Security Administration, Department of Justice, and Department of Education were affected, and the Department of the Treasury and Department of State reported minor disruptions. The Department of Veterans Affairs and Department of Energy experienced disruptions, but it is not currently known if they are related to the incident. DMV agencies for the states of Georgia, Kansas, Missouri, North Carolina, Tennessee, and the District of Columbia were affected [160]. Ted Wheeler, the mayor of Portland, Oregon, declared the outages to be a city emergency [161] [162] [163]. Election and voting registration databases in Arizona, South Dakota, Texas and the state of Washington were affected [164] [165]. The website for the city of Sioux Falls, South Dakota, went down [166]. In the United States, there were outages in 911 service or disruptions in 911 call centres' operation in some parts of Alaska,  Arizona,  Florida,  Iowa,  Indiana,  Kansas,  Michigan,  Minnesota,  New York,  Ohio,  Oregon,  Pennsylvania,  and Virginia [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179]. 911 was down for all of New Hampshire [171]. In addition, Alaska was experiencing issues with non-emergency call centres [180] [181]. Many call centres switched to working backup systems [181]. The CM/ECF and PACER computer systems used by the US federal courts were unaffected. However, several state courts reported problems with their computer systems, including courts in Alaska, California, Delaware, Idaho, Kansas, Maryland, Massachusetts, Michigan, Nevada, New York, and Pennsylvania [182]. In New York City, courts and correctional facilities were disrupted, delaying a hearing in the trial of Harvey Weinstein for sex offenses [182]. Government websites in the Philippines, such as the website of the House of Representatives of the Philippines, were down due to the outage. In Canada, services in Toronto were affected,  and Canada Child Benefit payments were delayed [184]. New Zealand Parliament had problems [185] [186]. Sunshine Coast Council was one of several councils affected in Australia [81]. The National Security Authority spokesman confirmed several institutions in Slovakia were affected [5]. The fire department in Copenhagen, Denmark, was unable to receive automatic fire alerts from buildings. 
+
+## Ground transport
+
+Traffic disruptions were reported at the US–Canada border,    including long delays at the Ambassador Bridge and Detroit–Windsor tunnel between Ontario and Michigan [189] [185] [145]. The Canada Border Services Agency blamed a partial outage of its telephone reporting system which was later resolved [184]. There were long delays and police advised motorists to avoid the area [140] [189]. The Washington Metro Area Transit Authority suffered minor service delays in the early morning in America; their website/live tracking was unavailable until around 9:30 am on 19 July [190]. The Massachusetts Bay Transportation Authority in Boston, as well as the Metropolitan Transportation Authority in New York, lost vehicle tracking and arrival notices for passengers [191]. Most of North American freight and passenger train operators went largely unaffected aside from some technical issues within Union Pacific and Canadian Pacific Kansas City, Amtrak was mostly unaffected aside from issues with credit card processing during the morning [192]. Malaysia's railway operator, Keretapi Tanah Melayu, confirmed that its KITS ticketing system was experiencing technical issues. Transport for Ireland said its apps were down due to the outage [194]. Ireland's Road Safety Authority said it was experiencing "significant disruption" to its National Car Test (NCT) centres [195]. In Singapore, the entrance and exit gantries of over 185 car parks managed by the Housing and Development Board (HDB) were affected [196]. Fuel stations have also been affected in Australia, with people stuck at fuel pumps unable to pay for petrol because payment systems were not working. Auckland Transport's HOP card in New Zealand had problems [58]. Australian freight train operator Aurizon was affected [61]. Regional trains in New South Wales, Australia on the Hunter Line and the Southern Highlands Line were cancelled or delayed with the Regional Bus and Train network in Victoria operated by V/Line having all lines suspended [5]. UK rail companies were also affected. Cab riders in London could not pay with credit or with debit cards and thus required cash [110] [199]. In Sweden  and Belgium,  tickets for public transport could not be sold, and Keolis Nederland experienced issues [54] [200] [211]. 
+
+## Healthcare
+
+Many hospitals across North America paused non-urgent surgeries and visits. Some affected hospitals, while remaining open, had limited, if any, access to patient records [202]. In the United States, Memorial Sloan Kettering Cancer Center postponed all procedures that required anaesthesia, the Mass General Brigham hospital system cancelled all non-emergency procedures and medical visits,   and the Cincinnati Children's Hospital Medical Center was also affected [203] [204] [205]. University Health Network experienced technical issues in Canada, saying hospitals' clinical activity would continue but warning that appointments may be delayed [16]. A number of other Canadian hospitals faced difficulties, with Newfoundland and Labrador Health Services activating contingency plans as patient record systems were affected [189]. LabCorp  and Quest Diagnostics  were affected by the outage [190] [206] [207]. Kaiser San Jose Medical Center lost access to patient records, as well as systems that monitored newborn baby's vital signs, and the security systems to keep babies from being taken. Other hospitals lost surveillance cameras and the ability for employee badges to unlock secure areas [208]. England's National Health Service (NHS) said that the issues are "causing disruption in the majority of  [English] GP practices",  with some of its services, such as GP surgeries, which rely on a software product called EMIS Web, unable to view and manage medical records, issue and manage prescriptions, or make appointments [208] [27]. Manx Radio reported that GP surgeries were affected in the Isle of Man [54]. The London Ambulance Service experienced an unprecedented surge  in 999 and 111 calls following the outage, responding to 4,500 emergency calls by 17:00 (BST) [209] [54]. Two-thirds of Northern Ireland's general practices (GPs) were affected. At hospitals radiation therapy, bookings for operating theatres, and staff rosters are also affected. In Belgium, FPS Public Health said the outage disrupted new-patient admissions in two hospitals, which activated their emergency IT plans. Two hospitals in Lübeck and Kiel, Germany, cancelled non-emergency operations [211]. The Spanish regional governments of Aragon, Basque Country, Castilla-La Mancha, Catalonia, and Galicia reported problems with their healthcare services [54]. Hospital Fernando Fonseca  [pt] in Portugal reported problems,  while the Catholic Health system in New York experienced outages that caused delays in services [212] [213]. In the Netherlands, the outages affected two hospitals—the Scheperziekenhuis in Emmen and the Slingeland Ziekenhuis in de Achterhoek—and numerous emergency aid stations were also affected, including those in Emmen, Hoogeveen, and Stadskanaal. Systems in Wesley Hospital and St Andrews Hospital in Brisbane, Australia, were affected. The Central Health information system in Croatia was affected, although it was clarified that it was due to a concurrent issue tied with moving their servers to a new location. In Israel, Magen David Adom and its emergency service hotline was affected. Hospitals including Sheba Medical Center, Rambam Hospital and Laniado Hospital were experiencing problems that led to longer waiting times and delayed surgeries. The pharmaceutical company Krka in Slovenia suffered a full production outage and sent its workforce home. 
+
+## Media and communications
+
+Numerous American TV stations were unable to broadcast because of the global outage. KSHB-TV, one of the affected stations, had to resort to airing national news via Scripps News. ESPN was unable to air the morning editions of SportsCenter on the morning of the outage in America, instead airing ESPN Radio's Unsportsmanlike, simulcasting with ESPN2 [66]. [self-published source?] ESPN and ESPN2 later simulcasted Get Up! and First Take in place of SportsCenter, albeit without on-air graphics or b-roll [217]. Various Paramount channels were also affected including Nicktoons (with its West Coast feed switching to an old emergency feed), TeenNick, BET Her, NickMusic and most channels on the Pluto TV service [218] [219]. MeTV Toons was sent off the air for five and a half hours. Mercedes AMG PETRONAS F1 Team (which is sponsored by CrowdStrike) also suffered issues on the Friday of the Hungarian Grand Prix, with a Mercedes spokesperson confirming that the team had to manually address the problem on every computer it used. The issue also affected their engine customers, McLaren, Aston Martin and Williams. Many video screens in New York City's Times Square turned off [220]. When some companies let their employees go home early as a result of the incident,  the topic "Thank you Microsoft for an early vacation" momentarily became Weibo's most popular term [222]. Universal Studios Japan announced that they would not be selling tickets via ticket booths over the weekend due to the outage; however, tickets would still be sold online or via designated ticket sales sites [223]. Vodafone experienced outages. The issue affected the office laptops of DPG Media Belgium – which impacts JOE and QMusic Radio, banks, post services, and government agencies [158]. Telephone communication with the urban services in Antwerp were also affected [211]. The Centre for Cybersecurity Belgium stated that the impact in Belgium was limited [224]. Sky News was unable to broadcast live in the UK,  as was the BBC's CBBC, a free-to-air children's television channel [211] [225]. Irish national broadcaster RTÉ said its newsroom was hit by "intermittent internet outages" with minimal impact to output [54]. The Canadian Broadcasting Corporation was also affected [226] [227]. Several French TV channels affected by the issues include TF1, TFX, LCI and Canal+ Group networks. Phone and internet service provider Bouygues Telecom has also announced the unavailability of its customer service as a result of the outage [228]. The operations of the 2024 Summer Olympics, scheduled to start the following week in Paris, France, were also affected [229]. The outage occurred a day after the Olympic Village opened and organisers were processing the arrivals of athletes and delegates. The organising committee said that a contingency plan was activated and that only the delivery of uniforms and accreditations were affected. The incident slowed down the operations, with the accreditation desk at the press centre closed and security checks done manually using a list of names [230]. IT workers and the BPO industry were affected in the Philippines. Numerous Singaporean companies, including SPH Media, Singtel, and M1, reported various levels of service difficulties throughout the day on 19 July [232]. Australian media firms affected by the issues include the ABC, SBS, Seven Network and Nine Network. Ticketing at Docklands Stadium for Friday night's Australian Football League match between the Essendon Bombers and the Adelaide Crows was affected [39]. Israel Post was affected  and Ukrainian Nova Poshta experienced outages [147]. In the US, UPS and FedEx were affected [158]. Sim racing service iRacing was also affected by the outage in America. Various Korean online games, like Black Desert Online, Ragnarok Online, and Ragnarok Origin shut down [234]. Amazon Web Services, eBay, Google Cloud, Instagram, and Plenty of Fish were also affected. 
+
+## Retail
+
+Supermarkets in the Philippines were affected due to crashed POS systems. [dubious – discuss] German supermarket chain Tegut closed some of its stores [236]. Customers experienced payment problems at Foodstuffs and Woolworths supermarkets in New Zealand [237]. Coles was also affected [61]. British grocery chain Waitrose could only accept cash from customers [5]. Self-checkout and online order systems at some Australian retailers and fast food chains were out of service [238]. The mobile application of the Starbucks coffee chain was limited to basic viewing of accounts made before the update; ordering was limited to in-store purchases only; some outlets saw cash register software crashes. In the United States, sporting goods retailer Dick's Sporting Goods closed some of its stores and saw temporary outages to its website. Convenience store chain 7-Eleven experienced problems at Speedway locations that still used BlueCube and Radiant Site Manager dating from the days Speedway was owned by Marathon Petroleum Corporation, with some stores unable to accept credit or debit transactions while others were closed outright. In Norway, the pharmacy chain Apotek1 and the insurance company Tryg suspended services; the Vitusapotek and Boots pharmacy chains were also affected. Norway experienced little further impact because of CrowdStrike's limited market share in the country [243] [244]. Amazon saw disruption to its warehouse operations and internal software. An app used in Amazon warehouses to manage schedules and time-off requests called 'A to Z' was taken down by the outage and an internal service called 'Anytime Pay' became unavailable to employees. Operations were briefly halted at some sites, while Amazon's trucking operations were disrupted, with drivers saying a platform they use called 'Relay' suffered issues meaning they were briefly unable to pick up loads at warehouses. 
+
+## Other sectors
+
+The outage affected terminal operations at DCT Gdańsk, a major container hub in the Baltic port of Gdańsk in Poland. Shipping ports in the US were unaffected for the most part, although the Port of Houston (which handles the most foreign tonnage) closed briefly [247]. In Sweden, the Malmberget mine was evacuated as a precaution. Tickets for soccer games could not be sold [249]. In the United States, security provider ADT was affected. In Germany, Tesla halted production at its Gigafactory Berlin-Brandenburg for about four hours. 
+
+# Response
+
+In a live interview on NBC's Today, CrowdStrike CEO George Kurtz apologised to the public. He said company leaders were "deeply sorry for the impact that we've caused to customers, to travellers, to anyone affected by this, including our companies". CrowdStrike warned that malicious actors might try to pose as its staff or independent researchers claiming to help fix the problem [252]. CrowdStrike offered $10 UberEats vouchers to some employees at companies that sell and support its software as thanks for helping Crowdstrike customers recover, prompting ridicule given the costs associated with the outage. Uber flagged the code as suspicious as it was used so frequently, so it did not work for some users [254]. CrowdStrike won the 2024 Pwnie Awards for the Most Epic Fail,  which CrowdStrike president Michael Sentonas accepted in person at DEF CON's annual Pwnie Awards show [256]. A parody website named ClownStrike was created in the aftermath of the incident; CrowdStrike later sent a Digital Millennium Copyright Act (DMCA) takedown notice to the owner of the site [257]. 
+
+## Political
+
+The Australian government held a national emergency meeting to address the outage. The National Coordination Mechanism was activated; Prime Minister Anthony Albanese said, "I understand Australians are concerned about the outage that is unfolding globally and affecting a wide range of services. My Government is working closely with the National Cyber Security Coordinator". He later said, "There is no impact to critical infrastructure, government services, or Triple-0 services at this stage" [61] [259]. Victorians were advised to call Triple-0 if a fire alarm sounds or smoke is detected, as some automatic alarms in buildings may not automatically call fire services due to the outage [260]. United States president Joe Biden's administration was in touch with CrowdStrike to offer assistance, and on 23 July, Kurtz was invited to appear before Congress to explain how the outage occurred and what CrowdStrike was doing to prevent future incidents. The UK government's COBR committee met to discuss the incident. India's Minister of Information and Technology Ashwini Vaishnav said that the government was in touch with Microsoft. The government's cybersecurity agency CERT-IN classified the incident as "critical". In Russia, the government noted that the sanctions and boycotts placed on Russia as a result of its invasion of Ukraine in 2022 had unintentionally shielded it from the outage. Russia's Digital Communications Ministry said, "At the moment, the ministry has not received reports of system failures at Russian airports," and "The situation with Microsoft once again shows the importance of import substitution of foreign software, primarily at critical information infrastructure facilities." The Russian Federal Air Transport Agency confirmed that no domestic airlines were affected [263]. The Kremlin stated that its systems were working as normal [263]. An editorial in the Chinese state-run Global Times suggested a need for decreased dependency on Western firms, stating that reliance on "top companies to lead network security efforts" can introduce security risks and noting the perceived irony of the United States leading global security efforts while major companies monopolise the industry. 
+
+## Industry
+
+Cybersecurity consultant Troy Hunt called the incident the "largest IT outage in history", adding: "This is basically what we were all worried about with Y2K, except it's actually happened this time". Slate described it as "Y2K Lite" [265] [266]. News reporters have used the term "digital pandemic" to describe the outage [267]. Elon Musk—CEO of Tesla, X Corp, Neuralink, and SpaceX—posted on X that CrowdStrike has been "deleted from all our systems". AirAsia CEO Tony Fernandes demanded answers and compensation for millions of dollars in revenue he said the company had lost in the incident. Chinese cybersecurity companies such as 360 Security, QAX and Tencent took advantage of the CrowdStrike incident to promote their own software. 
+
+## Criminal
+
+Governments worldwide and cybersecurity agencies warned of digital phishing scams after the incident. Cyber criminals started sending phishing emails purporting to be CrowdStrike support and impersonating CrowdStrike staff in phone calls shortly afterward. 
+
+# Analysis
+
+## Cause
+
+The 19 July update was an instance of a template that was tested and released in March 2024 as part of an update to the Falcon Sensor software. This new instance, Channel File 291, passed validation due to a bug in CrowdStrike's content verification software. The Falcon Sensor itself parses the file differently in a way that led to a software crash in kernel mode. [278] [14]. 
+
+## Centralisation and homogeneity
+
+The outage raised questions about oligopoly and centralisation in the information technology sector. The majority of the world's computers use Microsoft Windows, creating a monoculture that reduces resiliency [279] [280]. Ciaran Martin, a cybersecurity expert, said, "This is a very, very uncomfortable illustration of the fragility of the world's core internet infrastructure" [140] [280]. Critical infrastructure expert Gregory Falco said, "Cybersecurity providers are part of this homogenous backbone of modern systems and are so core to how we operate that a glitch in their operations will have similar impacts to failures in systems that are household names" [140]. Security experts suggested more redundancy to avoid single points of failure,  wider use of decentralised and heterogeneous federated systems,  and public anger at the failure of political leaders to regulate for diversity and competition [281] [279] [280]. Conversely, cybersecurity expert Andrew Plato argued that monocultures are a net positive, “from a security perspective, there’s actually a lot of benefits to running a smaller, standardized set of software, because it allows you to spot a problem quicker and easier." [140] [282]. 
+
+## IT practices
+
+Experts speculate that the update was not put through routine patch management procedures (testing the update in a sandbox) to verify there were no problems. Mandating disclosure of breaches and vulnerabilities has also been suggested. In an interview with Wired, cybersecurity consultant Jake Williams said that this outage has "shown why pushing updates without IT intervention is unsustainable," and that "people may now demand changes in this operating model." [284] [285]. 
+
+## Operating system design and antitrust enforcement
+
+Microsoft blamed a 2009 antitrust agreement with the European Union that they said forced them to sustain low-level kernel access to third-party developers. The document does not explicitly state that Microsoft has to provide kernel-level access, but says Microsoft must provide access to the same APIs used by its own security products [286] [287] [288]. The EU rejected the allegations [287]. The European Commission spokesperson told Euronews that "Microsoft is free to decide on its business model. It is for Microsoft to adapt its security infrastructure to respond to threats in line with EU competition law. Additionally, consumers are free to benefit from competition and choose between different cybersecurity providers.". The spokesperson also said that "the incident was not limited to the European Union and that Microsoft has never raised any concerns about security with the Commission either before or after the incident." [289]. In Linux, it is possible to use eBPF instead of kernel modules to program this type of software. Since macOS Catalina (2019), this type of software can use the Endpoint Security Framework instead of a kernel extension, and this approach has been gradually enforced. 
+
+# References
+
+[1] https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/
+[2] https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death
+[3] https://www.nytimes.com/2024/07/19/business/dealbook/tech-outage-crowdstrike-microsoft.html
+[4] https://www.upi.com/Top_News/World-News/2024/07/19/IT-failure-hits-causes-chaos-around-world/2531721376791
+[5] https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960
+[6] https://www.businessinsider.com/businesses-claiming-losses-crowdstrike-outage-insurance-billions-losses-cyber-policies-2024-7
+[7] https://www.ndtv.com/world-news/fix-deployed-ceo-of-firm-behind-global-microsoft-outage-6140433
+[8] https://www.cnbc.com/2024/07/19/what-is-crowdstrike-crwd-and-how-did-it-cause-global-it-outages.html
+[9] https://www.cnn.com/2024/07/19/business/recovery-global-crowdstrike-outage/index.html
+[10] https://www.independent.co.uk/tech/microsoft-it-outage-crowdstrike-windows-flights-latest-update-b2583539.html
+[11] https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue
+[12] https://www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/
+[13] https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf
+[14] https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/
+[15] https://cybersecuritynews.com/crowdstrike-update-bsod-loop/
+[16] https://abcnews.go.com/US/american-airlines-issues-global-ground-stop-flights/story?id=112092372
+[17] https://azure.status.microsoft/en-us/status/
+[18] https://www.techradar.com/pro/website-hosting/millions-of-windows-servers-down-after-crowdstrike-update-how-it-happened-and-how-to-fix
+[19] https://www.theregister.com/2024/07/23/crowdstrike_lessons_to_learn/
+[20] https://mashable.com/article/crowdstrike-microsoft-outage-windows-blue-screen-explained
+[21] https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/
+[22] https://www.computing.co.uk/news/4338038/crowdstrike-updates-caused-linux-outages-april
+[23] https://www.crowdstrike.com/blog/statement-on-windows-sensor-update/
+[24] https://www.eye.security/blog/crowdstrike-falcon-blue-screen-issue-updates
+[25] https://status.cloud.google.com/incidents/DK3LfKowzJPpZq4Q9YqP
+[26] https://x.com/George_Kurtz/status/1814235001745027317
+[27] https://news.sky.com/story/outages-latest-airports-business-and-broadcasters-experiencing-issues-worldwide-13180821
+[28] https://www.crowdstrike.com/blog/technical-details-on-todays-outage/
+[29] https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html
+[30] https://www.techradar.com/pro/microsoft-says-its-cloud-services-are-back-up-after-major-outage
+[31] https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc
+[32] https://www.cnbc.com/2024/07/19/crowdstrike-suffers-major-outage-affecting-businesses-around-the-world.html
+[33] https://www.bbc.co.uk/news/articles/cn4vgq5150qo
+[34] https://www.wired.com/story/crowdstrike-outage-update-windows
+[35] https://www.forbes.com/sites/kateoflahertyuk/2024/07/19/crowdstrike-windows-outage-what-happened-and-what-to-do-next
+[36] https://www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/
+[37] https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/
+[38] https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/
+[39] https://www.news.com.au/technology/online/massive-outage-hits-companies-around-the-world/news-story/e02375a976a08b45e72e64040fe14362
+[40] https://www.nytimes.com/live/2024/07/19/business/global-tech-outage
+[41] https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage
+[42] https://www.bbc.com/news/articles/cp4wnrxqlewo
+[43] https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/
+[44] https://www.fool.com/investing/2021/12/16/why-crowdstrike-holdings-stock-was-gaining-today/
+[45] https://www.scmp.com/tech/big-tech/article/3271171/microsoft-outage-leaves-china-largely-untouched-tech-self-sufficiency-campaign-pays
+[46] https://www.reuters.com/technology/sanctioned-russia-emerges-unscathed-global-it-outage-2024-07-19/
+[47] https://www.iranintl.com/en/202407193661
+[48] https://www.kovrr.com/reports/the-uk-cost-of-the-crowdstrike-incident
+[49] https://www.bbc.co.uk/news/articles/ce58p0048r0o
+[50] https://www.businessinsider.com/crowdstrike-terms-conditions-limits-damages-to-refund-2024-7
+[51] https://www.fastcompany.com/91160759/crowdstrike-data-gdpr
+[52] https://gdpr-info.eu/art-4-gdpr
+[53] https://gdpr-info.eu/art-32-gdpr
+[54] https://www.bbc.com/news/live/cnk4jdwp49et
+[55] https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-cloud-pcs-stuck-restarting-after-crowdstrike-update/
+[56] https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t
+[57] https://www.bbc.com/news/articles/cv2g5lvwkl2o
+[58] https://www.abc.net.au/news/2024-07-19/global-tech-outage-latest/104120106
+[59] https://www.escape.com.au/news/airlines-thrown-into-chaos-as-global-microsoft-outage-hits/news-story/981be5728c7290a9cf42b562c654d0cc
+[60] https://pulsetasmania.com.au/news/multiple-flights-cancelled-at-tasmanian-airports-due-to-global-it-outage/
+[61] https://www.1news.co.nz/2024/07/19/live-banks-stores-airport-reporting-issues-amid-global-it-issues/
+[62] https://www.nst.com.my/news/nation/2024/07/1078757/firefly-airasia-systems-down-amid-worldwide-it-disruption
+[63] https://www.thestandard.com.hk/breaking-news/section/4/218559/Microsoft-system-global-outage-affects-HK-Express-and-Cathay-Pacific,-switching-to-manual-check-ins
+[64] https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3271092/global-microsoft-aviation-outage-hits-hong-kongs-airport-check-services-operated-manually
+[65] https://news.rthk.hk/rthk/en/component/k2/1762388-20240720.htm?
+[66] https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime
+[67] https://www3.nhk.or.jp/nhkworld/en/news/20240719_23/
+[68] https://www.asiaone.com/singapore/major-worldwide-it-outage-spread-singapore-straits-times-dbs-changi-airport-singtel
+[69] https://www.businesstimes.com.sg/companies-markets/several-singapore-companies-affected-global-it-outage-check-ins-changi-airport-processed-manually
+[70] https://business.inquirer.net/469477/cebu-pacific-system-down-due-to-microsoft-outage
+[71] https://www.gmanetwork.com/news/money/companies/913963/microsoft-outage-disrupts-operations-of-cebu-pacific-airasia-philippines/story/
+[72] https://manilastandard.net/news/314473620/global-system-outage-affects-airlines-in-the-philippines.html
+[73] https://news.abs-cbn.com/business/2024/7/19/microsoft-says-probing-issue-after-outage-reports-1513
+[74] https://www.taipeitimes.com/News/front/archives/2024/07/20/2003821054
+[75] https://focustaiwan.tw/sci-tech/202407190017
+[76] https://bisnis.tempo.co/read/1893557/sistem-layanan-maskapai-penerbangan-indonesia-airasia-dan-citilink-terdampak-gangguan-itglobal
+[77] https://www.bangkokpost.com/life/tech/2832251/fix-delivered-for-tech-outage-that-caused-chaos-worldwide
+[78] https://www.ndtv.com/world-news/microsoft-blue-screen-of-death-flights-markets-banks-stock-exchange-microsoft-outage-crippling-sectors-6139053
+[79] https://indianexpress.com/article/business/aviation/global-microsoft-outage-indigo-akasa-air-india-9463089/
+[80] https://economictimes.indiatimes.com/nri/visit/microsoft-tech-glitch-aviation-cos-across-globe-affected-check-in-systems-impacted-at-mumbai-delhi-airports/articleshow/111855229.cms
+[81] https://www.rnz.co.nz/news/business/522606/live-it-outages-reported-worldwide-for-banks-stores-airports-media
+[82] https://timesofindia.indiatimes.com/world/us/microsoft-windows-outage-live-updates-windows-bsod-error-blue-screen-of-death/liveblog/111856162.cms
+[83] https://www.hindustantimes.com/business/explained-how-the-microsoft-crowdstrike-it-outage-hurt-airlines-worldwide-101721410382290.html
+[84] https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/microsoft-crowdstrike-how-the-massive-outage-is-affecting-flights-and-services-in-india-and-beyond/articleshow/111864652.cms?from=mdr
+[85] https://cedarnews.net/breakingnews/737658/prague-airport-has-been-affected-by-outage-of-global-check-in-system/
+[86] https://tech.sme.sk/c/23359380/vypadok-it-systemy-letiska-televizie.html
+[87] https://nos.nl/artikel/2529464-wereldwijd-problemen-door-computerstoring-ook-schiphol-getroffen
+[88] https://www.brusselstimes.com/belgium/1146329/major-global-computer-outage-problems-at-brussels-airport-and-sncb-tbtb
+[89] https://x.com/aena/status/1814199738180223279
+[90] https://www.barrons.com/news/all-spanish-airports-impacted-by-it-outage-operator-b7dc5b29
+[91] https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664
+[92] https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/9549009,awarie-w-polsce-nie-dzialaja-banki-problemy-na-lotniskach-lista.html
+[93] https://www.tagesspiegel.de/berlin/massive-technische-storung-betrieb-am-flughafen-ber-zum-ferienstart-eingestellt-12051248.html
+[94] https://ber.berlin-airport.de/en/pages/aktuelle-reiseinformationen.html
+[95] https://www.tagesschau.de/ausland/it-panne-computer-global-100.html
+[96] https://www.vecernji.hr/vijesti/butkovic-kontrola-plovidbe-nije-dovedena-u-pitanje-nije-se-dogodio-kiberneticki-napad-1786062
+[97] https://www.svt.se/nyheter/lokalt/vast/storningar-pa-landvetter-efter-it-problem-langa-koer-och-strul-pa-flygplatsen
+[98] https://www.theguardian.com/business/article/2024/jul/19/uk-airports-trains-disrupted-microsoft-global-it-outage
+[99] https://www.euronews.com/travel/2024/07/19/microsoft-outage-flight-delays-and-cancellations-arrive-at-the-airport-early-say-airlines
+[100] https://www.ryanair.com/ie/en/lp/travel-updates/articles/potential-disruptions-across-the-network
+[101] https://x.com/Ryanair/status/1814284604385186237
+[102] https://wizzair.com/en-gb/latest-travel-information
+[103] https://x.com/wizzair/status/1814224179442413585
+[104] https://www.keolis.nl/
+[105] https://x.com/FinnairSuomi/status/1814267986326299033
+[106] https://www.newsbomb.gr/ellada/story/1568041/panikos-sto-aerodromio-el-venizelos-doste-mas-ena-domatio-na-dianyktereysoume-exoume-moro
+[107] https://www.cnn.gr/ellada/story/430261/sarose-kai-to-eleftherios-venizelos-to-pagkosmiko-mplak-aout-sta-pliroforiaka-systimata
+[108] https://www.in.gr/2024/07/19/greece/vlavi-sti-microsoft-epirease-kai-aerodromio-irakleiou/
+[109] https://www.news247.gr/ellada/megales-kathisteriseis-sto-aerodromio-irakleiou-logo-tou-mazikou-black-out/
+[110] https://www.bbc.co.uk/news/live/cnk4jdwp49et
+[111] https://www.lbc.co.uk/news/global-it-outage-down-airplane-live/
+[112] https://www.manxradio.com/news/isle-of-man-news/some-flights-could-be-affected-due-to-mass-it-outage/
+[113] https://www.leconomistemaghrebin.com/2024/07/19/la-tunisie-epargnee-par-la-panne-mondiale-malgre-des-perturbations-aeroportuaires-temporaires/
+[114] https://www.haberler.com/guncel/turk-hava-yollari-dunya-capindaki-aksaklik-17537736-haberi/
+[115] https://www.msn.com/en-us/news/other/delta-united-and-american-airlines-flights-grounded-due-to-communication-issue-faa-says/ar-BB1qg30t
+[116] https://www.pennlive.com/news/2024/07/all-delta-united-allegiant-and-american-airlines-flights-grounded-heres-what-we-know.html
+[117] https://onemileatatime.com/news/delta-operational-meltdown-flights-cancelled/
+[118] https://www.wsj.com/lifestyle/travel/flight-cancellations-caused-by-tech-outage-continue-through-weekend-de3cff9c
+[119] https://www.ajc.com/news/business/global-it-outage-strands-thousands-at-atlanta-airport-travel-mess-could-last-days/M2S4GVLFZVBRPLJZIASBN5JIPA/
+[120] https://www.atlantanewsfirst.com/2024/07/20/backups-continue-hartsfield-jackson-airport-after-global-tech-outage/
+[121] https://www.nytimes.com/2024/09/13/travel/crowdstrike-outage-delta-airlines.html
+[122] https://www.cnn.com/2024/07/20/us/flights-canceled-delayed-global-it-outage/index.html
+[123] https://www.nytimes.com/2024/07/23/business/delta-it-outage-flights-minors.html
+[124] https://www.ajc.com/news/business/delta-offers-information-for-passengers-affected-global-it-outage/B3VR4HYLSVBNRIBKNG6ZC6YPBU/
+[125] https://www.nytimes.com/2024/07/22/business/delta-global-tech-outage-pete-buttigieg.html
+[126] https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/
+[127] https://www.ajc.com/news/business/heres-why-delta-melted-down-after-tech-outage-while-others-recovered/MKXZDWXVFVCPVP752SJ2ITYLTU/
+[128] https://www.atlantanewsfirst.com/2024/07/23/thousands-delta-passengers-still-stranded-flight-cancellations-continue-days-after-it-outage/
+[129] https://www.washingtonpost.com/transportation/2024/07/26/delta-canceled-flights-investigation-crowdstrike/
+[130] https://www.cbsnews.com/news/delta-flight-cancellations-today-dot-investigation-crowdstrike-outage/
+[131] https://www.thestreet.com/travel/delta-crowdstrike-outage-lost-suitcases
+[132] https://mynews13.com/fl/orlando/news/2024/07/25/delta-air-lines--dot--airline
+[133] https://qz.com/delta-crowdstrike-500-million-ceo-says-1851609955
+[134] https://www.ajc.com/news/business/delta-attorney-fires-off-another-letter-to-crowdstrike-attorney-in-dispute/4FDPBUTCIRE5PJQE374K5Y3BJM/
+[135] https://www.bbc.com/news/articles/c6284e7r7d7o
+[136] https://sfstandard.com/2024/07/19/worldwide-internet-technology-outag/
+[137] https://www.sfgate.com/travel/article/southwest-escapes-problems-worldwide-outage-19584828.php
+[138] https://thespectator.com/politics/delayed-rnc-attendees-chicago-migrant-hotel/
+[139] https://www.am1100theflag.com/news/north-dakota-republican-delegates-struggling-to-return-home-due-to-global-it-outage/
+[140] https://www.cbc.ca/news/world/cyber-outage-disrupts-global-services-crashes-windows-pcs-1.7268863
+[141] https://vancouver.citynews.ca/2024/07/19/microsoft-outage-worldwide/
+[142] https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-07-19-2024/card/mVZUhTlDpQdDsx6NYdKP
+[143] https://www.statesman.com/story/news/state/2024/07/19/banks-outage-microsoft-crowdstrike-global-technology-issues/74469447007/
+[144] https://www.cbc.ca/news/canada/ottawa/ottawa-crowdstrike-outages-1.7268896
+[145] https://ca.news.yahoo.com/live/global-it-outage-hits-canada-airports-td-bank-us-border-hospital-disruptions-and-more-after-faulty-crowdstrike-update-154145288.html
+[146] https://www.bnnbloomberg.ca/business/2024/07/26/scotiabank-customers-report-not-receiving-payroll-deposits/
+[147] https://www.ynetnews.com/article/s1f7r5do0
+[148] https://www.gmanetwork.com/news/money/companies/913970/ph-banks-digital-services-hit-by-global-microsoft-outage/story/
+[149] https://business.inquirer.net/469535/ph-banks-also-hit-by-microsoft-outage
+[150] https://www.philstar.com/business/2024/07/19/2371419/philippine-banks-hit-global-it-outage
+[151] https://www.birgun.net/haber/microsoft-taki-ariza-denizbank-in-internet-sitesine-ve-mobil-uygulamasina-erisilemiyor-545786
+[152] https://www.hindustantimes.com/business/rbi-on-global-microsoft-outage-indian-banks-insulated-only-minor-disruptions-101721392584137.html
+[153] https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-mumbai-delhi-flight-operations-affected/article68421219.ece
+[154] https://economictimes.indiatimes.com/industry/banking/finance/banking/sbis-systems-unaffected-by-global-microsoft-outage-khara-says-all-fine/articleshow/111859195.cms?from=mdr
+[155] https://economia.uol.com.br/noticias/reuters/2024/07/19/bradesco-diz-que-plataformas-digitais-foram-afetadas-por-apagao-cibernetico-global.htm
+[156] https://tvpworld.com/79376930/polish-prime-minister-microsoft-outage-poses-no-threat-to-national-security
+[157] https://www.iltalehti.fi/digiuutiset/a/08908d8a-16f3-4720-b60e-c017c01d602b
+[158] https://espreso.tv/suspilstvo-u-roboti-novoi-poshti-stavsya-zbiy-shcho-vidomo
+[159] https://www.abc.com.py/nacionales/2024/07/19/fallo-de-microsoft-dos-bancos-de-paraguay-tuvieron-problemas-con-sus-aplicaciones/
+[160] https://fedscoop.com/federal-government-agencies-affected-by-worldwide-it-outage/
+[161] https://www.businessinsider.com/mass-it-outage-companies-operations-airlines-affected-microsoft-crowdstrike-2024-7
+[162] https://www.popville.com/2024/07/about-that-microsoft-outage/
+[163] https://www.kansascity.com/news/local/article290235994.html
+[164] https://www.kgw.com/article/news/local/technology/portland-state-of-emergency-crowdstrike-outage/283-5ce4a056-754a-4959-86b2-deddb7fc1b85
+[165] https://katu.com/news/local/ted-wheeler-declares-city-emergency-due-to-crowdstrike-issue-portland-oregon-multnomah-county
+[166] https://abcnews.go.com/US/global-outage-24-hours-impacts-world/story?id=112123299
+[167] https://www.keloland.com/news/local-news/outage-impacting-sioux-falls-airport/
+[168] https://www.alaskasnewssource.com/2024/07/19/alaska-experiencing-statewide-911-outage/
+[169] https://www.azcentral.com/story/news/local/phoenix-breaking/2024/07/19/phoenix-area-emergency-response-systems-down/74465872007/
+[170] https://www.wflx.com/2024/07/19/worldwide-microsoft-outage-affecting-local-911-services/
+[171] https://www.wbaltv.com/article/global-technology-outage-911-call-centers/61647145
+[172] https://www.abc57.com/news/area-dispatch-centers-experience-911-outages
+[173] https://www.msn.com/en-us/news/us/911-call-centers-report-outages-heres-which-counties-are-affected/ar-BB1qgv46?ocid=BingNewsVerp
+[174] https://www.fox2detroit.com/news/dtw-warns-travelers-global-outage-university-michigan-says-911-lines-experiencing-difficulties
+[175] https://www.kare11.com/article/news/local/911-call-centers-report-outages-heres-which-counties-are-affected/89-7076d8e3-51fb-4fa1-8241-f9681650b4bb
+[176] https://www.msn.com/en-us/travel/news/how-the-global-it-outage-is-impacting-nyc-services-transit-local-airports/ar-BB1qgCVy?ocid=BingNewsVerp
+[177] https://local12.com/news/local/greater-cincinnati-police-department-division-issue-urgent-alert-confirming-outage-is-impacting-phones-911-service-fire-assistance-phone-out-tech-technical-difficulties-community-impact
+[178] https://www.nytimes.com/2024/07/19/business/emergency-911-calls-tech-outage.html
+[179] https://6abc.com/post/how-emergency-services-are-respond-call-amid-global-it-outage/15070726/
+[180] https://www.wmur.com/article/some-911-systems-down-due-to-worldwide-computer-outage/61642712
+[181] https://www.businessinsider.com/mass-it-outage-911-lines-down-parts-of-us-havoc-2024-7
+[182] https://www.law.com/2024/07/19/multiple-state-court-online-systems-impacted-by-global-crowdstrike-outage/
+[183] https://www.philstar.com/headlines/2024/07/19/2371414/list-philippine-government-websites-down-during-global-it-outage
+[184] https://www.cp24.com/news/this-is-the-list-of-disruptions-in-toronto-due-to-the-crowdstrike-outage-1.6970063
+[185] https://www.cbc.ca/news/world/worldwide-tech-issues-1.7268863e
+[186] https://www.cbc.ca/news/canada/ottawa/canada-child-benefit-it-outage-1.7269641
+[187] https://www.sme.sk/minuta/23359519/aktualizacia-crowdstrike-sposobuje-vypadky-aj-na-slovensku
+[188] https://www.dr.dk/nyheder/seneste/it-nedbrud-blokerer-automatiske-brandalarmer-i-koebenhavn
+[189] https://ca.finance.yahoo.com/news/possible-flight-disruptions-expected-global-113432466.html
+[190] https://www.ctvnews.ca/sci-tech/here-s-the-latest-on-canadian-impacts-of-the-global-it-outage-1.6970002
+[191] https://wtop.com/dc-transit/2024/07/metro-services-delayed-call-center-down-due-to-global-computer-system-outage/
+[192] https://www.bostonglobe.com/2024/07/19/metro/software-outage-massachusetts-new-england/
+[193] https://www.trains.com/trn/news-reviews/news-wire/global-tech-outage-largely-bypasses-freight-and-passenger-railroads/
+[194] https://www.channelnewsasia.com/world/it-outage-microsoft-crowdstrike-airports-flights-businesses-4490741
+[195] https://www.irishtimes.com/business/2024/07/19/companies-around-the-world-hit-by-major-it-outage/
+[196] https://www.irishmirror.ie/news/irish-news/global-outage-flights-grounded-ireland-33280619
+[197] https://www.straitstimes.com/tech/tech-news/live-major-tech-outage-disrupts-businesses-worldwide-including-in-singapore
+[198] https://www.examiner.com.au/story/8701644/major-australian-institutions-hit-by-widespread-it-outages/
+[199] https://www.railnews.co.uk/news/2024/07/19-computer-system-failures-disrupt-trains.html
+[200] https://www.svt.se/nyheter/lokalt/orebro/problem-att-kopa-bussbiljetter-i-flera-lan
+[201] https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/
+[202] https://www.theguardian.com/technology/live/2024/jul/19/microsoft-windows-it-outage-us-airlines-911-services-businesses-crowdstrike-disruption-live
+[203] https://mountnittany.org/news-stories/general-news/mount-nittany-health-impacted-by-nationwide-it-outage/
+[204] https://timesofindia.indiatimes.com/world/us/hospitals-from-new-york-to-london-paris-struggle-in-tech-outage/articleshow/111867131.cms
+[205] https://www.newsweek.com/microsoft-outage-shuts-down-hospital-operations-new-york-boston-uk-germany-crowdstrike-1927684
+[206] https://x.com/Labcorp/status/1814324142583218306
+[207] https://x.com/QuestDX/status/1814274160887005337
+[208] https://www.npr.org/2024/07/21/nx-s1-5046700/the-crowdstrike-outage-disrupted-many-industries-hospitals-were-especially-vulnerable
+[209] https://www.manxradio.com/news/isle-of-man-news/gp-surgeries-on-the-island-affected-by-worldwide-it-outage/
+[210] https://sg.news.yahoo.com/london-ambulance-receives-4-500-174217339.html
+[211] https://www.vrt.be/vrtnws/nl/2024/07/19/it-problemen-bij-nmbs-aankoop-van-tickets-via-app-onmogelijk-o/
+[212] https://www.eldiario.es/sociedad/servicios-salud-autonomicos-afectados-caida-informatica-microsoft_1_11534890.html
+[213] https://healthnews.pt/2024/07/19/hospital-amadora-sintra-com-problemas-por-causa-da-falha-da-microsoft/
+[214] https://nos.nl/artikel/2529464-wereldwijd-problemen-door-computerstoring-onder-meer-luchthavens-en-ziekenhuizen-getroffen
+[215] https://n1info.hr/vijesti/pao-cezih-obiteljski-lijecnici-i-ljekarne-imaju-teskoca-u-radu/
+[216] https://www.rtvslo.si/znanost-in-tehnologija/izpad-informacijskih-sistemov-obcutili-tudi-v-sloveniji-zamude-na-ljubljanskem-letaliscu/715409
+[217] https://x.com/awfulannouncing/status/1814257641452966179
+[218] https://x.com/awfulannouncing/status/1814275977733652677
+[219] https://awfulannouncing.com/espn/sportscenter-cyber-outage-get-up.html?utm_source=dlvr.it&utm_medium=twitter
+[220] https://www.racefans.net/2024/07/19/global-crowdstrike-outage-leaves-mercedes-fixing-computers-before-practice/
+[221] https://www.msn.com/en-us/money/smallbusiness/small-businesses-grapple-with-global-tech-outages-created-by-crowdstrike/ar-BB1qmJDH?ocid=BingNewsVerp
+[222] https://news.ifeng.com/c/8bLXkXnjos4
+[223] https://www.ft.com/content/fba9b61d-efcf-4348-b640-ccb1f9d18ced
+[224] https://www.antwerpen.be/info/stadsloketten-telefonisch-niet-bereikbaar-door-technische-storing
+[225] https://www.standard.co.uk/news/uk/sky-news-crashes-tv-channel-news-microsoft-b1171651.html
+[226] https://www.rte.ie/news/ireland/2024/0719/1460766-ryanair-cyber-outage/
+[227] https://www.rsvplive.ie/news/live-outage-disrupts-irish-nct-33281253
+[228] https://www.lavoixdunord.fr/1484962/article/2024-07-19/une-enorme-panne-mondiale-perturbe-tf1-canal-free-l-aeroport-d-orly-mondial
+[229] https://x.com/bouyguestelecom/status/1814216904501776438
+[230] https://www.upi.com/Sports_News/2024/07/19/paris-cyber-outage-impacts-Paris-Olympics/7821721397436
+[231] https://www.espn.com/olympics/story/_/id/40594979/paris-olympics-systems-hit-global-cyber-outage
+[232] https://www.spot.ph/newsfeatures/trending/109526/what-s-happening-to-microsoft-powered-laptops-a5229-20240719
+[233] https://www.kiro7.com/news/trending/microsoft-outage-grounds-flights-shuts-down-businesses-globally/5B5DDOQ23JA77J2WIT2G5BRPRE/
+[234] https://x.com/iRacingSupport/status/1814275684363059545
+[235] https://koreajoongangdaily.joins.com/news/2024-07-19/business/tech/Global-technology-outage-takes-down-Korean-game-servers-airline-ticketing/2094406
+[236] https://www.noypigeeks.com/computers/windows-outage-affecting-workers-industries/
+[237] https://www.hessenschau.de/wirtschaft/fehlerhaftes-windows-update-weltweites-software-problem-legt-auch-hessische-firmen-lahm-v1,it-panne-unternehmen-100.html
+[238] https://www.nbcnews.com/tech/tech-news/microsoft-outage-crowdstrike-global-airlines-windows-fix-rcna162685
+[239] https://www.cbsnews.com/news/crowdstrike-outage-starbucks-mobile-order-ahead-app-down/
+[240] https://www.wxxinews.org/live-updates/worldwide-internet-outage-affecting-some-local-systems
+[241] https://www.abcactionnews.com/news/national-news/widespread-technology-outage-disrupts-flights-banks-media-outlets-and-companies-around-the-world
+[242] https://www.abc12.com/news/local/speedway-stations-among-businesses-affected-by-internet-outage/article_40b4d428-45e6-11ef-a3fc-c7280651af6b.html
+[243] https://www.nrk.no/ostfold/flere-apotek-1-har-stengt-etter-datatrobbel-1.16970700
+[244] https://www.dagbladet.no/studio/nyhetsstudio/687?post=166835
+[245] https://www.tv2.no/nyheter/innenriks/derfor-er-ikke-norge-like-hardt-rammet/16855096/
+[246] https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html
+[247] https://tvn24.pl/biznes/z-kraju/awaria-microsoftu-terminal-kontenerowy-w-gdansku-baltic-hub-informuje-o-problemach-st8009723
+[248] https://www.freightwaves.com/news/business-as-usual-at-many-of-nations-ports-despite-global-tech-outage
+[249] https://www.svt.se/nyheter/lokalt/norrbotten/gruvan-i-malmberget-utrymt-pa-grund-av-it-problem
+[250] https://www.svt.se/sport/fotboll/allt-om-allsvenskan-2024?inlagg=b4841400b66118b15bef49fcb38d157c
+[251] https://www.teslarati.com/tesla-giga-berlin-it-problems-resolved/
+[252] https://www.today.com/video/crowdstrike-ceo-shares-what-spurred-global-outage-215232069726
+[253] https://www.crowdstrike.com/blog/falcon-sensor-issue-use-to-target-crowdstrike-customers/
+[254] https://www.cnn.com/2024/07/24/business/crowdstrike-outage-uber-eats/index.html
+[255] https://www.bbc.co.uk/news/articles/ce58p0048r0o
+[256] https://x.com/PwnieAwards/status/1816163089307386359
+[257] https://uk.pcmag.com/security/153845/crowdstrike-exec-shows-up-to-accept-most-epic-fail-award-in-person
+[258] https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/
+[259] https://x.com/AlboMP/status/1814220385715687591
+[260] https://x.com/AlboMP/status/1814220388920078506
+[261] https://www.reuters.com/world/uk/uks-starmer-being-kept-updated-it-outage-has-not-chaired-emergency-meeting-says-2024-07-19/
+[262] https://indianexpress.com/article/business/microsoft-outage-it-ministry-ashwini-vaishnaw-cert-in-advisory-9463347/
+[263] https://www.themoscowtimes.com/2024/07/19/russia-boasts-that-sanctions-helped-it-avoid-global-microsoft-outage-a85765
+[264] https://www.bbc.com/news/articles/c3g01y047pdo
+[265] https://x.com/troyhunt/status/1814198760387596407
+[266] https://x.com/troyhunt/status/1814205754880242032
+[267] https://slate.com/technology/2024/07/tech-meltdown-glitch-crowdstrike-y2k.html
+[268] https://www.msn.com/en-us/money/other/as-the-world-wakes-up-to-a-digital-pandemic-microsoft-suggests-turning-it-off-and-on-again-15-times/ar-BB1qhSKW?ocid=BingNewsVerp
+[269] https://www.theguardian.com/media/article/2024/jul/20/computer-says-no-what-the-papers-say-after-it-outage-causes-global-chaos
+[270] https://www.windowscentral.com/software-apps/elon-musk-blames-diversity-efforts-for-the-widespread-crowdstrike-digital-pandemic-that-stunted-microsoft-services
+[271] https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/179916/
+[272] https://www.bloomberg.com/news/articles/2024-07-19/musk-says-he-s-deleted-crowdstrike-from-systems-after-outage
+[273] https://www.bernama.com/en/business/news.php?id=2320143
+[274] https://www.scmp.com/tech/big-tech/article/3271248/crowdstrike-microsoft-outage-chinese-cybersecurity-firms-take-victory-lap
+[275] https://www.intelligentciso.com/2024/07/22/warning-issued-about-phishing-attacks-post-global-tech-outage/
+[276] https://www.techcircle.in/2024/07/22/microsoft-crowdstrike-it-outage-triggers-wave-of-phishing-attacks
+[277] https://indianexpress.com/article/technology/tech-news-technology/cert-in-global-outage-leveraged-launch-phishing-attacks-crowdstrike-9481265/
+[278] https://www.theregister.com/2024/07/24/crowdstrike_preliminary_incident_report/
+[279] https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962
+[280] https://www.openaccessgovernment.org/major-microsoft-outage-numerous-sectors-hit-in-worldwide-digital-pandemic/
+[281] https://qz.com/crowdstrike-global-tech-outage-experts-1851600081
+[282] https://www.marketplace.org/2024/07/22/when-businesses-run-standardized-software-small-problems-can-quickly-grow/
+[283] https://www.reuters.com/technology/cybersecurity/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say-2024-07-20/
+[284] https://indianexpress.com/article/opinion/columns/global-microsoft-outage-9465182/
+[285] https://www.wired.com/story/crowdstrike-outage-update-windows/
+[286] https://www.techradar.com/pro/security/microsoft-blames-eu-rules-for-its-inability-to-lock-down-windows-following-crowdstrike-incident
+[287] https://www.neowin.net/news/microsoft-points-finger-at-the-eu-for-not-being-able-to-lock-down-windows/
+[288] https://www.wsj.com/tech/cybersecurity/microsoft-tech-outage-role-crowdstrike-50917b90
+[289] https://www.euronews.com/video/2024/07/23/european-commission-denies-responsibility-for-massive-microsoft-it-outage
+[290] https://www.tomshardware.com/software/linux/crowdstrike-issues-go-beyond-windows-companys-security-software-has-reportedly-been-causing-kernel-panics-since-at-least-april
+[291] https://9to5mac.com/2024/07/20/lets-talk-about-apples-endpoint-security-framework/

@@ -1,0 +1,75 @@
+Extrasolar_planets_in_fiction
+
+Planets outside of the Solar System have appeared in fiction since at least the 1850s, long before the first real ones were discovered in the 1990s. Most of these fictional planets do not differ significantly from the Earth and serve only as settings for the narrative. The majority host native lifeforms, sometimes with humans integrated into the ecosystems. Fictional planets that are not Earth-like vary in many different ways. They may have significantly stronger or weaker gravity on their surfaces, or have a particularly hot or cold climate. Both desert planets and ocean planets appear, as do planets with unusual chemical conditions. Various peculiar planetary shapes have been depicted, including flattened, cubic, and toroidal. Some fictional planets exist in multiple-star systems where the orbital mechanics can lead to exotic day–night or seasonal cycles, while others do not orbit any star at all. More fancifully, planets are occasionally portrayed as having sentience, though this is less common than stars receiving the same treatment or a planet's lifeforms having a collective consciousness.
+
+# General characteristics
+
+Most extrasolar planets in fiction are similar to Earth—referred to in the Star Trek franchise as Class M planets—and serve only as settings for the narrative. One reason for this, writes Stephen L [1] [2]. Gillett  [Wikidata] in The Greenwood Encyclopedia of Science Fiction and Fantasy, is to enable satire. Nevertheless, there are also many fictional planets that differ significantly from Earth [3]. Earth-like planets have become less common in fiction following the first detection of an exoplanet around a Sun-like star in 1995, [a] reflecting the scarcity of such worlds among the thousands discovered since [1] [2] [3]. The majority of extrasolar planets in fiction are inhabited by native species,  and humans are variously depicted as being integrated into or remaining apart from such alien ecosystems [6] [4]. Some fictional planets are described as orbiting real stars;   a 2024 article in the Journal of Science Communication analysed a sample of 142 fictional exoplanets, of which nearly a third fulfilled this criterion, and found "an absence of influence of whether or not the planet setting is in a real star system on other worldbuilding characteristics" [7] [2] [8]. 
+
+# Exotic shapes
+
+Various exotic planetary shapes appear in fiction. In Hal Clement's 1953 novel Mission of Gravity, the planet Mesklin's rapid rotation causes it to be shaped roughly like a flat disk and gravity is consequently about 200 times weaker at the equator than it is at the poles,    while the moon Jinx in Larry Niven's 1975 short story "The Borderland of Sol" is instead stretched by tidal forces from the planet it orbits rather than flattened, resulting in a prolate spheroid shape where the equator is covered by an atmosphere but the poles rise up above it [9] [1] [9] [10]. Another disk-shaped planet is the Discworld of Terry Pratchett's 1983–2015 fantasy book series of that name, a flat world which is carried on the backs of elephants that are in turn carried on the back of a turtle, with the arrangement orbited by the world's sun [11] [12]. Bizarro World in the Superman franchise is a cubic planet, rendered that shape by the actions of Superman [1] [13]. Earth itself gets turned into a cube in Henry H [1] [9]. Gross's 1987 short story "Cubeworld", and an altogether artificial planet-sized cube is the setting of G. David Nordley's 2009 novel To Climb a Flat Mountain. Double planets close enough together to share an atmosphere through their Roche lobes appear in Homer Eon Flint's 1921 short story "The Devolutionist", Robert L [9]. Forward's 1982 novel Rocheworld (a.k.a. The Flight of the Dragonfly), Bob Shaw's 1986 novel The Ragged Astronauts—which depicts an interplanetary hot air balloon expedition—and Charles Sheffield's 1990 novel Summertide. A planet in the shape of a torus is the setting of Flint's 1921 short story "The Emancipatrix", being the result of the protoplanetary disk condensing so quickly that it did not coalesce into a spherical shape first; an artificial planet-sized torus also appears in John P [3] [9] [14] [15]. Boyd  [Wikidata]'s 1981 short story "Moonbow", while Niven wrote of a much larger toroidal megastructure in space in the 1970 novel Ringworld and a much smaller one in the 1973 novel Protector. Arthur C [9]. Clarke's 1949 short story "The Wall of Darkness" is set on a planet bounded by a wall in the shape of an Alice handle, a kind of three-dimensional equivalent of a Möbius strip. 
+
+# In multiple star systems
+
+Planets in multiple star systems have attracted attention from science fiction writers, especially in terms of what kind of life would exist on planets with more than one sun and how history might be cyclical as a result of the "long year" that occurs if the orbital period around one of the stars is very lengthy. A particularly early example of this is C [14] [18] [19]. I. Defontenay's 1854 novel Star ou Psi de Cassiopée (English title: Star: Psi Cassiopeia),  described by science fiction editor David Pringle as "the first detailed evocation of an alien solar system",  which depicts various alien species inhabiting the planets orbiting the stars [14] [20]. Isaac Asimov's 1941 short story "Nightfall" portrays a planet which is in constant daylight from at least one of its six suns for millennia at a time before a single night of true darkness, which is a much-anticipated event;    the 1963 The Twilight Zone episode "On Thursday We Leave for Home" depicts a planet that is challenging for humans to inhabit due to the unending heat and light from a pair of suns;  and Mark Hodder's 2012 novel A Red Sun Also Rises is set on a planet where a dim red sun rises at the same time as the planet's twin white suns set [14] [21] [22] [23] [18] [24] [25] [26]. Hal Clement's 1957 novel Cycle of Fire depicts a planet in a binary star system where the seasons last for decades and different species dominate the hot and cold parts of the year,    Poul Anderson's 1974 novel Fire Time portrays a planet where the majority of the surface becomes uninhabitable approximately once a millennium when it makes a close approach to one of its stars and mass migration of the native lifeforms ensues,  and Brian Aldiss's 1982–1985 Helliconia trilogy is set on a planet where the orbital mechanics lead to century-long seasons and there are two distinct ecosystems—one adapted to the short period around the closer star and another adapted to the long year around the more distant one [18] [1] [14] [19] [18]. A similar effect appears in Aldiss's 1977 short story "Creatures of Apogee", albeit here as a result of a highly eccentric orbit around a single star where the distance to the star thus varies greatly between the nearest and farthest points in the orbit [1] [3] [18] [19] [27]. The 1985 anthology Medea: Harlan's World is a collaborative effort between Harlan Ellison and several other science fiction writers consisting of several stories set on the same planet in a multiple star system [15]. The 2002 television series Firefly is set in a system of five stars each orbited by its own planetary system, all close enough to each other to permit easy travel between the worlds [1] [14]. 
+
+# Rogue planets
+
+Planets that do not orbit any star, known as rogue planets, appear in several works. In the 1977 novel Dying of the Light by George R [14] [28]. R. Martin, such a planet becomes a temporary tourist destination as it passes by a star before leaving the star's vicinity and becoming uninhabitable again. Hal Clement's 1974 short story "The Logical Life" explores what kind of life could exist on a planet without a star,  while the 2002 Star Trek: Enterprise episode "Rogue Planet" depicts how the lifeforms on a world of perpetual night might be exploited by outsiders [14] [29] [29]. Earth is threatened by impact with a rogue planet in the 1933 novel When Worlds Collide by Edwin Balmer and Philip Wylie and its 1951 film adaptation,  and it becomes a rogue planet itself in Fritz Leiber's 1951 short story "A Pail of Air" [28] [28]. A rogue planet on a collision course with a star-orbiting planet also appears in Neil R [28] [29]. Jones's 1934 short story "The Sunless World", though here the rogue planet is the inhabited one. 
+
+# Physical environment
+
+Portraying planets with conditions that differ significantly from Earth's in terms of physical environment has been a recurring practice since the middle of the 1900s. Many of these stories imagine how indigenous lifeforms might be adapted to those conditions, with Hal Clement and Poul Anderson being particularly prolific exponents of this craft [3]. The high gravity of Mesklin in Clement's Mission of Gravity thus results in its inhabitants having a centipede-like body structure,     while the low gravity yet dense atmosphere in Anderson's 1958 novel War of the Wing-Men (a.k.a [7] [12] [31] [1] [9] [31] [32]. The Man Who Counts) makes it possible for humanoid creatures to fly using their own wings. Desert planets are common; astrophysicist Elizabeth Stanway  [Wikidata] posits that this is because the setting strikes the right balance between novelty and familiarity to most audiences, in addition to the relative inhospitality providing a survival aspect to the narrative [1] [3] [31]. One of the most prominent examples thereof is Arrakis in Frank Herbert's 1965 novel Dune, where the extreme scarcity of water influences all aspects of the planet's ecology and society [33]. Less extreme desert conditions are found on the Star Wars planet Tatooine, with more plentiful and varied lifeforms as a result [1] [3] [32] [33] [34]. At the other end of the spectrum are planets covered entirely by water, an early example of which appears in Neil R [33]. Jones's 1933 short story "Into the Hydrosphere". Joan Slonczewski's 1986 novel A Door into Ocean is a piece of feminist science fiction set on an ocean world with an all-female population,   while Ursula K [14] [31] [1] [3]. Le Guin's 1969 novel The Left Hand of Darkness is set on a frigid world of perpetual winter where the inhabitants do not have a fixed sex. One of the planets in the 2014 film Interstellar is covered by a shallow ocean and orbits so closely around a black hole that there are both tidal waves the height of mountains and extreme time dilation [34] [35] [36]. Other fictional planets differ in their chemical rather than physical environment [35]. Chlorine planets appear in Isaac Asimov's 1951 short story "C-Chute" and the 1976 Space: 1999 episode "The AB Chrysalis",  while C [26]. J. Cherryh's 1988 novel Cyteen depicts a planet dominated by silicon-based life whose biochemistry creates byproducts extremely hazardous to human health. 
+
+# Living
+
+Planets themselves being portrayed as alive, while relatively rare (especially compared to stars receiving the same treatment), is a recurring theme. Sentient planets appear in Ray Bradbury's 1951 short story "Here There Be Tygers", Stanisław Lem's 1961 novel Solaris, and Terry Pratchett's 1976 novel The Dark Side of the Sun [1] [38]. Ego the Living Planet is a recurring character in Marvel Comics [1] [38]. The related concept known as the Gaia hypothesis—an entire planetary ecosphere functioning as a single organism, often but not always imbued with a planet-wide consciousness—is more common; examples include Murray Leinster's 1949 short story "The Lonely Planet", Isaac Asimov's 1982 novel Foundation's Edge, and the 2009 film Avatar [38]. 
+
+# List
+
+The following are fictional extrasolar planets with stand-alone Wikipedia articles.. 
+
+# References
+
+[5] [ERROR retrieving ref link]
+[1] https://books.google.com/books?id=WETPEAAAQBAJ&pg=PA107
+[2] https://reactormag.com/imaginary-exoplanets/
+[3] https://archive.org/details/greenwoodencyclo0000unse_k2b9/page/12/mode/2up
+[4] https://jcom.sissa.it/article/pubid/JCOM_2301_2024_A04/
+[6] https://www.space.com/science-fiction-exoplanets-reflect-real-discoveries
+[7] http://eos.org/articles/tatooine-trisolaris-thessia-sci-fi-exoplanets-reflect-real-life-discoveries
+[8] https://sf-encyclopedia.com/entry/life_on_other_worlds
+[9] https://books.google.com/books?id=WETPEAAAQBAJ&pg=PA603
+[10] https://warwick.ac.uk/fac/sci/physics/research/astro/people/stanway/sciencefiction/cosmicstories/peculiar_planets
+[11] https://sf-encyclopedia.com/entry/clement_hal
+[12] https://books.google.com/books?id=zKXIEAAAQBAJ&pg=PA52
+[13] https://archive.org/details/visualencycloped00ashb/page/87/mode/2up
+[14] https://sf-encyclopedia.com/entry/discworld_series
+[15] https://books.google.com/books?id=uefwmdROKTAC&pg=PA374
+[16] https://search.worldcat.org/issn/1351-5217
+[17] https://books.google.com/books?id=5LlpswEACAAJ
+[18] https://astrobiology.nasa.gov/news/tatooine-worlds/
+[19] https://warwick.ac.uk/fac/sci/physics/research/astro/people/stanway/sciencefiction/cosmicstories/all_the_suns
+[20] https://sf-encyclopedia.com/entry/great_year
+[21] https://archive.org/details/ultimateencyclop0000unse_a8c7/page/16/mode/2up
+[22] https://books.google.com/books?id=4-fOCbkNSBwC&pg=PA12
+[23] https://sf-encyclopedia.com/entry/defontenay_c_i
+[24] ISBN: 978-1-59158-171-0
+[25] https://archive.org/details/greenwoodencyclo0002unse_f3t4/page/751/mode/2up
+[26] https://sf-encyclopedia.com/entry/asimov_isaac
+[27] https://books.google.com/books?id=8NbIDAAAQBAJ&pg=PA55
+[28] https://sf-encyclopedia.com/entry/aldiss_brian_w
+[29] https://warwick.ac.uk/fac/sci/physics/research/astro/people/stanway/sciencefiction/cosmicstories/rogue_planets
+[30] https://reactormag.com/far-from-any-star-five-stories-about-rogue-worlds/
+[31] https://books.google.com/books?id=PbMdeizaCNcC&pg=PA197
+[32] https://archive.org/details/scienceinscience00nich/page/56/mode/2up
+[33] https://archive.org/details/mammothencyclope00mann/page/499/mode/2up
+[34] https://warwick.ac.uk/fac/sci/physics/research/astro/people/stanway/sciencefiction/cosmicstories/desert_worlds/
+[35] https://reactormag.com/five-books-about-extreme-worlds/
+[36] https://reactormag.com/paradise-not-five-inhospitable-planets/
+[37] https://reactormag.com/amazing-worlds-of-science-fiction-and-science-fact/
+[38] https://reactormag.com/five-truly-inhospitable-fictional-planets/
+[39] https://sf-encyclopedia.com/entry/living_worlds
+[40] https://sf-encyclopedia.com/entry/gaia
+[41] https://books.google.com/books?id=8NbIDAAAQBAJ&pg=PA198

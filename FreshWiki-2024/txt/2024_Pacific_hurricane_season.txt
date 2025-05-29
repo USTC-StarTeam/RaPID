@@ -1,0 +1,235 @@
+2024_Pacific_hurricane_season
+
+The 2024 Pacific hurricane season was a below average season that saw 15 tropical cyclones develop overall, of which all but 2 became named storms. Of the 13 named storms, 5 developed into hurricanes, of which 3 intensified into major hurricanes. The season officially began on May 15 in the eastern Pacific basin (east of 140°W) and on June 1 in the central Pacific (between 140°W and the International Date Line); both ended on November 30. These dates, adopted by convention, historically describe the period in each year when most subtropical or tropical cyclogenesis occurs in these regions of the Pacific Ocean. For the third consecutive year, there were no pre-season tropical cyclones in either basin, and the season got off to the slowest start of any Pacific hurricane season on record in the satellite era,  with the first eastern Pacific tropical storm, Aletta, not forming until July 4. The first, and only, central Pacific tropical storm, Hone, formed on August 22, becoming the first named storm to develop in the basin since 2019. The final system of the season, Tropical Depression Fourteen‑E, dissipated on November 7.
+Several storms impacted land this year. Hurricane Hone dropped very heavy rainfall over the Big Island of Hawaii after passing just offshore at Category 1 strength. The remnants of Hurricane Gilma impacted the islands several days later, though neither cyclone caused significant damage. Tropical Storm Ileana grazed the coast of northwestern Mexico, resulting in flooding. Hurricane John made landfall on southern Mexico twice after rapidly intensifying to a Category 3 hurricane, causing 29 deaths and an estimated $2.5 billion in damage. The strongest storm of the season was Hurricane Kristy, which became the first Category 5 Pacific hurricane in a non-El Niño year since Celia in 2010.
+
+# Seasonal forecasts
+
+In advance of each Pacific hurricane season, forecasts of hurricane activity are issued by the United States National Oceanic and Atmospheric Administration (NOAA)'s Climate Prediction Center and Mexico's Servicio Meteorológico Nacional (SMN). These include weekly and monthly changes in significant factors that help determine the number of tropical storms, hurricanes, and major hurricanes within a particular year. According to NOAA, the average eastern Pacific hurricane season between 1991 and 2020 contained roughly 15 tropical storms, 8 hurricanes, 4 major hurricanes, with a near-normal accumulated cyclone energy (ACE) index between 80 and 115. Broadly speaking, ACE is a measure of the power of a tropical or subtropical storm multiplied by the length of time it existed [5]. It is only calculated for full advisories on specific tropical and subtropical systems reaching or exceeding wind speeds of 39 mph (63 km/h). NOAA typically categorizes a season as above-average, average, or below-average based on the cumulative ACE index, but the number of tropical storms, hurricanes, and major hurricanes within a hurricane season is sometimes also considered. On May 6, 2024, SMN issued its forecast for the season, forecasting a total of 15–18 named storms developing, with 7–9 hurricanes, and 3–4 major hurricanes. On May 23, 2024, NOAA issued their outlook, calling for a below-normal season with 11–17 named storms overall, 4–9 hurricanes, 1–4 major hurricanes, and an ACE index of 50% to 110% of the median [7]. 
+
+# Seasonal summary
+
+Officially, the 2024 Pacific hurricane season began on May 15 in the Eastern Pacific, on June 1 in the Central Pacific, and both ended on November 30. In all, thirteen tropical cyclones formed; eleven became named storms. Four became hurricanes, and two of which intensified into major hurricanes. This season's ACE index was approximately 82 units. This number represents sum of the squares of the maximum sustained wind speed (knots) for all named storms while they are at least tropical storm intensity, divided by 10,000 [9]. Therefore, tropical depressions are not included. The season began unusually quiet, with several weeks of inactivity throughout the basin. The first system, short-lived Tropical Storm Aletta formed on July 4, which made it the latest first named Pacific tropical cyclone to form in the satellite era. It was followed nearly three weeks later by Tropical Storm Bud, another short-lived storm that dissipated over the open Pacific. A week later on July 31, Hurricane Carlotta formed out of a low-pressure area, later developing into the first hurricane of the season. Three more storms formed in quick succession during the first week of August: Daniel, Emilia, and Fabio; all four storms were simultaneously active in the basin on August 5. After the last of these storms, Emilia, dissipated on August 9, the basin fell into another lull in activity. Tropical cyclogenesis resumed in late August with the formation of Hurricane Gilma on August 18. Gilma became the first major hurricane of the season on August 22 [10]. Hurricane Hone developed in the Central Pacific basin also on August 22, becoming the first tropical cyclone to form in that basin in five years [11]. They were joined by Tropical Storm Hector on August 25 in the eastern Pacific proper [3]. Hone would later move out of the basin into the Western Pacific [81]. Hone and Gilma were the only Central Pacific tropical cyclones this year. A two-week break in activity came to an end when Tropical Storm Ileana formed on September 12. The storm grazed northwestern Mexico twice before dissipating [14]. Hurricane John developed over a week later and rapidly intensified into the second major hurricane of the season prior to making landfall in southern Mexico [90] [91]. In late October, Hurricane Kristy formed off the coast of southern Mexico, in-part from the remnants of Atlantic basin Tropical Storm Nadine, and intensified to Category 5 strength out in the open ocean [97] [102]. It was the first Category 5 Pacific hurricane in a non-El Niño year since Celia in 2010 [19]. Tropical Storm Lane and Tropical Depression Fourteen‑E developed in early November; both systems remained out to sea. [4]. 
+
+# Systems
+
+## Tropical Storm Aletta
+
+A tropical wave that led to the formation of Atlantic Tropical Storm Chris approached Central America from June 27–28. The southern part of this wave interacted with the monsoon trough over the far eastern Pacific, and the combined feature, as well as increased convection over the area, led to formation of a low pressure area on July 3. The low organized into a tropical depression at 06:00 UTC on July 4. The system strengthened into a tropical storm six hours later and was named Aletta, the latest-forming first named storm in the East Pacific in the satellite era. Aletta simultaneously peaked in intensity as a minimal tropical storm, retaining its strength for twelve hours. Aletta eventually weakened back to a tropical depression the following day before degenerating into a remnant low by 00:00 UTC on July 6. The low subsequently dissipated later that day. 
+
+## Tropical Storm Bud
+
+A tropical wave left the coast of Africa on July 10. The wave approached Central America over a week later, interacting with the Eastern Pacific monsoon trough. The combined disturbance continued westward, and began to organize its shower and thunderstorm activity on July 23 to the southwest of Mexico. The system eventually organized into a tropical depression at 12:00 UTC on July 24, about 400 nautical miles south of Cabo San Lucas. Bud moved to the northwest, and despite being embedded in an environment of dry air,  the system was able to strengthen modestly and achieved its peak intensity at 6:00 UTC on July 25, with maximum sustained winds of 60 mph (97 km/h) and a minimum barometric pressure of 1,001 mbar (29.6 inHg) [21] [22]. Continued movement through a dry-air environment caused Bud to weaken later that day,  and the storm degenerated to a post-tropical cyclone the following day [21] [23]. Bud's remnant low drifted to the southwest until dissipating by July 29. 
+
+## Hurricane Carlotta
+
+A fast-moving tropical wave left the coast of Africa on July 18. The wave crossed Central America just over a week later, entering the Eastern Pacific and spawning an area of low pressure. The disturbance developed sufficiently organized deep convection to become a tropical depression at 12:00 UTC on July 31, several hundred miles southwest of Manzanillo, Mexico. Favorable environmental conditions allowed the depression to intensify into Tropical Storm Carlotta six hours later [24]. Carlotta steadily became better organized over the following days [25]. After passing just to the north of Clarion Island early on August 2, the storm strengthened into a hurricane. Hurricane Carlotta reached its peak intensity early the following day with maximum sustained winds of maximum sustained winds of 90 mph (145 km/h) and a minimum barometric pressure of 979 mbar (28.9 inHg) [26]. However, Carlotta continued to move westward and encountered cooler sea surface temperatures (SSTs), causing the cyclone to weaken to a tropical storm at 12:00 UTC on August 4 [27]. Carlotta lost most of its deep convection by late that day within a stable environment over even cooler SSTs, and the storm degenerated to a remnant low late on August 5 [24]. The remnant low drifted southwestward before dissipating over open waters on August 8 [28] [29]. 
+
+## Tropical Storm Daniel
+
+On July 26, the NHC highlighted a low-pressure area in the western portion of the basin for potential tropical development. The disturbance began to quickly organize on August 2, and the formation of a well-defined circulation and tropical-storm-force winds led to its designation as Tropical Storm Daniel the following morning [30]. Daniel struggled to organize as it meandered within an environment of moderate wind shear and dry air [31]. Moving northeastward around Hurricane Carlotta's larger circulation, Daniel became increasingly embedded and less distinctive from the surrounding Intertropical Convergence Zone [32]. Daniel weakened to a tropical depression the afternoon of August 5 [33]. The storm opened up into a trough later that day [34]. 
+
+## Tropical Storm Emilia
+
+On August 3, the NHC began monitoring a tropical disturbance well to the south of the Baja California peninsula, and to the west of another developing disturbance. The following day, the system quickly developed into Tropical Depression Five‑E [36]. The newly-formed cyclone strengthened into Tropical Storm Emilia early on August 5 [37]. The disturbance east of Emilia developed into Tropical Storm Fabio the same day, and the cyclones began to interact with one another [38]. Emilia steadily strengthened as it became the dominant storm in its interaction with Fabio [39]. After initially moving southward, the storm gradually turned back to the west then northward around Fabio. Emilia reached its peak intensity early on August 7 with maximum sustained winds of 70 mph (115 km/h) and a minimum central pressure of 988 mbar (29.2 inHg) [40] [41]. Later that day, Emilia absorbed the remnants of Fabio as it accelerated northward [42]. Heading over cooler waters, Emilia began to quickly weaken [43]. The storm produced little organized convection the following day, as it crossed the 75 °F (24 °C) isotherm towards even colder SSTs. The storm degenerated into a post-tropical remnant low by 03:00 UTC on August 9, about 980 mi (1580 km) west of the southern tip of the Baja California peninsula [44]. 
+
+## Tropical Storm Fabio
+
+On August 5, a tropical disturbance far southwest of the southwestern coast of Mexico in close proximity to Tropical Storm Emilia developed into Tropical Storm Fabio. Moving quickly to the northwest around Emilia, Fabio steadily strengthened and became better organized within a favorable thermodynamic environment [39]. The storm reached its peak intensity early on August 6, with maximum sustained winds of 65 mph (105 km/h) and a minimum central pressure of 993 millibars (29.3 inHg). However, continued interaction with the larger and stronger Emilia caused Fabio to begin to quickly weaken late that day [46]. The storm degenerated to a post-tropical cyclone on afternoon of August 7, as it succumbed to an increasingly unfavorable environment [47]. Its remnants were absorbed by Emilia soon thereafter [48]. 
+
+## Hurricane Gilma
+
+On August 13, the NHC noted the potential for an area of low pressure to develop offshore southern Mexico. Two days later, the hurricane center noted a tropical wave moving through the area was producing disorganized shower and thunderstorm activity [49]. The low-pressure area developed in association with the wave on August 16, and the resulting disturbance organized into Tropical Depression Seven-E early on August 18 [50]. The depression strengthened into Tropical Storm Gilma twelve hours later [51] [52]. Gilma steadily strengthened despite moderate wind shear as it traversed an environment of warm SSTs and high moisture [10]. Early on August 21, Gilma strengthened into a Category 1 hurricane [53]. Gilma then underwent a period of rapid intensification, with its winds increasing by 35 mph (55 km/h) in 24 hours, achieving Category 2 strength [54]. The following day, Gilma became the season’s first major hurricane as it reached Category 3 status [55]. After initially peaking at Category 3, Gilma weakened due to marginally warm SSTs, bottoming out as a Category 1 hurricane on August 24. However, Gilma unexpectedly began to reorganize, and the system rapidly intensified back to major hurricane status later that day; Gilma subsequently peaked in intensity as a Category 4 hurricane [56]. Drier air and continued passage over marginally warm SSTs caused Gilma to weaken again, and the storm dropped below major hurricane status for the second time on August 25 [57] [58]. After another brief fluctuation in intensity, Gilma began to rapidly weaken as it entered the Central Pacific basin [59]. Gilma would continue rapidly weakening under unfavorable conditions with extreme wind shear, and dissipated on August 29, approximately 185 miles (300 km) east-northeast of Hilo, Hawaii [61] [61]. The remnants of Gilma affected Hawaii. A boat stranded east of Hawaii was rescued ahead of the approaching storm by the United States Coast Guard and Navy, with one deceased person found on board. Due to the fact that the storm dissipated before it reached the state, impact was minimal [63]. 
+
+## Hurricane Hone
+
+On August 15, the NHC noted that a low-pressure area could form far southeast of the Hawaiian Islands. Two days later, as the disturbance formed, the NHC noted that another low-pressure area could develop in the vicinity of the first disturbance [65]. By August 20, both disturbances had formed and merged into a larger area of shower and thunderstorm activity [66]. The merged disturbance steadily developed,  and on August 22, organized into Tropical Depression One-C [67] [80]. Six hours later, after further intensification, the CPHC upgraded One-C to Tropical Storm Hone [69]. Hone gradually strengthened through August 23 and 24 [70]. Despite lacking much deep convection, Hone had a well-defined cloud field, and was moving over moderately warm waters. Hone developed more deep convection and convective banding as it intensified [71]. The storm moved just north of due west under the influence of a subtropical ridge to its north. Continuing on this trajectory, at 08:00 UTC on August 25, Hone strengthened into a Category 1 hurricane [72]. Around this time, the system passed about 60 mi (95 km) south of Ka Lae, the southernmost point of the Big Island of Hawaii. But by the following day, drier air and increased wind shear had caused Hone to weaken back to a tropical storm [73]. Gradually losing deep convection and organization, Hone continued to weaken over open waters [74]. Early on August 30, Hone weakened to a tropical depression,  before undergoing a persistent burst of convection which made the system a tropical storm again early the following day [75] [76]. Hone and the low eventually merged, resulting in the system's extratropical transition on September 1 [77]. 
+
+## Tropical Storm Hector
+
+On August 18, the NHC began observation of a system well to the south of the coast of Mexico with potential for some slow development. Four days later, on August 22, a broad area of low pressure producing disorganized showers and thunderstorms primarily west of its center formed far south of the southern tip of the Baja California peninsula [79]. By the afternoon of August 25, the tropical disturbance had developed a well-defined surface circulation with 45 mph (75 km/h) maximum sustained winds, and was upgraded to Tropical Storm Hector [80]. Northerly wind shear and passage over cool SSTs, left in the wake of Hurricane Gilma, prevented Hector from strengthening much [81]. Hector strengthened slightly on August 26 and reached its peak intensity, with maximum sustained winds of 60 mph (95 km/h) and minimum central pressure of 998 mbar (29.5 inHg) [82]. Continued unfavorable environmental conditions caused Hector to gradually become less organized thereafter, with moderate wind shear exposing Hector's low-level circulation center [83]. Hector continued to weaken, and the storm opened into a trough early on August 29 [84] [85]. 
+
+## Tropical Storm Ileana
+
+An area of low pressure developed near the southwestern coast of Mexico on September 10. The system organized into Tropical Depression Nine-E early on September 12, and strengthened further into Tropical Storm Ileana six hours later. With its center located just west of Jalisco, Ileana would undergo gradual strengthening, peaking later that same day with maximum sustained winds of 50 mph (85 km/h),  holding that peak for roughly a day before weakening to a low-end tropical storm as it skirted the coast of Baja California Sur [87] [88] [89]. On the afternoon of September 14, the storm made landfall along the coast of Sinaloa at the same intensity [90]. Stalling near Sinaloa over the Gulf of California, Ileana eventually weakened to a tropical depression early on September 15 as its deep convection dissipated [91]. The storm degenerated to a remnant low six hours later [92] [93]. Heavy rainfall affected several states in Mexico. Flooding in Sinaloa inundated several houses in Guasave while power outages occurred in Ahome and Topolobampo. Mudslides and severe flooding blocked roads in San José del Cabo; inclement weather resulted in cancelled flights and port closures. Heavy rainfall also inundated Hidalgo and San Luis Potosí. No major storm damage was reported [14]. 
+
+## Hurricane John
+
+On September 21, an area of low pressure producing disorganized showers and thunderstorms formed off the coast of southern Mexico. The system became better organized the following day and attained a closed surface circulation, resulting in the formation of Tropical Depression Ten‑E on the afternoon of September 22, about 175 mi (280 km) south of Punta Maldonado, Guerrero [96]. The system continued to develop that night, and strengthened into Tropical Storm John at 06:00 UTC the following morning [97]. While moving slowly to the north-northeast on September 23, caught in the southwesterly flow associated with the monsoon trough near Central America,  John commenced to rapidly intensify [98] [99]. It became a Category 1 hurricane at 17:45 UTC that same day,  and then, just nine hours later, reached Category 3 major hurricane intensity with sustained winds of 120 mph (195 km/h) [100]. It was at that intensity that John made landfall, about 25 mi (40 km) northwest of Punta Maldonado at 03:20 UTC on September 24 [101]. John rapidly weakened inland, with its winds falling to tropical storm strength about 12 hours later [102]. Early in the afternoon of that same day, satellite images and surface observations showed that John had degenerated into a remnant low. They also showed that an elongated trough partly associated with John's remnants appeared to be forming off the coast of southern and southwestern Mexico amid conditions conducive to new tropical development. The trough produced a large area of shower and thunderstorm activity, and began showing signs of organization on September 25 [104]. By 15:00 UTC, John reformed into a tropical storm [105]. John re-intensified as it moved very close to the southwestern Mexican coast, and became a hurricane for the second time at 12:00 UTC on September 26 [106] [107]. Continued interaction with land caused John to weaken back to a tropical storm, and it made landfall for a second and final time at at 18:00 UTC on September 27 [108] [109]. John's surface center dissipated shortly thereafter [110]. John caused extreme flooding across southern Mexico that killed twenty-nine people across three states. The president of the Acapulco Chamber of Commerce, Services and Tourism, Alejandro Martínez Sidney, stated that losses from John in Guerrero were estimated to be between $1–1.5 billion pesos (US$51.7–77.6 million) [112]. According to Gallagher Re, as of January 2025, damages for John are at USD$2.45 billion [113]. 
+
+## Tropical Depression Eleven-E
+
+An area of low pressure formed offshore of southern Mexico in the Gulf of Tehuantepec on September 30. Showers and thunderstorms associated with the low became better organized the following day [119]. This trend continued, and on the afternoon of October 1, Tropical Depression Eleven-E formed about 85 mi (140 km) south-southeast of Salina Cruz, Oaxaca [116]. The depression moved southwestward on October 2, while undergoing a binary interaction with a nearby disturbance,  which it absorbed [117] [118]. The depression continued to produce a large, but poorly organized, area of convection the following day, and neared tropical storm strength [119]. However, strong Isthmus of Tehuantepec winds disrupted the circulation, causing the system to degenerate into a gale-force open trough that afternoon. The system's remains interacted with a stationary front and an area of low pressure in the Gulf of Mexico, facilitating the formation of Hurricane Milton in the Atlantic basin [120]. Although it remained weak, the depression brought heavy rainfall to seven Mexican states, causing rivers and streams to overflow. In Veracruz alone, dozens had to be rescued. At least 1,000 were ordered to evacuate due to the storm [122]. 
+
+## Hurricane Kristy
+
+On October 20, the remnants of Atlantic basin Tropical Storm Nadine entered the eastern Pacific, where they helped facilitate the development of a trough of low pressure in the Gulf of Tehuantepec. Amid a favorable environment, tropical development commenced late that same day,  and persisted into the next [124] [125]. Consequently, Tropical Storm Kristy formed on the afternoon of October 21, about 275 mi (440 km) south-southwest of Acapulco, Guerrero [126]. On October 21, the storm strengthened steadily [127]. Persistent convection began to wrap around a developing inner core, and the covering high-level cirrus clouds over the eye began to clear out. That afternoon, Kristy intensified into a Category 1 hurricane. Throughout the day, Kristy followed a generally westward track away from the coast of Mexico, steered by a deep-layered subtropical ridge. The pace of strengthening quickened, and by 15:00 UTC, Kristy had rapidly intensified into a Category 3 major hurricane [128]. The system continued to rapidly intensify during the afternoon, becoming a high-end Category 4 hurricane a few hours later [129]. Kristy's intensity then decreased somewhat, as its eye clouded over and convective structure expanded due to an eyewall replacement cycle [130]. Afterward, Kristy reintensified, becoming a Category 5 hurricane, with winds of 160 mph (260 km/h) [131] [132]. While at peak intensity, the eye of the storm was surrounded by a relatively symmetric ring of intense deep convection. A few hours after Kristy's peak intensity, satellite data indicated that it had weakened to Category 4 strength once more. The system continued to lose organization, as its eye became cloud filled, and the convective pattern became more asymmetric on account of southerly to southwesterly wind shear [134]. Consequently, on the morning of October 25, Kristy weakened to a Category 3 storm. Later the system turned toward the northwest, and moved into an increasingly hostile wind shear environment, weakening the eyewall and displacing convection [135]. Late that same day, wind shear increased to about 35 mph (55 km/h), and Kristy weakened to Category 2 strength [136]. This weakening trend continued on October 26, with the storm's low-level center becoming exposed to the south of the diminishing mid-level circulation, resulting in the system weakening to below hurricane strength [137]. Further degradation took place, and Kristy transitioned into a post-tropical cyclone on the morning of October 27, far to the west of the southern tip of the Baja California peninsula [138]. 
+
+## Tropical Storm Lane
+
+On October 28, a weak area of low pressure formed about 1,000 mi (1,610 km) southwest of the southwestern coast of Mexico. Two days later, the low became better defined, though its shower and thunderstorm activity remained disorganized [140]. Then, on the afternoon of November 1, it developed into Tropical Depression Thirteen‑E [141]. By early the next morning, the system strengthened some, and was upgraded to Tropical Storm Lane [142]. On November 3, Lane entered a hostile environment that no longer supported the tropical cyclone, and at 15:00 UTC, Lane dissipated into a remnant low [143]. 
+
+## Tropical Depression Fourteen-E
+
+Late on November 5, showers and thunderstorms associated with a well-defined low pressure system southwest of the southwestern coast of Mexico began showing signs of tropical development. Deep convection formed over the low-level circulation and persistent cold cloud tops developed. Then, the following morning, Tropical Depression Fourteen‑E developed about 490 mi (790 km) west-southwest of Acapulco, Guerrero [145]. It did not maintain a well-defined circulation for long however, and the depression degenerated to an open trough early on November 7 [146]. 
+
+# Storm names
+
+The following list of names was used for named storms that formed in the North Pacific Ocean east of 140°W during 2024. This is the same list used in the 2018 season [148]. For storms that form in the North Pacific from 140°W to the International Date Line, the names come from a series of four rotating lists. Names are used one after the other without regard to year, and when the bottom of one list is reached, the next named storm receives the name at the top of the next list. One named storm, listed below, formed within the area in 2024 [148]. Named storms in the table above that crossed into the area during the season are noted (*). 
+
+# Season effects
+
+This is a table of all of the storms that formed in the 2024 Pacific hurricane season. It includes their name, duration, peak classification and intensities, areas affected, damage, and death totals. Deaths in parentheses are additional and indirect (an example of an indirect death would be a traffic accident), but were still related to that storm. Damage and deaths include totals while the storm was extratropical, a wave, or a low, and all of the damage figures are in 2024 USD.. 
+
+# References
+
+[1] https://www.aoml.noaa.gov/hrd-faq/#hurricane-season
+[2] https://yaleclimateconnections.org/2024/07/hurricane-beryl-weakens-spares-the-cayman-islands/
+[3] https://www.khon2.com/local-news/hawaii-county-preps-for-winds-heavy-rain-this-weekend/
+[4] https://www.theweathernetwork.com/en/news/weather/severe/weather-hurricane-kristy-becomes-first-category-5-storm-without-el-nino
+[5] https://www.cpc.ncep.noaa.gov/products/Epac_hurr/Background.html
+[6] http://tropical.atmos.colostate.edu/Realtime/index.php?arch&loc=northeastpacific
+[7] https://smn.conagua.gob.mx/es/ciclones-tropicales/temporada-ciclones-tropicales-2024
+[8] https://www.cpc.ncep.noaa.gov/products/Epac_hurr/Slide1.JPG
+[9] http://tropical.atmos.colostate.edu/Realtime/
+[10] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.002.shtml?
+[11] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.016.shtml?
+[12] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.discus.001.shtml?
+[13] https://www.hawaiinewsnow.com/2024/11/29/hurricane-season-2024-considered-below-average-central-pacific/
+[14] https://www.jornada.com.mx/noticia/2024/09/15/estados/ileana-provoca-cortes-de-luz-desborde-de-rios-e-inundaciones-en-sinaloa-217
+[15] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.007.shtml?
+[16] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.010.shtml?
+[17] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.public.001.shtml?
+[18] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.update.09240322.shtml?
+[19] https://www.newsweek.com/hurricane-kristy-strengthens-powerful-category-5-storm-1974680
+[20] https://www.nhc.noaa.gov/data/tcr/EP012024_Aletta.pdf
+[21] https://www.nhc.noaa.gov/data/tcr/EP022024_Bud.pdf
+[22] https://www.nhc.noaa.gov/archive/2024/ep02/ep022024.discus.003.shtml?
+[23] https://www.nhc.noaa.gov/archive/2024/ep02/ep022024.discus.007.shtml?
+[24] https://www.nhc.noaa.gov/data/tcr/EP032024_Carlotta.pdf
+[25] https://www.nhc.noaa.gov/archive/2024/ep03/ep032024.discus.002.shtml?
+[26] https://www.nhc.noaa.gov/archive/2024/ep03/ep032024.discus.009.shtml?
+[27] https://www.nhc.noaa.gov/archive/2024/ep03/ep032024.discus.012.shtml?
+[28] https://www.nhc.noaa.gov/archive/2024/ep03/ep032024.discus.018.shtml?
+[29] https://www.nhc.noaa.gov/archive/2024/ep03/ep032024.discus.023.shtml?
+[30] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202407270508&basin=epac&fdays=7
+[31] https://www.nhc.noaa.gov/archive/2024/ep04/ep042024.discus.001.shtml?
+[32] https://www.nhc.noaa.gov/archive/2024/ep04/ep042024.discus.003.shtml?
+[33] https://www.nhc.noaa.gov/archive/2024/ep04/ep042024.discus.008.shtml?
+[34] https://www.nhc.noaa.gov/archive/2024/ep04/ep042024.discus.010.shtml?
+[35] https://www.nhc.noaa.gov/archive/2024/ep04/ep042024.discus.011.shtml?
+[36] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408040240&basin=epac&fdays=7
+[37] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.001.shtml?
+[38] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.003.shtml?
+[39] https://www.nhc.noaa.gov/archive/2024/ep06/ep062024.discus.001.shtml?
+[40] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.006.shtml?
+[41] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.010.shtml?
+[42] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.013.shtml?
+[43] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.015.shtml?
+[44] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.discus.019.shtml?
+[45] https://www.nhc.noaa.gov/archive/2024/ep05/ep052024.public.019.shtml?
+[46] https://www.nhc.noaa.gov/archive/2024/ep06/ep062024.discus.004.shtml?
+[47] https://www.nhc.noaa.gov/archive/2024/ep06/ep062024.discus.007.shtml?
+[48] https://www.nhc.noaa.gov/archive/2024/ep06/ep062024.discus.010.shtml?
+[49] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408131148&basin=epac&fdays=7
+[50] https://nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408151740&basin=epac&fdays=7
+[51] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408161743&basin=epac&fdays=7
+[52] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.001.shtml?
+[53] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.009.shtml?
+[54] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.012.shtml?
+[55] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.014.shtml?
+[56] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.025.shtml?
+[57] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.028.shtml?
+[58] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.029.shtml?
+[59] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.032.shtml?
+[60] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.035.shtml?
+[61] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.discus.035.shtml?
+[62] https://www.nhc.noaa.gov/archive/2024/ep07/ep072024.public.048.shtml
+[63] https://www.foxweather.com/extreme-weather/mother-daughter-rescued-from-sailboat-beset-weather-nearly-1000-miles-from-hawaii-coast-guard-navy
+[64] https://www.hawaiinewsnow.com/video/2024/11/29/hurricane-season-2024-considered-below-average-central-pacific/
+[65] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408152325&basin=epac&fdays=7
+[66] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408170546&basin=epac&fdays=7
+[67] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408201434&basin=epac&fdays=7
+[68] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408221451&basin=epac&fdays=7
+[69] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.001.shtml?
+[70] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.002.shtml?
+[71] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.007.shtml?
+[72] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.009.shtml?
+[73] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.012.shtml?
+[74] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.016.shtml?
+[75] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.021.shtml?
+[76] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.031.shtml?
+[77] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.037.shtml?
+[78] https://www.nhc.noaa.gov/archive/2024/cp01/cp012024.discus.042.shtml?
+[79] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408181433&basin=epac&fdays=7
+[80] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408221451&basin=epac&fdays=7
+[81] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.discus.001.shtml?
+[82] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.discus.003.shtml?
+[83] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.public.004.shtml?
+[84] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.discus.008.shtml?
+[85] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.discus.013.shtml?
+[86] https://www.nhc.noaa.gov/archive/2024/ep08/ep082024.discus.015.shtml?
+[87] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.001.shtml?
+[88] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.002.shtml?
+[89] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.003.shtml?
+[90] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.007.shtml?
+[91] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.010.shtml?
+[92] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.011.shtml?
+[93] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.012.shtml?
+[94] https://www.nhc.noaa.gov/archive/2024/ep09/ep092024.discus.013.shtml?
+[95] https://www.elsoldesinaloa.com.mx/local/ileana-no-deja-danos-ni-afectaciones-en-culiacan-12557435.html
+[96] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409211743&basin=epac&fdays=7
+[97] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.public.001.shtml?
+[98] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.public_a.002.shtml?
+[99] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.public.003.shtml?
+[100] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.update.09231747.shtml?
+[101] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.discus.007.shtml?
+[102] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.update.09240322.shtml?
+[103] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.discus.009.shtml?
+[104] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.discus.010.shtml?
+[105] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409250519&basin=epac&fdays=7
+[106] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409251010&basin=epac&fdays=7
+[107] https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/251456.shtml
+[108] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.discus.014.shtml?
+[109] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.public_a.014.shtml?
+[110] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.public_a.019.shtml?
+[111] https://www.nhc.noaa.gov/archive/2024/ep10/ep102024.discus.020.shtml?
+[112] https://www.meganoticias.mx/hermosillo/noticia/sube-a-29-cifra-de-fallecidos-por-el-huracan-john/555108
+[113] https://www.proceso.com.mx/nacional/2024/9/24/acapulco-impacto-de-john-podria-dejar-perdidas-de-hasta-mil-500-millones-de-pesos-337353.html
+[114] https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2025/natural-catastrophe-and-climate-report-2025.pdf
+[115] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409301742&basin=epac&fdays=7
+[116] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410012053&basin=epac&fdays=7
+[117] https://www.nhc.noaa.gov/archive/2024/ep11/ep112024.public.001.shtml?
+[118] https://www.nhc.noaa.gov/archive/2024/ep11/ep112024.discus.005.shtml?
+[119] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409301742&basin=epac&fdays=7
+[120] https://www.nhc.noaa.gov/archive/2024/ep11/ep112024.discus.009.shtml?
+[121] https://yaleclimateconnections.org/2024/10/watching-the-gulf-of-mexico-for-tropical-storm-formation/
+[122] https://www.telemundo.com/noticias/noticias-telemundo-en-la-noche/desastres-naturales/video/la-depresion-once-e-provoca-deslaves-y-destrozos-en-el-sureste-mexicano-tmvo12773109
+[123] https://www.telemundo.com/noticias/noticias-telemundo-mediodia/desastres-naturales/video/una-depresion-tropical-deja-al-menos-siete-estados-del-sureste-de-mexico-bajo-agua-tmvo12772547
+[124] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410201727&basin=epac&fdays=7
+[125] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410210538&basin=epac&fdays=7
+[126] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=latest&basin=epac&fdays=7
+[127] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.public.001.shtml?
+[128] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.005.shtml?
+[129] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.008.shtml?
+[130] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.009.shtml?
+[131] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.011.shtml?
+[132] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.012.shtml?
+[133] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.013.shtml
+[134] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.014.shtml?
+[135] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.016.shtml
+[136] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.017.shtml
+[137] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.018.shtml
+[138] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.discus.021.shtml
+[139] https://www.nhc.noaa.gov/archive/2024/ep12/ep122024.public.024.shtml
+[140] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410281157&basin=epac&fdays=7
+[141] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410312344&basin=epac&fdays=7
+[142] https://www.nhc.noaa.gov/archive/2024/ep13/ep132024.discus.001.shtml?
+[143] https://www.nhc.noaa.gov/archive/2024/ep13/ep132024.discus.003.shtml?
+[144] https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/031449.shtml
+[145] https://www.nhc.noaa.gov/archive/2024/ep14/ep142024.discus.001.shtml?
+[146] https://www.nhc.noaa.gov/archive/2024/ep14/ep142024.public.001.shtml?
+[147] https://www.nhc.noaa.gov/archive/2024/ep14/ep142024.public.006.shtml?
+[148] https://www.nhc.noaa.gov/aboutnames.shtml
+[149] https://web.archive.org/web/20181127012731/https://www.nhc.noaa.gov/aboutnames.shtml
+[150] https://www.ncdc.noaa.gov/stormevents/textsearch.jsp?q=Hurricane+Hone

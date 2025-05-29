@@ -1,0 +1,259 @@
+Legalism_(Chinese_philosophy)
+
+Fajia (Chinese: 法家; pinyin: fǎjiā), or the School of fa (laws, methods), often translated as Legalism, is a school of mainly Warring States period classical Chinese philosophy. Often interpreted in the West along realist lines, its members variously contributed to the formation of the bureaucratic Chinese empire, and early elements of Daoism. The later Han takes Guan Zhong as forefather of the Fajia. Its more Legalistic figures include ministers Li Kui and Shang Yang, and more Daoistic figures Shen Buhai and Shen Dao, with the late Han Feizi drawing on both. Later centuries took Xun Kuang as a teacher of Han Fei and Li Si. Succeeding emperors and reformers often followed the templates set by Han Fei, Shen Buhai and Shang Yang, but the Qin to Tang were more characterized by their traditions.
+Though Chinese administration had no single origin, with a major influence by the Han dynasty, grand chancellor Shen Buhai likely played a key role in the development of the merit system, and could be seen as its founder. With formative influence for the Qin and Chinese law, Shang Yang reformed the peripheral Qin state into a strongly centralized, militarily powerful kingdom, ultimately unifying China in 221 BCE. Largely responsible for their synthesis as a school, the Han Feizi also contains some of the earliest commentaries on the Daodejing. Sun Tzu's Art of War recommends Han Fei's concepts of power, technique, inaction, and impartiality, punishment and reward.
+
+# Masters Texts's category
+
+One of Sima Tan's (165–110 BCE) six schools of thought discussing governance in the early Han dynasty,  those listed under the fa school or family (Jia 家) were probably never an organized school like the Confucians or Mohists . They were influential in different places and times,  though they were arguably focused on the use of standards (fa) in the administration . Later Han Confucian Imperial Archivists Liu Xiang (77–6BCE) and Liu Xin (c.46bce–23ce) used Fajia as a category of Masters Texts in the Han imperial library. It would become a major category in Han dynasty catalogues, namely the Han state's own Book of Han (111ce). Alongside Shang Yang, Shen Buhai, Shen Dao and the Han Feizi,  it included six other lost texts . Sima Tan did not name anyone under the schools. Sima Qian classified Shen Buhai, Shen Dao and Han Fei as "rooted" in Huang-Lao or "Yellow Emperor and Laozi Daoism" . Fajia and Legalism arguably represent two different later Han dynasty Confucian interpretations . Sima Tan still appears to have understood that standards (fa) were used in the administration and not just penal law . Some chapters of the Han Feizi "eschew grace and benevolence" (35 & 47),  but Shen Buhai or Shen Dao do not endorse harsh punishment . Shen Buhai is said to have opposed punishment . Abandoned before its founding,   a confused revulsion against the Qin dynasty developed over the course of the Han, associating them with harsh punishment as argued by the Book of Lord Shang and Han Feizi . Shen Buhai is glossed under penal with Shang Yang through the influence of the Han Feizi, which discusses them together . A figure from chapter 40, Liu Xin argues that Shen Dao influenced Shen Buhai and Han Fei . They were partly lost in translation over the Han; the Warring States period did not have as many words. Xing (刑) had an early meaning of model or regulation, but was gradually lost as punishment . Shen Buhai and Han Fei's doctrinal term of Xing-Ming (刑名) refers to government job contracts,  but before Han Fei the popular Xun Kuang already uses it as "the names of punishments" in his introduction . It becomes a term for penal record keepers in the Han . Han Fei does recommend execution for violation of the offices, but so does King Wu of Zhou in the Book of Documents . Although the terms Fajia and Legalism have still seen some usage in recent years,  scholarship leading up to the modern era has often avoided them for partisan anachronism or inaccuracy by modern standards, arguing against one or the other . Xun Kuang criticized Shen Dao as "obsessed with fa", but no one appears to have used Fajia as an ideological term for himself or his opponent in the Warring States period . It likely only meant "law abiding families" in Mencius's time. It might have meant something like "methods expert in economic affairs" in the context of the Guanzi. 
+
+# Chronology
+
+Early a remote backwater to the west, Shang Yang's reforms propelled the Qin state to power. But central China was likely not familiar with him or the Qin state's Book of Lord Shang's until just before imperial unification, and similar ideas on power to the others only develop late in the work. The late Xun Kuang was familiar with Shen Buhai, Shen Dao, and the Qin, but still seems unaware of Shang Yang . Rather than Shang Yang, Shen Buhai might speculatively be compared with the older Li Kui or Zichan in the broad sense that they all sought more meritocratic government . As chancellors of neighboring states, Shang Yang's and Shen Buhai's doctrines would have intersected by the Qin dynasty, and the late Han Feizi, associated with Han Fei of the Hann state, is Shang Yang's first reference outside the Book of Lord Shang. The Han Feizi would suggest that the laws and methods of Shang Yang and Guan Zhong, with their associated works, may have circulated at that late time. Contrasting Shang Yang and Shen Buhai, Chapter 43 ("Ding fa" 定法) nonetheless likely contributed to their association and a Legalist interpretation of what the Confucians later called the Fa school . It is broadly relevant for their introduction. Taking Shang Yang as representative, Han Fei considered fa (standards) necessary, as including law, decrees, reward and punishment, as well as administrative standards (fa) controlled by the ruler, representative of his own state's Shen Buhai. The latter he terms (shu 术) administrative Method or Technique,  defined as examining the abilities of ministers, appointing candidates in accordance with their capabilities, and holding ministerial achievements (Xing "forms") accountable to their proposals (ming "names") . Following the Han Feizi, Shang Yang, Shen Buhai and Han Fei were often identified under the administrative practice of Xing-Ming ("form and name"), explained under Shu technique . Their combined figures might have influenced the Qin dynasty, but a souring association of them with the Qin only developed over the course of the Han dynasty. The early Huainanzi merely contrasts their combined figures with it's own doctrine, glossing them as penal . But by the later Han, scholars less knowledgeable than Liu Xiang were not always aware that Shen Buhai and Shang Yang differed . The term Xing is gradually lost as punishment over the Han . They become "the school of punishments" after its fall. 
+
+# Daoist associations
+
+Before Sima Tan, doctrines were identified by texts named after Masters (Zi). Later termed Daoist, A.C. Graham takes the Zhuangzi as preferring a private life, while the Daodejing (Laozi) contains an art of rule. Xun Kuang does not perceive them as belonging to one school in his time, listing them separately. The Outer Zhuangzi adopts Laozi and Zhuangzi into the same history of thought. Jia Yi recalls them together,  but the Huainanzi is the main example of Zhuangzi influence in the Han dynasty . A Laozi-Zhuangzi Daoism may be more accurate for the third century A.D. Along with founding Han dynasty figures,  Sima Qian claimed Shen Buhai, Han Fei and Shen Dao as "rooted" in Huang-Lao or "Yellow Emperor and Laozi (Daoism)",  which Graham described as "syncretist" . In a "strictly practical",  governmental sense, they could perhaps loosely be considered as originating in a Daoistic 'way in thought' . With Daoist and Legalist distinctions not existing before the Han,  those who included Laozi commentaries in the Han Feizi probably did not two schools; they probably saw works of rule . Huang-Lao' typified texts are generally more "naturalist" than Han Fei,  but Sima Qian and Ban Gu describe Huang-Lao in this way . While Sima Qian considered Han Fei harsh, he still discusses him and Shen Buhai alongside Laozi and Zhuang Zhou, espousing their origination in dao ("Way") and de (power,virtue). He simply gives Shang Yang his own chapter . Recalling Shen Buhai and Laozi, Han Fei's Way of the Ruler (Chapter 5) promotes "the ruler’s quiescence",  "practical recommendations" and the management of ministers rather than a Daoist way of life or metaphysics, but "affirms the primacy of the dao" . Chapter 40 quotes from Shen Dao alongside Zhuangzi . Shen Buhai bares a "striking" resemblance to Laozi. Laozi, Zhuangzi or Sima Qian do not generally advocate laws (fa),  but texts like the Huang-Lao boshu more broadly did advocate administrative standards (fa) . A central idea in their period, the Han Feizi and Sima Tan profess their views as a matter of changing with the times . Applying the practice of wu wei or non-action more to the ruler than anyone else, the Han Feizi is opposed with later or more spiritual forms of Daoism as a practical state philosophy not accepting a 'permanent way of statecraft' . 
+
+# Legalists or Administrators?
+
+While the term Legalism has still seen some conventional usage in recent years, such as in Adventures in Chinese Realism, apart from its anachronism academia has avoided it for reasons which date back to Sinologist Herrlee G. Creel's 1961 Legalists or Administrators? As Han Fei presents, while Shang Yang most commonly uses fa (standards) in the sense of law, Shen Buhai had fa (standards) in the administration, which Creel translated as method. Han Fei and Shen Dao make some use of fa (standards) as akin to law, and some use of reward and punishment, but often use fa standards similarly to Shen Buhai: as an administrative technique . Shen Buhai uses fa (standards) to compare official's duties and performances, and Han Fei often emphasizes fa in this sense. With a particular quotation from the Han Feizi as example: . With Shang Yang said to be executed after the death of Duke Xiao of Qin, although not abandoning his reforms, the Qin would abandon his harsh punishments, and ultimately his dominating focus on agriculture. The Book of Lord Shang would seek to innovate broader means of "empowering the state", including standards (fa) for promotion. It contains some pre-imperial ideas about what an order based on law and bureaucracy might look like once established. Often presenting its ideas in the context of the late Hann state that the work claims needs more law, inheriting Shang Yang's current the Han Feizi aspires to a state with law, wealth and a powerful military at the end of the Warring States period. That the Han Feizi is not legislative suggests that component was still more theoretical and advocative. Recalling Shen Buhai alongside Laozi, Han Fei's chapter 5 on Xing-Ming administration does include specific practical recommendations, such that the Waseda University edition divides it in half. Correlating ministerial proposals and achievements as contracts, Xing-Ming is amongst be the work's most philosophically sophisticated arguments . Although not a required component, Xing-Ming can also be considered its most detailed application of reward and punishment in connection with Chapter 7's The Two Handles. But the latter's primary concern is a monopolization of reward and punishment to prevent usurpation. The work's choice to include law is not accidental, and is at least indirectly intended to benefit the people, insomuch as the state is benefited by way of order. It can (or has, by a law expert rather than Sinologist) be compared to a legislative rule of law inasmuch as it develops beyond purposes serving those of simply the ruler, operating separately from him once established. Han Fei says: "The enlightened ruler governs his officials; he does not govern the people." The ruler cannot jointly govern the people in a large state. Nor can his direct subordinates themselves do it. The ruler wields methods to control officials. The Book of Lord Shang itself addresses statutes mainly from an administrative standpoint, and addresses many administrative questions, including an agricultural mobilization, collective responsibility, and statist meritocracy. Turning towards management, Chapter 25 of the Shangjunshu's so-called "Attention to law" advocates "strict reliance on law" (fa) mainly as "norms of promotion and demotion" to judge officials and thwart ministerial cliques, but not yet apparently having absorbed more complex methods of selection and appointment, still fell back on agriculture and war as the standard for promotion . 
+
+# Agriculture and War
+
+With the Book of Lord Shang emphasizing legal standards (fa), and a predominantly penal legal reception by Han Fei and the Han dynasty, the early work of Sinologist Herrlee G. Creel accepted Shang Yang as Legalist, arguing Shen Buhai more administrative. But Shang Yang's program was broader than law; Han Fei elementalizes him under it. Aside from penal law, the Book of Lord Shang primarily emphasizes agriculture and war, which may have been Shang Yang's "single most important slogan." . Early Warring States period ministerial recruitment aimed to establish universal census, taxes and military service as part of mobilization efforts. The Book of Lord Shang represents an extreme example of the early trend, the only surviving work of its kind. The Qin's military reorganization was a major achievement that shaped its overall policy. Extending to the population, the Qin organized society on a military basis as familial, mutual responsibility groups of five and ten for military recruitment. Sima Qian lists its reform as the first of his accomplishments . Fa (law) could be considered a first principle of the Book of Lord Shang, but is focused on state power, advocating a rich, centralized state, with a powerful army. Shang Yang's economic and political reforms were unprecedented, and far more significant than his personal military achievements. But he was as much a military reformer in his time, and did personally lead Qin to victory over Wei. The Han also recognized him as a military strategist. A work attributed to him, possibly the same, is also listed under the Han Imperial Library's Military Books under Strategists. With Shang Yang said to have reformed Qin law, the Book of Lord Shang does not believe that fa laws will be successful without "investigating the people's disposition." Translator Yuri Pines takes Shang Yang's primary doctrine to be that of connecting people's inborn nature or dispositions (xing 性) with names (ming 名). The work recommends enacting laws that allow people to "pursue the desire for a name", namely fame and high social status, or just wealth if acceptable. Ensuring that these "names" are connected with actual benefits, it was hoped that if people are able to pursue these, they will be less likely to commit crimes, and more likely to engage in hard work or fight in wars. A figure in the Stratagems of the Warring States, although not the primary focus of his administrative treatise, Shen Buhai was both a diplomat and military reformer, at least for defense, and is said to have maintained the security of his state. Although Xun Kuang is probably accurate in considering Shen Dao to be focused on fa administrative standards,  as introduced by Feng Youlan he was remembered in early scholarship for his secondary subject of shi or "situational authority", of which he is spoken in Chapter 40 of the Han Feizi and incorporated into The Art of War . He only uses the term twice in his fragments. 
+
+# Huang-Lao and Laozi
+
+As a view still espoused by Sinologist Hansen of the Stanford Encyclopedia of Daoism, a "Legalism" and Huang-Lao "Yellow Emperor Daoism" dominant by the Qin to early Han would theoretically be borne out by the Huang-lao typified Mawangdui silk texts. The term "Huang-Lao" might be retrospective, and the Han Feizi's Daodejing commentaries chapters may be late additions. But they would seem to more accurately describe the syncretism that became dominant by the Qin dynasty. Although It remains a question how much of it might have been extant in Shen Buhai's time,  the Mawangdui and Guanzi regard fa administrative standards as generated by the Dao, theoretically placing it, and some of those the Confucians later called Legalists, within a "loosely Daoist" context . The Mawagndui can be argued to have been written in the early Han, when their political positions might have been more appealing, but almost all scholars consider them to have been at least Pre-han,  even before Han Fei . Michael Loewe still placed its Jingfa text before Qin unification . The Yellow Emperor is a major figure in one of its texts. Amongst other strains of thought, the more metaphysical, but still politically oriented Boshu text more broadly includes contents bearing resemblance to Shen Buhai, Shen Dao and Han Fei, developing arguments more comparable to natural law than an old interpretation of legal positivism for Shang Yang and Han Fei. If Huang-Lao did describe a self-conscious current, it would have been more of a tendency than a unified doctrine, with early "Huang-Lao" Han dynasty administrators named by Sima Qian, like Cao Shen, taking a more "hands off" approach after the fall of the Qin dynasty . 
+
+## Han Fei and Laozi
+
+More political than a typical reading of the Daodejing (Laozi), rather than "using" the work for politics, 'Han Fei' may be reading from an older, more political version. With the Mawangdui found from a member of the political class, Hansen argued these version should not be simply assumed as 'originals', interpreting Huang-Lao as an early, politically partisan variety of what would later be termed Daoism. If the authors of the Han Feizi were not all sincere in their Laoist beliefs, the work would still have served as a suitable critique of Confucianism and Mohism,  or for impartial laws and techniques as purportedly bolstering the authority of a wu wei semi-inactive ruler . An interpretation of the Daodejing (Laozi) as simply cynically political would be flawed. Still, together with qigong, it can be viewed as a manual for politics and military strategy. In contrast to its modern representation, the Laozi of the early Mawangdui Silk Texts, and two of the three earlier Guodian Chu Slips, place political commentaries, or "ruling the state", first. The Han Feizi's more political contemporaries likely read them in the same order. Arguably lacking in metaphysics, associated content instead possesses mythologies. Nonetheless, in contrast to all prior Ways, the Daodejing emphasizes quietude and lack as wu wei. A central concept of Daoism, together especially with the Tao te Ching, Shen Buhai, Han Fei, Zhuangzi, and so-called Huang-Lao Daoism all have wu wei as a governmental function, emphasizing the political usages and advantages of reduced activity as a method of control for survival, social stability, long life, and rule, refraining from action in-order to take advantage of favorable developments in affairs. The Han Feizi's late Daodejing commentaries are comparable with the Daoism of the Guanzi Neiye,  but otherwise utilizes the Laozi more as a theme for methods of rule . Although the Han Feizi has Daoistic conceptions of objective viewpoints ("mystical states"), if his sources had them, he lacks a conclusive belief in universal moralities or natural laws,  sharing with Shang Yang and Shen Dao a view of man as self-interested . Advocating against manipulation of the mechanisms of government, despite an advocacy of passive mindfulness, noninterference, and quiescence, the ability to prescribe and command is still built into the Han Feizi's Xing-ming administrative method . 
+
+# Changing with the times
+
+The early work of Feng Youlan took the statesmen as fully understanding that needs change with the times and material circumstances; admitting that people may have been more virtuous anciently, Han Fei believes that new problems require new solutions. Earlier thought to be rare, in fact, a changing with times paradigm, or one of timeliness, "dominated" the age . Pines takes Shang Yang and Han Fei's more specific view of history as an evolutionary process as contrasting. It might have influenced an end of history view expressed by the Qin dynasty,  but would be a radical departure from earlier ideas . Sinologist Hansen once took Shen Dao and Han Fei as aiming at what they took to be the "'actual' course of history". As a figure listed before Shen Buhai and Shang Yang's combination in the Han Feizi's outer chapters, Hansen's takes the Han Feizi as concretizing Shen Dao's circumstantial authority, and a changing with the times paradigm introduced in its first chapters, under the Dao or "Way" of Laozi, which can be seen in Chapter 5 combined with Shen Buhai. Stressing timeliness, Sima Tan says: "It (the dao or way) shifts with the times and changes in response to things", a view earlier found in Han Fei and Xun Kuang. Hong Kong professor Liu Xiaogan takes the Zhuangzi and Laozi (Tao te Ching) as more focused on "according with nature" than timeliness; "Huang-Lao" followers of Zhuangzi can be theorized as defining the former according to the latter. Taking Shang Yang as inheriting from Li Kui and Wu Qi, despite anti-Confucianism in the Shangjunshu, professor Ch'ien Mu still considered that "People say merely that Legalist origins are in Dao and De (power/virtue)  [i.e., Daoist principles], apparently not aware that their origins in fact are in Confucianism. Their observance of law and sense of public justice are wholly in the spirit of Confucius' rectification of names and return to propriety, but transformed in accordance with the conditions of the age." In the ancient society, punishment by law would typically only apply to the people, while the nobles are only punished by ritual. But needs change with the times. It seems probable that Shen Buhai does have administrative ideas that go back the Confucian rectification of names . Hu Shih took Xun Kuang, Han Fei and Li Si as "champions of the idea of progress through conscious human effort", with Li Si abolishing the feudal system, unifying the empire, law, language, thought and belief, presenting a memorial to the throne in which he condemns all those who "refused to study the present and believed only in the ancients on whose authority they dared to criticize". With a quotation from Xun Kuang: . In contrast to Xun Kuang as the classically purported teacher of Han Fei and Li Si, Han Fei does not believe that a tendency to disorder demonstrates that people are evil or unruly. 
+
+## A.C. Graham
+
+In what A.C. Graham took to be a "highly literary fiction", as Pines recalls, the Book of Lord Shang's chapter 1, “Revising the laws,”  opens with a debate held by Duke Xiao of Qin, seeking to "consider the changes in the affairs of the age, inquire into the basis for correcting standards, and seek the Way to employ the people." Gongsun attempts to persuade the Duke to change with the times, with the Shangjunshu citing him as saying: "Orderly generations did not  [follow] a single way; to benefit the state, one need not imitate antiquity.". Graham compares Han Fei in particular with the Malthusians, as "unique in seeking a historical cause of changing conditions", namely population growth, acknowledging that an underpopulated society only need moral ties. The Guanzi text sees punishment as unnecessary in ancient times with an abundance of resources, making it a question of poverty rather than human nature. Human nature is a Confucian issue. Graham otherwise considers the customs current of the time as having no significance to the statesmen, even if they may be willing to conform the government to them. As a counterpoint, the Han Feizi and Shen Dao do still employ argumentative reference to 'sage kings'; the Han Feizi claims the distinction between the ruler's interests and private interests as said to date back to Cangjie, while government by Fa (standards) is said to date back to time immemorial, considering the demarcation between public and private a "key element" in the "enlightened governance" of the purported former kings. 
+
+# Xing-Ming (introduction)
+
+Liu Xiang (77–6BCE) considered Shen Buhai's doctrine to be that of Xing-Ming, or "form" and "name", described as holding outcomes accountable to claims. Sima Qian (c.145–c.86BCE) glosses Shen Buhai, Han Fei and Shang Yang under it, claiming Shen Buhai and Han Fei as favoring it, but rooted in Huang-Lao or "Yellow Emperor Daoism". The Han Feizi actually states than Shen Buhai uses the earlier Mohist "ming-shi" or name and reality . Hence, Xing-Ming likely originates in the debates of the or later or Neo-Mohists and school of names (Xingmingjia) . It probably goes back to the Confucian rectification of names, or cheng ming, a term which Shen Buhai still seems to have used even if the later Han Feizi contrasts with it . A commentary to the Shiji recounts Shen Buhai's book as advocating Method rather than punishment. An early bureaucratic pioneer, Shen Buhai was not so much more advanced as he was more focused on bureaucracy. Though not his only example, Han Fei's discussion of Method in Chapter 43 provides a basic explanation for Xing-Ming, saying: "Method is to confer office in accordance with a candidate's capabilities; to hold achievement (Xing forms) accountable to claim (Ming names); and to examine the ability of the assembled ministers." It central principle may have been accountability "more than anything else.". Naming individuals to their roles as ministers (e.g. "Steward of Cloaks" Chapter 7), in contrast to the earlier Confucians, Han Fei at the end of the Warring States period holds ministers accountable for their proposals, actions and performance. Xun Kuang often has more specific criteria for the appointment of officials, but the Han Feizi's methods are in general "quite detailed." Its Xing-Ming method was likely the most 'mechanically' complex example of its kind for the period . In this regard, the late Warring States theories of Xun Kuang and the Mohists were still far more generalized. Sima Qian asserts the First Emperor as proclaiming Xing-Ming's practice. A less technically complex example at least can found be in the late per-imperial Lushi Chunqiu . Although by its own statements favoring self cultivation,  A.C . Graham took the Outer Zhuangzi as incorporating Xing-Ming. Emphasizing wu wei, dao and de and benevolence over appointment and investigation, reward and punishment, it mainly criticizes those who reverse its priorities. With their doctrines scarcely visible in the early Han outside the Mawangdui silk texts, according to the Shiji, the practice emerged again under the Daoistic Emperor Wen of Han and his trusted ministers, but "cautious, unobtrusive and firm", more akin to Shen Buhai than Han Fei. Attributed back to Shen Buhai, it becomes the term for secretaries who had charge of records in penal decisions by the Han dynasty. Early connected with Shen Buhai and school of names type figures as Method, Xing-Ming sometimes refers to a combination of Shang Yang and Han Fei by the Han dynasty. Despite a potential contribution of such ideas to the founding of the Imperial Examination, the meaning of the term itself would ultimately be confused and lost in conflation with punishment (Xing 刑) by the time of the Western Qin, sometimes as early as the third century's Eastern Han. Likely unable to interpret it, Jin Zhuo would split the school of names as the Mingjia, and those already classified as Legalists as the Xingjia or school of punishments. 
+
+## Xing-Ming (selected works)
+
+With visible usages of Xing-Ming, the Han Feizi's chapter 5 Zhudao (道主) or "Way of the Ruler" recalls Laozi and Shen Buhai in parallel style. Although Sima Qian does not claim it amongst his short list of chapters, he may have taken Han Fei as Huang-Lao based on its conception of the Dao, if the idea wasn't already established. The Mawangdui Jingfa regards Dao as generating fa standards. Shen Buhai, Han Fei, and Sima Tan's preferably 'inactive' ruler contracts an assembly of ministers, with Xing-Ming correlating job proposals as Ming ("names", or verbal claims) with the Xing "forms" or "shapes" that they take . With early examples in Shen Buhai (Shenzi), several of the Mawangdui's texts bare resemblance to Han Fei's Chapter 5 discussion of Xing-Ming and its "brilliant (or intelligent) ruler", as do other eclectic Huang-Lao typified works, like the Guanzi, Huainanzi, and Sima Qian's Shiji. Sima Tan partly described the Daoist school (Daojia) based on what is "clearly" the idea of the Xing-Ming court. Typically termed Daoist for the early Han, the Lushi Chunqiu demonstrates that a philosophy promoting the wu wei reduced activity of the ruler goes back to the Warring States period, containing a "Daoist-Legalist" fusion comparable to Shen Buhai, Shen Dao, Han Fei, Guanzi and the Mawangdui Huangdi sijing. The Confucian archivists simply classify the text as Zajia ("Syncretist") rather than Daojia ("Daoism") or Fajia ("Legalism"). With an example from the chapter "Ren shu": . Creel takes particular note of passage 17 of the Daodejing (Laozi) as interpreted by J. J. L. Duyvendak, "arousing wide interest" but "quite old in Chinese literature" as that of a form of Daoism "leaning heavily toward Legalism". Creel takes the Wenzi as example, which draws on the Daodejing, Han Feizi and Huainanzi. The 'enigmatic' passage does not directly mention rulers, but would seem to discuss the ruler as one who "does everything without acting". In the Guodian and Mawangdui versions, it is combined with passage 18 . Shen Dao's "Understanding Loyalty" includes a "concern that a focus on loyalty arises only when things have already begun to go wrong." . 
+
+# School of names
+
+Prior Shen Buhai, Xingming likely originates earlier in the school of names. The Zhan Guo Ce quotes one of their paradoxes: "Su Qin said to the King of Qin, 'Exponents of Xingming all say that a white horse is not a horse.'" Su Qin nonetheless took Gongsun Long's white horse paradox to be a Xingming administrative strategy. Other people were simply not intended to understand it. Despite opposition to their paradoxes, the Han Feizi provides a white horse strategy: the chief minister of Yan pretended to see a white horse dash out the gate . All of his subordinates denied having seen anything, save one, who ran out and returned claiming to have seen it, identifying him as a flatterer. But words and names are essential to administration,  and discussion on the connection between realities and their names were common to all schools in the classical period (500bce-150bce), as including the Mohists and posthumous categories of Daoists, Legalists and School of Names . Its earlier thinking was actually most developed by the Confucians, while later thinking was characterized by paradoxes. Shen Dao and Daoism question the premises of prior schools, in particular that of the Confucians and Mohists, representing an even higher degree of relativist skepticism. Nonetheless, with a narrow bureaucratic focus, together with the earlier Shen Buhai and Xun Kuang, Han Fei can still be compared with the early social, Confucian rectification of names. Although more or less representing an actual social category of debaters,  Sima Qian divided the schools (or categories) along elemental lines, as including Ming ("names", the usage of words in philosophy and administration including contracts) for the Mingjia School of Names, and fa (standards including law and method) for those later termed Fajia ("Legalists") . Engaging in discussions of "sameness and difference", such distinctions would naturally be useful in litigation and administration . But the more advanced Names and Realities discussions date to the later Warring States period, after Shang Yang, Shen Buhai, and Mencius, i.e . in Han Fei's era. The practices and doctrines of Shen Buhai, Han Fei and the school of names are all termed Mingshi (name and reality) and Xingming (form and name). The administrators of both groupings have both elements and share the same concerns, evaluating bureaucratic performance, and the structural relation between ministers and supervisors. The school of names mingjia can also inaccurately be translated as Legalists,  using fa comparative models for litigation . The Qin dynasty used comparative model manuals to guide penal legal procedure, . 
+
+# Eradicating punishments
+
+Translator Yuri Pines takes the final chapter (26) of the Book of Lord Shang (Shangjunshu) as reflecting the administrative practices of late pre-imperial and Imperial Qin dynasty, aligning with knowledge of Qin governance. Although seeking governance more broadly, protecting the people from ministerial abuse becomes more important than punishing the people. Taken as universally beneficial, in an attempt to achieve the "blessed eradication of punishments through punishments", clear laws are taught that the people can use against ministers abusing the statutes, punishing them according to the penalties of the statute abused. Han Fei advocates the same, but is more focused on accomplishing it through the administrative power of the ruler. A major reform of the primarily administrative Qin dynasty focuses more on restraining ministers, instituting office divisions that cannot punish at will . If, as depicted, at least part of the Han Feizi dates dates to the late Warring States period period, the Shangjunshu could have circulated on the eve of unification. The work's adoption by the Han Feizi can give the appearance of a living current for the old harsh punishments of Shang Yang that can mistakenly be imposed backward. Even if the Shangjunshu only passingly suggests that a need for punishment would pass away, the Qin nonetheless abandoned Shang Yang's heavy punishments. The Book of Lord Shang itself is not a homogeneous ideology, but shifts substantially over its development. As the work's first reference, the Han Feizi recalls its earlier Chapter 4, saying: . Punishments in the Qin and early Han were commonly pardoned or redeemed in exchange for fines, labor or one to several aristocratic ranks, even up to the death penalty. Not the most common punishments, the Qin's mutilating punishment likely exist in part to create labor in agriculture, husbandry, workshops, and wall building. Replacing mutilation, labor from one to five years becomes the common heavy punishment in early Imperial China, generally in building roads and canals.. As a component of general colonization, the most common heavy punishment was expulsion to the new colonies. The Han engage in the same practice, transferring criminals to the frontiers for military service, with Emperor Wu and later emperors recruiting men sentenced to death for expeditionary armies. The Qin have mutilating punishments like nose cutting, but with tattooing as most common. They "were not extraordinarily severe for their time", and form a continuity with the early Han dynasty, abolishing mutilations in 167 BC. Han-era writer Dong Zhongshu (179–104 BC) considered Qin officials and taxes severe, but did not characterise punishments as such; in fact, Dong criticized the Qin system for its inability to punish criminals. Aiming to reduce punishment to a minimum, the idea of redemption can be found in the Analects of Confucius, attempting to ensure a correct application of the rectification of names . Exile as a heavy punishment in ancient China dates back to at least the Spring and Autumn period . 
+
+## Han Feizi
+
+For Han Fei, the power structure is unable to bare an autonomous ministerial practice of reward and punishment. Han Fei mainly targets ministerial infringements. The Han Feizi's main argument for punishment by standards, Chapter 7's The Two Handles, is that delegating reward and punishment to ministers has led to an erosion of power and collapse of states in his era, and should be monopolized, using severe punishment in an attempt to abolish ministerial infringements, and therefore punishment. Monopolization can be considered a core of Han Fei's practice of fa laws and methods, aiming to prevent usurpation. Mostly concerned with the ministers, Han Fei does not regard the people as an enemy, as the earlier part of the Book of Lord Shang did. The Han Feizi occasionally even has ideas of public good . "Preventing the strong from expoliting the weak" will benefit the sage ruler Han Fei addresses, but also the elderly and the orphan. While Han Fei believes that a benevolent government that does not punish will harm the law, and create confusion, he also believes that a violent and tyrannical ruler will create an irrational government, with conflict and rebellion. For this reason, the Han Feizi also opposes corvee, with hardship turning the people toward powerful ministers to the detriment of the ruler and state . Shen Dao, the first member of Han Fei's triad between the figures in the later chapters, never suggests kinds of punishments, as that is not the point. The main point is that it would involve the ruler too much to decide them personally, exposing him to resentment. The ruler should decide punishments using fa standards. Han Fei does does not suggest kinds of punishments either, and would not seem to care about punishment as retribution itself . He only cares whether they work, and therefore end punishments. Although "benevolence and righteousness" may simply be "glittering words", other means can potentially be included. While recalling Shang Yang, Han Fei places a more equal emphasis on reward to encourage people and produce good results; punishment for him was still secondary to simply controlling ministers through techniques. Although these could be expected to include espionage in his time, they consisted primarily simply in written agreements. 
+
+## Justice
+
+Emphasizing a dichotomy between the people and state, the Book of Lord Shang in particular has been regarded as anti-people, with alienating statements that a weak people makes a strong military. But, such statements are concentrated in a few chapters, and the work does still vacillate against ministerial abuses. Michael Loewe still regarded the laws as primarily concerned with peace and order . They were harsh in Shang Yang's time mainly out of hope that people will no longer dare to break them. Sima Qian argues the Qin dynasty, relying on rigorous laws, as nonetheless still insufficiently rigorous for a completely consistent practice, suggesting them as not having always delivered justice as others understood it. Still, from a modern perspective, it is "impossible" to deny at least the "'basic' justice of Qin laws" . Rejecting the whims of individual ministers in favor of clear protocols, and insisting on forensic examinations, for an ancient society they are ultimately more definable by fairness than cruelty.. With contradicting evidences, as a last resort, officials could rely on beatings, but had to be reported and compared with evidence, and cannot actually punish without confession. With administration and judiciary not separated in ancient societies, the Qin develop the idea of the judge magistrate as a detective, emerging in the culture of early Han dynasty theater with judges as detectives aspiring to truth as justice. Inasmuch as Han Fei has modernly been related with the idea of justice, he opposes the early Confucian idea that ministers should be immune to penal law. With an at least incidental concern for the people, the Han Feizi is "adamant that blatant manipulation and subversion of law to the detriment of the state and ruler should never be tolerated": . 
+
+# Sources in Legalist Mythos
+
+Jia Yi criticized Shang Yang In the reign of Emperor Wen, but along with propriety and righteousness himself advocates fa laws (models), ranks and the execution of usurpers. Arguing for Daoism (Daojia) in the reign of Emperor Wu,  Sima Qian depicted Li Si as reciting a distorted version of Chapter 43 to the Second Emperor . Contrary to earlier depictions, along with other Han dynasty authors, Sima Qian also depicts Confucius as a legalistic figure . Advocating law, punishment and meritocratic appointment, Dong Zhongshu simply associates Shang Yang, Shen Buhai and Han Fei with the Qin dynasty again . 
+
+## Jia Yi (200–169 BCE)
+
+The Han dynasty mainly villainizes the First Emperor of China as arrogant and inflexible, blaming the second emperor for the fall of Qin. In the early Han, Jia Yi (200–169 BCE) associates the first Emperor with cruel punishments. Amongst figures that would otherwise be to taken to be his own Huang-Lao typified allies, Sima Qian glosses Jia Yi a scholar of both Shang Yang and Shen Buhai. While he likely had read both, he was a more likely proponent of Shen Buhai, supporting regulation of the bureaucracy and feudal lords.. Being both a Daoistic and Confucian doctrine, he favored the practice of Wu wei, or non-action by the ruler, against the practice of law. Despite advocating wuwei inaction by the ruler, and writing the Ten Crimes of Qin in opposition to harsh punishments, figures like Jia Yi were opposed for attempting to regulate the bureaucracy, leading to his banishment under ministerial pressure. The Emperor sent him to teach his sons. Mark Edward Lewis modernly characterized it as a politically motivated mythos. 
+
+## Liu An (179–122 bce)
+
+Sinologists Herrlee G. Creel and Yuri Pines cite the Huainanzi, associated with Liu An (179–122 bce), as the earliest combinational gloss of Shen Buhai with Shang Yang, comparing them as one person with harsh punishments to their own doctrine. Positively receiving reunification of the empire, the text opposes centralized government and the class of scholar-officials . With ideas of wuwei nonaction, the Huainanzi recommends that the ruler put aside trivial matters, and follow the ways of Fuxi and Nüwa, abiding in Empty Nothingness and Pure Unity. Placing ritual specialists lower than heavenly prognosticators, and aiming to demonstrate how every text that came before it is now part of its own integral unity, the Huainanzi posed a threat to the Han court. Although Chapter 1 is based most strongly on Laozi, the work otherwise most strongly resonates with the Zhuangzi, with influences from the Hanfeizi, Lüshi chunqiu, Mozi, and Guanzi, the Classic of Poetry, etc. 
+
+## The Fa School
+
+Inasmuch as the term Legalism has been used modernly, Dingxin Zhao  characterizes the Western Han as developing a Confucian-Legalist state. Liu An, as traditional author of the Huang-Lao typified Huainanzi, would be suppressed together with the Huang-Lao faction by other potential Han Feizi students, the Shang Yangian Emperor Wu of Han (reign 141-87bce), Gongsun Hong and Zhang Tang. Under Confucian factional pressure, Emperor Wu dismisses the Yellow Emperor Daoists, xingming theoreticians, and those of other philosophies, and discriminates against scholars of Shang Yang, Shen Buhai and Han Fei. When Wu was older, those officials who praised Shang Yang and Li Si and denounced Confucius were upheld. Together with that of the Confucians, the imperial examination system would be instituted through the likely influence of Shen Buhai and Han Fei, who advocated appointment by methodologies of performance checking. Undoubtedly associating Shang Yang primarily with penal law, no received Han text ever attempted to individually argue or obfuscate Shen Buhai a penal figure. Contrasting with Confucius and the Zhou dynasty, Dong Zhongshu (179–104 BC) simply associates Shen Buhai and Shang Yang with the Qin again as reportedly implementing the ideas of Han Fei. Asserting that the Qin, with high taxes and oppressive officials, had declined amidst a failure to punish criminals, he proceeds to associate laws, punishments and meritocratic appointment with the Zhou. With Sima Qian's categories already popular by their time, Imperial Archivists Liu Xiang (77–6BCE) and Liu Xin (c.46bce–23ce) placed Han Fei's figures. Liu Xin associates the schools with ancient departments, with the fa-school "probably originating in the department of prisons", whose descendants in Dong's essay, then, failed to punish criminals. Fajia becomes a category of texts in the Han state's own Book of Han (111ce), with Dong's argument included in his Chapter 56 Biography. 
+
+# References
+
+[1] [ERROR retrieving ref link]
+[2] [ERROR retrieving ref link]
+[3] [ERROR retrieving ref link]
+[4] [ERROR retrieving ref link]
+[5] [ERROR retrieving ref link]
+[6] [ERROR retrieving ref link]
+[7] [ERROR retrieving ref link]
+[8] [ERROR retrieving ref link]
+[9] [ERROR retrieving ref link]
+[10] [ERROR retrieving ref link]
+[11] [ERROR retrieving ref link]
+[12] [ERROR retrieving ref link]
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[15] [ERROR retrieving ref link]
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[19] [ERROR retrieving ref link]
+[20] [ERROR retrieving ref link]
+[21] [ERROR retrieving ref link]
+[22] [ERROR retrieving ref link]
+[23] [ERROR retrieving ref link]
+[24] [ERROR retrieving ref link]
+[25] [ERROR retrieving ref link]
+[26] [ERROR retrieving ref link]
+[27] [ERROR retrieving ref link]
+[28] [ERROR retrieving ref link]
+[29] [ERROR retrieving ref link]
+[30] [ERROR retrieving ref link]
+[31] [ERROR retrieving ref link]
+[32] [ERROR retrieving ref link]
+[33] [ERROR retrieving ref link]
+[34] [ERROR retrieving ref link]
+[35] [ERROR retrieving ref link]
+[36] [ERROR retrieving ref link]
+[37] [ERROR retrieving ref link]
+[38] [ERROR retrieving ref link]
+[39] [ERROR retrieving ref link]
+[40] [ERROR retrieving ref link]
+[41] [ERROR retrieving ref link]
+[42] [ERROR retrieving ref link]
+[43] [ERROR retrieving ref link]
+[44] [ERROR retrieving ref link]
+[45] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[47] [ERROR retrieving ref link]
+[48] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[52] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[54] [ERROR retrieving ref link]
+[55] [ERROR retrieving ref link]
+[56] [ERROR retrieving ref link]
+[57] [ERROR retrieving ref link]
+[58] [ERROR retrieving ref link]
+[59] [ERROR retrieving ref link]
+[60] [ERROR retrieving ref link]
+[61] [ERROR retrieving ref link]
+[62] [ERROR retrieving ref link]
+[63] [ERROR retrieving ref link]
+[64] [ERROR retrieving ref link]
+[65] [ERROR retrieving ref link]
+[66] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[68] [ERROR retrieving ref link]
+[69] [ERROR retrieving ref link]
+[70] [ERROR retrieving ref link]
+[71] [ERROR retrieving ref link]
+[72] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[74] [ERROR retrieving ref link]
+[75] [ERROR retrieving ref link]
+[76] [ERROR retrieving ref link]
+[77] [ERROR retrieving ref link]
+[78] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[80] [ERROR retrieving ref link]
+[81] [ERROR retrieving ref link]
+[82] [ERROR retrieving ref link]
+[83] [ERROR retrieving ref link]
+[84] [ERROR retrieving ref link]
+[85] [ERROR retrieving ref link]
+[86] [ERROR retrieving ref link]
+[87] [ERROR retrieving ref link]
+[88] [ERROR retrieving ref link]
+[89] [ERROR retrieving ref link]
+[90] [ERROR retrieving ref link]
+[91] [ERROR retrieving ref link]
+[92] [ERROR retrieving ref link]
+[93] [ERROR retrieving ref link]
+[94] [ERROR retrieving ref link]
+[95] [ERROR retrieving ref link]
+[96] [ERROR retrieving ref link]
+[97] [ERROR retrieving ref link]
+[98] [ERROR retrieving ref link]
+[99] [ERROR retrieving ref link]
+[100] [ERROR retrieving ref link]
+[101] [ERROR retrieving ref link]
+[102] [ERROR retrieving ref link]
+[103] [ERROR retrieving ref link]
+[104] [ERROR retrieving ref link]
+[105] [ERROR retrieving ref link]
+[106] [ERROR retrieving ref link]
+[107] [ERROR retrieving ref link]
+[108] [ERROR retrieving ref link]
+[109] [ERROR retrieving ref link]
+[110] [ERROR retrieving ref link]
+[111] [ERROR retrieving ref link]
+[112] [ERROR retrieving ref link]
+[113] [ERROR retrieving ref link]
+[114] [ERROR retrieving ref link]
+[115] [ERROR retrieving ref link]
+[116] [ERROR retrieving ref link]
+[117] [ERROR retrieving ref link]
+[118] [ERROR retrieving ref link]
+[119] [ERROR retrieving ref link]
+[120] [ERROR retrieving ref link]
+[121] [ERROR retrieving ref link]
+[122] [ERROR retrieving ref link]
+[123] [ERROR retrieving ref link]
+[124] [ERROR retrieving ref link]
+[125] [ERROR retrieving ref link]
+[126] [ERROR retrieving ref link]
+[127] [ERROR retrieving ref link]
+[128] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[130] [ERROR retrieving ref link]
+[131] [ERROR retrieving ref link]
+[132] [ERROR retrieving ref link]
+[133] [ERROR retrieving ref link]
+[134] [ERROR retrieving ref link]
+[135] [ERROR retrieving ref link]
+[136] [ERROR retrieving ref link]
+[137] [ERROR retrieving ref link]
+[138] [ERROR retrieving ref link]
+[139] [ERROR retrieving ref link]
+[140] [ERROR retrieving ref link]
+[141] [ERROR retrieving ref link]
+[142] [ERROR retrieving ref link]
+[143] [ERROR retrieving ref link]
+[144] [ERROR retrieving ref link]
+[145] [ERROR retrieving ref link]
+[146] [ERROR retrieving ref link]
+[147] [ERROR retrieving ref link]
+[148] [ERROR retrieving ref link]
+[149] [ERROR retrieving ref link]
+[150] [ERROR retrieving ref link]
+[151] [ERROR retrieving ref link]
+[152] [ERROR retrieving ref link]
+[153] [ERROR retrieving ref link]
+[154] [ERROR retrieving ref link]
+[155] [ERROR retrieving ref link]
+[156] [ERROR retrieving ref link]
+[157] [ERROR retrieving ref link]
+[158] [ERROR retrieving ref link]
+[159] [ERROR retrieving ref link]
+[160] [ERROR retrieving ref link]
+[161] [ERROR retrieving ref link]
+[162] [ERROR retrieving ref link]
+[163] [ERROR retrieving ref link]
+[164] [ERROR retrieving ref link]
+[165] [ERROR retrieving ref link]
+[166] [ERROR retrieving ref link]
+[167] [ERROR retrieving ref link]
+[168] [ERROR retrieving ref link]
+[169] [ERROR retrieving ref link]
+[170] [ERROR retrieving ref link]
+[171] [ERROR retrieving ref link]
+[172] [ERROR retrieving ref link]
+[173] [ERROR retrieving ref link]
+[174] [ERROR retrieving ref link]
+[175] [ERROR retrieving ref link]
+[176] [ERROR retrieving ref link]

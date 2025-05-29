@@ -1,0 +1,223 @@
+Jeju_Air_Flight_2216
+
+Jeju Air Flight 2216 was a scheduled international passenger flight operated by Jeju Air from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, the Boeing 737-800 operating the flight was approaching Muan, when a bird strike occurred. The pilots issued a mayday alert, performed a go-around, and on the second landing attempt, the landing gear did not deploy and the airplane belly landed well beyond the normal touchdown zone. It overran the runway, colliding with multiple approach lighting system bulbs and crashed into a berm encasing a concrete structure that supported an antenna array for the instrument landing system. The collision killed all 175 passengers and 4 of 6 crew members. The surviving 2 cabin crew were seated in the rear of the plane, which detached from the fuselage, and were rescued with injuries.
+The accident is the deadliest aviation disaster involving a South Korean airliner since the 1997 crash of Korean Air Flight 801 in Guam and became the deadliest aviation accident on South Korean soil, surpassing the 2002 crash of Air China Flight 129 that killed 129 people. This was the first fatal accident in Jeju Air's 19-year history.
+The crash is the deadliest aviation accident involving a Boeing 737 Next Generation aircraft and the deadliest aviation accident since the crash of Lion Air Flight 610 in 2018.
+
+# Background
+
+## Aircraft
+
+The aircraft involved, acquired by Jeju Air in 2017, was a Boeing 737-8AS [a] registered as HL8088 and was equipped with two CFM International CFM56-7B engines. Less than a month before the crash, Jeju Air had resumed regular international services at Muan International Airport following a suspension caused by the COVID-19 pandemic, and the airline was operating four flights a week between Muan and Bangkok,  a service that Jeju Air began on 8 December [6] [7] [8] [9]. In the 48 hours leading to the crash, the aircraft made 13 flights that included stops in Muan, Jeju Island, and Incheon, as well as to Beijing, Bangkok, Kota Kinabalu, Nagasaki, and Taipei. No issues were found in the aircraft's safety pre-check before its final flight, according to Jeju Air [11]. Jeju Air initially said that the crashed aircraft was not involved in any prior incident, but data from the Korea Airports Corporation showed that in February 2021, the aircraft was damaged when its tail struck the runway during takeoff from Gimpo International Airport in Seoul, for which Jeju Air was fined 2.2 billion won ($1.5 million) by the Ministry of Land, Infrastructure and Transport for violating safety regulations. Amid criticism over the airline's omission of the incident, Jeju Air said it considered the event as "minor", which led to its exclusion in accident records. 
+
+## Passengers and crew
+
+Of the 175 passengers, 2 were Thai nationals, and the other 173 were South Korean. The oldest on board was born in 1946, and the youngest in 2021 [14] [15]. Nine members of the same family that included the three-year-old child were also on board [16] [17]. Of the 181 people on board, 82 were male and 93 were female [18]. There were 5 passengers under the age of 10 [19]. The captain had been an employee of Jeju Air since 2019 and had accumulated over 6,820 hours of flight experience; the first officer had over 1,650 hours [20]. The crew also included four flight attendants [9]. Most passengers were returning home from a five-day Christmas package tour to Bangkok. Thirteen passengers were reported to be active or former government officials on a provincial or local/municipal level, eight were current or former civil servants from Hwasun County, and five were administrative officers of the Jeonnam Provincial Office of Education [22]. Eighty-one passengers were residents of Gwangju, while 76 others, including one Thai national, resided in South Jeolla Province [23]. The remaining passengers originated from North Jeolla Province, Gyeonggi Province, Seoul, Jeju Island, South Gyeongsang Province and South Chungcheong Province. 
+
+# Accident
+
+On 29 December, the aircraft took off from Suvarnabhumi Airport at 2:28 a.m ICT (UTC+7). Kerati Kijmanawat, the director of Airports of Thailand, stated that no abnormalities regarding the aircraft nor the runway had been reported [26]. At 8:54 a.m. KST (UTC+9), the plane was authorized to land at Muan International Airport in South Korea. As the plane was preparing to land, it was warned at 8:57 a.m [28]. about the potential for a bird strike. Shortly thereafter, the pilots broadcast a mayday alert and advised they were going around [4] [28] [29]. This was followed by an authorization to land in the opposite direction   after the landing gear was not deployed [4] [29] [28] [29]. The crash occurred between 9:03  and 9:07 a.m [29]. as the aircraft belly landed,   touching down 1,200 metres (3,900 ft) along the runway [30] [31] [32]. It overshot,   with video footage showing the aircraft sliding down the runway on the engine nacelles with a sustained nose-high attitude [33] [31] [32]. It continued 250 metres (820 ft) past the runway threshold and exploded after colliding with the berm supporting the instrument landing system localizer [34]. Wreckage from the aircraft continued through the perimeter wall, causing partial damage [33] [34]. Local residents said they saw flames and sparks originating from the aircraft's right wing and heard explosions and "metal scraping" before impact [33]. Some reported seeing a flock of birds being ingested into the right engine, causing a fire. The only survivors were two crew members rescued from the tail section of the aircraft [35]. A local restaurant owner heard "loud bangs" that sounded like the backfiring of a motorcycle engine, leading him to rush to the restaurant rooftop and record a 54-second video on his cell phone of the aircraft's descent and crash which subsequently went viral [30]. Emergency services received multiple calls around 9:03 a.m.,  and the fire response issued a level-3 emergency, its highest alert [38]. According to the National Fire Agency and the Ministry of National Defense, 1,562 personnel, including 490 firefighters, 500 military personnel and 455 police officers, were dispatched [39]. One of the survivors was rescued at 9:23 a.m., and the other was rescued from the tail section at 9:50 a.m [40] [41]. The fire was extinguished within 43 minutes of the crash,   and the flight recorders were retrieved within the day [28] [42] [43]. The flight data recorder was found partially damaged without a connector linking its data storage unit to the power supply, while the cockpit voice recorder (CVR) was intact [27]. The two flight attendants seated in the aft jump seats were the only survivors of the crash and were conscious. Hydraulic equipment was used to rescue one of the survivors, who had been pinned down by a fallen cabinet [27] [16]. They both sustained moderate to serious wounds, one with fractures to his ribs, shoulder blade and upper spine,  and the other with injuries to her ankle and head [21] [27]. Both received medical treatment at separate hospitals in Mokpo before being transferred to a hospital in Seoul [46]. Both survivors appeared to be disoriented and were unable to remember what had happened immediately following the landing [47] [19]. By 1:36 p.m., the firefighters had switched to search operations to recover bodies. A temporary morgue was set up in an airport hangar  to handle the bodies recovered from the wreckage, and a waiting room was created for family members of the occupants at the airport with civil servants assigned to each family for support while they awaited news from the crash [49] [50]. Tents were also erected inside the airport to temporarily house arriving family members [51]. Later at night, the family members were temporarily accommodated at the dormitories of Mokpo National University [52]. Regular operations of Muan International Airport were suspended. At the time of the crash, ongoing construction work had shortened the runway's length from 2,800 to 2,500 meters (9,200 to 8,200 ft); officials from the Ministry of Land, Infrastructure and Transport dismissed the possibility of the relatively short runway length having contributed to the accident [54]. The airport's sole runway is expected to remain closed until 18 April 2025 [55]. 
+
+# Victims
+
+A total of 179 people were confirmed dead,  including all 175 passengers and 4 crew members [57]. Local fire officials said that passengers were ejected from the aircraft after it hit a barrier at the end of the runway, leaving little chance of survival. Firefighters said some bodies were scattered 100 to 200 m (330 to 660 ft) from the crash site while others were found mutilated or burnt among the wreckage [58]. Police officials said it would require over a week to identify the more than 600 human remains recovered [59]. Some family members provided officials with DNA samples at the airport to help identify the dead [60]. On 30 December, at 12:10 a.m., South Jeolla Province Governor Kim Yung-rok said 120 bodies had been identified, 159 bodies had had their fingerprints collected, and that the remaining 20 would be identified using DNA samples. The fire department, at 2:47 a.m., said 137 bodies had been identified and DNA were still being collected to identify the remaining dead [61]. By 31 December, 174 of the dead had been identified, including 32 via DNA comparison [62]. All 179 victims were identified by 1 January 2025 [63]. Search operations formally ended on 5 January [64]. 
+
+# Investigation
+
+At a press conference, Lee Jeong-hyun, Muan County fire chief, said that the cause of the landing gear failure was presumed to have been adverse weather combined with a bird strike;  the weather around the airport at the time of the crash was favorable with almost no wind, rain or clouds, and visibility was 9 kilometers (5.6 mi) [66]. The United States deployed investigators from the US National Transportation Safety Board, Federal Aviation Administration and the aircraft manufacturer, Boeing, to South Korea so they can assist in the Aviation and Railway Accident Investigation Board's inquiry into the crash. Eight investigators arrived at the crash site on 31 December [54]. GE Aerospace, which co-produced the engines on the plane in its CFM International joint venture, has joined the investigation [69]. On 7 January, the director of the Aviation and Railway Accident Investigation Board resigned. The Transport Ministry's head of aviation policy was removed from the board's investigation and all of its activities [71]. On 8 January, the national assembly passed a motion to set up a parliamentary committee with two subcommittees, investigation and prevention, and families support and memorial projects, placed under the panel. Both flight recorders (the cockpit voice recorder (CVR) and the flight data recorder (FDR)) were recovered and taken to Gimpo International Airport for analysis. The crash is being investigated by the South Korean Aviation and Railway Accident Investigation Board (ARAIB), with assistance from the American National Transportation Safety Board (NTSB), Federal Aviation Administration (FAA) and Boeing [74]. As of 1 January 2025, initial CVR data has been extracted [75] [76]. The CVR transcript was created on 4 January [77]. The damaged flight data recorder was sent to Washington DC, United States for analysis on 6 January. On 11 January, the Aviation and Railway Accident Investigation Board stated that both the CVR and FDR had stopped recording four minutes before the aircraft crashed [78] [79]. 
+
+## Bird strike
+
+Six minutes before the crash, the airport traffic control issued a warning of nearby birds, a hazard to the aircraft. A minute later, the pilot declared a mayday. Authorities said that a bird strike may have caused a malfunction that affected the hydraulic system controlling the landing gear and that there was insufficient time for the pilots to manually deploy the landing gear [81]. On 7 January 2025, the Aviation and Railway Accident Investigation Board confirmed that Flight 2216 had experienced a bird strike after feathers were found on one of its engines [82]. Muan International Airport has the highest rate of bird strikes of the 14 regional airports in South Korea, with a strike rate of 0.09% [83]. Prior to the crash, ten cases of bird strikes had been recorded at Muan since 2019. Although the absolute number of strikes is small in statistical terms, the strike rate of 0.09% of flights is significantly higher than other major airports like Gimpo (0.018%) and Jeju (0.013%). The airport was constructed near major bird habitats and feeding grounds, such as the Yeongsan lake and the mudflats of the southwest coast [84] [85]. The development of the nearby land had caused local birds to take increasingly erratic routes, and climate change has led to many species of migratory birds becoming resident birds [86]. The Chosun Ilbo reported that environmental impact assessments had recommended the deployment of sound cannons, lasers and warning lights at the airport [87]. However, their implementation was delayed due to runway extension work. The said assessments also expressed concern over plans to expand the length of the airport runway from 2,800 to 3,160 metres (9,190 to 10,370 ft) by 2025, and that three bird habitats existed adjacent to the airport, with a bird population of up to 1,760. Official regulations require that a single runway operated for nine hours or less requires a minimum of four personnel to drive away birds. However, it was found that only one of Muan's four staff charged with this task was on duty on the day of the disaster. The Korea Times, citing an investigation headquarters official, reported that the investigation will also examine the impact of the shortened declared distance [84]. Kim In-gyu, director of the Korea Aerospace University Flight Education Center, stated that it was unusual for all three landing gears to fail and that "it is difficult to conclude that a bird strike alone was responsible". Other experts said that even if one engine failed, the second engine should have been able to supply power to lower the landing gear. Investigators found blood and bird feathers inside of both engines at the crash site. Seventeen samples including some of the blood stains and feathers were analyzed by the National Biological Resources Agency (NBRA). Investigator Lee Seung-yeol, Head of the Air and Rail Accident Investigation Commission (ARAIC), said that they have confirmed a bird strike occurred. 
+
+## Thrust reversal and wing flaps
+
+Professor Choi Kee-young of Inha University noted that a thrust reverser and wing flaps seemingly did not work. After reviewing the footage of the crash, Professor Shawn Pruchnicki of Ohio State University commented that "A thrust reverser, used to slow the plane on landing, appeared to be in use on only one engine, which is unusual" [90]. Keith Tonkin of Aviation Projects in Brisbane, Australia, said the wing flaps had not been extended during the landing, and the aircraft was traveling down the runway faster than the typical landing speed [68]. Kim Kwang-il, a professor of Aeronautical Science at Silla University in Busan, South Korea, noted the short interval between the mayday call and the moment of the crash, saying that "The pilot likely judged that attempting a landing was safer than trying to stay airborne without engine power." Other specialists expressed belief that the decision for a rushed belly landing was influenced by fumes entering the cabin and concerns about the engine fire, but that the failure to burn off fuel beforehand contributed to the severity of the crash. 
+
+## Airport barrier
+
+Kim Kwang-il also criticized the presence of the barrier which the aircraft crashed into, saying that the emergency landing was made in a skilled manner and that the aircraft "could have skidded further and stopped naturally" had it not been for the barrier, which he said violated international aviation safety standards against the presence of a solid obstruction. David Learmount, an aviation safety expert, pointed out on Sky News that the aircraft was "still intact" after it touched down and remained so until it struck the barrier, then added: "That kind of structure should not be there [92]. That is awful. That is unbelievably awful. To have a hard object about 200 metres or less into the overrun, I've never seen anything like this anywhere ever before." [93]. The barrier in question was a concrete structure on an earthen berm, located 202 metres (663 ft)  from the end of the runway [94]. It supported a localizer, an antenna array for the instrument landing system that assists aircraft navigation. The structure, berm, and localizer had a combined height of 4 metres (13 ft). Airport officials said the localizer was raised to runway level to ensure its proper functioning due to the slanted terrain at the end of the runway. The berm and concrete pillars had existed since the opening of the airport but in 2023 the structure was modified with the addition of a concrete slab on the top. Remarks in the airport's operating manual, published by the Korea Airports Corporation on 9 May 2024,  said the barrier was too close to the end of the runway, and recommended conducting a review of the location of the equipment [95] [94]. Simon Hatfield, an aviation safety consultant, criticized the use of a berm to place the localizer at the correct height, saying that the aircraft would have simply plowed through the localizer and come to a rest if the localizer had been positioned on flatter terrain. Comparisons were also made with localizers in Gimpo International Airport, where they are installed directly at ground level, and Incheon International Airport, whose localizers are mounted at less than 7.5 centimetres (3.0 in) above the ground [36]. Additionally, the localizers at both airports are placed on structures designed to be frangible, or to break apart upon impact,   which is considered to be the global best practice [97] [96]. A transport ministry official said that there were plans to evaluate the safety of similar localizer support structures at other airports [93]. ICAO guidelines mandate that there be a 90-metre (300 ft) safety area at the end of runways, while also recommending that there be a 240-metre (790 ft) safety area at the end of runways, due to crash risks associated with structures near runways. The embankment involved was 250 metres (820 ft) beyond the end of the runway [98] [99]. According to South Korean officials, the runway had been built to standard. South Korean officials also pointed to airports in Europe and North America, noting that they had similar structures to those at Muan International Airport. The ICAO's guidelines, which were regularly revised, were widely adopted by major airports. Geoffrey Thomas, the editor of the aviation website 42,000 Feet, said that localizers and other necessary airport equipment were not a major cause of runway overruns, stating: "Look at Sydney Airport: they've got localizers and they've got all sorts of stuff at either end of the runway, and in some cases ... the runway is going into the ocean ... If an aircraft touches down where it's supposed to touch down, then there isn't an issue."  He noted that the aircraft flew over most of the length of the runway, only losing speed once it touched down nearly halfway down the runway [99]. He added that even if the barrier was absent, the aircraft might have crashed into a steel navigation system or into a road or ditch beyond the runway, stating: "It would have hit that and the result would have been pretty much the same ... That was the final tragedy in a series of cascading errors and problems." [99]. The Wall Street Journal reported in its coverage of the barrier issue that the United States recommends a larger runway safety area than the ICAO guidelines. From 2000 to 2024, the United States spent over US$3 billion on improving over 1,000 runway safety areas; this effort was accelerated by the 1999 crash of American Airlines Flight 1420, in which 11 people died after the aircraft failed to stop and crashed into a non-frangible approach lighting system. 
+
+## Police search and seizure
+
+On 2 January, the Jeonnam Provincial Police Agency carried out "search and seizure operations" at Muan airport, a regional aviation office, and Jeju Air's headquarters in Seoul. The airline's CEO, Kim E-bae, was also placed under an overseas travel ban. The next day, authorities began moving the wreckage of the aircraft, starting with the tail section [101]. Authorities also began conducting digital forensic analysis on 107 mobile phones recovered from the crash site following approval from families of the victims [102]. 
+
+# Aftermath
+
+The government declared Muan a special disaster zone and issued a period of national mourning until 5 January 2025. It also set up 90 memorial altars in 17 cities nationwide for public displays of grief,  with attendance estimated to have reached nearly 158,000 [27] [104]. Acting president and acting prime minister Choi Sang-mok, who acceded to the presidency two days before the accident following his acting predecessor Han Duck-soo's impeachment, ordered rescue efforts  and emergency benefits for relatives of the victims [105] [106]. In under two hours, the Ministry of the Interior and Safety activated its Central Disaster and Safety Countermeasures Headquarters (중앙재난안전대책본부) [107]. Two days after the incident Ko Ki-dong, the acting interior minister, visited Muan. Korail announced a dedicated KTX train service, departing from Seoul for Mokpo at 3:00 p.m., free of charge for the family members of the passengers to reach Muan airport [108]. The Gwangju Bar Association created a legal support task force to assist those affected by the disaster [109] [110]. Messages of sympathy and ritual offerings were left by passersby in the perimeter fence of Muan airport [111]. The flag at the Thai embassy in Seoul was set at half-mast in mourning for the victims [112]. A briefing was held in a conference room at the Muan International Airport, where first responders from the Muan Fire Department provided information to family members of the passengers. Several attendees expressed anger for not receiving hourly updates promised by government officials, for not being allowed near the accident site, and for being given inconsistent reports on which passengers had died. Many also expressed anger at Jeju Air for holding their press conference in Seoul, with no company officials present at the Muan Airport briefing. Acting President and acting Prime Minister Choi Sang-mok visited the site of the disaster, where several family members of passengers expressed dissatisfaction to him regarding the lack of real-time updates for those affected. He also visited a memorial altar for the victims in Muan on 30 December [113] [114]. The government of Gwangju designated a week-long mourning period from 29 December to 4 January 2025, with several New Year events and celebrations being cancelled. The governments of Jeonju, Jangheung County, Wando County, Haenam County, and South Jeolla Province also cancelled their regional New Year's Eve–associated events and instituted periods of mourning in response to the tragedy [116]. The announcement of South Korea's direction for its economic policy in 2025 was postponed due to the disaster [117] [118]. Four hearings by the National Assembly of Korea on the 2024 South Korean martial law crisis on 30 December were also postponed,  as was a mass rally scheduled in Seoul on 31 December supporting the removal of impeached President Yoon Suk Yeol [119] [120]. The Seoul Metropolitan Government scaled back activities for the new year [121]. It also imposed a six-month suspension of operations on the cruise boat operator Hyundai Cruise for holding a fireworks display on 30 December despite requests not to proceed [122]. The firm apologized while saying that it was unable to cancel the event because it had already been pre-booked. South Korean media outlets scaled back entertainment programs for the new year, while several K-pop figures postponed releases of music and content on social media [12]. An increase in booking cancellations was recorded by Jeju Air following the crash, with 33,000 domestic flight reservations and 34,000 international reservations called off by 1:00 p.m. on 30 December. That same day, a Boeing B737-800 operated by Jeju Air as Flight 7C101 experienced problems with its landing gear shortly after taking off from Gimpo International Airport on its way to Jeju at 6:37 a.m., prompting it to return to Gimpo at 7:25 a.m [124]. Twenty-one passengers backed out from boarding a transfer flight offered an hour later. Jeju Air later announced a 10–15% reduction in flights for the winter season to carry out maintenance work [125]. On 30 December, authorities ordered the inspection of all Boeing 737-800 aircraft operated by South Korean airlines and an expanded review into safety standards at Jeju Air. The inspections were supposed to be completed by 3 January 2025, but the deadline was extended by a week [74]. The Republic of Korea Air Force and the Republic of Korea Navy also conducted special inspections of its air assets following orders from the defense ministry [127]. The families of the victims formed a support group and said that no funerals for their relatives would be held until all of them had been identified. After all fatalities had been identified on 1 January, the first funeral for the victims was held the next day [129]. More than 5,500 individuals,  including representatives of ten organizations, volunteered to assist affected families at Muan airport [130] [131]. At least 18,000 people visited a joint memorial altar set up at the airport. On 20 January 2025, the government formally established a task force based in Sejong City to support relatives of the victims composed of the transport, interior and welfare ministries, the South Jeolla provincial government, the Gwangju metropolitan city government, Muan County and the Korea Airports Corporation. On 22 January 2025, it was announced that the concrete barriers used for navigation at seven Korean airports would be replaced. Runway safety areas at these airports will also be modified following a comprehensive review of all airports conducted after the incident. Proposed measures include replacing the concrete bases with lightweight structures or burying them underground. At Muan International Airport, the concrete mounds will be removed entirely, with the localiser reinstalled using breakable structures. On 23 January, the government announced that it would tighten regulations on low-cost carriers and increase penalties for airlines failing to meet enhanced operational safety standards [134]. 
+
+# Reactions
+
+## Domestic
+
+Suspended President Yoon Suk Yeol, who had been impeached for his botched martial law imposition earlier in the month,  expressed his condolences through social media [136]. Both his People Power Party and the opposition Democratic Party agreed on 7 January 2025 to establish a joint special committee to investigate the crash [137]. Jeju Air released a statement on its website apologizing for the accident and temporarily removed links to purchase tickets. Its CEO, Kim E-bae,  released an apology on the Jeju Air website [139] [140] [27]. Chang Young-shin, the chair of Jeju Air's parent company Aekyung Group, also issued an apology [141] [142]. The airline deployed 260 employees to assist families of the victims in Muan. An emergency text message was sent by the Ministry of the Interior and Safety two hours and forty-five minutes after the disaster, leading to criticism from Muan County locals at its belatedness and an apology from county officials. Two emergency text messages sent by the Yeonggwang County government also drew criticism for relaying irrelevant information that included messages of condolence and support instead of disaster and response information, as standardized by the Ministry of the Interior and Safety. 
+
+## International
+
+Thai Prime Minister Paetongtarn Shinawatra expressed condolences and ordered the Thai foreign ministry to assist the relatives of Thai crash victims. Condolences were also expressed by several world leaders and their respective governments [b] as well as the European Union and the United Nations [145]. Multiple diplomatic missions in South Korea and the Boeing company also expressed their condolences to victims' families [159]. 
+
+# References
+
+[1] [ERROR retrieving ref link]
+[160] [ERROR retrieving ref link]
+[2] https://avherald.com/h?article=52225189
+[3] https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html
+[4] https://www.barrons.com/news/plane-with-181-on-board-crashes-in-south-korea-killing-29-43bace9a
+[5] https://www.nytimes.com/2024/12/29/world/asia/south-korea-plane-crash-jeju.html
+[6] https://www.flightradar24.com/blog/how-boeing-names-its-aircraft/
+[7] https://www.ifn.news/posts/jeju-air-flight-7c2216-crashes-during-landing-in-muan-south-korea/
+[8] https://www.paddleyourownkanoo.com/2024/12/29/breaking-jeju-air-boeing-737-with-181-people-onboard-crashes-at-airport-in-south-korea-at-least-23-people-killed/
+[9] https://archive.today/20241229065918/https://www.flightradar24.com/blog/jeju-air-2216-muan/
+[10] https://www.koreaherald.com/article/10032848
+[11] https://www.koreatimes.co.kr/www/nation/2024/12/281_389336.html
+[12] https://en.yna.co.kr/view/AEN20241230006900320
+[13] https://www.bbc.com/news/articles/cgj6x1py912o
+[14] https://www.koreaherald.com/article/10380440
+[15] https://www.nytimes.com/live/2024/12/29/world/south-korea-plane-crash/be477c67-c13e-5e80-901c-de56936edf7b
+[16] https://www.theguardian.com/world/live/2024/dec/29/south-korea-plane-crash-casualties-reported-after-jeju-air-flight-veers-off-runway-at-muan-airport-live-updates?CMP=share_btn_url&page=with:block-6770aea28f08548c9bcd5dcc
+[17] https://www.yhtoday.co.kr/news/articleView.html?idxno=35181
+[18] https://www.bbc.com/news/articles/c2kx2pn3x18o
+[19] https://www.koreaherald.com/article/10148838
+[20] https://en.yna.co.kr/view/AEN20241229001061315
+[21] https://www.theguardian.com/world/live/2024/dec/29/south-korea-plane-crash-casualties-reported-after-jeju-air-flight-veers-off-runway-at-muan-airport-live-updates
+[22] https://www.koreatimes.co.kr/www/nation/2025/01/281_389501.html
+[23] https://www.news1.kr/local/gwangju-jeonnam/5645373
+[24] https://www.yna.co.kr/view/AKR20241229041300054
+[25] https://www.koreaherald.com/article/10055805
+[26] https://www.bbc.com/news/articles/c3we2p3l36jo
+[27] https://www.bangkokpost.com/thailand/general/2929855/thai-embassy-in-seoul-lowers-flag-for-victims-of-plane-crash
+[28] https://apnews.com/article/south-korea-plane-fire-68da9b0bd5196feed6e7d2db849f461a
+[29] https://www.bbc.co.uk/news/articles/ckgzprprlyeo
+[30] https://www.independent.co.uk/asia/east-asia/south-korea-plane-crash-muan-airport-jeju-boeing-b2671152.html
+[31] https://www.reuters.com/world/asia-pacific/plane-drives-off-runway-crashes-airport-south-korea-yonhap-reports-2024-12-29/
+[32] https://indianexpress.com/article/world/south-korea-plane-crash-all-you-need-to-know-9749548/
+[33] https://www.yna.co.kr/view/AKR20241229011751054
+[34] https://www.reuters.com/graphics/SOUTHKOREA-CRASH/MAPS/movawoejova/
+[35] https://www.chosun.com/national/national_general/2024/12/29/3O2GTWML3VEVRFPTX5FN5ZHQ34/
+[36] https://en.yna.co.kr/view/AEN20241229004751315
+[37] https://www.wsj.com/world/asia/south-korea-plane-crash-final-six-minutes-105fdaf3
+[38] https://www.nytimes.com/2024/12/31/world/asia/south-korea-crash-witness.html
+[39] https://www.theguardian.com/world/2024/dec/29/south-korea-plane-casualties-reported-181-onboard-jeju-air
+[40] https://www.yna.co.kr/view/AKR20241229019500054
+[41] https://www.bbc.com/news/live/c4glr85l2ldt?post=asset%3Ae7f249a9-2cae-477c-bebd-541b7cc0023b#post
+[42] https://en.yna.co.kr/view/AEN20241230006100315
+[43] https://archive.today/20241229052259/https://www.washingtonpost.com/world/2024/12/28/jeju-air-crash-south-korea/
+[44] https://en.yna.co.kr/view/AEN20241229001052315
+[45] https://en.yna.co.kr/view/AEN20241229008700315
+[46] https://www.koreatimes.co.kr/www/nation/2024/12/281_389450.html
+[47] https://en.yna.co.kr/view/AEN20241229008651315
+[48] https://www.yna.co.kr/view/AKR20241229043000055
+[49] https://www.koreatimes.co.kr/www/nation/2024/12/281_389362.html
+[50] https://archive.today/20241229050931/https://en.yna.co.kr/view/AEN20241229001054315?section=national/national
+[51] https://www.koreatimes.co.kr/www/nation/2024/12/281_389457.html
+[52] https://biz.chosun.com/en/en-society/2024/12/29/I5OPNUKVBNG2FKPADYA5BP2YPM/
+[53] https://edition.cnn.com/2024/12/30/asia/south-korea-plane-crash-victims-families-intl-hnk/index.html
+[54] https://www.yna.co.kr/view/AKR20241229054200054
+[55] https://www.koreaherald.com/article/10333121
+[56] https://en.yna.co.kr/view/AEN20241229006752315
+[57] https://www.france24.com/en/live-news/20250122-s-korea-to-overhaul-some-airports-after-jeju-air-crash
+[58] https://www.yna.co.kr/view/AKR20241229057100054
+[59] https://www.france24.com/en/live-news/20241229-plane-with-181-on-board-crashes-in-south-korea-killing-29
+[60] https://www.chosun.com/national/incident/2024/12/29/LKGIQ477VNH6XKL6GATUD56J24/
+[61] https://asia.nikkei.com/Business/Transportation/South-Korea-crash-victims-families-demand-answers-release-of-remains
+[62] https://biz.chosun.com/topics/topics_social/2024/12/30/QGQKEN4NXBFOZJJYZYT5MTMAMQ/
+[63] https://www.ytn.co.kr/_ln/0103_202412300519192418
+[64] https://www.incheonilbo.com/news/articleView.html?idxno=1275276
+[65] https://www.koreatimes.co.kr/www/nation/2025/01/113_389533.html
+[66] https://en.yna.co.kr/view/AEN20250105001500315
+[67] https://economictimes.indiatimes.com/news/international/global-trends/south-korea-plane-crash-what-led-to-the-jeju-air-disaster-at-muan-airport/articleshow/116759127.cms
+[68] https://biz.chosun.com/en/en-society/2024/12/29/ZPQLZY3XJJDNBFNWSXBA4EW2DU/
+[69] https://www.nytimes.com/2024/12/29/world/asia/plane-crash-video-south-korea.html
+[70] https://apnews.com/article/plane-crash-korea-boeing-jeju-cd5c5dcc45b046dcc94744f2bfd2e3c4
+[71] https://www.reuters.com/world/asia-pacific/south-korea-extends-boeing-737-800-inspections-following-fatal-crash-2025-01-03/
+[72] https://www.koreaherald.com/article/10385095
+[73] https://www.koreatimes.co.kr/www/nation/2025/01/251_389910.html
+[74] https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=190194
+[75] https://apnews.com/article/south-korea-muan-jeju-air-crash-investigation-37561308a8157f6afe2eb507ac5131d5
+[76] https://www.theguardian.com/world/live/2024/dec/30/south-korea-plane-crash-news-jeju-air-flight-2216-airlines-muan-airport-live-updates
+[77] https://www.washingtonpost.com/world/2024/12/28/jeju-air-crash-south-korea/
+[78] https://www.aljazeera.com/news/2025/1/1/south-korea-says-initial-data-extracted-from-jeju-air-cockpit-recorder
+[79] https://blog.naver.com/mltmkr/223716252825
+[80] https://www.koreatimes.co.kr/www/nation/2025/01/113_389827.html
+[81] https://archive.today/20250111053428/https://www.reuters.com/world/asia-pacific/south-korea-jeju-air-jet-blackboxes-stopped-recording-4-minutes-before-crash-2025-01-11/
+[82] https://en.yna.co.kr/view/AEN20241229001060315
+[83] https://www.koreatimes.co.kr/www/nation/2024/12/281_389365.html
+[84] https://www.koreatimes.co.kr/www/nation/2025/01/281_389925.html
+[85] https://www.koreaherald.com/article/10078934
+[86] https://www.theguardian.com/world/live/2024/dec/29/south-korea-plane-crash-casualties-reported-after-jeju-air-flight-veers-off-runway-at-muan-airport-live-updates?CMP=share_btn_url&page=with%3Ablock-677119bf8f08d6f7991f6dad#block-677119bf8f08d6f7991f6dad
+[87] https://www.hani.co.kr/arti/politics/politics_general/1175373.html
+[88] https://www.yna.co.kr/view/AKR20241229050800530
+[89] https://www.aljazeera.com/news/2024/12/30/south-koreas-worst-ever-plane-crash-highlights-dangers-of-bird-strikes
+[90] https://www.koreatimes.co.kr/www/nation/2025/01/281_389538.html
+[91] https://en.yna.co.kr/view/AEN20241229007600320
+[92] https://www.aerotime.aero/articles/s-korea-find-bird-feathers-blood-in-jeju-air-crash-engines
+[93] https://www.france24.com/en/live-news/20241230-flags-fly-at-half-mast-as-s-korea-probes-its-worst-plane-crash
+[94] https://news.sky.com/story/south-korea-expert-says-concrete-wall-plane-crashed-into-is-verging-on-criminal-13281432
+[95] https://www.chosun.com/english/national-en/2024/12/31/TJNGK4NVE5GUXPFT372LB4CS5E/
+[96] https://n.news.naver.com/article/014/0005289943?sid=102
+[97] https://www.bbc.com/news/articles/c0mvynnxzzmo
+[98] https://www.koreaherald.com/article/10124751
+[99] https://www.theguardian.com/world/2024/dec/31/south-korea-plane-crash-cause-investigation-muan-airport-embankment
+[100] https://www.theguardian.com/world/2024/dec/31/final-tragedy-experts-debate-role-of-concrete-barriers-and-runway-design-in-south-korean-plane-crash
+[101] https://www.wsj.com/business/airlines/south-korea-jet-crash-sparks-debate-over-barriers-proximity-to-runway-ed4212c3
+[102] https://www.aljazeera.com/news/2025/1/2/south-korean-police-raid-airport-jeju-air-offices-after-deadly-crash
+[103] https://www.france24.com/en/live-news/20250103-south-korea-begins-lifting-jeju-air-wreckage-after-fatal-crash
+[104] https://en.yna.co.kr/view/AEN20250103011300320
+[105] https://www.koreatimes.co.kr/www/nation/2024/12/113_389499.html
+[106] https://en.yna.co.kr/view/AEN20250102002952315
+[107] https://www.japantimes.co.jp/news/2024/12/29/asia-pacific/south-korea-plane-crash/
+[108] https://www.koreatimes.co.kr/www/nation/2025/01/281_389577.html
+[109] https://www.ytn.co.kr/_ln/0115_202412301854528650
+[110] https://www.news1.kr/local/daejeon-chungnam/5645433
+[111] https://www.theguardian.com/world/2024/dec/29/south-korea-plane-crash-what-we-know-so-far
+[112] https://www.koreaherald.com/article/10130665
+[113] https://www.france24.com/en/live-news/20241231-s-korea-starts-releasing-jeju-air-crash-victims-to-families
+[114] https://www.yna.co.kr/view/AKR20241229040700054
+[115] https://www.yna.co.kr/view/AKR20241229044300054
+[116] https://en.yna.co.kr/view/AEN20241230001652320
+[117] https://www.yna.co.kr/view/AKR20241229043500054
+[118] https://www.yna.co.kr/view/AKR20241229048200055
+[119] https://www.yna.co.kr/view/AKR20241229048900054
+[120] https://www.yna.co.kr/view/AKR20241229045700002
+[121] https://en.yna.co.kr/view/AEN20241230006400315
+[122] https://www.koreaherald.com/article/10093864
+[123] https://www.koreatimes.co.kr/www/nation/2024/12/281_389415.html
+[124] https://www.abs-cbn.com/entertainment/showbiz/2024/12/30/korean-entertainment-activities-paused-after-jeju-air-plane-crash-1247
+[125] https://en.yna.co.kr/view/AEN20241230007900320
+[126] https://en.yna.co.kr/view/AEN20241230001551320
+[127] https://www.bbc.com/news/articles/ckgzprprlyeo
+[128] https://www.reuters.com/world/asia-pacific/south-korea-extends-boeing-737-800-inspections-following-fatal-crash-2025-01-03/?utm_source=twitter&utm_medium=Social
+[129] https://www.koreaherald.com/article/10333151
+[130] https://www.koreatimes.co.kr/www/nation/2024/12/281_389411.html
+[131] https://en.yna.co.kr/view/AEN20250102001700315
+[132] https://www.koreatimes.co.kr/www/nation/2025/01/281_389812.html
+[133] https://en.yna.co.kr/view/AEN20250102005100320
+[134] https://www.koreaherald.com/article/10402404
+[135] https://www.nytimes.com/2025/01/14/business/korea-jejuair-air-runways.html
+[136] https://en.yna.co.kr/view/AEN20250123003700320
+[137] https://en.yna.co.kr/view/AEN20241229001452315
+[138] https://en.yna.co.kr/view/AEN20241229007700315
+[139] https://www.france24.com/en/live-news/20250107-s-korea-rival-parties-form-plane-crash-task-force-despite-political-turmoil
+[140] https://www.cnn.com/world/live-news/south-korea-plane-crash-12-29-24-intl-hnk#cm591kqow001j3b6m46jbcuc4
+[141] https://archive.today/20241229033921/https://www.jejuair.net/ko/main/dark/index.do
+[142] https://www.theguardian.com/world/live/2024/dec/29/south-korea-plane-crash-casualties-reported-after-jeju-air-flight-veers-off-runway-at-muan-airport-live-updates?CMP=share_btn_url&page=with:block-6770d9e48f08d6f7991f6cdf#block-6770d9e48f08d6f7991f6cdf
+[143] https://www.jejuair.net/ko/main/dark/index.do?tab=0&pageNum=1
+[144] https://en.yna.co.kr/view/AEN20241229003653320
+[145] https://www.yna.co.kr/view/AKR20241229035000530
+[146] https://www.bangkokpost.com/thailand/general/2929445/2-thai-victims-on-board-fatal-bangkok-south-korea-flight-identified
+[147] https://www.dw.com/en/south-korea-jeju-air-plane-crash-leaves-179-people-dead/live-71178139
+[148] https://www.pravda.com.ua/eng/news/2024/12/29/7491202/
+[149] https://m.mk.co.kr/news/world/11205839
+[150] https://en.yna.co.kr/view/AEN20241229008200315?section=national/national
+[151] https://www.straitstimes.com/asia/east-asia/condolences-pour-in-for-south-koreas-deadliest-plane-crash
+[152] https://www.thestar.com.my/news/nation/2024/12/30/jeju-air-crash-reminds-us-of-lifes-fragility-says-pm
+[153] https://www.lbc.co.uk/news/the-king-and-prime-minister-pay-condolences-victims-of-south-korea-plane-crash/
+[154] https://www.barrons.com/news/biden-deeply-saddened-by-korea-crash-offers-assistance-6f5e9857
+[155] https://www.channelnewsasia.com/singapore/jeju-air-plane-crash-south-korea-singapore-government-condolences-4830326?cid=internal_sharetool_androidphone_31122024_cna
+[156] https://vov.vn/chinh-tri/chu-tich-nuoc-gui-dien-chia-buon-vu-tai-nan-may-bay-o-han-quoc-post1145374.vov
+[157] https://www.rri.co.id/internasional/1224182/menlu-sugiono-sampaikan-belasungkawa-atas-kecelakaan-jeju-air
+[158] https://www.arabnews.com/node/2584650/saudi-arabia
+[159] https://www.youtube.com/watch?v=cS8mWZhsXkU
+[161] https://www.koreatimes.co.kr/www/nation/2024/12/281_389378.html
+[162] https://www.koreaherald.com/article/10033048
+[163] https://en.yna.co.kr/view/AEN20241229004900320

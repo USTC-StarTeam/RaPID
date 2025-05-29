@@ -1,0 +1,59 @@
+2024_Summer_Olympics_medal_table
+
+The 2024 Summer Olympics, officially known as the Games of the XXXIII Olympiad, were an international multi-sport event held in Paris, France, from 26 July to 11 August 2024, with preliminary events in some sports beginning on 24 July. Athletes representing 206 National Olympic Committees (NOCs) participated in the games. The games featured 329 events across 32 sports and 48 disciplines. Breaking (breakdancing) made its Olympic debut as an optional sport, while skateboarding, sport climbing, and surfing returned to the programme, having debuted at the 2020 Summer Olympics.
+Overall, individuals representing 92 NOCs received at least one medal, with 64 of them winning at least one gold medal. Botswana, Dominica, Guatemala, and Saint Lucia won their nations' first Olympic gold medals. Albania, Cape Verde, Dominica, and Saint Lucia won their nations' first Olympic medals. The Refugee Olympic Team also won their first medal.
+The United States led the final medal table for the fourth consecutive Summer Games, with 40 gold and 126 total medals, while China finished second with 40 gold and 91 medals in total. The occasion marked the first time a gold medal tie among the two most successful nations has occurred in Summer Olympics history. Among individual participants, Chinese swimmer Zhang Yufei won the most medals at the games with six (one silver, five bronze), while French swimmer Léon Marchand had the most gold medals with four.
+
+# Medals
+
+Paris 2024 Organizing Committee President Tony Estanguet unveiled the Olympic and Paralympic medals for the Games in February 2024, which on the obverse featured embedded hexagon-shaped tokens of scrap iron that had been taken from the original construction of the Eiffel Tower, with the Games' logo engraved into it. Approximately 5,084 medals were produced by the French mint Monnaie de Paris, and designed by Chaumet, a luxury jewellery firm based in Paris [18]. The reverse of the medals featured Nike, the Greek goddess of victory, inside the Panathenaic Stadium which hosted the first modern Olympics in 1896. The Parthenon and the Eiffel Tower could also be seen in the background on both sides of the medal. Each medal weighed 455–529 g (16–19 oz), had a diameter of 85 mm (3.3 in) and was 9.2 mm (0.36 in) thick [20]. The gold medals were made with 98.8 percent silver and 1.13 percent gold, while the bronze medals were made up with copper, zinc, and tin [21]. 
+
+# Medal table
+
+The medal table is based on information provided by the International Olympic Committee (IOC) and is consistent with IOC conventional sorting in its published medal tables. The table uses the Olympic medal table sorting method. By default, the table is ordered by the number of gold medals the athletes from a nation have won, where a nation is an entity represented by a NOC. The number of silver medals is taken into consideration next and then the number of bronze medals. If teams are still tied, equal ranking is given and they are listed alphabetically by their IOC country code [6] [26]. Events in boxing result in a bronze medal being awarded to each of the two competitors who lose their semi-final matches, as opposed to fighting in a third place tiebreaker. Other combat sports, which include judo, taekwondo, and wrestling, use a repechage system which also results in two bronze medals being awarded [28]. In the men's 100 m breaststroke, two silver medals and no bronze medal were awarded due to a tie;  in the women's high jump, men's horizontal bar, and women's K-2 500 metres, two bronze medals were awarded due to ties [30]. ‡  Changes in medal standings (see below). *   Host nation (France). 
+
+# References
+
+[35] [ERROR retrieving ref link]
+[37] [ERROR retrieving ref link]
+[38] [ERROR retrieving ref link]
+[1] https://nbcolympics.com/news/where-and-when-are-next-olympics-paris-2024-dates-schedule-opening-ceremony-and-more
+[2] https://www.cbsnews.com/news/athletes-olympics-numbers-2024-paris-games/
+[3] https://www.usatoday.com/story/sports/olympics/2024/02/07/olympic-organizers-to-release-tens-of-thousands-of-new-tickets-for-the-paris-games/72505000007/
+[4] https://olympics.com/ioc/news/gender-equality-and-youth-at-the-heart-of-the-paris-2024-olympic-sports-programme
+[5] https://www.espn.com/olympics/story/_/id/40537496/2024-paris-olympic-games-new-sports-breaking-climbing-skateboarding
+[6] https://www.independent.co.uk/sport/olympics/olympics-2024-medal-table-count-paris-b2580716.html
+[7] https://www.reuters.com/sports/olympics/athletics-botswanas-tebogo-wins-mens-200-metres-gold-2024-08-08/
+[8] https://www.reuters.com/sports/olympics/athletics-lafond-wins-triple-jump-gold-bring-dominica-first-ever-olympic-medal-2024-08-03/
+[9] https://apnews.com/article/olympics-2024-72bb447ac25c35e5de27b4b1e0d7f7d1
+[10] https://www.bbc.com/sport/olympics/articles/ce588vrd6mpo
+[11] https://olympics.com/en/news/paris-2024-wrestling-results-razambek-salambekovitch-jamalov-wins-mens-freestyle-74kg-gold
+[12] https://www.washingtonpost.com/sports/olympics/2024/08/10/windward-islands-olympic-medal-winners-paris-games/
+[13] https://www.nytimes.com/2024/08/03/world/olympics/country-without-medals.html
+[14] https://www.bbc.com/sport/olympics/articles/cqqll47dvdyo
+[15] https://www.bbc.com/sport/olympics/articles/c80evjzy2jlo
+[16] https://edition.cnn.com/2024/08/12/china/china-celebrates-olympics-gold-tie-us-intl-hnk/index.html
+[17] https://olympics.com/en/paris-2024/medals/medallists
+[18] https://www.bbc.com/sport/olympics/68239167
+[19] https://olympics.com/en/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower
+[20] https://www.theguardian.com/sport/2024/feb/08/paris-olympic-and-paralympic-medals-will-contain-chunks-of-eiffel-tower
+[21] https://news.sky.com/story/paris-2024-first-look-at-olympic-and-paralympic-medals-featuring-chunks-of-eiffel-tower-13066755
+[22] https://www.paralympic.org/news/paris-2024-unveils-paralympic-and-olympic-games-medals
+[23] https://www.reuters.com/sports/olympics/tennis-serbias-djokovic-beats-alcaraz-win-singles-gold-2024-08-04/
+[24] https://www.cbc.ca/sports/olympics/summer/tennis/tennis-roundup-djokovic-alcaraz-gold-medal-aug-4-1.7285134
+[25] https://olympics.com/en/news/paris-2024-olympics-award-athletes-podium-medals-poster-mascot
+[26] https://www.nytimes.com/2008/08/19/sports/olympics/19araton.html
+[27] https://en.as.com/olympic_games/what-happens-if-two-countries-are-tied-in-the-olympic-medal-table-tiebreaker-rules-explained-n/
+[28] https://olympics.com/en/news/why-two-bronze-medals-boxing
+[29] https://olympics.com/en/news/what-is-repechage-rules
+[30] https://www.nbcnews.com/sports/olympics/staying-pool-helped-olympians-nic-fink-adam-peaty-secure-swimming-meda-rcna164021
+[31] https://olympics.com/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100--
+[32] https://olympics.com/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001--
+[33] https://results.nbcolympics.com/canoeing/womens-k-2-500m-sprint/finals/2786632
+[34] https://olympics.com/en/paris-2024/medals
+[36] https://olympics.com/ioc/news/ain-eligibility-review-panel-established-by-ioc-eb-paris-games-time-protocol-elements-agreed-on
+[39] https://reuters.com/sports/russian-belarusian-athletes-participate-paris-olympics-neutrals-ioc-2023-12-08/
+[40] https://www.telegraph.co.uk/olympics/0/paris-2024-russia-can-athletes-compete-ain-belarus
+[41] https://olympics.com/ioc/paris-2024-individual-neutral-athletes
+[42] https://olympics.com/OG2024/pdf/OG2024/GAR/OG2024_GAR_C67_GARW1APFX-------------FNL-000001--1.pdf
+[43] https://www.sportingnews.com/us/olympics/news/jordan-chiles-controversy-timeline-usa-gymnastics-bronze-medal/0623dc4cc2ffb70f075f540e

@@ -1,0 +1,331 @@
+Hurricane_Beryl
+
+Hurricane Beryl (, BEHR-ril) was a deadly and destructive tropical cyclone that impacted parts of the Caribbean, the Yucatán Peninsula, and the Gulf Coast of the United States in late June and early July 2024. It was the earliest-forming Category 5 hurricane on record and the second such storm in the month of July, the other being 2005's Hurricane Emily. Beryl was also the strongest hurricane to develop within the Main Development Region (MDR) of the Atlantic before the month of July. The second named storm, first hurricane, first major hurricane, and first of two Category 5 hurricanes of the 2024 Atlantic hurricane season, Beryl broke many meteorological records for the months of June and July, primarily for formation and intensity.
+Beryl developed from a tropical wave that left the coast of Africa on June 25. After forming on June 28 in the Main Development Region, it began rapidly intensifying as it moved west through the central tropical Atlantic. On July 1, Beryl made landfall on the island of Carriacou, Grenada, as a high-end Category 4 hurricane, causing total devastation. The hurricane intensified further as it entered the Caribbean Sea, peaking as a Category 5 hurricane early the next morning with maximum sustained winds of 165 mph (270 km/h) and a minimum central pressure of 934 mbar (27.58 inHg), before slowly weakening over the next few days due to wind shear as it passed south of Jamaica and then the Cayman Islands. It briefly re-intensified into a Category 3 hurricane before weakening again as it made landfall in Tulum, Quintana Roo, as a high-end Category 2 hurricane on July 5. After weakening into a tropical storm over the Yucatán Peninsula, the system moved into the Gulf of Mexico, where it gradually reorganized into a Category 1 hurricane on July 8, just before making its final landfall near Matagorda, Texas.  Beryl slowly weakened over land as it accelerated to the northeast, eventually becoming post-tropical over the state of Arkansas on July 9 and dissipating over Ontario on July 11.
+Damage and casualties from the hurricane were widespread. Beryl caused catastrophic damage on Grenada's northern islands of Carriacou and Petite Martinique and on several of Saint Vincent and the Grenadines' southern islands, such as Union Island and Canouan. In Venezuela, six people were killed and one person went missing as a result of the storm. Sustained damage was also recorded in the Yucatán, although it was generally limited to trees, power poles, and roofs, as well as some flooding. In the United States, the state of Texas experienced severe flooding and wind damage, which left 42 dead in the Houston region. Additionally, the outer bands of the hurricane produced a prolific tornado outbreak, with tornadoes confirmed in Texas, Louisiana, Arkansas, Mississippi, Indiana, Kentucky, New York, and Ontario. As of November 7, 2024, a total of 73 fatalities have been confirmed, and preliminary damage estimates are more than US$8.23 billion.
+
+# Meteorological history
+
+The National Hurricane Center (NHC) began monitoring a tropical wave emerging off the coast of West Africa on June 25, producing disorganized showers south of Cabo Verde. By the evening of June 27, the satellite presentation of the disturbance was beginning to show some organization, with curved bands developing around a broad circulation [3]. Environmental conditions at the time were described as being "unusually conducive" for tropical cyclogenesis across the central and western tropical Atlantic for late June, with near record-warm sea surface temperatures (SST) of about 82 °F (28 °C), light wind shear of 6–12 mph (9–19 km/h), plus high mid-level relative humidity of around 70%. The disturbance developed further over the next day, with persistent thunderstorm activity occurring [4] [5]. The center of circulation became well-defined enough for the NHC to designate the system as Tropical Depression Two at 21:00 UTC on June 28, while located about 1,970 km (1,225 mi) east-southeast of Barbados. Located south of a strong subtropical ridge, the depression moved generally westward through an area of low wind shear, warm sea surface temperatures, and plenty of atmospheric moisture. As a result, it began a period of rapid intensification [5]. The depression strengthened into Tropical Storm Beryl six hours after formation, and the thunderstorms soon organized into a central dense overcast, with a symmetric cloud pattern surrounded by rainbands. Continuing its rapid intensification, Beryl became a hurricane on June 29 as the inner core of the thunderstorms developed into an eye [7] [8]. Observations from the Hurricane Hunters indicated that Beryl became a major hurricane on June 30 [9]. Beryl's initial bout of intensification culminated with the storm becoming a Category 4 hurricane, attaining an initial peak intensity with sustained winds of 130 mph (215 km/h) [10]. Beryl then underwent an eyewall replacement cycle, weakening slightly going into July 1 [11]. The hurricane recovered and quickly restrengthened, and at 15:10 UTC the same day, made landfall in Carriacou, Grenada as a high-end Category 4 hurricane, with sustained winds of 150 mph (240 km/h) [12]. Further intensification took place as Beryl entered the Caribbean Sea, with deep convection cooling around the well-defined eye, and Beryl became a Category 5 hurricane early on July 2 [13] [14]. The hurricane peaked later that morning with sustained winds of 165 mph (270 km/h) and a central barometric pressure of 934 mb (27.58 inHg) [15]. Increasing wind shear due to a tropical upper tropospheric trough eventually caused Beryl to slowly weaken to a Category 4 storm as it passed south of the Dominican Republic [16]. Moving generally west-northwestward under the influence of the strong ridge to its north, Beryl's eye passed very near the southern coast of Jamaica on the afternoon of July 3. Despite the unfavorable conditions, Beryl remained relatively steady as a Category 4 hurricane. Continued weakening eventually resumed, with Beryl falling below major hurricane intensity on July 4,  although it briefly regained Category 3 intensity that evening before weakening once more as the pressure again rose quickly [19] [20]. At around 11:05 UTC on July 5, the system made landfall just northeast of Tulum, Quintana Roo, with sustained winds of 110 mph (175 km/h) [21] [22]. Inland, Beryl quickly weakened due to land interaction, degrading to a tropical storm [23]. The storm emerged into the Gulf of Mexico the following morning, steered west-northwestward at 13 mph (20 km/h) by the mid-level ridge located over the southeastern U.S [24]. That night and into the next day, in addition to a broader inner core, Beryl was beset by an infusion of dry air and by moderate wind shear which kept the storm from strengthening appreciably [25]. Even so, by the afternoon of July 6, its convective structure had improved some and had become more persistent [26]. Beryl turned to the north-northwest on July 7, and slowed to 10 mph (17 km/h) [27]. Beryl re-intensified to hurricane strength near 04:00 UTC on July 8, as its 32 mi-wide (52 km) eye approached the Texas coast [28]. It then made its third and final landfall at 09:00 UTC near Matagorda, Texas with sustained winds of 80 mph (130 km/h) [29]. Eight hours later, the system was downgraded to a tropical storm, while centered about 45 mi (70 km) north-northwest of Houston, Texas [30]. Beryl continued to lose strength that afternoon as it moved quickly north-northeastward at 16 mph (26 km/h) [31]. And, late that same day, the storm weakened to a tropical depression in the vicinity of Tyler, Texas [32]. The depression moved quickly to the northeast overnight, and Beryl transitioned into an extratropical cyclone on the morning of July 9, about 160 mi (260 km) west-southwest of Paducah, Kentucky [33]. By the following day, the storm's remnants were moving through the Lower Peninsula of Michigan, tracking northeastward into Ontario before dissipating on July 11 [34]. 
+
+# Preparations
+
+## Lesser Antilles
+
+Beryl moved through the Lesser Antilles as a powerful Category 4 hurricane, battering structures, uprooting trees, and causing near-total power and communication outages across much of the island chain. Hardest hit were Saint Vincent and the Grenadines, and Grenada [109]. The United Nations Office for the Coordination of Humanitarian Affairs (UN OCHA) reported an estimated 200,000 people altogether in the two nations were affected, representing 100% of the population. Also greatly impacted was Barbados, where the Red Cross reported that 208,200 people, about 74% of the population, were affected by the hurricane. It is estimated that insurable losses across region from the hurricane will exceed US$1 billion, according to disaster projections by CoreLogic [55]. 
+
+## Greater Antilles
+
+Hurricane Beryl produced gusty winds and rough surf in the Dominican Republic. The hurricane displaced 89 people and cut service to 57 aqueducts. Large waves scattered debris on a section of the Las Américas Highway in Santo Domingo. Storm surge flooding was reported in the neighborhood of Ciudad Nueva, detouring traffic. A landslide destroyed a home in La Zurza. Multiple beachfront shops in Boca Chica were damaged by rough waves. Four dwellings were destroyed by storm surge in La Ciénaga, Barahona, where an additional three houses were damaged. The hurricane caused minimal damage in neighboring Haiti [59]. Roads and agricultural lands along the southern coast were flooded. Fishing boats and other properties were also impacted. Beryl brushed the southern coast of Jamaica on July 3, with strong winds and rain, causing significant damage to homes, crops and infrastructure. Four people were killed on the island [99]. One woman died when she was struck by a falling tree, another man was killed when he was swept away by floodwaters, and a second man died a day after Beryl passed the island when a wall collapsed on him. Also, the body of an elderly woman was recovered from a pond on July 6. The Jamaican Public Service Company stated that over 400,000 people were without power [98]. The storm’s center passed about 45 mi (72 km) from Kingston, where peak sustained winds of 48 mph (77 km/h) were recorded, with gusts up to 81 mph (130 km/h); rainfall of 10.60 in (269 mm) was recorded on the northeast side the city [133] [134]. A small portion of roof over a passenger boarding pier was damaged at the Norman Manley International Airport in Kingston [135]. Total damage on the island reached J$32 billion (US$204 million) [136]. Flash floods and mudslides were reported across the Cayman Islands as Beryl passed. There were no reports of serious damage [74]. The center of the storm passed just 40 mi (64 km) south of Grand Cayman Island [135]. Nearly 6,000 on the island were affected by power outages. Peak sustained winds were measured at 44 mph (71 km/h) at Owen Roberts International Airport, with gusts up to 54 mph (87 km/h) [138]. 
+
+## Mexico and Belize
+
+On July 1, Quintana Roo was placed on a blue alert in preparation for Beryl. This was upgraded to a red warning three days later [69]. On July 2, the Yucatán state government activated 2,000 shelters [70]. In Quintana Roo, the Mexican Defense Ministry opened 120 shelters [71]. Also, schools throughout the state were closed,  as were public beaches [72]. Upward of 25,600 federal troops and national electricity company workers were mobilized throughout the region [73]. Officials prepared 9,000 U.S. gal (34,000 L) of potable water for distribution [74]. They also moved sea turtle eggs off beaches around Cancún in an attempt to protect them from storm surge [75]. About 2,200 people were staying in shelters as the system moved through [62]. The eastern coast of the Yucatán Peninsula was placed under a set of advisories on July 3: a hurricane warning for the coast of the Yucatán Peninsula from Puerto Costa Maya, Quintana Roo, to Cancún; a tropical storm warning south of Puerto Costa Maya to Chetumal, and north of Cancún to Cabo Catoche; and a tropical storm watch west of Cabo Catoche to Campeche, Campeche [74]. More than 300 flights into Cancún International Airport and Tulum International Airport were canceled as Beryl moved in, and Tulum Airport suspended all operations from the afternoon of July 4 through midday July 7 [76]. Tren Maya halted operations until July 6 [74] [77]. As Beryl moved across the western Gulf of Mexico, a hurricane watch was issued on July 5 for coastal Tamaulipas, from Barra El Mezquital to the mouth of the Rio Grande [78]. On July 3, a Tropical Storm Watch was issued for the Caribbean coast of Belize, extending from Belize City to Corozal, including the islands of Ambergris Caye and Caye Caulker. Residents in the northern part of Belize were advised to prepare for flooding. The watch was upgraded to a warning on July 4 [80]. 
+
+## United States
+
+The National Oceanic and Atmospheric Administration (NOAA) estimated the total cost in the United States to be $7.2 billion. Wind damage nationwide ranged from $2.5 billion to $3.5 billion, based on an estimate by CoreLogic . A prolific tornado outbreak spawned by Hurricane Beryl happened in eastern Texas, western Louisiana, and Arkansas on July 8 [141]. Overall, 113 tornado warnings were issued by the National Weather Service on July 8, the most for a single day in July, surpassing the 67 issued on July 6, 2005, which were related to Hurricane Cindy [142] [143]. The outbreak continued into July 9 with more tornadoes being confirmed,   before impacting the interior Northeastern United States and Ontario on July 10 [144] [145] [146]. In all, 68 tornadoes were confirmed [147]. A federal disaster declaration was approved by President Joe Biden on July 2, for parts of Texas hit by the storm. Louisiana Governor Jeff Landry declared a state of emergency in areas there impacted. Due to the impact of the storm in Texas, Amtrak canceled the July 10 runs of the Sunset Limited in its entirety in both directions  and had the train run only from San Antonio, Texas, to Los Angeles, California and vice versa  until the July 17 westbound run. [151] [152]. 
+
+# Impact
+
+## Lesser Antilles
+
+Beryl moved through the Lesser Antilles as a powerful Category 4 hurricane, battering structures, uprooting trees, and causing near-total power and communication outages across much of the island chain. Hardest hit were Saint Vincent and the Grenadines, and Grenada [109]. The United Nations Office for the Coordination of Humanitarian Affairs (UN OCHA) reported an estimated 200,000 people altogether in the two nations were affected, representing 100% of the population. Also greatly impacted was Barbados, where the Red Cross reported that 208,200 people, about 74% of the population, were affected by the hurricane. It is estimated that insurable losses across region from the hurricane will exceed US$1 billion, according to disaster projections by CoreLogic [55]. 
+
+### Saint Vincent and the Grenadines
+
+In Saint Vincent and the Grenadines, eight fatalities have been confirmed. At least three of the dead were killed by flying debris, one man was crushed when part of his home collapsed, and another man bled out after being cut on the hand [103]. Also, the MV Guidance II, a 150 ft-long (46 m) ferry with five crew members on board, has been missing from near Canouan Harbor since July 1, when Beryl passed through [98]. The greatest damage was sustained on the islands of Canouan, Mayreau, and Union, where over 90% of homes were damaged or destroyed [111]. Also, the Palm Island Resort, on nearby Palm Island suffered extensive damage [112] [113]. Bequia,  and Petit Saint Vincent had considerable damage as well [114] [115]. 
+
+### Grenada
+
+In Grenada, the island of Carriacou was stripped of all vegetation and its marinas were significantly damaged. There, and on neighboring Petite Martinique, Beryl did significant damage to houses and buildings, and severely disrupted the electrical grid. On the island of Grenada, about 95% of residents were also without power, and telecommunications were down [113] [117]. Additionally, household water storage tanks and cisterns across the islands were either destroyed or compromised by the hurricane; the public water infrastructure also suffered significant damage [118]. There were six fatalities altogether,  among them: one person died in St [119] [96]. George's when a tree fell upon their house, while two persons were killed on Carriacou. In Grenada, the first preliminary damage estimate has been set at $430 million. 
+
+### Other islands and Venezuela
+
+Businesses, homes and roads in Barbados were flooded as Beryl passed nearby;  also, roofs, trees and electrical posts were damaged [121]. The most consequential impact occurred along the coast, which was pummeled severely by storm surge [48]. Approximately 90% of the nation's fishing fleet was damaged or destroyed. The Bridgetown Cruise Terminal also suffered damage [122]. The cost of Beryl was estimated at B$193 million (US$96.5 million), about 1.4% of the country's gross domestic product [119]. [better source needed] [123]. In Tobago and Trinidad, power outages occurred across Tobago, and water service was disrupted. On Trinidad, power outages occurred mainly on the northern and eastern parts of the island [113]. Flooding also occurred on the northern half of Trinidad. In Martinique, Électricité de France stated that 10,000 customers lost power [124]. Flooding in downtown Fort-de-France reached knee-depth [125]. In Saint Lucia, trees and powerlines were downed [121]. Many homes made of weaker materials were damaged and multiple cows were killed. In St [112] [126]. Lucia, the initial assessment of infrastructure and agriculture damage is $2 million. Beryl's outer bands unleashed strong winds and torrential rains upon northeastern Venezuela, disrupting both air and maritime services. In the state of Sucre, six people were killed,  while more than 6,000 houses were damaged [127] [98]. The city of Cumanacoa was flooded by rain dumped by Beryl, which caused the area's Manzanares River to overflow [128]. Hundreds of families fled their homes on account of the flooding and landslides [129]. Several officials, including Vice President Delcy Rodríguez, were injured by a falling tree during a tour of the damage in Cumanacoa [127]. 
+
+## Greater Antilles
+
+Hurricane Beryl produced gusty winds and rough surf in the Dominican Republic. The hurricane displaced 89 people and cut service to 57 aqueducts. Large waves scattered debris on a section of the Las Américas Highway in Santo Domingo. Storm surge flooding was reported in the neighborhood of Ciudad Nueva, detouring traffic. A landslide destroyed a home in La Zurza. Multiple beachfront shops in Boca Chica were damaged by rough waves. Four dwellings were destroyed by storm surge in La Ciénaga, Barahona, where an additional three houses were damaged. The hurricane caused minimal damage in neighboring Haiti [59]. Roads and agricultural lands along the southern coast were flooded. Fishing boats and other properties were also impacted. Beryl brushed the southern coast of Jamaica on July 3, with strong winds and rain, causing significant damage to homes, crops and infrastructure. Four people were killed on the island [99]. One woman died when she was struck by a falling tree, another man was killed when he was swept away by floodwaters, and a second man died a day after Beryl passed the island when a wall collapsed on him. Also, the body of an elderly woman was recovered from a pond on July 6. The Jamaican Public Service Company stated that over 400,000 people were without power [98]. The storm’s center passed about 45 mi (72 km) from Kingston, where peak sustained winds of 48 mph (77 km/h) were recorded, with gusts up to 81 mph (130 km/h); rainfall of 10.60 in (269 mm) was recorded on the northeast side the city [133] [134]. A small portion of roof over a passenger boarding pier was damaged at the Norman Manley International Airport in Kingston [135]. Total damage on the island reached J$32 billion (US$204 million) [136]. Flash floods and mudslides were reported across the Cayman Islands as Beryl passed. There were no reports of serious damage [74]. The center of the storm passed just 40 mi (64 km) south of Grand Cayman Island [135]. Nearly 6,000 on the island were affected by power outages. Peak sustained winds were measured at 44 mph (71 km/h) at Owen Roberts International Airport, with gusts up to 54 mph (87 km/h) [138]. 
+
+## Mexico
+
+Beryl brought heavy rains and high winds to Cancún and the Riviera Maya resort district along the Caribbean coast of Quintana Roo, resulting in downed trees and power lines, and damage to many roofs; there was also widespread flooding. Many areas lost electricity, including Tulum, Cozumel, and Islas Mujeres municipalities [74]. Tourist infrastructure was without major damage [139]. Beryl's high winds also resulted in fallen trees and power outages in Campeche, including Hopelchén Municipality [73]. Karen Clark & Company places storm damage losses in Mexico at $90 million. 
+
+## United States
+
+The National Oceanic and Atmospheric Administration (NOAA) estimated the total cost in the United States to be $7.2 billion. Wind damage nationwide ranged from $2.5 billion to $3.5 billion, based on an estimate by CoreLogic . A prolific tornado outbreak spawned by Hurricane Beryl happened in eastern Texas, western Louisiana, and Arkansas on July 8 [141]. Overall, 113 tornado warnings were issued by the National Weather Service on July 8, the most for a single day in July, surpassing the 67 issued on July 6, 2005, which were related to Hurricane Cindy [142] [143]. The outbreak continued into July 9 with more tornadoes being confirmed,   before impacting the interior Northeastern United States and Ontario on July 10 [144] [145] [146]. In all, 68 tornadoes were confirmed [147]. A federal disaster declaration was approved by President Joe Biden on July 2, for parts of Texas hit by the storm. Louisiana Governor Jeff Landry declared a state of emergency in areas there impacted. Due to the impact of the storm in Texas, Amtrak canceled the July 10 runs of the Sunset Limited in its entirety in both directions  and had the train run only from San Antonio, Texas, to Los Angeles, California and vice versa  until the July 17 westbound run. [151] [152]. 
+
+### Texas
+
+Beryl made landfall near Matagorda with the east side of the eyewall impacting Brazoria County. It produced wind gusts over 60–70 mph (97–113 km/h) with a peak gust of 97 mph (156 km/h) in Brazoria. Significant impacts from Beryl took place in Surfside Beach, where siding was completely ripped off from the second story of a house [153]. Multiple A frame homes along the beach were mostly destroyed as a result of Beryl's winds [154]. Numerous other structures suffered extensive damage within the town [155]. In Lake Jackson, Beryl's winds peeled back roofs, knocked down chimneys, and destroyed exterior brick facades [156]. As Beryl tracked into Texas, Houston was directly impacted by Beryl's eyewall. More than 2.7 million lost power. Over 8 in (200 mm) of rain fell in and around Houston, with a peak rainfall amount for the state being west-southwest of the city at 13.55 in (344 mm) [158]. There were 16 confirmed tornadoes in the state; another tornado tracked out of Louisiana and into Texas. An EF1 tornado caused considerable damage southwest of Jamaica Beach,  while an EF2 tornado caused major damage on the west side of Jasper, injuring one person [159]. A high-end EF1 tornado also moved through the town of Timpson, causing roads to become unpassable with one person being trapped [160]. Two EF0 tornadoes and 11 other EF1 tornadoes were also confirmed in the state;  the tornado that tracked into Texas out of Louisiana was rated EF1 as well and caused an injury near Bethany, Louisiana and Texas [161] [162] [161]. Two tornadoes were also reportedly spotted in Beaumont, one of which caused some roof damage, although this has not yet been confirmed [161]. A 53-year-old man was killed in Humble after an oak tree fell into the house with the man and his family inside, crushing the man underneath structural debris. The other occupants of the house were unharmed. A 74-year-old woman was also killed when a tree fell into her room in the Ponderosa Forest neighborhood north of Houston. A woman in her mid-50s was killed when her house caught fire in southeast Houston. A Houston Police Department civilian employee was killed after his car was submerged on Houston Avenue near I-45 [164]. Two people drowned in Fort Bend County, and a man was killed by a tree falling on his tractor in New Caney [165]. 
+
+### Louisiana
+
+In Cameron Parish, Louisiana, portions of LA 27 and LA 82 alongside some roads in Lake Charles saw debris and heavy rainfall due to Beryl. As the storm traveled inland, it had brought severe weather to the northwestern side of the state, with several tornado warnings and power outages;   There were 25 confirmed tornadoes in the state, including multiple large and long-tracked tornadoes [167] [168] [169]. Six EF2 tornadoes were also confirmed,  with one of them striking Pleasant Hill before causing additional damage north of the town [161]. Unrelated to the tornado to the east of the town, a natural gas leak occurred on LA 174. Another EF2 tornado that injured a person west of Union Springs [170]. Another large, low-end EF2 tornado tracked over 50 mi (80 km) passing through Barksdale Air Force Base, and killing a woman and injuring her two children east of Benton when it knocked a tree down onto her mobile home [161]. An EFU tornado, three EF0 tornadoes, and 15 other EF1 tornadoes were also confirmed in the state, including the aforementioned EF1 tornado that caused an injury and crossed the state line into Texas and two other EF1 tornadoes that crossed into Arkansas [161] [170]. Over 20,000 SWEPCO customers lost power in Northwestern Louisiana [161]. 
+
+### Mississippi Valley
+
+Arkansas was battered by rain as Beryl moved through as a tropical depression. The highest rainfall total in the state was 8 in (200 mm) in Ico in Grant County. Areas in the Little Rock metropolitan area in Pulaski County received over 2 in (51 mm) of rain with the peak total being 7.31 in (186 mm) in the Ferndale area. Although it had weakened, wind gusts up to tropical storm force were recorded in the state [171]. The peak recorded gust was 47 mph (76 km/h) in Doddridge. Many tornado warnings were issued in the state as well;    six EF1 tornadoes and two EF0 tornadoes were confirmed; two other EF1 tornadoes tracked out of Louisiana and into Arkansas [172] [173] [174] [175] [176]. Almost 14,000 Arkansans were without power [177]. An EF1 tornado was also confirmed in Mississippi [178]. A flood watch was in effect in Missouri for the Mississippi and Missouri Rivers,  and other parts of the state, including near the Lake of the Ozarks [180]. The baseball game between St. Louis Cardinals and the Kansas City Royals was rescheduled due to rainfall from Beryl. St. Louis saw flooding and heavy rainfall. 
+
+### Ohio Valley
+
+Northern Indiana received over 4 in (100 mm) of rain from Beryl. On July 9, the remnants of Hurricane Beryl spawned a long-tracked supercell that produced six tornadoes in western Kentucky and southwestern Indiana [182]. The first two tornadoes touched down in Kentucky, both of which caused EF1 damage [183]. After crossing the Ohio River in Indiana the storm spawned a low-end EF3 tornado that heavily damaged an industrial area and derailed a train on the east side of Mount Vernon, Indiana [183] [184]. This tornado tracked north almost 35 mi (56 km) through Posey County into Gibson County, where it lifted near Johnson, Indiana   The storm later produced two EF1 tornadoes and an EF2 tornado as well [183] [185]. Separate storms also produced EF0 tornadoes near Dubre, Kentucky, and Shoals, Indiana,   and an EF1 tornado near Snake Run [183] [185] [186] [187]. Beryl's remnants spawned over nine tornadoes in Southwestern Indiana and Northwestern Kentucky  Several tornado watches were issued in addition to flood warnings, watches, and advisories due to heavy rainfall across the Ohio Valley [179]. In Illinois, gusts of up to 40 mph (64 km/h) were felt in the central region of the state [188]. The highest gusts were felt at the Coles County Memorial Airport, 45 mph (72 km/h). Flood watches were issued in DuPage County [189]. Many fields, especially in the southern portion of the state, were inundated with floods [190]. About 2–4 in (51–102 mm) of rain fell in the state. 
+
+### Great Lakes
+
+As the storm's remnants moved over the Lower Peninsula of Michigan late that day and into the next day, 34 counties were put under a flood watch and eight under a flood advisory. Heavy rainfall in Southwest and Central Michigan resulted in localized flash flooding, power outages, and minor storm damage [35]. Highest recorded rainfall totals occurred in Genesee County: 7.06 in (179 mm) at Richfield Center, and 6.79 in (172 mm) in Burton [192] [193]. Elsewhere, the top rainfall report was 5.95 in (151 mm) in Marshall, in Calhoun County [194]. In Western New York, 25,000 customers lost power;  seven tornadoes were also confirmed in the state, including a low-end EF2 tornado that destroyed multiple farm buildings near Eden [196]. Three of the other tornadoes were rated EF1, two were rated EF0, and one was rated EFU [197] [198]. Lowville, New York, recorded 6.02 in (153 mm) of rain, which broke the record for a single day rainfall total [197] [199]. 
+
+### New England
+
+Vermont was hit with severe flooding due to Beryl's remnants, wiping away bridges and severely damaging homes. Over 100 people in the state required rescuing due to the storm. Montpelier was the hardest hit area, with over 6 inches (150 mm) of rainfall falling near the city. A man in his UTV was swept off the road and killed in the town of Peacham. Another man died in Lyndonville, while attempting to drive through flood waters [201] [202]. In Plainfield, an apartment building was completely wiped away by floodwaters, and a car was swept away into the water [203]. Towns in northern New Hampshire were severely damaged, while roads were damaged and some bridges. Due to the flooding, around 20 people were left stranded at a Walmart and required rescuing [205]. Monroe, Dalton, and Littleton were among the damaged towns. 
+
+## Canada
+
+The remnants of Beryl brought torrential rainfall to southern Ontario on July 10, and into the next morning, causing localized flooding. It also put an end to a persistent heat wave, ending a heat warning for the Greater Toronto Area. Additionally, two weak EF0 tornadoes occurred in the London, Ontario, area; damage from tornadoes was limited to crops and trees [208]. In southwest Quebec, up to 3.9 in (100 mm) of rain was reported in parts of Montreal on July 10. Several highways, including the Decarie Expressway, were temporarily shut down that afternoon as a result of the deluge, which also flooded local streets and basements. Further, over 9,000 Hydro-Québec customers in the Montréal and Montérégie regions were without power. Beryl's remnant moisture pushed through Nova Scotia on July 11, causing some localized flash flooding and washed out roads. In the Annapolis Valley, over 3.9 in (100 mm) of rain fell within a few hours. Four counties in western Nova Scotia were put under a flash flood alert late that day. Also, in Wolfville, a youth was swept into a ditch, and drowned. 
+
+# Aftermath
+
+After the hurricane passed the Caribbean, the United Nations authorized $4 million in aid,  Grenada and Saint Vincent and the Grenadines getting $1.5 million and Jamaica receiving $2.5 million [212]. The Government of Canada announced it would provide $1.2 million in humanitarian assistance [213]. The United States Agency for International Development announced $4.5 million in humanitarian aid for countries affected by Beryl, including $2.5 million for Jamaica [214]. The European Union authorized $450,000 in humanitarian aid for countries in the Lesser Antilles [215]. The World Food Programme mobilized 5,000 food kits for affected countries in the Caribbean [216]. The Royal Navy sent a warship with supplies to the Cayman Islands. Leaders from Antigua and Barbuda, Saint Vincent and the Grenadines, and Grenada signed a letter requesting for debt cancellation and a program to be formed to increase funding after natural disasters. Saint Vincent struggled hosting people from its outer islands that evacuated due to Beryl [219]. In Barbados, fiberglass fabricator Fiberpol and the Rotary Clubs of Barbados donated a combined $40,000 to help repair the fishing fleet; most of the boats were not insured. In the wake of Beryl, multiple restaurants in the Houston area sued CenterPoint Energy, amounting to over $100 million, they alleged that CenterPoint's "gross failure in communication and management" caused them to lose customers due to the power being out. 
+
+# Records
+
+Beryl is the easternmost hurricane to form in the tropical Atlantic in June — 41.9°W, beating the mark set by the 1933 Trinidad hurricane — 58.9°W. Additionally, on June 30, it became the earliest Category 4 hurricane on record in the basin, surpassing the previous record set on July 8, 2005, by Hurricane Dennis,   and the strongest June hurricane as measured by wind speed, surpassing Hurricane Audrey of 1957 [222] [223] [224] [222] [225]. It later became the earliest Category 5 hurricane on record, surpassing the record set on July 16, 2005, by Hurricane Emily, as well as becoming the strongest July hurricane on record by wind speed,    and the highest accumulated cyclone energy-generating storm before August [226] [227] [225] [228] [229]. [nb 1] [231]. Beryl also became the first tropical system on record to undergo rapid intensification in the Main Development Region of the Atlantic during the month of June. Further, it intensified from tropical storm to Category 5 hurricane in only 42 hours [222] [225]. Only six other Atlantic storms are known to have achieved this rate of intensification, with Beryl the only one to do so earlier than September. According to an analysis by ClimaMeter, a project of the Climate and Environment Sciences Laboratory, Beryl's extreme winds and heavy precipitation were strengthened by climate change [222]. Natural climate variability, notably the Pacific decadal oscillation and the Atlantic multidecadal oscillation, likely played a role as well. 
+
+# References
+
+[105] [ERROR retrieving ref link]
+[232] [ERROR retrieving ref link]
+[1] https://www.nhc.noaa.gov/pdf/aboutnames_pronounce_atlc.pdf
+[2] https://www.houstonpublicmedia.org/articles/news/hurricane/2024/07/30/495226/houston-area-hurricane-beryl-death-toll-spikes-to-36-at-least-one-other-death-pending/
+[3] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202406252345&basin=atl&fdays=7
+[4] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202406272335&basin=atl&fdays=7
+[5] https://yaleclimateconnections.org/2024/06/an-early-start-to-the-atlantics-cabo-verde-season/
+[6] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.001.shtml?
+[7] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.002.shtml?
+[8] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.004.shtml?
+[9] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.006.shtml?
+[10] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.007.shtml?
+[11] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.06301536.shtml?
+[12] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.010.shtml?
+[13] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.011.shtml?
+[14] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.07011512.shtml?
+[15] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.014.shtml?
+[16] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.015.shtml?
+[17] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.016.shtml?
+[18] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.017.shtml?
+[19] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.021.shtml?
+[20] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.024.shtml?
+[21] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.026.shtml?
+[22] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.027.shtml?
+[23] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.07051104.shtml?
+[24] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.028.shtml?
+[25] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.030.shtml?
+[26] https://yaleclimateconnections.org/2024/07/tropical-storm-beryl-slowly-reorganizing-over-the-gulf-or-mexico/
+[27] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.033.shtml?
+[28] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.038.shtml?
+[29] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.039.shtml?
+[30] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public.039.shtml?
+[31] https://yaleclimateconnections.org/2024/07/houston-area-slammed-by-beryls-winds-and-water/
+[32] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.041.shtml?
+[33] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.041.shtml?
+[34] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public.044.shtml?
+[35] https://www.clickondetroit.com/weather/2024/07/10/beryl-weather-effect-in-michigan-34-counties-under-flood-watch-8-under-flood-advisory/
+[36] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.005.shtml?
+[37] https://web.archive.org/web/20240630084336/https://www.cnn.com/2024/06/30/weather/hurricane-beryl-barbados-caribbean-sunday/index.html
+[38] https://la1ere.francetvinfo.fr/martinique/ouragan-beryl-la-martinique-reste-en-vigilance-orange-pour-vagues-submersion-et-jaune-pour-fortes-pluies-et-orages-et-vents-violents-1502063.html
+[39] https://web.archive.org/web/20240701011323/https://www.whec.com/national-world/hurricane-beryl-approaches-the-southeast-caribbean-after-strengthening-into-a-category-4-storm/
+[40] https://caribbean.loopnews.com/content/cal-announces-flight-cancellations-due-severe-weather-0
+[41] https://web.archive.org/web/20240702011031/https://www.independent.co.uk/travel/news-and-advice/hurricane-beryl-flight-cancellations-caribbean-b2571653.html
+[42] https://www.francetvinfo.fr/meteo/cyclone-ouragan/l-ouragan-beryl-de-categorie-4-et-extremement-dangereux-avance-vers-les-caraibes_6637581.html
+[43] http://www.guardian.co.tt/news/all-ferry-sailings-for-monday-cancelled-6.2.2040418.161d70c0b3
+[44] https://www.newsday.co.tt/2024/06/30/hurricane-beryl-closes-schools-in-trinidad-and-tobago/
+[45] https://newsday.co.tt/2024/07/01/142-people-at-14-shelters-in-tobago/
+[46] https://web.archive.org/web/20240701141451/https://www.nbcnews.com/news/weather/hurricane-beryl-caribbean-category-3-storm-windward-islands-rcna159704
+[47] https://www.business-standard.com/cricket/icc-t20-world-cup/hurricane-beryl-disrupts-t20-wc-winning-indian-team-s-return-from-barbados-124063000671_1.html
+[48] https://web.archive.org/web/20240701154820/https://www.8newsnow.com/news/international/ap-hurricane-beryl-takes-aim-at-southeastern-caribbean-as-a-powerful-category-3-storm/
+[49] https://web.archive.org/web/20240701110150/https://www.cnn.com/2024/07/01/weather/hurricane-beryl-caribbean-landfall-monday/index.html
+[50] https://caribbean.loopnews.com/content/hurricane-beryl-grenada-go-lockdown-7pm
+[51] https://miamiherald.com/news/nation-world/world/americas/haiti/article289645604.html
+[52] https://stluciatimes.com/164556/2024/06/pm-announces-national-shutdown-from-830-pm-on-sunday/
+[53] https://caribbean.loopnews.com/content/hurricane-beryl-damage-st%20vincent
+[54] https://www.stvincenttimes.com/national-shutdown-ordered-in-st-vincent-for-7pm-as-beryl-nears/
+[55] https://reliefweb.int/report/grenada/saint-vincent-and-grenadines-grenada-barbados-and-jamaica-hurricane-beryl-emergency-appeal-no-mdrs2001
+[56] https://web.archive.org/web/20240702193954/https://www.orlandosentinel.com/2024/07/02/hurricane-beryl-grows-to-category-5-with-jamaica-next-in-sights/
+[57] http://haitiantimes.com/2024/07/04/hurricane-beryl-orange-alert-lifted/
+[58] https://dominicantoday.com/dr/local/2024/07/02/nationwide-cloud-cover-warning-due-to-hurricane-beryl/
+[59] https://listindiario.com/la-republica/20240703/coe-reporta-89-desplazados-57-acueductos-fuera-servicios-otros-danos-beryl-danos_815451.html
+[60] https://jis.gov.jm/jamaicans-urged-to-prepare-for-hurricane-beryl/
+[61] https://apnews.com/article/hurricane-beryl-caribbean-8cf6928baf7c69554c48625fabd4a1b3
+[62] https://www.wsaz.com/2024/07/03/hurricane-beryl-roars-toward-jamaica-after-killing-least-6-people-southeast-caribbean/
+[63] https://www.travelmarketreport.com/Air/articles/hurricane-beryl-updates-several-airports-closed-as-jamaica-awaits-beryls-arrival
+[64] https://www.jamaicaobserver.com/2024/07/02/jamaica-declared-disaster-area-islandwide-curfew-imposed-wednesday/
+[65] https://jamaica-gleaner.com/article/news/20240703/miss-universe-jamaica-grand-coronation-postponed
+[66] https://www.caymancompass.com/2024/07/03/regiment-deploys-ahead-of-hurricane-beryl
+[67] https://www.usatoday.com/story/travel/cruises/2024/07/02/hurricane-beryl-cruise-changes-carnival-norwegian-disney/74276373007/
+[68] https://www.travelandtourworld.com/news/article/hurricane-beryl-urgent-travel-alert-delta-united-and-air-canada-align-with-other-airlines-in-the-cayman-islands-for-evacuation/
+[69] https://www.theyucatantimes.com/2024/07/quintana-roo-is-on-blue-alert-due-to-hurricane-beryl/
+[70] https://www.dw.com/en/hurricane-beryl-makes-landfall-in-mexico/a-69566231
+[71] https://www.theyucatantimes.com/2024/07/the-state-government-enables-two-thousand-temporary-shelters-in-yucatan/
+[72] https://www.theguardian.com/world/article/2024/jul/05/hurricane-beryl-mexico
+[73] https://www.reuters.com/world/americas/hurricane-beryl-makes-landfall-mexican-coast-2024-07-05/
+[74] https://ici.radio-canada.ca/nouvelle/2086000/ouragan-beryl-touche-peninsule-yucatan-mexique
+[75] https://www.aljazeera.com/news/2024/7/5/hurricane-beryl-makes-landfall-in-mexico-after-11-killed-across-caribbean
+[76] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public.020.shtml?
+[77] https://mexiconewsdaily.com/travel/flights-canceled-hurricane-beryl-tulum-cancun-airport-mexico/
+[78] https://trenmayaa.com/en/news/mayan-train-restarts-operations-after-hurricane-beryl/
+[79] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public.029.shtml?
+[80] https://caribbean.loopnews.com/content/belize-declares-red-1-watch-hurricane-beryl
+[81] https://www.breakingbelizenews.com/2024/07/04/national-meteorological-service-issues-tropical-storm-warning-as-hurricane-beryl-approaches-belize/
+[82] https://www.fox26houston.com/news/tropical-storm-beryl-texas-impact-81-counties-added-disaster-declaration
+[83] https://web.archive.org/web/20240706222542/https://www.foxweather.com/weather-news/tracking-beryl-hurricane-warnings-texas-gulf-coast
+[84] https://www.valleycentral.com/news/local-news/cameron-county-issues-voluntary-evacuation-for-rv-guests-ahead-of-hurricane-beryl/
+[85] https://www.lmtonline.com/news/article/hurricane-beryl-galveston-evacuations-19559215.php
+[86] https://www.ksat.com/news/local/2024/07/06/refugio-county-issues-mandatory-evacuation-as-tropical-storm-beryl-approaches-texas-coast/
+[87] https://www.fox26houston.com/news/hurricane-beryl-shell-chevron-monitoring-facilities-beryl-moves-gulf
+[88] https://www.fema.gov/press-release/20240708/fema-urges-public-stay-alert-stands-ready-support-tropical-storm-beryl
+[89] https://www.fox26houston.com/news/hurricane-beryl-houston-flight-delays-cancellations
+[90] http://dixielandsoftware.net/cgi-bin/gettrain.pl?seltrain=2&selyear=2024&selmonth=07&selday=07
+[91] https://www.trains.com/trn/news-reviews/news-wire/railroads-button-down-operations-in-houston-due-to-hurricane-beryl/
+[92] http://dixielandsoftware.net/cgi-bin/gettrain.pl?seltrain=22&selyear=2024&selmonth=07&selday=08
+[93] http://dixielandsoftware.net/cgi-bin/gettrain.pl?seltrain=21&selyear=2024&selmonth=07&selday=08
+[94] https://www.instagram.com/nation246/p/DEKegDAPeVy/
+[95] https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-death-flash-flooding-1.7261632
+[96] https://reliefweb.int/report/grenada/grenada-hurricane-beryl-humanitarian-impact-18-july-2024
+[97] https://www.reuters.com/world/americas/grenada-estimates-damages-hurricane-beryl-up-third-economy-2024-07-31/
+[98] https://ttweathercenter.com/2024/07/11/hurricane-beryl-death-toll-now-at-33/
+[99] https://reliefweb.int/report/jamaica/hurricane-beryl-jamaica-situation-report-no2-13-july-2024
+[100] https://jamaica-gleaner.com/article/business/20241122/hurricane-beryl-wreaked-32b-damage-sent-jamaican-economy-decline
+[101] https://www.newsweek.com/hurricane-beryl-has-racked-least-33-billion-damage-report-1923933
+[102] https://www.caribbeannationalweekly.com/news/caribbean-billions-in-damage-in-hurricane-beryl-aftermath/
+[103] https://reliefweb.int/report/saint-vincent-and-grenadines/saint-vincent-and-grenadines-hurricane-beryl-humanitarian-impact-18-july-2024
+[104] https://www.stvincenttimes.com/climate-damage-st-vincent-who-pays-for-it/
+[106] https://www.ncei.noaa.gov/access/billions/events/US/1980-2024?disasters
+[107] https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=1203674
+[108] https://www.houstonpublicmedia.org/articles/news/hurricane/2024/10/28/504242/two-more-harris-county-deaths-attributed-to-hurricane-beryl-toll-rises-to-44/
+[109] https://www.insurancejournal.com/news/national/2024/07/08/782779.htm
+[110] https://web.archive.org/web/20240703002529/https://www.cbsnews.com/news/hurricane-beryl-forecast-powerful-storm-caribbean-islands/
+[111] https://www.claimsjournal.com/news/national/2024/07/01/324842.htm
+[112] https://www.iwnsvg.com/2024/07/19/svg-continues-to-hope-for-5-people-missing-aboard-ferry/
+[113] https://www.cbsnews.com/news/hurricane-beryl-damage-southeastern-caribbean-islands/
+[114] https://www.usatoday.com/story/news/nation/2024/07/03/hurricane-beryl-destruction-islands/74296817007/
+[115] https://www.stvincenttimes.com/palm-island-resort-ravaged-by-hurricane-beryl/
+[116] https://reliefweb.int/report/grenada/unicef-eastern-caribbean-area-office-situation-report-no-2-hurricane-beryl-05-july-2024
+[117] https://www.cbc.ca/news/world/photos-before-and-after-of-hurricane-beryl-s-aftermath-on-southeast-caribbean-islands-1.7253329
+[118] https://www.washingtonpost.com/weather/2024/07/01/hurricane-beryl-impacts-landfall-path/
+[119] https://www.cnn.com/2024/07/01/weather/hurricane-beryl-caribbean-landfall-monday/index.html
+[120] https://reliefweb.int/report/grenada/barbados-grenada-jamaica-and-saint-vincent-and-grenadines-hurricane-beryl-emergency-appeal-operational-strategy-appeal-no-mdrs2001
+[121] https://web.archive.org/web/20240704082215/https://abcnews.go.com/Business/wireStory/hurricane-beryl-roars-mexico-after-killing-7-people-111666011
+[122] https://www.lapresse.ca/international/caraibes/2024-07-02/l-ouragan-beryl-fait-au-moins-4-morts-dans-les-antilles-et-se-dirige-vers-la-jamaique.php
+[123] https://barbadostoday.bb/2024/07/16/fisherfolk-navigate-uncertain-waters-after-beryl/
+[124] https://www.instagram.com/nation246/p/DEKegDAPeVy/
+[125] https://newsday.co.tt/2024/07/01/al-rawi-trinidad-and-tobago-ducks-beryl-but-watch-for-new-storm/
+[126] https://caribbean.loopnews.com/content/edf-says-10000-households-without-power-martinique-after-beryl
+[127] https://www.msn.com/en-gb/news/world/hurricane-beryl-grows-to-category-5-strength-as-it-razes-southeast-caribbean-islands/ar-BB1pcOqg?ocid=BingNewsSerp
+[128] https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-floods-hurricane-beryl-dref-operation-mdrve009
+[129] https://rdnvenezuela.com/coletazos-del-huracan-beryl-deja-cinco-desaparecidos-y-6-mil-viviendas-afectadas-en-sucre-detalles/
+[130] https://english.news.cn/20240703/d6c90ca5d92a471db3e8a2e896f72d4b/c.html
+[131] https://www.antena3.com/noticias/mundo/delcy-rodriguez-resulta-herida-muy-golpeada-caerle-arbol-encima-huracan-beryl_202407036684e39a855de900016dc63c.html
+[132] https://en.mercopress.com/2024/07/03/venezuelan-vp-hit-by-falling-tree-while-assisting-beryl-victims
+[133] https://reliefweb.int/report/haiti/urgence-haiti-rapport-de-situation-ndeg-28-au-5-juillet-2024
+[134] https://jamaica-gleaner.com/article/news/20240703/jps-says-60-cent-customers-without-electricity
+[135] https://www.cbsnews.com/news/hurricane-beryl-forecast-powerful-storm-caribbean-islands/
+[136] https://yaleclimateconnections.org/2024/07/hurricane-beryl-weakens-spares-the-cayman-islands/
+[137] https://www.jamaicaobserver.com/2024/07/03/nmia-confirms-roof-damage-passenger-boarding-pier/
+[138] https://jamaica-gleaner.com/article/business/20241122/hurricane-beryl-wreaked-32b-damage-sent-jamaican-economy-decline
+[139] https://www.caymancompass.com/2024/07/03/live-updates-cayman-hit-by-hurricane-beryl/
+[140] https://www.informador.mx/mexico/Huracan-Beryl-Reportan-saldo-blanco-de-forma-preliminar-en-Tulum-20240705-0050.html
+[141] https://www.nmas.com.mx/foro-tv/programas/sabados-de-foro/videos/huracan-beryl-causa-estragos-campeche-arboles-caidos-cortes-energia-electrica/
+[142] https://www.foxweather.com/weather-news/hurricane-beryl-damage-estimate-cost
+[143] https://www.spc.noaa.gov/exper/archive/event.php?date=20240707
+[144] https://www.spc.noaa.gov/exper/archive/event.php?date=20240708
+[145] https://www.usatoday.com/story/graphics/2024/07/09/beryl-breaks-tornado-warning-record/74340059007/
+[146] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSPAH&e=202407101957
+[147] https://www.spc.noaa.gov/exper/archive/event.php?date=20240709
+[148] https://www.spc.noaa.gov/climo/reports/240710_rpts.html
+[149] https://weather.com/storms/tornado/news/2024-07-13-hurricane-beryl-most-us-tornadoes-since-2005
+[150] https://www.uwo.ca/ntp/blog/2024/two_ef0_tornadoes_in_london_on_on_july_10.html
+[151] https://weather.com/storms/hurricane/news/2024-07-09-power-still-out-aftermath-beryl-wrecks-houston-texas-area-flood
+[152] https://dixielandsoftware.net/cgi-bin/gettrain.pl?seltrain=1&selyear=2024&selmonth=07&selday=10
+[153] https://dixielandsoftware.net/cgi-bin/gettrain.pl?seltrain=2&selyear=2024&selmonth=07&selday=12
+[154] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSHGX&e=202407090049
+[155] https://x.com/TxStormChasers/status/1810326273035743573
+[156] https://x.com/JordanHallWX/status/1810320065578905832
+[157] https://x.com/accuweather/status/1810380885679812685
+[158] https://x.com/KPRC2Robert/status/1810362251817165300
+[159] https://www.cnn.com/weather/live-news/hurricane-beryl-texas-07-08-24#h_7e66c49cf3091e4f6a01bde6d8915bd5
+[160] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSHGX&e=202407100900
+[161] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSLCH&e=202407092026
+[162] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSSHV&e=202407192354
+[163] https://www.cnn.com/weather/live-news/hurricane-beryl-texas-07-08-24#h_9715c087221a36932af9663f0c0e1908
+[164] https://www.12newsnow.com/article/weather/weather-impact/small-tornado-spotted-in-beaumont/502-8f2772aa-66b4-4ec9-9387-01f39af7b057
+[165] https://web.archive.org/web/20240709005753/https://cw39.com/news/local/tree-falls-on-house-in-north-harris-county-during-hurricane-beryl-killing-a-man/
+[166] https://abc13.com/post/hpd-employee-russell-richardson-drowned-driving-work-during-beryl/15043645/
+[167] https://www.fox26houston.com/news/beryl-death-toll-houston-fallen-trees-flooding-fire
+[168] https://www.wdsu.com/article/cameron-parish-hurricane-beryl-landfall-lake-charles/61534182
+[169] https://www.shreveporttimes.com/story/weather/hurricanes/2024/07/08/tornado-warning-shreveport-weather-louisiana-hurricane-beryl-storm-flash-flood-power-outage/74331581007/
+[170] https://www.shreveporttimes.com/story/news/local/2024/07/08/power-outages-in-northwest-louisiana-following-hurricane-beryl/74332569007/
+[171] https://www.ksla.com/2024/07/08/beryl-leaves-trail-damage-across-arklatex/
+[172] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSLZK&e=202407092226
+[173] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSLZK&e=202407091944
+[174] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSSHV&e=202407091638
+[175] https://winknews.com/2024/07/09/berly-moves-through-arkansas/
+[176] https://www.arkansasonline.com/news/2024/jul/08/parts-of-arkansas-at-risk-of-flash-flooding/
+[177] https://www.thv11.com/article/weather/small-arkansas-town-tornado-nws-confirms/91-1c379e60-982b-4ff5-b86d-dcc116f5bb68
+[178] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSLZK&e=202407110010
+[179] https://www.kark.com/severe-weather-coverage/thousands-without-power-in-arkansas-after-tropical-storm-beryl-causes-severe-weather-across-the-state/
+[180] https://apps.dat.noaa.gov/stormdamage/damageviewer/
+[181] https://www.missourinet.com/2024/07/09/rains-from-previous-storms-and-hurricane-beryl-are-raising-missouri-and-mississippi-river-levels/
+[182] https://www.stltoday.com/news/local/metro/remnants-from-hurricane-beryl-soak-st-louis-and-raise-flood-risk/article_6d50ade4-3e17-11ef-9e8f-43ffbcadd911.html
+[183] https://www.goerie.com/story/news/local/2024/07/11/erie-pa-weather-hurricane-beryl-tropical-storm-will-bring-to-northwest-pa-on-july-11/74365677007/
+[184] https://www.weather.gov/pah/2024July9Tornadoes
+[185] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSPAH&e=202407110305
+[186] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSPAH&e=202407110209
+[187] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSLMK&e=202407111508
+[188] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSIND&e=202407101545
+[189] https://www.foxweather.com/weather-news/beryl-tropical-flood-severe-weather-midwest-northeast
+[190] https://www.weather.gov/ilx/09jul2024-beryl
+[191] https://news.wttw.com/2024/07/09/what-s-left-hurricane-beryl-heading-toward-chicago-bringing-chance-heavy-rain-and
+[192] https://www.brownfieldagnews.com/news/illinois-rain-fortunes-have-shifted/
+[193] https://www.lansingstatejournal.com/story/news/local/2024/07/10/hurricane-beryl-remnants-rain-ingham-eaton-power-outages/74349239007/
+[194] https://www.mlive.com/news/flint/2024/07/heavy-rainfall-leaves-genesee-county-soaked-as-remnants-of-beryl-move-through.html
+[195] https://www.wnem.com/2024/07/11/totaling-up-rainfall-after-beryl-passes-mid-michigan/
+[196] https://www.woodtv.com/weather/weather-news/hurricane-beryl-remnants-could-bring-heavy-rainfall-to-west-michigan/
+[197] https://www.mytwintiers.com/weather/tornado-touches-down-in-western-new-york-as-beryl-remnants-hit/
+[198] https://www.weather.gov/buf/tor240710-links
+[199] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSBUF&e=202407122352
+[200] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSBGM&e=202407112132
+[201] https://www.foxweather.com/weather-news/northeast-new-england-beryl-flash-flooding-vermont-new-hampshire
+[202] https://www.kmvt.com/2024/07/11/hurricane-beryls-remnants-flood-vermont-year-after-state-was-hit-by-catastrophic-rainfall/
+[203] https://www.wcax.com/2024/07/11/police-id-vermont-man-believed-have-died-flooding-rescues-still-underway/
+[204] https://www.wcax.com/2024/07/11/crews-find-vermont-driver-swept-away-floodwaters-submerged-vehicle/
+[205] https://apnews.com/climate-and-environment/remanentes-de-beryl-causan-danos-en-su-rumbo-hacia-noreste-de-eeuu-723744056a596ceeac05c4c16edb7958
+[206] https://www.wmur.com/article/new-hampshire-hurricane-beryl-storm-damage/61569961
+[207] https://www.sfgate.com/news/article/hurricane-beryl-s-remnants-flood-vermont-a-year-19566920.php
+[208] https://www.cbsnews.com/boston/news/hurricane-beryl-flooding-new-hampshire-vermont/
+[209] https://www.cp24.com/mobile/news/hurricane-beryl-s-remnants-bring-torrential-rain-to-toronto-here-is-when-it-will-stop-1.6957815
+[210] https://www.theweathernetwork.com/en/news/weather/severe/heavy-rain-closes-decarie-expressway-causing-major-traffic-for-rush-hour-quebec
+[211] https://www.lapresse.ca/actualites/2024-07-10/montreal-touche-par-les-vestiges-de-beryl.php
+[212] https://atlantic.ctvnews.ca/some-residents-feel-defeated-after-heavy-rain-flash-flooding-in-nova-scotia-1.6961170
+[213] https://news.un.org/en/story/2024/07/1151786
+[214] https://unocha.exposure.co/after-the-storm
+[215] https://www.canada.ca/en/global-affairs/news/2024/07/canada-provides-over-12-million-in-response-to-hurricane-beryl-in-caribbean.html
+[216] https://www.usaid.gov/news-information/press-releases/jul-09-2024-usaid-announces-45-million-humanitarian-assistance-countries-impacted-hurricane-beryl
+[217] https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eu450000-humanitarian-aid-following-impact-hurricane-beryl-lesser-antilles-2024-07-03_en
+[218] https://www.wfp.org/news/wfp-launches-emergency-food-assistance-people-affected-hurricane-beryl-caribbean
+[219] https://news.sky.com/story/hurricane-beryl-storm-heads-towards-cancun-as-royal-navy-sends-aid-ship-13163485
+[220] https://www.theguardian.com/world/article/2024/jul/18/caribbean-leaders-marshall-plan-rebuild-hurricane-beryl
+[221] https://www.dallasnews.com/news/texas/2024/07/18/texas-restaurants-sue-utility-centerpoint-over-response-to-hurricane-beryl/
+[222] https://www.chron.com/news/houston-texas/article/centerpoint-class-action-explainer-19580260.php
+[223] https://yaleclimateconnections.org/2024/06/category-4-beryl-on-collision-course-with-windward-islands/
+[224] https://apnews.com/article/tropical-system-beryl-caribbean-0a61043f36a9439f8037147d60e3c9e3
+[225] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public.001.shtml?
+[226] https://www.scientificamerican.com/article/why-hurricane-beryl-underwent-unprecedented-rapid-intensification/
+[227] https://web.archive.org/web/20240702194510/https://www.foxweather.com/weather-news/beryl-hurricane-tropics-history
+[228] https://www.forbes.com/sites/maryroeloffs/2024/06/30/hurricane-beryl-rapidly-intensifies-into-category-4-heres-the-latest-forecast/
+[229] https://web.archive.org/web/20240702031641/https://www.clickorlando.com/weather/2024/07/02/hurricane-beryl-strengthens-into-a-category-5-storm-earliest-on-record/
+[230] https://web.archive.org/web/20240702045114/https://www.wlox.com/2024/07/02/hurricane-beryl-becomes-earliest-category-five-hurricane-record/
+[231] https://www.cpc.ncep.noaa.gov/products/outlooks/Background.html
+[233] https://yaleclimateconnections.org/2024/07/beryl-regains-steam-en-route-to-texas-coast/
+[234] https://www.nola.com/news/hurricane/hurricane-beryls-strengthening-rewriting-history-books/article_f2681746-3b0c-11ef-808d-f7ecfd2eb048.html
+[235] https://www.climameter.org/20240703-hurricane-beryl

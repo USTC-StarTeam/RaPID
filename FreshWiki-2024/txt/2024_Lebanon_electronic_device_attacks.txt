@@ -1,0 +1,324 @@
+2024_Lebanon_electronic_device_attacks
+
+This page is subject to the extended confirmed restriction related to the Arab-Israeli conflict.
+
+On 17 and 18 September 2024, thousands of handheld pagers and hundreds of walkie-talkies intended for use by Hezbollah exploded simultaneously in two separate events across Lebanon and Syria, in an Israeli attack nicknamed Operation Grim Beeper. The attack killed at least 42 people, including at least 12 civilians. The estimates of the number of injured ranged from 1,500 Hezbollah fighters (according to an unnamed Hezbollah official) to 4,000 civilians (according to Moustafa Bayram, Minister of Labour and a member of Hezbollah). Victims had injuries including losing fingers, hands, and eyes, as well as brain shrapnel. The incident was described as Hezbollah's biggest security breach since the start of the Israel–Hezbollah conflict in October 2023.
+The first wave of explosions on 17 September targeted pagers, killing at least 12 people, including two Hezbollah members and two children, and wounding more than 2,750, including Iran's ambassador to Lebanon. The second wave on 18 September targeted Icom walkie-talkies, killing at least 30 people and injuring over 750. The 150 hospitals across Lebanon that received victims of the explosions experienced chaotic scenes.
+Seven months before the explosions, Hezbollah's secretary-general Hassan Nasrallah instructed the group's members to use pagers instead of cell phones, claiming Israel had infiltrated their cell phone network. About five months before the explosions, Hezbollah purchased Gold Apollo AR-924 pagers. The Israeli intelligence agency Mossad had secretly manufactured and integrated the explosive PETN into the devices, and sold them to Hezbollah through a shell company. International officials and scholars of the law of war have debated the legality of the attacks, with critics suggesting they might constitute war crimes or acts of terrorism.
+Responding to the attacks, Nasrallah described the explosions as a "major blow" and labeled them an act of war, possibly a declaration of war by Israel. Initially Israel denied involvement, but in November 2024 Israeli prime minister Benjamin Netanyahu admitted Israeli responsibility. Following the explosions, Israeli Defence Minister Yoav Gallant announced a "new phase" of the war in northern Israel and Lebanon had begun. Hezbollah vowed retaliation, launching a rocket attack on northern Israel a few days later that struck cities such as Nazareth and Kiryat Bialik, injuring several civilians. Ten days after the device explosions, Israel assassinated Nasrallah in an airstrike in Beirut. On 27 November, a ceasefire agreement between Israel and Lebanon went into effect, although some attacks continue.
+
+# Background
+
+Hezbollah is opposed to Israel and was founded in 1982 by Lebanese clerics in response to the Israeli invasion of Lebanon. Shortly after the onset of the Israel-Hamas war in October 2023, Hezbollah joined the conflict, citing solidarity with Palestinians [46] [47] [48]. This quickly escalated into regular cross-border military exchanges between Hezbollah and Israel, impacting northern Israel, southern Lebanon and the Golan Heights [49]. Hezbollah said it aimed to pressure Israel by forcing it to fight on two fronts [50]. Hezbollah has offered an immediate ceasefire should a ceasefire also happen in Gaza,   where 40,000 Palestinians have been killed, with at least half identified as women and children [51] [52] [53]. From 8 October 2023 to 20 September 2024, Hezbollah has launched 1,900 cross border attacks, and Israel has launched another 8,300 [54]. The fighting killed 564 in Lebanon (including 133 civilians)  and 52 in Israel (including 27 civilians), displacing entire communities in both countries,  with significant damage to civilian infrastructure [55] [56] [56]. On 10 September, the Israeli Defense Minister Yoav Gallant said Israel was shifting its focus from Gaza to the northern border. Israel's domestic security agency, Shin Bet, announced it had thwarted a Hezbollah plot to assassinate a former senior defense official using an explosive device, and The Jerusalem Post speculated that the pager explosions may have been in retaliation [58]. 
+
+## Use of pagers
+
+While popular in the late twentieth century, pagers have since largely been replaced by cell phones, except in hospitals. Some Hezbollah members had used pagers for years before the 7 October attacks, but more members began using them after February 2024, when Hezbollah secretary-general Hassan Nasrallah called on members to stop using smartphones, citing Israel's capability to infiltrate them [61]. Hezbollah subsequently imported the pagers to Lebanon in the months before the explosion [27] [25]. Reuters was told that the explosives were not detected despite checks and the pagers were still being distributed immediately before the attack [28] [27]. In 2015, Mossad began planting booby-trapped walkie-talkies in Lebanon, which secretly allowed Israel to monitor Hezbollah communications while holding the option to detonate them. For nine years, Israel limited its use of these devices to surveillance [63]. However, in 2023, a new tactic emerged with the introduction of explosive-laden pagers which Hezbollah unknowingly purchased. The exploding pagers were the AR924 model by the Taiwanese company Gold Apollo, which met Hezbollah's requirements for devices capable of operating for months without needing to be recharged, and could be recharged with a cable. This model is not available for sale in Taiwan nor the United States,  and the ministry's figures recorded no direct exports of any Gold Apollo-manufactured pagers from Taiwan to Lebanon during the same period [63] [29] [64] [65]. Indirect exports via third parties could not be ruled out. Gold Apollo denied making the pagers, explaining that they were made and sold by Budapest-based BAC Consulting Kft.,   which had a licensing agreement with Gold Apollo for the previous three years [67] [68]. Gold Apollo founder Hsu Ching-Kuang said BAC's payments were "very strange", arriving via the Middle East [69] [70]. Taiwanese police opened an investigation into Gold Apollo's involvement,  searched four locations in Taipei and New Taipei City, and questioned two individuals [77] [72]. Both Economic Minister J.W. Kuo and Premier Cho Jung-tai denied the pagers were made in Taiwan. German broadcaster Deutsche Welle (DW) visited BAC's official address in Budapest but found only a sheet of paper on the door with the company name; the doorbell was not answered [73]. DW cited the New York Times, which reported that BAC and at least two other shell companies were part of an Israeli front, intended to obscure links to Israeli intelligence officers. The CEO of BAC Consultancy said they were intermediaries, not involved in manufacturing the devices [74]. BAC Consulting CEO Cristiana Bársony-Arcidiacono acknowledged working with Gold Apollo, but stated "I don't make the pagers. I am just the intermediate  [sic]."  Hungarian government spokesperson Zoltán Kovács said BAC Consulting "is a trading intermediary, with no manufacturing or operational site in Hungary [76]. It has one manager registered at its declared address, and the referenced devices have never been in Hungary." [77]. The New York Times reported that the Israeli intelligence operated BAC Consulting and created two other unnamed shell corporations to hide their involvement. The pagers produced for Hezbollah had batteries that integrated 3 grams (0.11 ounces) of the explosive PETN in such a way that it would have been extremely difficult to detect [30]. Israeli officials believe that Hezbollah did in fact disassemble the pagers for inspections, and may have even scanned them with x-rays, yet were unable to detect the explosive materials [78]. The explosive could not be detected by an airport security check [63]. Sky News quoted Lebanese security officials saying that Hezbollah had ordered 5,000 devices. Israeli agencies have previously carried out operations involving explosive communication devices—notably the assassination of Hamas operative Yahya Ayyash in 1996 [80]. 
+
+# Explosions
+
+## First wave
+
+On 17 September 2024 at around 15:30 EEST,  many pagers across Lebanon and Syria unexpectedly exploded in an apparently coordinated attack on Hezbollah members, many of whom were seriously wounded [19]. According to the Lebanese Health Ministry, the vast majority of those who came to emergency rooms were in civilian clothing and their Hezbollah affiliation was unclear [82] [41] [15]. Facial and eye injuries were the most common effect of the explosions and, according to Tracy Chamoun, the pagers emitted a sound to encourage users to pick the devices up and lift them to their heads. Other reports say that the device vibrated and showed an error message on the screen, and only detonated when the user pressed a button to clear the error, increasing the chance that the operator of the device would be holding it [84]. The explosions occurred in several areas where Hezbollah has a strong presence,  including its stronghold of Dahieh in Beirut; southern Lebanon; and the Beqaa Valley near the Syrian border,    where explosions were reported in the towns of Aali en Nahri and Riyaq [19] [41] [15]. In Syria, explosions of pagers were also reported in Damascus and its vicinity . Blasts reportedly continued for up to 30 minutes after the initial detonations, intensifying the resulting chaos [85] [123]. Witnesses reported seeing multiple individuals with bleeding wounds in the aftermath of the blasts. In one instance, an explosion occurred inside the trouser pockets of a man standing outside a shop [41]. Photos and videos circulating on social media and local media from Beirut's southern suburbs showed individuals lying on the ground with injuries on their hands or near their pockets [88]. Around 150 hospitals received victims of the attack, which saw chaotic scenes. Hospitals in southern Lebanon, the Beqaa Valley, and Beirut's southern suburbs were overwhelmed with patients, many suffering from injuries to the face, hands and waist [116] [22]. In response, the Ministry of Health advised individuals with pagers to dispose of them and instructed hospitals to remain on "high alert" [90] [93]. It also called on health workers to report to work and asked them not to use wireless devices . The state-run National News Agency appealed for blood donations [19] [27]. Ambulance crews were deployed from the northern cities of Tripoli and Al-Qalamoun to help in Beirut [92]. The attack came just a day after the Biden administration's special envoy Amos Hochstein visited Israel and warned Prime Minister Benjamin Netanyahu against provoking a major escalation in Lebanon. Just before the blasts, Israeli defence minister Yoav Gallant told the US defense secretary Lloyd Austin that an operation was planned in Lebanon [93]. 
+
+## Second wave
+
+At around 17:00 EEST on 18 September, about 24 hours after the initial attack, a second wave of explosions occurred, targeting handheld radios. Explosions were reported in Beirut, the Bekaa Valley, and southern Lebanon. The explosions also caused fires in at least two homes [97]. Other explosions occurred at a funeral held in Beirut for three Hezbollah members and a child who had been killed by the initial explosions [98]. Lebanese Civil Defense said it responded to fires in at least 71 homes and shops,  including a lithium battery store in Majdel Selm, as well as 15 cars and numerous motorcycles [99] [100]. These fires were triggered by explosions in various locations across Nabatieh Governorate. One compromised device was discovered inside an ambulance outside the American University of Beirut Medical Center (AUBMC) and neutralized in a controlled explosion by the Lebanese Army. Hezbollah supporters reportedly prevented journalists from filming the incident at the AUBMC [102]. The Lebanese Red Cross dispatched 30 ambulances to transport victims in the affected areas [101] [103]. The targeted devices were reported as Icom IC-V82 VHF walkie-talkies, known to be used by Hezbollah. Manufacture of the IC-V82 model ceased in 2014,  and Icom had previously issued an advisory warning about counterfeit radios, including the IC-V82 [100] [104]. The company said on 19 September that it was conducting an investigation  and, two days later, announced that it was "highly unlikely" that the radios were theirs [105] [106]. A sales executive at Icom's US subsidiary said the transceivers involved appeared to be "knockoff" (counterfeit) products [107]. Other electronic devices, such as fingerprint biometric devices, were also reported to have exploded, though it remains unclear whether those devices caught fire from other explosions or detonated on their own. In the aftermath of the second wave of explosions, a group of men attacked United Nations Interim Force in Lebanon vehicles in Tyre, before Lebanese armed forces intervened. 
+
+# Deaths and injuries
+
+## Deaths
+
+As of 22 September 2024 [update], the death toll from the attacks was 42,  including at least 12 civilian deaths [10]. At least 12 people were killed in the first wave of attacks,  including civilians such as two health workers,    a 9-year-old girl and an 11-year-old boy [116] [1] [115] [27] [116]. In the second wave on 18 September, at least 30 people were killed and 750 others were injured [117] [118] [119]. The adult son of Ali Ammar, a Hezbollah member of Parliament was killed;  Lebanon's Prime Minister Najib Mikati visited southern Beirut to pay his respects [5] [19] [116]. 
+
+## Injuries
+
+On 20 September 2024, it was reported that more than 3,500 people were injured. An unnamed Hezbollah official told Reuters 1,500 Hezbollah fighters were taken out of action by injuries [10]. On 17 September Health Minister Firass Abiad said the vast majority of those being treated in emergency rooms were in civilian clothing and their Hezbollah affiliation was unclear,  but casualties included elderly people as well as young children [120]. As of 18 September, it was unclear if only Hezbollah members were carrying the pagers. During his speech on 19 September, Secretary-General Nasrallah clarified the exploded pagers were those distributed to lower ranking members while Hezbollah's leaders did not use the model [198]. According to the Health Ministry, healthcare workers were also injured and it advised all healthcare workers to discard their pagers [198]. On 26 September, Abdallah Bou Habib, Lebanon's Foreign Minister, confirmed that most of those carrying pagers were not fighters, but civilians like administrators [123] [124]. Qassim Qassir, a Lebanese expert on Hezbollah, [d] said the attacks mostly struck civilian workers, leaving its military wing largely unaffected [125]. On 11 November, Mustafa Bairam  [ar], the Lebanese Labour Minister from Hezbollah, made a formal complaint to the United Nations’ International Labour Organization (ILO), in which he stated that the pagers wounded or killed 4,000 civilians – much higher than initial reports of casualties [126]. One eye doctor at Mount Lebanon University Hospital reported that a number of those injured showed signs of something being blown up directly in their face, with some losing one or both eyes, while others had shrapnel in their brains. The Lebanese health ministry reported that 300 people had lost both eyes and 500 people had lost one eye as a result of the pager attacks [127] [128]. Other doctors saw severe hand, waist and facial injuries, reporting patients with fingers torn, hands amputated, eyes popped out of the socket and facial lacerations . The Iranian Ministry of Health reported that it performed 1,500 eye and limb surgeries for Hezbollah operatives in Iran, and that Iran sent 12 doctors to Lebanon to assist in treatment [130]. Mojtaba Amani, Iran's ambassador to Lebanon, lost one eye and suffered severe injuries in the other. Two staff of the Iranian embassy were also injured [132] [133]. 
+
+# Impact
+
+## Lebanon
+
+A senior Lebanese security source told Al-Hadath that Israel had infiltrated the communication systems of individual devices, leading to their detonation. The office of Prime Minister Mikati said the incident was a criminal "violation of Lebanese sovereignty" by Israel [87]. The government contacted the United Nations, asking them to hold Israel responsible for the attack [27]. Health Minister Firas Abiad praised the health system's response, noting the system was able to "get care to those who needed it, especially for those with serious injuries" [27]. Lebanese journalist Mohammad Barakat, known for his anti-Hezbollah views, called the pager attacks a "Lebanese 9/11". The Lebanese newspaper Al-Akhbar reported that "the enemy succeeded in directing its harshest blows to the body of the Islamic Resistance since the beginning of the conflict with the enemy, in an exceptional security operation in terms of the ability to reach targets and means" [170]. On 6 November 2024, Lebanon filed a complaint against Israel in the International Labour Organization over the attacks, with labour minister Mustafa Bayram citing the threats posed by the explosions to workplace safety as his reason to submit the complaint to the ILO. 
+
+### Hezbollah
+
+Hezbollah described Israel's attacks as "criminal aggression" and pledged a "just retribution". Those close to the group described a state of shock following the explosions [90]. Lebanese analyst Qassim Qassir said the attacks mostly struck civilian workers within Hezbollah, and not fighters [81]. Eight days before his assassination on 27 September 2024, Hezbollah's Secretary-General Nasrallah called the attack a "severe blow", describing it as "unprecedented" for Hezbollah, Lebanon and possibly the region. He added that Israel had crossed all "red lines" [35]. Nasrallah challenged the IDF to invade Lebanon, claiming Hezbollah was ready, and said that Israelis displaced in the north would only be allowed to return if Israel ceased the invasion of Gaza [173]. On the morning of 22 September, Hezbollah retaliated by firing dozens of rockets at northern Israel. Some of the rockets were intercepted over Haifa and Nazareth [175]. In Kiryat Bialik, two houses were struck [175]. Four people were wounded by shrapnel: three older men, and a teenage girl. A rocket struck Nazareth, causing a large fire in the city, and in Beit She'arim, a barn was hit, killing several cows [42]. 
+
+## Iran
+
+Within days, Iran's Islamic Revolutionary Guard Corps suspended use of all types of communication devices and undertook an inspection of all their devices. About a month later, the Iranian Civil Administration Organization issued a ban on all electronic communication devices, with the exception of mobile phones, on all commercial passenger flights [143]. 
+
+# Responsibility
+
+Shortly after the attack, Hezbollah issued a statement placing blame for the attack on Israel. While Israeli officials did not immediately comment on the attack, at least two US officials and a senior diplomat in the Middle East told NBC reporters that Israel was behind the attack on 18 September. The New York Times later reported that while Israel had continued to deny any role in the attack, twelve current and former defense and intelligence officials, who were briefed on the attack, said Israel was behind it [76]. The Israel Defense Forces (IDF) initially declined to comment when approached by the Associated Press. Israeli Chief of Staff Herzi Halevi held a meeting with Israeli generals to discuss "preparation for defensive and offensive operations on all fronts" [19]. In a statement the next day, Halevi said: "We have many capabilities that we have not yet activated.. [27]. we have seen some of these things, it seems to me that we are well prepared and we are preparing these plans going forward." He also said that Israel will move further in stages, with each stage more painful for Hezbollah, and stated that the IDF is determined to allow displaced citizens in northern Israel to safely return to their homes. On 22 September 2024, Israeli President Isaac Herzog denied any Israeli involvement in the explosions,  though Israeli prime minister Benjamin Netanyahu the same day said, "If Hezbollah has not understood the message, I promise you, it will understand the message."  Netanyahu reportedly acknowledged for the first time that Israel was behind the pager and walkie-talkie attacks during a cabinet meeting on 10 November [38] [146]. He stated that the operations "were carried out despite the opposition of senior officials in the defense establishment and those responsible for them in the political echelon." [147]. On 10 November 2024, Netanyahu admitted that Israel was responsible for the attacks. In an apparent dig against recently fired defense minister Yoav Gallant, Netanyahu is quoted as saying; "The pager operation and the elimination of  [Hezbollah leader Hassan] Nasrallah were carried out despite the opposition of senior officials in the defense establishment and those responsible for them in the political echelon". The following month, Israel authorized a couple of Mossad agents involved in the operation to be interviewed (in disguise) on the American news program 60 Minutes [148] [149]. 
+
+# International law
+
+Josep Borrell, the European Union's High Representative for Foreign Affairs and Security Policy, questioned the legality of the attacks due to their high collateral damage among civilians, including the deaths of children. Jeanine Hennis-Plasschaert, the United Nations Special Coordinator for Lebanon, also raised concerns over the attack's legality. Belgian deputy prime minister Petra De Sutter went further, calling it a "terror attack". Former CIA director Leon Panetta also described the attack as "a form of terrorism" [151]. The legal questions that were examined attempted to determine whether the attacks violated the principle of distinction (including the prohibition against using booby traps) and the principle of proportionality. A large group of United Nations special rapporteurs in conjunction with the Office of the United Nations High Commissioner for Human Rights also said the attacks could be a war crime on the basis that they were "intended to spread terror among civilians", as well failing to distinguish protected civilians and contravening the prohibitions on booby trap usage. They called for an investigation. 
+
+## Distinction
+
+### Indiscriminate attacks
+
+Experts at the Office of the United Nations High Commissioner for Human Rights said the attack was indiscriminate in nature since, by detonating thousands of devices simultaneously, the attacker failed to verify each target to distinguish between civilians and combatants. Alonso Gurmendi-Dunkelberg of the London School of Economics also said that, in order to meet the principle of distinction, Israel would have had to verify if each individual device was in the possession of a military target and not a civilian one [154]. He said it was unlikely that Israel did so, given that thousands of devices were detonated simultaneously. Professor William Boothby wrote for the Lieber Institute for Law & Warfare that the targets appeared to be persons to whom the pagers were issued and it was "probably reasonable" to assume the pagers would be in their users' possession. Lama Fakih, Middle East and North Africa Director at Human Rights Watch, stated: "The use of an explosive device whose exact location could not be reliably known would be unlawfully indiscriminate, using a means of attack that could not be directed at a specific military target and as a result would strike military targets and civilians without distinction." [157]. David M. Crane, founding chief prosecutor for the United Nations Special Court for Sierra Leone, wrote that the attacks potentially violated the principle of distinction if "methods employed were not precise enough to target Hezbollah while avoiding civilians"; however, if civilian casualties were unforeseen the attack would be lawful. 
+
+### Civilian status of Hezbollah members
+
+Many sources cautioned that under International Humanitarian Law (IHL) only combatants may be targeted; anyone not taking part in hostilities cannot be targeted. While Hezbollah has a military wing, it is also a political party. US-based human rights lawyer Huwaida Arraf pointed out that civil servants are considered civilians under international law unless there is evidence that they have taken part in hostilities. Professor William Boothby wrote that attacks on pagers would be illegal if it was known that pagers were also issued to non-combatant members of Hezbollah: for example, its diplomatic, political, or administrative staff [159]. Andreas Krieg, a professor of security studies at King's College London, said it was likely the pagers were distributed among civilian members of Hezbollah, such as those working in charities or the civil service, and these people were not taking part in hostilities. Qassim Qassir, a Lebanese expert on Hezbollah, [d] said the attacks mostly struck civilian workers, leaving its military wing largely unaffected [160]. On 26 September, Lebanese Foreign Minister Abdallah Bou Habib said that some of those who carried pagers were fighters, but most were instead administrators [126]. Hezbollah also provides social services through affiliated charities. For example, one of those killed was a hospital orderly carrying a pager at Al Rassoul Al Azam Hospital, which is linked to one such charity. Marko Milanovic writes it is almost impossible for Israel to have known whether Hezbollah issued the pagers to military members or civilian ones, given that some pagers had been issued mere hours before the explosions. He concludes the attacks were most likely indiscriminate. 
+
+### Booby traps
+
+Booby traps are mostly outlawed under the Protocol on Mines, Booby-Traps and Other Devices ("Amended Protocol II") of the Convention on Certain Conventional Weapons,  to which Israel is a party [151]. Article 7.2 of Amended Protocol II prohibits the use of "booby-traps or other devices in the form of apparently harmless portable objects which are specifically designed and constructed to contain explosive material" [32]. The rules of engagement of some countries, such as the United Kingdom, also ban explosive devices disguised as harmless items. The United States Department of Defense Law of War Manual gives watches, cameras, tobacco pipes, and headphones as examples of such items,  which are prohibited to "prevent the production of large quantities of dangerous objects that can be scattered around and are likely to be attractive to civilians, especially children" [151] [165] [32]. Brian Finucane, an adviser at the International Crisis Group and a Non-Resident Senior Fellow at the NYU School of Law, noted that the Law of War Manual gives "exploding WWII-era communications headsets" as a specific example of prohibited booby traps, but also noted that "the United States submitted an understanding to Amended Protocol II that 'the prohibition contained in Article 7(2) of the Amended Mines Protocol does not preclude the expedient adaptation or adaptation in advance of other objects for use as booby-traps or other devices.' [33]. Law of war professor William H. Boothby wrote in the Lieber Institute for Law & Warfare's Articles of War that the likelihood is that "once the arming signal has been sent, the devices used against Hezbollah in Lebanon fall within Article 7(2) and are therefore prohibited on that basis." [32]. Lama Fakih, Middle East and North Africa Director at Human Rights Watch, stated: "Customary international humanitarian law prohibits the use of booby traps – objects that civilians are likely to be attracted to or are associated with normal civilian daily use – precisely to avoid putting civilians at grave risk and produce the devastating scenes that continue to unfold across Lebanon today." [157]. 
+
+## Proportionality
+
+Janina Dill of the Oxford Institute for Ethics, Law and Armed Conflict doubted the attacks were proportionate because people carry pagers to different places, including taking them home. She questioned whether, given hundreds of pagers exploding simultaneously, it was even possible for the attacker to make a meaningful calculation on the expected harm to civilians. British human rights lawyer Geoffrey Nice said the attack was committed without regard to proportion, stating, "The pagers and walkie-talkies were of unknown position and destination when they were activated, therefore, it was impossible for Israel to contemplate whether the outcome would be proportionate" [156]. Marko Milanovic writes that a proportionality analysis requires considering two sets of civilians: [163]. Israel could argue, he writes, that the likelihood of harm to the second set of civilians would be low given the small size of pager explosives. But the first set of civilians would be seriously harmed with a high likelihood. Former Mossad agents said that Mossad tested the explosives to minimize injury to bystanders [163]. Raphael Cohen, a senior political scientist with the RAND Corporation, pointed out that it was "a whole lot more targeted than dropping a 2,000-pound bomb". 
+
+# Reactions
+
+## Lebanon
+
+A senior Lebanese security source told Al-Hadath that Israel had infiltrated the communication systems of individual devices, leading to their detonation. The office of Prime Minister Mikati said the incident was a criminal "violation of Lebanese sovereignty" by Israel [87]. The government contacted the United Nations, asking them to hold Israel responsible for the attack [27]. Health Minister Firas Abiad praised the health system's response, noting the system was able to "get care to those who needed it, especially for those with serious injuries" [27]. Lebanese journalist Mohammad Barakat, known for his anti-Hezbollah views, called the pager attacks a "Lebanese 9/11". The Lebanese newspaper Al-Akhbar reported that "the enemy succeeded in directing its harshest blows to the body of the Islamic Resistance since the beginning of the conflict with the enemy, in an exceptional security operation in terms of the ability to reach targets and means" [170]. On 6 November 2024, Lebanon filed a complaint against Israel in the International Labour Organization over the attacks, with labour minister Mustafa Bayram citing the threats posed by the explosions to workplace safety as his reason to submit the complaint to the ILO. 
+
+### Hezbollah
+
+Hezbollah described Israel's attacks as "criminal aggression" and pledged a "just retribution". Those close to the group described a state of shock following the explosions [90]. Lebanese analyst Qassim Qassir said the attacks mostly struck civilian workers within Hezbollah, and not fighters [81]. Eight days before his assassination on 27 September 2024, Hezbollah's Secretary-General Nasrallah called the attack a "severe blow", describing it as "unprecedented" for Hezbollah, Lebanon and possibly the region. He added that Israel had crossed all "red lines" [35]. Nasrallah challenged the IDF to invade Lebanon, claiming Hezbollah was ready, and said that Israelis displaced in the north would only be allowed to return if Israel ceased the invasion of Gaza [173]. On the morning of 22 September, Hezbollah retaliated by firing dozens of rockets at northern Israel. Some of the rockets were intercepted over Haifa and Nazareth [175]. In Kiryat Bialik, two houses were struck [175]. Four people were wounded by shrapnel: three older men, and a teenage girl. A rocket struck Nazareth, causing a large fire in the city, and in Beit She'arim, a barn was hit, killing several cows [42]. 
+
+## Israel
+
+According to Axios, Israeli officials said they were aware of the risk of major escalation on the northern border and that the IDF was on high alert for Hezbollah's retaliation. The Israeli news website Walla cited unnamed officials reportedly saying: "Israeli intelligence services assessed before the operation that Hezbollah might respond with a significant counterattack against Israel."  Defense Minister Yoav Gallant announced the beginning of a "new phase" in the conflict with Hezbollah, and that the IDF was redirecting forces and resources to the North [93] [176]. On the day of the first wave of attacks, Israeli opposition leader Yair Lapid was on a trip to the United States to discuss a "ceasefire-for-hostages deal between Israel and Hamas". He cut his trip short and returned to Israel in response to the attack. Shortly after the attack, many Israeli figures and pro-Israel accounts on social media celebrated the attacks and mocked the victims. Internet personality Noya Cohen posted a video wearing a headscarf and speaking in mock Arabic, before picking up a phone which explodes. Similar content was posted across pro-Israel accounts, while Israeli social media influencer Einav Avizemer called the attack an "operation below the belt."  Memes were widely shared, including one naming a pager as the new Mossad agent "Motti Rola" and another showing a deceased Hezbollah fighter with missing genitals due to an exploding pager [178]. 
+
+## Multi-national organizations
+
+Jeanine Hennis-Plasschaert, the United Nations special coordinator for Lebanon, condemned the attack, saying "civilians are not a target and must be protected at all times". Stéphane Dujarric, the Secretary-General's spokesperson, said the organization deplored the civilian casualties and warned of the risks of escalation in the region [180]. Speaking on 18 September, Secretary-General António Guterres stressed that "civilian objects" should not be weaponized [181] [182]. The Security Council held an emergency session on 20 September to address the situation [183]. Volker Türk, the United Nations High Commissioner for Human Rights, issued a statement saying that "Simultaneous targeting of thousands of individuals, whether civilians or members of armed groups, without knowledge as to who was in possession of the targeted devices, their location and their surroundings at the time of the attack, violates international human rights law and, to the extent applicable, international humanitarian law."  Amnesty international condemned the attacks, calling it a violation of international law [184] [185]. European Union foreign affairs chief Josep Borrell condemned the attack, saying they were aimed "to spread terror in Lebanon". 
+
+## Non-governmental organizations
+
+The Iraq-based pro-Iranian militia groups Kata'ib Hezbollah and Harakat Hezbollah al-Nujaba offered medical and military assistance to Hezbollah. The Palestinian organization Hamas, which governs the Gaza Strip, described the attacks as a "crime that defies all laws". In a statement, Hamas praised Hezbollah's "efforts and sacrifices" and said "this terrorist act is part of the Zionist enemy's larger aggression on the region". Mohammed Abdelsalam, the spokesperson of the Houthis who govern much of Yemen, called the attacks "a heinous crime and a violation of Lebanese sovereignty" and said that Lebanon was "capable of deterring the Zionist enemy entity and making it pay a heavy price for any escalation."  Hours after the explosions and two days after firing a supersonic ballistic missile at Tel Aviv, the deputy head of the Houthis' media authority, Nasr Al-Din Amer, said the group was ready to send thousands of fighters to Lebanon in the event of war with Israel [191]. 
+
+## Governments
+
+# References
+
+[7] [ERROR retrieving ref link]
+[9] [ERROR retrieving ref link]
+[40] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[1] https://apnews.com/article/lebanon-israel-hezbollah-pager-explosion-e9493409a0648b846fdcadffdb02d71e
+[2] https://www.aljazeera.com/program/newsfeed/2024/9/17/exploding-pagers-injure-thousands-in-lebanon-in-attack-targeting-hezbollah
+[3] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3187381
+[4] https://www.aljazeera.com/news/2024/9/21/death-toll-from-israeli-strike-on-beirut-suburb-rises-to-31
+[5] https://www.aljazeera.com/news/liveblog/2024/9/19/live-hezbollah-walkie-talkie-blasts-in-lebanon-stir-israel-conflict-fears
+[6] https://www.aljazeera.com/news/2024/9/18/multiple-explosions-heard-in-lebanon-a-day-after-hezbollah-pager-blasts
+[8] https://edition.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html
+[10] https://www.timesofisrael.com/liveblog_entry/israel-carried-out-pager-attacks-on-hezbollah-netanyahu-said-to-acknowledge-for-first-time/
+[11] https://www.ft.com/content/f578b6c0-d534-4a04-ae25-3b97d11b6e71
+[12] https://www.theguardian.com/world/2024/sep/20/we-are-isolated-tired-scared-pager-attack-leaves-lebanon-in-shock
+[13] https://abcnews.go.com/International/hezbollah-vows-reckoning-after-thousands-lebanon-injured-exploding/story?id=113798347
+[14] https://www.reuters.com/world/middle-east/hezbollahs-tunnels-flexible-command-weather-israels-deadly-blows-2024-09-25/
+[15] https://www.independent.co.uk/news/world/middle-east/benjamin-netanyahu-israel-lebanon-pager-attacks-b2644731.html
+[16] https://www.aljazeera.com/news/2024/11/6/lebanon-files-complaint-against-israel-at-un-labour-body-over-pager-attacks
+[17] https://www.bbc.com/news/articles/cd7xnelvpepo
+[18] https://www.jpost.com/middle-east/article-820735
+[19] https://www.telegraph.co.uk/world-news/2024/09/17/hundreds-hezbollah-fighters-injured-exploding-pagers-israel/
+[20] https://www.bbc.com/news/articles/cz04m913m49o
+[21] https://apnews.com/article/lebanon-hezbollah-israel-exploding-pagers-8893a09816410959b6fe94aec124461b
+[22] https://www.jpost.com/breaking-news/article-820547
+[23] https://www.theguardian.com/world/live/2024/sep/18/middle-east-crisis-live-hezbollah-pager-explosion-lebanon-irael-iran-latest-updates
+[24] https://www.aljazeera.com/news/2024/9/17/dozens-of-hezbollah-members-wounded-after-pagers-explode-in-lebanon
+[25] https://www.france24.com/en/live-news/20240917-chaotic-scenes-outside-lebanon-hospitals-on-streets-after-pager-blasts
+[26] https://www.nytimes.com/live/2024/09/17/world/israel-hamas-war-news
+[27] https://www.aljazeera.com/news/2024/9/17/dozens-of-hezbollah-members-wounded-after-pagers-explode-in-lebanon
+[28] https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+[29] https://www.cnn.com/world/live-news/lebanon-pagers-attack-hezbollah/index.html
+[30] https://www.timesofisrael.com/liveblog_entry/hezbollah-official-exploded-pagers-were-a-new-brand-replaced-cellphones-at-nasrallahs-order/
+[31] https://www.wired.com/story/pager-explosion-hezbollah/
+[32] https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html
+[33] https://www.theguardian.com/world/2024/sep/18/hezbollah-pagers-what-do-we-know-about-how-the-attack-happened
+[34] https://lieber.westpoint.edu/exploding-pagers-law/
+[35] https://www.justsecurity.org/100193/law-war-exploding-pagers-lebanon/
+[36] https://www.meforum.org/middle-east-forum-observer/was-operation-below-the-belt-legal-absolutely
+[37] https://edition.cnn.com/2024/09/19/middleeast/lebanon-hezbollah-hassan-nasrallah-speech-analysis-intl-latam/index.html
+[38] https://www.washingtonpost.com/world/2024/09/19/israel-lebanon-attack-explosions-hezbollah/
+[39] https://www.haaretz.com/israel-news/2024-09-19/ty-article-live/netanyahu-slams-misguided-starmer-accuses-u-k-of-sending-mixed-messages/00000192-07f9-d543-ab9f-2ffbf5790000
+[41] https://www.independent.co.uk/news/uk/israel-hezbollah-muslims-benjamin-netanyahu-israelis-b2616970.html
+[42] https://au.news.yahoo.com/ex-israeli-agents-reveal-pager-131219667.html
+[43] https://www.politico.eu/article/israel-defense-minister-yoav-gallant-new-phase-war-hezbollah/
+[44] https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/
+[45] https://www.jpost.com/breaking-news/article-821184
+[46] https://www.washingtonpost.com/obituaries/2024/09/28/hasan-nasrallah-hezbollah-lebanon-dies/
+[47] https://www.upi.com/Top_News/World-News/2024/11/27/lebanon-cease-fire-begins/3361732695775
+[48] https://www.aljazeera.com/news/liveblog/2024/11/27/live-countdown-to-lebanon-ceasefire-as-israel-reaches-deal-with-hezbollah
+[49] http://news.bbc.co.uk/2/hi/middle_east/4314423.stm
+[50] https://archive.org/details/beaconofhatredin0000jori/page/72/mode/2up?view=theater
+[51] https://www.hrw.org/reports/2007/iopt0807/7.htm
+[52] https://www.aljazeera.com/news/2023/10/9/hezbollah-fires-on-israel-after-several-members-killed-in-shelling
+[53] https://apnews.com/article/lebanon-israel-chebaa-farms-gaza-rocket-attack-cd7b26f890bf4cae32491721506ec0a1
+[54] https://www.foreignaffairs.com/israel/israel-and-hezbollah-are-escalating-toward-catastrophe
+[55] https://www.bbc.com/news/world-67349605
+[56] https://www.aljazeera.com/news/2023/12/10/violence-escalates-between-israel-and-lebanons-hezbollah-amid-gaza-assault
+[57] https://www.theguardian.com/world/2024/sep/17/gaza-publishes-identities-of-34344-palestinians-killed-in-war-with-israel
+[58] https://www.aljazeera.com/news/2024/9/25/mapping-10000-cross-border-attacks-between-israel-and-lebanon
+[59] https://reliefweb.int/report/lebanon/lebanon-flash-update-25-escalation-hostilities-south-lebanon-23-august-2024
+[60] https://www.bbc.com/news/articles/cv2gj544x65o
+[61] https://www.reuters.com/world/middle-east/israel-close-completing-gaza-missions-focus-north-defence-minister-says-2024-09-10/
+[62] https://www.reuters.com/world/middle-east/israel-says-it-thwarted-hezbollah-plot-kill-former-defence-official-2024-09-17/
+[63] https://www.jpost.com/israel-hamas-war/article-820540
+[64] https://www.washingtonpost.com/technology/2024/09/18/pagers-lebanon-hezbollah-old-technology/
+[65] https://www.reuters.com/world/middle-east/hezbollah-handed-out-pagers-hours-before-blasts-even-after-checks-2024-09-20/
+[66] https://www.washingtonpost.com/world/2024/10/05/israel-mossad-hezbollah-pagers-nasrallah/
+[67] https://www.i24news.tv/en/news/israel-at-war/artc-exploding-hezbollah-devices-reportedly-issued-in-recent-days
+[68] https://edition.cnn.com/2024/09/18/business/gold-apollo-taiwan-lebanon-exploding-pagers-hnk-intl/index.html
+[69] https://www.washingtonpost.com/world/2024/09/18/gold-apollo-hezbollah-lebanon-pagers/
+[70] https://www.ynetnews.com/article/bytqokop0
+[71] https://www.dw.com/en/bac-hungarian-firm-in-focus-of-hezbollah-pager-explosions/a-70248830
+[72] https://www.barrons.com/news/taiwan-s-gold-apollo-says-hezbollah-pagers-made-by-hungary-partner-ba2ff7c7
+[73] https://time.com/7022209/taiwan-firm-deny-making-pagers-lebanon-syria-budapest/
+[74] https://www.reuters.com/world/middle-east/gold-apollo-says-it-did-not-make-pagers-used-lebanon-explosion-2024-09-18/
+[75] https://www.bbc.com/news/articles/c9qvl3vlvlvo
+[76] https://www.france24.com/en/asia-pacific/20240920-taiwan-questions-two-in-probe-into-lebanon-pager-attack
+[77] https://www.dw.com/en/bac-hungarian-firm-in-focus-of-hezbollah-pager-explosions/a-70248830
+[78] https://www.independent.co.uk/news/world/middle-east/hezbollah-pagers-explosions-bac-consulting-israel-hungary-b2615049.html
+[79] https://www.nbcnews.com/news/world/taiwan-firm-denies-making-pagers-used-lebanon-explosions-rcna171594
+[80] https://www.euronews.com/2024/09/18/dozens-of-hezbollah-members-wounded-in-lebanon-by-exploding-pagers
+[81] https://www.reuters.com/world/middle-east/batteries-walkie-talkies-that-exploded-lebanon-were-laced-with-petn-lebanese-2024-09-20/
+[82] https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/HEZBOLLAH-PAGERS/mopawkkwjpa/
+[83] https://news.sky.com/story/explosive-pagers-used-by-hezbollah-had-been-modified-by-israel-at-production-level-reuters-told-by-lebanese-security-sources-13217025
+[84] https://www.economist.com/middle-east-and-africa/2024/09/17/do-pager-bombs-presage-escalation-between-israel-and-hizbullah
+[85] https://www.nytimes.com/live/2024/09/17/world/israel-hamas-war-news/here-are-the-latest-developments
+[86] https://www.theguardian.com/world/live/2024/sep/17/middle-east-crisis-live-netanyahu-expands-gaza-war-aims-blinken-heads-to-egypt?page=with%3Ablock-66e9f8468f086ad2b4929f30#block-66e9f8468f086ad2b4929f30
+[87] https://www.bbc.com/news/live/cwyl9048gx8t
+[88] https://www.france24.com/fr/moyen-orient/20240413-syrie-explosion-voiture-pi%C3%A9g%C3%A9e-dans-le-centre-de-damas
+[89] https://en.mehrnews.com/news/221430/Car-explosion-reported-in-Damascus
+[90] https://www.jpost.com/breaking-news/article-820536
+[91] https://www.bbc.com/news/articles/cd7xnelvpepo
+[92] https://www.timesofisrael.com/several-killed-thousands-hurt-as-wave-of-pager-explosions-strikes-hezbollah/
+[93] https://www.bbc.com/news/articles/cd7xnelvpepo
+[94] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3185534
+[95] https://www.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html
+[96] https://www.axios.com/2024/09/17/hezbollah-pager-explosion-israel-didnt-tell-biden-administration
+[97] https://www.theguardian.com/world/2024/sep/18/pager-and-walkie-talkie-attacks-on-hezbollah-were-audacious-and-carefully-planned
+[98] https://www.bbc.com/news/articles/ce9jglrnmkvo
+[99] https://www.nytimes.com/live/2024/09/18/world/israel-hezbollah-gaza-hamas/ff00c924-b66c-5a5d-929e-fe60da8b0d9c
+[100] https://www.jpost.com/breaking-news/article-820703
+[101] https://www.mtv.com.lb/News/%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/1485460/%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D9%85%D9%86%D8%B2%D9%84-%D8%A8%D9%85%D9%8A%D9%81%D8%AF%D9%88%D9%86-%D9%88%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%A8%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D9%82%D8%A7-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA
+[102] https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288#https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288
+[103] https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-walkie-talkie-explosives.html
+[104] https://today.lorientlejour.com/article/1427494/after-pager-explosions-hezbollah-announces-death-of-10-fighters-vows-to-continue-operations-day-348-of-the-gaza-war.html
+[105] https://www.aljazeera.com/news/2024/9/18/more-devices-exploding-across-lebanon-whats-happening
+[106] https://edition.cnn.com/2024/09/18/middleeast/lebanon-explosions-intl/index.html
+[107] https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/
+[108] https://www.nbcnews.com/news/world/pager-new-device-explosions-lebanon-hezbollah-rcna171637
+[109] https://www.reuters.com/world/middle-east/japans-icom-investigating-radio-devices-carrying-its-logo-after-lebanon-blasts-2024-09-19/
+[110] https://www.japantimes.co.jp/business/2024/09/21/hezbollah-hack-asia-supply-chains-analysis/
+[111] https://apnews.com/live/lebanon-syria-pagers-hezbollah-updates#00000192-06cb-d51f-a7d6-0efb2de20000
+[112] https://www.theweek.in/news/world/2024/09/18/lebanon-panic-as-two-solar-panel-systems-explode-amidst-pager-walkie-talkie-blasts-in-beirut-targeting-hezbollah.html
+[113] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3187995
+[114] https://www.theguardian.com/world/live/2024/sep/18/middle-east-crisis-live-hezbollah-pager-explosion-lebanon-irael-iran-latest-updates
+[115] https://www.mtv.com.lb/News/%D9%85%D9%80%D9%80%D8%AD%D9%80%D9%80%D9%84%D9%80%D9%80%D9%8A%D9%80%D9%80%D8%A7%D8%AA/1485481/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88--%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%B4-%D9%82%D8%B1%D8%A8-%D8%B5%D9%88%D8%B1
+[116] https://www.theguardian.com/world/live/2024/sep/18/middle-east-crisis-live-hezbollah-pager-explosion-lebanon-irael-iran-latest-updates
+[117] https://www.washingtonpost.com/world/2024/09/19/israel-lebanon-pagers-attack-victims/
+[118] https://www.nbcnews.com/news/world/hezbollah-pagers-expolsion-lebanon-handheld-devices-rcna171457
+[119] https://www.wsj.com/world/middle-east/hundreds-of-hezbollah-operatives-pagers-explode-in-apparent-attack-across-lebanon-cf31cad4
+[120] https://www.bbc.com/news/articles/cx2kn10xxldo
+[121] https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288
+[122] https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288
+[123] https://www.theguardian.com/world/live/2024/sep/17/middle-east-crisis-live-netanyahu-expands-gaza-war-aims-blinken-heads-to-egypt?page=with%3Ablock-66e9f8468f086ad2b4929f30#block-66e9f8468f086ad2b4929f30
+[124] https://abcnews.go.com/International/wireStory/dozens-wounded-after-pagers-detonate-lebanon-officials-point-113754464
+[125] https://news.sky.com/story/hezbollah-leader-accuses-israel-of-targeting-5-000-people-in-two-minutes-as-he-admits-lebanon-blasts-are-unprecedented-blow-13217867
+[126] https://www.bbc.com/news/articles/cz04m913m49o
+[127] https://www.africanews.com/2024/09/17/lebanon-says-8-killed-and-over-two-thousand-wounded-by-exploding-pagers/
+[128] https://carnegieendowment.org/posts/2024/09/israel-hezbollah-lebanon-border-war-end-bouhabib?lang=en
+[130] https://apnews.com/article/hezbollah-israel-exploding-pagers-walkie-talkies-devices-b8506471525e3848023b1d6a863827e8
+[131] https://www.nbcnews.com/news/world/beirut-eye-doctor-describes-devastating-injuries-blasts-rcna171972
+[132] https://english.alarabiya.net/News/middle-east/2024/09/20/lebanese-doctor-recalls-one-of-worst-nightmares-after-pager-attacks
+[133] https://www.youtube.com/watch?v=kaBtUb3mhqk
+[134] https://www.bbc.com/news/articles/c04p7q3k4k9o
+[135] https://www.iranintl.com/en/202411210169
+[136] https://www.nytimes.com/live/2024/09/17/world/israel-hamas-war-news
+[137] https://en.mehrnews.com/news/221462/Iran-embassy-in-Beirut-comments-on-envoy-s-health-condition
+[138] https://www.theguardian.com/world/2024/sep/18/lebanon-beirut-medics-civilians-horrified-pager-attacks
+[139] https://www.standard.co.uk/news/world/beirut-explosion-one-of-largest-blasts-history-a4517646.html
+[140] https://www.theguardian.com/world/live/2024/sep/18/middle-east-crisis-live-hezbollah-pager-explosion-lebanon-irael-iran-latest-updates?page=with%3Ablock-66eab6918f086ad2b492a4b4#block-66eab6918f086ad2b492a4b4
+[141] https://www.lemonde.fr/en/international/article/2024/09/18/lebanon-doctors-tell-of-horror-after-pager-blasts_6726505_4.html
+[142] https://www.ctvnews.ca/world/lebanon-bans-pagers-walkie-talkies-from-flights-1.7044409
+[143] https://www.politico.eu/article/lebanon-explosion-hezbollah-israel-ban-pager-walkie-talkie-flight/
+[144] https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-british-airways-and-lufthansa-group-suspend-flights-to-middle-east-following-attack-in-lebanon
+[145] https://edition.cnn.com/2024/09/17/middleeast/lebanon-pager-attack-explosions-hezbollah-explainer-intl-latam/index.html
+[146] https://www.theatlantic.com/international/archive/2024/09/israels-strategic-win/679918/
+[147] https://www.reuters.com/world/middle-east/irans-guards-ban-communications-devices-after-strike-hezbollah-security-2024-09-23/
+[148] https://www.nation.com.pk/13-Oct-2024/iran-bans-pagers-walkie-talkies-on-flights-after-lebanon-attacks-civil-aviation-organization
+[149] https://www.timesofisrael.com/liveblog_entry/idf-chief-says-israel-has-many-more-capabilities-to-be-used-in-war-against-hezbollah/
+[150] https://www.independent.co.uk/voices/israel-lebanon-hezbollah-walkie-talkies-pagers-b2617022.html
+[151] https://www.turkiyetoday.com/region/netanyahu-admits-responsibility-for-deadly-pager-explosions-in-lebanon-77144/
+[152] https://www.timesofisrael.com/in-first-netanyahu-said-to-admit-israel-carried-out-pager-attacks-on-hezbollah/
+[153] https://www.lemonde.fr/en/international/article/2024/11/10/netanyahu-says-he-greenlighted-lebanon-pager-attacks_6732328_4.html#
+[154] https://www.cbsnews.com/news/israel-former-mossad-agents-detail-explosive-pagers-hezbollah-terrorists-plot-60-minutes-transcript/
+[155] https://www.telegraph.co.uk/world-news/2024/09/18/israel-declares-new-phase-of-war-after-walkie-talkie-bombs/
+[156] https://www.jpost.com/breaking-news/article-821315
+[157] https://www.mediaite.com/tv/former-cia-director-leon-panetta-calls-israels-pager-explosion-operation-terrorism/
+[158] https://www.ohchr.org/en/press-releases/2024/09/exploding-pagers-and-radios-terrifying-violation-international-law-say-un
+[159] https://www.timesofisrael.com/un-rights-chief-claims-detonation-of-hezbollah-comms-devices-could-be-a-war-crime/
+[160] https://www.middleeasteye.net/explainers/israel-pager-attack-lebanon-break-international-law-hezbollah
+[161] https://www.hrw.org/news/2024/09/18/lebanon-exploding-pagers-harmed-hezbollah-civilians
+[162] https://www.jurist.org/commentary/2024/09/analyzing-the-israeli-pager-attack-on-hezbollah-using-law-of-armed-conflict-principles/
+[163] https://www.aljazeera.com/news/2024/9/18/do-lebanon-explosions-violate-the-laws-of-war
+[164] https://time.com/7022458/exploding-pager-attack-lebanon-hezbollah-israel/
+[165] https://thearabweekly.com/despite-gaza-battle-hezbollah-israel-mutual-deterrence-holds
+[166] https://www.naharnet.com/stories/en/306086
+[167] https://www.ejiltalk.org/were-the-israeli-pager-and-walkie-talkie-attacks-on-hezbollah-indiscriminate/
+[168] https://ihl-databases.icrc.org/en/ihl-treaties/ccw-amended-protocol-ii-1996/article-7
+[169] https://assets.publishing.service.gov.uk/media/5a7952bfe5274a2acd18bda5/JSP3832004Edition.pdf
+[170] https://media.defense.gov/2023/Jul/31/2003271432/-1/-1/0/DOD-LAW-OF-WAR-MANUAL-JUNE-2015-UPDATED-JULY%202023.PDF#page=426
+[171] https://www.aljazeera.com/news/liveblog/2024/9/21/israels-war-on-gaza-live-inconceivable-toll-of-human-suffering-in-gaza?update=3192999
+[172] https://abcnews.go.com/Politics/biden-administration-treads-diplomatic-tightrope-after-device-attacks/story?id=113842804
+[173] https://www.reuters.com/world/middle-east/hezbollah-pager-blasts-test-war-readiness-lebanons-hospitals-2024-09-18/
+[174] https://today.lorientlejour.com/article/1427350/netanyahu-sets-return-of-israelis-evacuated-from-northern-israeli-towns-as-new-target-day-347-of-the-gaza-war.html
+[175] https://www.al-akhbar.com/Politics/387025/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%86%D9%81-%D8%B0-%D8%A3%D9%83%D8%A8%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%87%D9%84-%D9%81-%D8%AA%D8%AD%D8%AA-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%AD%D8%B1%D8%A8-%D8%A8%D9%84%D8%A7-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D9%88%D9%84%D8%A7-%D8%A3%D8%B3%D9%82%D9%81-%D9%88%D9%84%D8%A7-%D8%AD%D8%AF%D9%88%D8%AF
+[176] https://www.france24.com/en/live-news/20241106-lebanon-files-un-complaint-against-israel-over-pager-attacks
+[177] https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac
+[178] https://www.jpost.com/israel-news/article-820907
+[179] https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7
+[180] https://www.aa.com.tr/en/middle-east/netanyahu-approved-pager-explosions-in-lebanon-israeli-media/3332965
+[181] https://www.politico.eu/article/israel-defense-minister-yoav-gallant-new-phase-war-hezbollah/
+[182] https://www.middleeasteye.net/trending/israel-supporters-mock-lebanons-deadly-pager-attacks
+[183] https://www.timesofisrael.com/no-laughing-matter-hezbollah-pager-explosions-become-fodder-for-online-jokes/
+[184] https://www.cnn.com/world/live-news/lebanon-pagers-attack-hezbollah#h_a0cf8464c5edb4ee82690311dcc18553
+[185] https://www.dw.com/en/lebanon-9-killed-thousands-injured-in-pagers-explosion/a-70241394
+[186] https://press.un.org/en/2024/db240917.doc.htm
+[187] https://www.khaleejtimes.com/world/europe/civilian-objects-should-not-be-weaponised-un-chief-on-lebanon-pager-explosions
+[188] https://press.un.org/en/2024/sc15828.doc.htm
+[189] https://www.timesofisrael.com/liveblog_entry/un-rights-chief-demands-accountability-for-lebanon-pager-blasts/
+[190] https://www.amnesty.org/en/latest/news/2024/09/lebanon-establish-international-investigation-into-deadly-attacks-using-exploding-portable-devices/
+[191] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3186546
+[192] https://www.jpost.com/breaking-news/article-820903
+[193] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3185772
+[194] https://understandingwar.org/backgrounder/iran-update-september-18-2024
+[195] https://www.aljazeera.com/news/liveblog/2024/9/17/israels-war-on-gaza-live-38-killed-as-israel-risks-becoming-pariah
+[196] https://www.middleeastmonitor.com/20240918-houthis-thousands-of-fighters-ready-to-go-to-lebanon-if-war-breaks-out/
+[197] https://english.ahram.org.eg/NewsContent/1/1234/532054/Egypt/Foreign-Affairs/Egypt-urges-end-to-Israel-violations-in-West-Bank,.aspx
+[198] https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288
+[199] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3187796
+[200] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3186257
+[201] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3185976
+[202] https://understandingwar.org/backgrounder/iran-update-september-21-2024
+[203] https://apnews.com/live/lebanon-syria-pagers-hezbollah-updates
+[204] https://www.aa.com.tr/en/middle-east/israels-attempts-to-spread-conflicts-in-region-extremely-dangerous-turkish-president/3333467
+[205] https://www.aljazeera.com/news/liveblog/2024/9/20/israels-war-on-gaza-live-israeli-attacks-kill-dozens-in-gaza-west-bank-2?update=3190969
+[206] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3186244
+[207] https://www.mfa.gov.cn/eng/xw/fyrbt/202409/t20240919_11493204.html
+[208] https://www.zaobao.com.sg/news/world/story20240921-4802112
+[209] https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20240921/s00005/1726888783601/%E5%AE%89%E7%90%86%E6%9C%83%E6%9C%83%E8%AD%B0%E4%BB%A5%E9%BB%8E%E4%BA%92%E6%8C%87%E6%91%98-%E8%81%AF%E5%90%88%E5%9C%8B%E4%BA%BA%E6%AC%8A%E5%B0%88%E5%93%A1-%E4%BB%A5%E7%94%A8%E9%80%9A%E8%A8%8A%E8%A8%AD%E5%82%99%E6%96%BD%E8%A5%B2%E6%88%96%E5%B1%AC%E6%88%B0%E7%88%AD%E7%BD%AA%E8%A1%8C
+[210] https://un.china-mission.gov.cn/eng/hyyfy/202409/t20240921_11494229.htm
+[211] https://www.i24news.tv/fr/actu/france/artc-emmanuel-macron-assure-les-libanais-de-son-soutien-dans-une-video-nous-devons-refuser-la-fatalite-de-la-guerre
+[212] https://www.theargus.co.uk/news/national/24592500.pager-attack-showed-wanton-disregard-civilian-life-martin-says/
+[213] https://www.thestar.com.my/news/nation/2024/09/19/malaysia-condemns-deadly-cyber-related-attacks-in-lebanon
+[214] https://aje.io/6c6745?update=3201338
+[215] https://www.timesofisrael.com/norway-issues-global-search-request-for-man-linked-to-exploding-hezbollah-pager
+[216] https://www.themoscowtimes.com/2024/09/18/russia-condemns-lebanon-pager-blasts-warns-of-worsening-tensions-a86403
+[217] https://www.aljazeera.com/news/liveblog/2024/9/18/israels-war-on-gaza-live-thousands-injured-in-lebanon-pager-explosions?update=3186119
+[218] https://www.themoscowtimes.com/2024/09/18/russia-condemns-lebanon-pager-blasts-warns-of-worsening-tensions-a86403
+[219] https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=187995
+[220] https://www.standard.co.uk/news/uk/britons-leave-lebanon-fco-travel-advice-david-lammy-war-israel-b1183056.html
+[221] https://www.news18.com/world/us-urges-iran-to-avoid-actions-furthering-tensions-after-pager-blasts-in-lebanon-9054499.html

@@ -1,0 +1,798 @@
+{
+  "title": "IM-1",
+  "url": "https://en.wikipedia.org/wiki/IM-1",
+  "summary": "IM-1 was a robotic Moon landing mission conducted by Intuitive Machines (IM) in February 2024 using a Nova-C lunar lander. After contact with the lunar surface on February 22 the lander tipped to an unplanned 30 degree angle. All instrument payloads remained functional and the mission was deemed a success. IM-1 was the first commercial mission to successfully soft-land on the Moon. NASA provided funding support for the mission through the Commercial Lunar Payload Services program. The lander, named Odysseus, carried six NASA-developed payloads and several others from commercial and educational customers. On February 29, Odysseus lost power and shut down with the start of the lunar night.\nIM-1 was the first soft lunar landing by a private company and Odysseus was the first American-made spacecraft to soft-land on the Moon since Apollo 17 in 1972. Steve Altemus, CEO of IM, says Nova-C is the first spacecraft to use liquid methane and liquid oxygen (methalox) propulsion beyond low-Earth orbit, and also the first methalox spacecraft to land on an off-world celestial body.",
+  "content": [
+    {
+      "section_title": "Background and selection",
+      "section_content": [
+        {
+          "sentence": "In December 2017, Space Policy Directive 1 signaled an intention to return astronauts to the Moon",
+          "refs": []
+        },
+        {
+          "sentence": "Excerpts from NASA documents obtained by The New York Times suggested the agency would prioritize the private spaceflight sector",
+          "refs": [
+            "https://www.nytimes.com/2017/12/11/science/trump-moon-space-directive.html"
+          ]
+        },
+        {
+          "sentence": "In November 2018, NASA announced the Commercial Lunar Payload Services program, selecting nine companies to deploy payloads for the agency",
+          "refs": [
+            "https://www.nytimes.com/2018/02/11/science/nasa-budget-moon.html",
+            "https://www.washingtonpost.com/news/the-switch/wp/2018/02/11/the-trump-administration-wants-to-turn-the-international-space-station-into-a-commercially-run-venture/"
+          ]
+        },
+        {
+          "sentence": "In May 2019, NASA announced that Astrobotic Technology, Intuitive Machines, and Orbit Beyond would develop lunar landers, awarding Intuitive Machines US$77 million",
+          "refs": [
+            "https://www.nytimes.com/2018/11/29/science/nasa-moon-landers.html"
+          ]
+        },
+        {
+          "sentence": "Intuitive Machines was paid US$118 million to develop the Odysseus lunar lander used in the IM-1 mission.",
+          "refs": [
+            "https://www.nytimes.com/2019/05/31/science/nasa-moon.html"
+          ]
+        },
+        {
+          "sentence": "The IM-1 mission in February 2024 followed the Peregrine mission by Astrobotic Technology, which launched in January 2024",
+          "refs": []
+        },
+        {
+          "sentence": "The Peregrine landing at Gruithuisen Domes was abandoned when a propellant leak was observed after launch, and the spacecraft was guided to re-enter Earth's atmosphere",
+          "refs": [
+            "https://www.nasaspaceflight.com/2024/01/vulcan-launch-peregrine-inaugural-flight/",
+            "https://spacenews.com/nasa-changes-landing-site-for-peregrine-lunar-lander"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Mission hardware",
+      "section_content": [
+        {
+          "sentence": "Odysseus was equipped with six instruments developed by NASA, including a laser retroreflector array, a lidar navigation device, a stereo camera, a low-frequency radio receiver, the Lunar Node-1 beacon, and an instrument to monitor propellant levels",
+          "refs": []
+        },
+        {
+          "sentence": "Additionally, a camera built by students at Embry\u2013Riddle Aeronautical University, Daytona Beach, a planned Moon telescope, and a Jeff Koons art project were also on board",
+          "refs": []
+        },
+        {
+          "sentence": "In total the payloads comprise six NASA scientific instruments and six commercial instruments (five of the latter being scientific and one cultural)",
+          "refs": [
+            "https://www.nytimes.com/2024/02/13/science/spacex-launch-moon-lander-intuitive.html"
+          ]
+        },
+        {
+          "sentence": "Odysseus landed at the Malapert-A crater and stayed active there for about a week, before the Sun sets at the landing site",
+          "refs": []
+        },
+        {
+          "sentence": "The Odysseus lander is not designed to survive the lunar night, which lasts about two weeks",
+          "refs": [
+            "https://www.cbsnews.com/news/intuitive-machines-spacex-odysseus-robot-lander-on-moon-surface/"
+          ]
+        },
+        {
+          "sentence": "The lander has a chip with works of 200 artists, including works of Pablo Picasso, Michelangelo Buonarroti, Jeff Koons and Bram Reijnders",
+          "refs": []
+        },
+        {
+          "sentence": "The lander carries the sculpture Moon Phases by Jeff Koons within its payload",
+          "refs": [
+            "https://www.ad.nl/binnenland/werk-van-limburgse-kunstenaar-is-met-amerikaanse-lander-odysseus-mee-naar-maan~aaf3b2bb/",
+            "https://nos.nl/video/2510107-het-werk-van-deze-nederlander-staat-vanaf-nu-ook-op-de-maan"
+          ]
+        },
+        {
+          "sentence": "This is the first sculpture installation to reach the Moon since Paul Van Hoeydonck's Fallen Astronaut sculpture was placed on the Moon by David Scott of Apollo 15 in 1971",
+          "refs": []
+        },
+        {
+          "sentence": "Koons describes Moon Phases as, \"125 miniature Moon sculptures, each approximately one inch in diameter.\"",
+          "refs": [
+            "https://whitewall.art/art/jeff-koons-to-launch-first-nft-project-to-the-moon/",
+            "https://web.archive.org/web/20140728032237/http://airandspace.si.edu/collections/artifact.cfm?object=nasm_A19860035000",
+            "https://www.pacegallery.com/journal/jeff-koons-moon-phases/"
+          ]
+        },
+        {
+          "sentence": "The lander also carries private disclosed and undisclosed payloads from commercial company's, educational institutions, and private citizens",
+          "refs": []
+        },
+        {
+          "sentence": "One being the Lunaprise  time capsule, which includes the Lunar Library compiled by the Arch Mission Foundation",
+          "refs": []
+        },
+        {
+          "sentence": "The Lunar Library includes content from the English Wikipedia and the Rosetta Project",
+          "refs": [
+            "https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads"
+          ]
+        },
+        {
+          "sentence": "Also included onboard is the AstroVault by Quantum Aerospace which includes an archive of musical recordings and photos, which features songs by Jimi Hendrix, Bob Marley, and Elvis Presley, among other musicians",
+          "refs": [
+            "https://www.archmission.org/galactic-legacy-archive",
+            "https://www.rochesterfirst.com/news/nasa-assists-in-sending-rochester-made-lunar-library-to-the-moon/"
+          ]
+        },
+        {
+          "sentence": "A Radio Frequency Mass Gauge (RFMG) on board estimated how much propellant was available during the IM-1 mission",
+          "refs": []
+        },
+        {
+          "sentence": "This was the first long-duration test of an RFMG on a standalone spacecraft",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Mission events",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Prior to launch",
+          "section_content": [
+            {
+              "sentence": "In December 2023, Odysseus arrived at Kennedy Space Center for processing",
+              "refs": []
+            },
+            {
+              "sentence": "On January 31, 2024, the Odysseus spacecraft was encapsulated in the payload fairing of its Falcon 9 Block 5 launch vehicle",
+              "refs": [
+                "https://www.youtube.com/watch?v=xa2n2-_hLPM"
+              ]
+            },
+            {
+              "sentence": "On February 13, IM announced that two wet dress rehearsals loading Odysseus with propellants had been successful and they were ready for launch",
+              "refs": [
+                "https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Launch",
+          "section_content": [
+            {
+              "sentence": "A Falcon 9 booster launched Odysseus from LC-39A in Florida at 06:05 UTC on February 15, 2024",
+              "refs": []
+            },
+            {
+              "sentence": "The booster returned to LZ-1 and the expended Falcon 9 upper stage delivered the spacecraft to its translunar trajectory.",
+              "refs": []
+            },
+            {
+              "sentence": "Originally planned to launch on February 13, SpaceX postponed the launch after reporting a technical issue with propellant loaded onto the lander",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Early operations",
+          "section_content": [
+            {
+              "sentence": "After separation from the launch vehicle, the Nova Control operations center established communication with the lander and conducted initial checkouts",
+              "refs": []
+            },
+            {
+              "sentence": "Images captured by the spacecraft after separation from the launch vehicle were released on February 17",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Commissioning burn",
+          "section_content": [
+            {
+              "sentence": "The lander was scheduled to perform a main engine \"commissioning burn\" on February 15",
+              "refs": []
+            },
+            {
+              "sentence": "Trent Martin, Intuitive Machines vice president of Space Systems, described this as a \"critical step\" for the mission",
+              "refs": []
+            },
+            {
+              "sentence": "After reporting issues with the IM-1 star tracker and adjustment of the liquid oxygen line cooling time IM reported a successful commissioning burn on February 16",
+              "refs": [
+                "https://spaceflightnow.com/2024/02/13/live-coverage-spacex-intuitive-machines-to-launch-falcon-9-rocket-on-moon-bound-mission/"
+              ]
+            },
+            {
+              "sentence": "The maneuver resulted in a 21\u00a0m/s (47\u00a0mph) change in the lander's velocity",
+              "refs": [
+                "https://x.com/Int_Machines/status/1758677812217545020",
+                "https://www.intuitivemachines.com/_files/ugd/7c27f7_6f08ded687bb4950bff004e566d8e2f0.pdf"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Trajectory correction",
+          "section_content": [
+            {
+              "sentence": "Intuitive Machines planned for up to three trajectory adjustment maneuvers during the trans-lunar phase of the mission",
+              "refs": []
+            },
+            {
+              "sentence": "The first was completed on February 18,  and after the second maneuver on February 20, there was no need for a third",
+              "refs": [
+                "https://x.com/Int_Machines/status/1758677812217545020",
+                "https://www.intuitivemachines.com/_files/ugd/7c27f7_ef85f351ed5f44f19e312b145fb671b8.pdf"
+              ]
+            },
+            {
+              "sentence": "On February 20, Intuitive Machines reported that Odysseus had completed approximately 72% of its journey to the Moon's surface",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Lunar orbit",
+          "section_content": [
+            {
+              "sentence": "Odysseus performed its lunar orbit insertion (LOI) on February 21, altering its velocity by 800\u00a0m/s (1,800\u00a0mph)",
+              "refs": []
+            },
+            {
+              "sentence": "Intuitive Machines reported the 408-second main engine LOI burn placed the lander in a 92\u00a0km (57\u00a0mi) lunar orbit",
+              "refs": []
+            },
+            {
+              "sentence": "On February 22 IM indicated a \"lunar correction maneuver\" had raised the orbit",
+              "refs": [
+                "https://www.space.com/intuitive-machines-odysseus-moon-lander-lunar-orbit",
+                "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1"
+              ]
+            },
+            {
+              "sentence": "The lander spent approximately 24 hours orbiting the Moon before its descent to the lunar surface on February 22",
+              "refs": []
+            },
+            {
+              "sentence": "On February 21, while still in orbit, Odysseus sent back high-resolution images of the lunar surface.",
+              "refs": [
+                "https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-livestreams",
+                "https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch",
+                "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1"
+              ]
+            },
+            {
+              "sentence": "Intuitive Machines adjusted the descent burn parameters based on data from the lunar orbit insertion burn",
+              "refs": []
+            },
+            {
+              "sentence": "IM indicated the risks undertaken during the lunar landing phase of the mission would be a \"challenge\"",
+              "refs": []
+            },
+            {
+              "sentence": "A later report indicated that, as the lander was being prepared for its descent to the surface, mission controllers determined a safety switch on the primary laser rangefinder system had not been activated during pre-launch preparations",
+              "refs": [
+                "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1"
+              ]
+            },
+            {
+              "sentence": "Teams on the ground worked around the issue by reprogramming Odysseus to use data from an experimental NASA payload, the Navigation Doppler Lidar for Precise Velocity and Range Sensing",
+              "refs": [
+                "https://x.com/jeff_foust/status/1761159611556508158"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Lunar landing",
+          "section_content": [
+            {
+              "sentence": "A favored landing site in 2020 was between the Sea of Serenity (Mare Serenitatis) and the Sea of Crises (Mare Crisium)",
+              "refs": []
+            },
+            {
+              "sentence": "Lunar maria are large plains formed when lava flowed into ancient impact basins",
+              "refs": [
+                "https://www.nasa.gov/feature/first-commercial-moon-delivery-assignments-to-advance-artemis/",
+                "https://fcc.report/IBFS/SAT-LOA-20210423-00055/6378695.pdf"
+              ]
+            },
+            {
+              "sentence": "Later, a lunar highlands location near the south pole of the Moon was chosen for the landing, since that region is believed to have a source of water for a future lunar base",
+              "refs": []
+            },
+            {
+              "sentence": "The Malapert-A crater area 300\u00a0km (190\u00a0mi) from the lunar south pole was chosen because it appeared to be a relatively flat and safe place near the pole to land, amongst other considerations",
+              "refs": []
+            },
+            {
+              "sentence": "After making a last-minute software patch to the lander's altitude monitoring systems, Odysseus began its landing sequence at 23:11 UTC (6:11\u00a0p.m",
+              "refs": []
+            },
+            {
+              "sentence": "EST) on February 22 and landed near Malapert A\u2014an area determined to contain water ice\u2014at 23:23 UTC (6:23\u00a0p.m",
+              "refs": []
+            },
+            {
+              "sentence": "EST)",
+              "refs": []
+            },
+            {
+              "sentence": "Controllers confirmed that faint communications were received from the lander",
+              "refs": [
+                "https://www.nytimes.com/live/2024/02/22/science/nasa-moon-landing-odysseus/heres-what-to-know-about-thursdays-lunar-landing-attempt"
+              ]
+            },
+            {
+              "sentence": "The lander was initially thought to be in a fully vertical orientation,   based on stale telemetry",
+              "refs": [
+                "https://www.youtube.com/watch?v=Dg2ffigGcYM",
+                "https://edition.cnn.com/us/live-news/nasa-odysseus-moon-landing-intuitive-machines-scn/index.html",
+                "https://www.cnn.com/2024/02/22/world/moon-landing-intuitive-machines-nasa-scn/index.html"
+              ]
+            },
+            {
+              "sentence": "It was later determined to have landed at a 30 degree angle, with its solar panels and scientific instrumentation functionally oriented, but with its radio transmission rates somewhat reduced due to the unexpected angle of the lander's antennas.",
+              "refs": []
+            },
+            {
+              "sentence": "The lander appeared to most probably have lost one or more of its 6 landing struts and to be resting on an externally mounted helium tank",
+              "refs": []
+            },
+            {
+              "sentence": "(The only non-functional payload is a passive Moon Phases art sculpture, on the side facing towards the ground.)  Odysseus became the first American spacecraft Moon landing since the Apollo 17 mission in 1972 and the first commercial lunar lander",
+              "refs": [
+                "https://finance.yahoo.com/news/lunar-lander-feared-tipped-while-223225056.html",
+                "https://www.youtube.com/watch?v=Vwm_9OEL-68",
+                "https://www.bbc.com/news/science-environment-68388695"
+              ]
+            },
+            {
+              "sentence": "The Lunar Crater Observation and Sensing Satellite made an intentional hard landing in 2009 following deorbit.",
+              "refs": [
+                "https://www.foxbusiness.com/technology/spacex-rocket-blasts-carrying-intuitive-machines-moon-lander"
+              ]
+            },
+            {
+              "sentence": "Reporting by Kenneth Chang in The New York Times  includes a detailed description of the landing anomaly:",
+              "refs": [
+                "https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Surface operations",
+          "section_content": [
+            {
+              "sentence": "On February 23, Intuitive Machines reported that the IM-1 Odysseus lander was still \"alive and well\", and that IM was continuing to receive data on the vehicle's status  and whether the scientific payloads could still be deployed",
+              "refs": [
+                "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1"
+              ]
+            },
+            {
+              "sentence": "Intuitive Machines executives said they were working to reconfigure antennas to increase downlink rates but did not estimate what sort of data rates they expected",
+              "refs": [
+                "https://cnn.com/2024/02/23/world/odysseus-lunar-landing-sideways-scn/index.html",
+                "https://www.youtube.com/watch?v=Vwm_9OEL-68"
+              ]
+            },
+            {
+              "sentence": "On February 26, Intuitive Machines released the first images from the surface taken by the lunar probe",
+              "refs": []
+            },
+            {
+              "sentence": "Based on Earth and moon positioning, the IM team reported that flight controllers would continue to communicate with Odysseus until Tuesday (February 27) morning",
+              "refs": [
+                "https://7c27f7d6-4a0b-4269-aee9-80e85c3db26a.usrfiles.com/ugd/7c27f7_357496b3ba404948ba24ad63081b5d23.pdf"
+              ]
+            },
+            {
+              "sentence": "As of February 28, Odysseus was still receiving power, and all six NASA payloads were providing good data",
+              "refs": [
+                "https://www.space.com/intuitive-machines-odysseus-lander-images-update-lro"
+              ]
+            },
+            {
+              "sentence": "In a press conference the same day, Intuitive Machines said the lander was in its final hours of operation as the sun moved out of view of the one illuminated solar panel",
+              "refs": [
+                "https://www.youtube.com/watch?v=xa2n2-_hLPM"
+              ]
+            },
+            {
+              "sentence": "On February 29, Odysseus lost power and shut down with the start of the lunar night",
+              "refs": [
+                "https://spacenews.com/intuitive-machines-and-nasa-call-im-1-lunar-lander-a-success-as-mission-winds-down/"
+              ]
+            },
+            {
+              "sentence": "However, the company did not rule out bringing Odysseus back to life after the two-week lunar night",
+              "refs": [
+                "https://www.reuters.com/technology/space/us-moon-lander-odysseus-nears-shutdown-week-after-sideways-landing-2024-02-29/"
+              ]
+            },
+            {
+              "sentence": "Executives said they would try contacting the lander in two to three weeks",
+              "refs": []
+            },
+            {
+              "sentence": "About one month after Odysseus landed on the Moon, Intuitive Machines reported that they could not re-establish contact with the lander after the lunar night, bringing an end to the IM-1 mission",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "EagleCam",
+      "section_content": [
+        {
+          "sentence": "The EagleCam was a deployable CubeSat camera system designed especially to photograph the lunar landing of the Nova-C Odysseus lander on the Moon",
+          "refs": []
+        },
+        {
+          "sentence": "Photographs taken during the lunar landing of the Odysseus lander may also have enabled a better understanding of the dynamics of lunar landings on the lunar regolith and rock surfaces in the vicinity of the Moon's south pole",
+          "refs": []
+        },
+        {
+          "sentence": "Such a better understanding of the local lunar surface features would have assisted with preparations for upcoming scheduled additional landings at the lunar south pole",
+          "refs": []
+        },
+        {
+          "sentence": "Designed and manufactured by staff and students working in the Space Technologies Laboratory at Embry\u2013Riddle Aeronautical University, Daytona Beach,   it was intended to deploy from Odysseus and take the first photographs of a spacecraft landing on the moon from a third-person perspective",
+          "refs": [
+            "https://erau.edu/eaglecam",
+            "http://news.erau.edu/headlines/eagles-visit-intuitive-machines-to-make-final-preparations-on-eaglecam-cubesat",
+            "https://erau.edu/eaglecam",
+            "http://news.erau.edu/headlines/eagles-visit-intuitive-machines-to-make-final-preparations-on-eaglecam-cubesat"
+          ]
+        },
+        {
+          "sentence": "It also planned to test an electrodynamic dust shield system in space for the first time and utilize a Wi-Fi connection to transmit data for the first time on the lunar surface.",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Design and objectives",
+          "section_content": [
+            {
+              "sentence": "EagleCam's primary payload was its camera system, consisting of three fisheye-lens :\u200a2\u200a cameras which would take a total of nine images per second over six seconds as it was ejected from Odysseus shortly before landing",
+              "refs": [
+                "https://ieeexplore.ieee.org/document/10115622"
+              ]
+            },
+            {
+              "sentence": "A fourth  camera was included to test another one of EagleCam's payloads, an electrodynamic dust shield (EDS), created by the Swamp Works facility at Kennedy Space Center",
+              "refs": [
+                "https://apnews.com/article/moon-landing-private-odysseus-nasa-14dfdc76176f9f7a6a68a099c98bbbb9"
+              ]
+            },
+            {
+              "sentence": "The CubeSat was powered from a solar-powered battery with a lifetime of 30 minutes",
+              "refs": [
+                "https://mynews13.com/fl/orlando/space/2024/02/21/embry-riddle-aeronautical-university-eaglecam"
+              ]
+            },
+            {
+              "sentence": "Had EagleCam been successful, photographs and data taken during the lunar landing of the Odysseus lander may have enabled a better understanding of the dynamics of lunar landings on the lunar regolith and rock surfaces in the vicinity of the Moon's south pole",
+              "refs": []
+            },
+            {
+              "sentence": "EagleCam would've assisted in the objectives of NASA's Commercial Lunar Payload Services (CLPS) program, such as gaining a better understanding of the local lunar surface features to assist with preparations for future manned and unmanned missions to the Moon's south pole, through NASA's Artemis program",
+              "refs": []
+            },
+            {
+              "sentence": "However, while photos of Odysseus were never taken by EagleCam, it still recorded and transmitted other types of data to Intuitive Machines and the Space Technologies Lab via the IM-1 lander",
+              "refs": [
+                "https://erau.edu/eaglecam",
+                "http://news.erau.edu/headlines/eagles-visit-intuitive-machines-to-make-final-preparations-on-eaglecam-cubesat"
+              ]
+            },
+            {
+              "sentence": "Through EagleCam, Embry-Riddle Aeronautical University became the world's first university to have a payload on the moon's surface solely developed by faculty and students",
+              "refs": [
+                "https://news.erau.edu/headlines/eaglecam-updates-embry-riddle-device-lands-on-moon"
+              ]
+            },
+            {
+              "sentence": "[a]",
+              "refs": [
+                "https://mynews13.com/fl/orlando/space/2024/02/21/embry-riddle-aeronautical-university-eaglecam",
+                "https://erau.edu/eaglecam"
+              ]
+            },
+            {
+              "sentence": "A prototype of the EagleCam CubeSat flew onboard the Blue Origin NS-24 return-to-flight mission on December 19, 2023",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Mission summary",
+          "section_content": [
+            {
+              "sentence": "Just before landing, at approximately 30\u00a0m (98\u00a0ft) above the lunar surface, Odysseus was to eject this CubeSat",
+              "refs": []
+            },
+            {
+              "sentence": "Once ejected, EagleCam was supposed to semi-hard land on the lunar surface somewhere near the lander at 10\u00a0m/s (33\u00a0ft/s)",
+              "refs": []
+            },
+            {
+              "sentence": "As it descended to the surface EagleCam was planned to capture the first third-person images of a lunar landing",
+              "refs": []
+            },
+            {
+              "sentence": "However, due to complications arising from a software patch which reconfigured the lander's sensors used during the final descent phase to the moon's surface, EagleCam was powered off and remained attached to Odysseus through landing",
+              "refs": [
+                "https://spaceflightnow.com/2023/12/19/blue-origin-launches-new-shepard-rocket-on-return-to-flight-mission/"
+              ]
+            },
+            {
+              "sentence": "It was later ejected on February 28 but was a partial failure as it returned all types of data, except post IM-1 landing images that were the main aim of its mission",
+              "refs": [
+                "https://www.scientificamerican.com/article/second-private-u-s-moon-lander-readies-for-launch/",
+                "https://apnews.com/article/moon-landing-private-odysseus-nasa-14dfdc76176f9f7a6a68a099c98bbbb9"
+              ]
+            },
+            {
+              "sentence": "\u201cWe reset the visual processing unit and powered up the EagleCam, and were able to eject it, and (we) ejected it about 4 meters away from the vehicle safely",
+              "refs": [
+                "https://blogs.nasa.gov/artemis/2024/02/28/nasa-intuitive-machines-share-images-from-the-moon-provide-science-updates/",
+                "https://x.com/SpaceTechLab/status/1762979276360479156",
+                "https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/",
+                "https://www.scientificamerican.com/article/second-private-u-s-moon-lander-readies-for-launch/",
+                "https://news.erau.edu/headlines/eaglecam-updates-embry-riddle-device-lands-on-moon"
+              ]
+            },
+            {
+              "sentence": "However, either in camera or in the Wi-Fi signal back to the lander, something might not be working correctly",
+              "refs": []
+            },
+            {
+              "sentence": "So, the Embry\u2011Riddle team is working on that and wrestling with that to see if there\u2019s anything they can do,\u201d Steve Altemus, CEO of Intuitive Machines commented on EagleCam in a NASA-IM mission update",
+              "refs": []
+            },
+            {
+              "sentence": "The EagleCam utilized a Wi-Fi connection with the Odysseus lander to relay its images back to Earth",
+              "refs": [
+                "https://x.com/w_robinsonsmith/status/1761097110017945707"
+              ]
+            },
+            {
+              "sentence": "In March 2024, the EagleCam team was recognized by U.S",
+              "refs": []
+            },
+            {
+              "sentence": "Senator Rick Scott in the Congressional Record of the United States Senate for their achievements",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "Notes",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "References",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "External links",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "88": "[ERROR retrieving ref link]",
+    "1": "https://science.nasa.gov/lunar-science/clps-deliveries/to2-im-clps-payloads/",
+    "2": "https://uk.news.yahoo.com/six-space-missions-look-forward-113942235.html",
+    "3": "https://www.reuters.com/technology/space/us-moon-lander-odysseus-nears-shutdown-week-after-sideways-landing-2024-02-29/",
+    "4": "https://x.com/Int_Machines/status/1771609255616909738",
+    "5": "http://www.lroc.asu.edu/posts/1360",
+    "6": "https://spacenews.com/intuitive-machines-and-nasa-call-im-1-lunar-lander-a-success-as-mission-winds-down/",
+    "7": "https://www.nytimes.com/2024/02/26/science/odysseus-moon-lander-photos.html",
+    "8": "https://www.nytimes.com/2024/02/22/science/intuitive-machines-lander-history.html",
+    "9": "https://apnews.com/article/moon-landings-nasa-private-ffb85d2a092df8d32c0494811e6691f5",
+    "10": "https://nextspaceflight.com/launches/details/1915",
+    "11": "https://web.archive.org/web/20240313004311/https://violet-clam-514180.hostingersite.com/press-release-archives/24-02-28-b--reply-from-steve-altemus.pdf",
+    "12": "https://www.nytimes.com/2017/12/11/science/trump-moon-space-directive.html",
+    "13": "https://www.nytimes.com/2018/02/11/science/nasa-budget-moon.html",
+    "14": "https://www.washingtonpost.com/news/the-switch/wp/2018/02/11/the-trump-administration-wants-to-turn-the-international-space-station-into-a-commercially-run-venture/",
+    "15": "https://www.nytimes.com/2018/11/29/science/nasa-moon-landers.html",
+    "16": "https://www.nytimes.com/2019/05/31/science/nasa-moon.html",
+    "17": "https://www.nasaspaceflight.com/2024/01/vulcan-launch-peregrine-inaugural-flight/",
+    "18": "https://spacenews.com/nasa-changes-landing-site-for-peregrine-lunar-lander",
+    "19": "https://www.cnn.com/2024/01/08/world/peregrine-lunar-lander-anomaly-astrobotic-nasa-scn/index.html",
+    "20": "https://www.nytimes.com/2024/02/13/science/spacex-launch-moon-lander-intuitive.html",
+    "21": "https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads",
+    "22": "https://www.cbsnews.com/news/intuitive-machines-spacex-odysseus-robot-lander-on-moon-surface/",
+    "23": "https://www.cbsnews.com/news/spacex-private-sector-lunar-lander-moon-flight/",
+    "24": "https://www.ad.nl/binnenland/werk-van-limburgse-kunstenaar-is-met-amerikaanse-lander-odysseus-mee-naar-maan~aaf3b2bb/",
+    "25": "https://nos.nl/video/2510107-het-werk-van-deze-nederlander-staat-vanaf-nu-ook-op-de-maan",
+    "26": "https://whitewall.art/art/jeff-koons-to-launch-first-nft-project-to-the-moon/",
+    "27": "https://web.archive.org/web/20140728032237/http://airandspace.si.edu/collections/artifact.cfm?object=nasm_A19860035000",
+    "28": "https://www.pacegallery.com/journal/jeff-koons-moon-phases/",
+    "29": "https://www.archmission.org/galactic-legacy-archive",
+    "30": "https://www.rochesterfirst.com/news/nasa-assists-in-sending-rochester-made-lunar-library-to-the-moon/",
+    "31": "https://www.billboard.com/music/rock/moon-landing-2024-music-lunar-capsule-1235615080/",
+    "32": "https://willametteweekly.news/the-dawn-of-commercial-lunar-exploration-how-odysseus-paved-the-way-for-future-moon-missions",
+    "33": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-new-spacecraft-propellant-gauge-on-lunar-lander/",
+    "34": "https://www.nasa.gov/news-release/nasa-tech-contributes-to-soft-moon-landing-agency-science-underway/",
+    "35": "https://iloa.org/ilo-x-precursor/",
+    "36": "https://www.nasa.gov/missions/artemis/clps/six-nasa-instruments-will-fly-to-moon-on-intuitive-machines-lander/",
+    "37": "https://x.com/jeff_foust/status/1761159611556508158",
+    "38": "https://www.colorado.edu/ness/projects/radiowave-observations-lunar-surface-photoelectron-sheath-rolses",
+    "39": "https://erau.edu/eaglecam",
+    "40": "https://www.bbc.com/news/science-environment-68388695",
+    "41": "https://www.youtube.com/watch?v=xa2n2-_hLPM",
+    "42": "https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations",
+    "43": "https://spaceflightnow.com/2023/10/27/intuitive-machines-targets-launch-to-the-moon-in-mid-january/",
+    "44": "https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/",
+    "45": "https://www.nytimes.com/2024/02/14/science/spacex-launch-moon-lander-intuitive.html",
+    "46": "https://www.intuitivemachines.com/im-1?lightbox=dataItem-lsq8u169",
+    "47": "https://spaceflightnow.com/2024/02/13/live-coverage-spacex-intuitive-machines-to-launch-falcon-9-rocket-on-moon-bound-mission/",
+    "48": "https://x.com/Int_Machines/status/1758677812217545020",
+    "49": "https://www.intuitivemachines.com/_files/ugd/7c27f7_6f08ded687bb4950bff004e566d8e2f0.pdf",
+    "50": "https://www.intuitivemachines.com/_files/ugd/7c27f7_ef85f351ed5f44f19e312b145fb671b8.pdf",
+    "51": "https://skyandtelescope.org/astronomy-news/a-lunar-odyssey-odie-lander-touches-down-on-the-moon/",
+    "52": "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1",
+    "53": "https://www.space.com/intuitive-machines-odysseus-moon-lander-lunar-orbit",
+    "54": "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1",
+    "55": "https://blogs.nasa.gov/artemis/2024/02/22/intuitive-machines-updates-im-1-landing-time-carrying-nasa-science/",
+    "56": "https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-livestreams",
+    "57": "https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch",
+    "58": "https://edition.cnn.com/us/live-news/nasa-odysseus-moon-landing-intuitive-machines-scn/index.html",
+    "59": "https://www.nasa.gov/feature/first-commercial-moon-delivery-assignments-to-advance-artemis/",
+    "60": "https://fcc.report/IBFS/SAT-LOA-20210423-00055/6378695.pdf",
+    "61": "https://web.archive.org/web/20240222235141/https://blogs.nasa.gov/clps/tag/malapert-a/",
+    "62": "https://spacenews.com/intuitive-machines-moves-landing-site-of-first-mission-to-lunar-south-pole/",
+    "63": "https://www.nytimes.com/live/2024/02/22/science/nasa-moon-landing-odysseus/heres-what-to-know-about-thursdays-lunar-landing-attempt",
+    "64": "https://www.youtube.com/watch?v=Dg2ffigGcYM",
+    "65": "https://www.cnn.com/2024/02/22/world/moon-landing-intuitive-machines-nasa-scn/index.html",
+    "66": "https://finance.yahoo.com/news/lunar-lander-feared-tipped-while-223225056.html",
+    "67": "https://www.youtube.com/watch?v=Vwm_9OEL-68",
+    "68": "https://www.foxbusiness.com/technology/spacex-rocket-blasts-carrying-intuitive-machines-moon-lander",
+    "69": "https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html",
+    "70": "https://web.archive.org/web/20240222235227/http://intuitivemachines.com/im-1",
+    "71": "https://cnn.com/2024/02/23/world/odysseus-lunar-landing-sideways-scn/index.html",
+    "72": "https://spacenews.com/intuitive-machines-expects-early-end-to-im-1-lunar-lander-mission/",
+    "73": "https://7c27f7d6-4a0b-4269-aee9-80e85c3db26a.usrfiles.com/ugd/7c27f7_357496b3ba404948ba24ad63081b5d23.pdf",
+    "74": "https://www.space.com/intuitive-machines-odysseus-lander-images-update-lro",
+    "75": "https://commons.erau.edu/cgi/viewcontent.cgi?article=1668&context=edt",
+    "76": "http://news.erau.edu/headlines/eagles-visit-intuitive-machines-to-make-final-preparations-on-eaglecam-cubesat",
+    "77": "https://ieeexplore.ieee.org/document/10115622",
+    "78": "https://apnews.com/article/moon-landing-private-odysseus-nasa-14dfdc76176f9f7a6a68a099c98bbbb9",
+    "79": "https://mynews13.com/fl/orlando/space/2024/02/21/embry-riddle-aeronautical-university-eaglecam",
+    "80": "https://www.news-journalonline.com/story/news/education/campus/2024/02/22/1st-u-s-moon-landing-in-50-years-will-inclu-today-intuitive-machines-odysseus-has-erau-camera-aboard/72699182007/",
+    "81": "https://erau.edu/eaglecam",
+    "82": "http://news.erau.edu/headlines/eagles-visit-intuitive-machines-to-make-final-preparations-on-eaglecam-cubesat",
+    "83": "https://news.erau.edu/headlines/eaglecam-updates-embry-riddle-device-lands-on-moon",
+    "84": "https://global.jaxa.jp/activity/pr/jaxas/no088/03.html",
+    "85": "https://www.lsureveille.com/lsu-slated-to-be-first-university-to-land-technology-on-the-moon-as-u-s/article_a916102e-3764-11ec-9228-5be6e885435d.html",
+    "86": "https://spartanphysics.com/tiger-eye-1-1",
+    "87": "https://www.cmu.edu/news/stories/archives/2024/january/carnegie-mellon-university-payloads-iris-moonark-launch-as-part-of-historic-lunar-mission",
+    "89": "https://spaceflightnow.com/2023/12/19/blue-origin-launches-new-shepard-rocket-on-return-to-flight-mission/",
+    "90": "https://www.scientificamerican.com/article/second-private-u-s-moon-lander-readies-for-launch/",
+    "91": "https://blogs.nasa.gov/artemis/2024/02/28/nasa-intuitive-machines-share-images-from-the-moon-provide-science-updates/",
+    "92": "https://x.com/SpaceTechLab/status/1762979276360479156",
+    "93": "https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/",
+    "94": "https://www.scientificamerican.com/article/second-private-u-s-moon-lander-readies-for-launch/",
+    "95": "https://x.com/w_robinsonsmith/status/1761097110017945707",
+    "96": "http://news.erau.edu/headlines/eaglecam-updates-embry-riddle-device-lands-on-moon",
+    "97": "https://www.congress.gov/118/crec/2024/03/20/170/49/CREC-2024-03-20-pt1-PgS2465-3.pdf"
+  },
+  "flair_entities": [
+    "astrovault",
+    "peregrine",
+    "space systems",
+    "space technologies laboratory",
+    "gruithuisen domes",
+    "apollo 17",
+    "rosetta project",
+    "fallen astronaut",
+    "intuitive machines",
+    "artemis",
+    "american",
+    "lc-39a",
+    "koons",
+    "radio frequency mass gauge",
+    "paul van hoeydonck",
+    "im-1  im-1",
+    "rfmg",
+    "pablo picasso",
+    "earth",
+    "kennedy space center",
+    "lunar node-1",
+    "moon",
+    "lunaprise",
+    "bob marley",
+    "lunar crater observation and sensing satellite",
+    "american-made",
+    "jeff koons",
+    "us",
+    "malapert a",
+    "falcon 9",
+    "space technologies lab",
+    "quantum aerospace",
+    "apollo 15",
+    "commercial lunar payload services",
+    "mare serenitatis",
+    "lz-1",
+    "sea of serenity",
+    "nova-c odysseus",
+    "embry\u2013riddle aeronautical university",
+    "moon phases",
+    "malapert-a",
+    "kenneth chang",
+    "nasa",
+    "nova control",
+    "im-1 odysseus",
+    "nasa-im",
+    "embry\u2011riddle team",
+    "commercial lunar payload services program",
+    "daytona beach",
+    "loi",
+    "eaglecam  the eaglecam",
+    "jimi hendrix",
+    "blue origin ns-24",
+    "im-1",
+    "florida",
+    "nasa-developed",
+    "im",
+    "trent martin",
+    "david scott",
+    "embry-riddle aeronautical university",
+    "eds",
+    "mare crisium",
+    "eaglecam cubesat",
+    "bram reijnders",
+    "elvis presley",
+    "orbit beyond",
+    "odysseus",
+    "swamp works",
+    "clps",
+    "cubesat",
+    "eaglecam",
+    "michelangelo buonarroti",
+    "the new york times",
+    "astrobotic technology",
+    "english wikipedia",
+    "utc",
+    "u.s.",
+    "steve altemus",
+    "rick scott",
+    "arch mission foundation",
+    "spacex",
+    "sea of crises",
+    "falcon",
+    "congressional record",
+    "lunar",
+    "lunar library",
+    "sun",
+    "nova-c",
+    "united states senate",
+    "est"
+  ]
+}

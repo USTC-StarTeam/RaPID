@@ -1,0 +1,277 @@
+List_of_light-gun_games
+
+This is a list of light-gun games, video games that use a non-fixed gun controller, organized by the arcade, video game console or home computer system that they were made available for. Ports of light-gun games which do not support a light gun (e.g. the Sega Saturn version of Corpse Killer) are not included in this list. Arcade games are organized alphabetically, while home video games are organized alphabetically by the system's company and then subdivided by the respective company's systems in a chronological fashion.
+
+# 3DO Company
+
+# Amstrad
+
+## Amstrad CPC
+
+Gunstick CPC games:. Magnum CPC games:. Trojan (CPC Plus) games:. Westphaser (CPC) games:. Unconfirmed CPC games:. 
+
+# APF
+
+# Arcade1Up
+
+## Time Crisis Deluxe
+
+* Unlike the original arcade release, this port uses absolute tracking instead of relative tracking. Because of this, mounted light-guns are no longer a requirement to play this version. 
+
+# ASCII
+
+## MSX
+
+"Plus-X" Terminator Laser. Gun-Stick. 
+
+# Atari
+
+## Atari ST
+
+Trojan Light Phazer. Loriciel Phaser (West Phaser) light gun. Unconfirmed light gun. 
+
+# Betron
+
+# Binatone
+
+# Coleco
+
+# Commodore
+
+## Commodore 64
+
+Gun Stick. Magnum Light Phaser. Stack Light Rifle. 
+
+## Amiga
+
+Actionware Phazer. Golem light gun. Loriciel (West Phaser) light gun. Trojan Light Phazer. * Amiga game, which doesn't originally support lightgun, but later modified version for WHDLoad exists. Unconfirmed light-gun. 
+
+# Hanimex
+
+# iiRcade
+
+* Online services with iiRcade were permanently shut down on June 23, 2023. 
+
+# Magnavox
+
+# Microsoft
+
+## Xbox
+
+Some Sega Chihiro titles are installable on a modified Xbox, as the two share nearly identical hardware. So far, only Virtua Cop 3 supports light-gun controllers via this installation method.. 
+
+## Xbox 360
+
+The Xbox 360 supports the Top-Shot Elite by Red Octane, the Top Shot Fearmaster, and the Top Shot Sport (Kinect light-gun), as well as motion controls through the Kinect as light gun peripherals.. The Xbox 360 port of Attack of the Movies 3D uniquely has built-in support for mounted-light-gun controllers with how it calculates position rather than velocity from joystick inputs. This feature was never fully realized however as no light-gun peripheral was ever released for the platform that mimicked joystick inputs this way.. 
+
+## Xbox One
+
+The Xbox One supports the Mars Lightcon by PDP and Microsoft's Kinect motion tracking sensor as light-gun peripherals.. 
+
+# Mobile Games
+
+# Nintendo
+
+## Super Nintendo Entertainment System
+
+The SNES supports the use of two different light-gun controllers, Nintendo's Super Scope wireless light-gun, and Konami's Justifier wired light-gun. All games listed support the Super Scope with the exception of Lethal Enforcers, which can only be played using the Konami Justifier.. 
+
+## Wii
+
+The Wii is unique in that its standard controller can be used as a gun controller. Though a number of Wii games do not support these capabilities, those which do form an exhaustively long list of games, many of which have no resemblance to traditional light-gun games. Thus, this section will only include games that either explicitly support the Wii Zapper or are rail shooters in nature. Virtual Console ports, such as Operation Wolf,  did not include any amount of light gun support. [18]. No unique light-gun peripheral is required to play any Wii light-gun or light-gun adjacent game. All titles will work with the standard Wii remote or Wii remote and nunchuck controllers. Licensed and unlicensed light-gun cradle attachments are also compatible with these controllers if needed.. cancelled Wii light-gun games. 
+
+## Wii U
+
+The Wii U supports all of the same wireless IR tracking controllers and peripherals that the Wii uses for light-gun games, as well as the Wii U GamePad for some rail-shooters.. 
+
+## Nintendo Switch
+
+The Nintendo Switch supports the Joy-Con controllers for gyroscope-based aim tracking. Licensed and unlicensed Light-gun styled gun controller cradles were also released for the Joy-Con controllers, such as the Bullseye Pro gun cradle included with Cabela's: The Hunt Championship Edition.. 
+
+# Philips
+
+# Plug & Play
+
+# RadioShack
+
+# Sega
+
+## Master System
+
+Unreleased Sega Master System light-gun games:. 
+
+## Genesis, Sega CD, and 32X
+
+The Sega Genesis and its add-ons support two different types of light-guns, the wireless Menacer light-gun by Sega, and Konami's wired Justifier light-gun.. Unreleased Sega Genesis, Sega CD and Sega CD 32X light-gun games:. 
+
+## Dreamcast
+
+List of cancelled Dreamcast gun games:. 
+
+# Sinclair
+
+## ZX Spectrum
+
+Magnum Light Phaser games came with the gun:. The following games worked with the Magnum Light Phaser, but were brought out by third parties. Some were remakes of the Cheetah Defender light-gun games by Code Masters Ltd.. Cheetah Defender light-gun games all by Code Masters Ltd:. It should also be noted that both versions of the light guns that were meant for the 128K+ or up, worked with almost all the games available.. 
+
+# Sony
+
+## PlayStation
+
+The PlayStation has two major light guns: the GunCon/G-Con by Namco and the Konami Justifier (known as the Hyperblaster in Japan and Europe). Other licensed and non-licensed light guns are compatible with either Justifier games, GunCon games, or both.. 
+
+## PlayStation 2
+
+The PlayStation 2 supports 3 light-gun input types, GunCon (GunCon 1), GunCon 2, and Justifier/Hyperblaster. Some games listed also support connecting an additional PS1/PS2 controller for convenient redundant button mapping, such as the Time Crisis games for cover shooting, or Resident Evil: Dead Aim for simultaneous control stick movement.. * also supports USB camera for body motion tracking. ** requires an additional controller to be connected via the opposite controller port for d-pad inputs. This method also supports rumble force feedback via the second controller (Dino Stalker). 
+
+## PlayStation 3
+
+The PlayStation 3 has several dedicated gun peripherals: the GunCon 3 by Namco, the Top Shot Elite by RedOctane, the Top Shot Fearmaster, as well as the PlayStation Move controller. The first revision of PlayStation Move controllers released (CECH-ZCM1U) also included a proprietary EXT port that could be connected to a Playstation Move Sharp Shooter attachment, which electronically and redundantly maps PSMove buttons to additional buttons found on the Sharp Shooter.. 
+
+## PlayStation 4
+
+The PS4 supports the Mars Lightcon by PDP, the PlayStation Move, and PlayStation VR Aim Controller controllers for use as light-gun peripherals.. 
+
+# Super Happy Fun Fun
+
+## Sure Shot HD
+
+** Note: Due to the 'Sure Shot Shop' shutting down its online services, games that are not currently downloaded and installed to the game console may be unobtainable.. 
+
+# Tandy
+
+# Tiger Electronics
+
+# Toymax
+
+## Arcadia Image Projecting Game System
+
+The Arcadia was a cartridge-based projection light-gun system that allowed for two types of light-guns, the Arcadia Electronic Skeet Shoot Rifle, which was a single-shot only rifle with a pump reload and featured force feedback, a speaker for audio feedback, and a red-dot sight built into the front sight, as well as the Radar Pistol, which had a shake reload feature, a speaker for audio feedback, and a built-in laser pointer.. Unreleased games:. 
+
+## Arcadia II
+
+Cartridge-based light-gun projection system.. 
+
+## Super Skeet Arcade
+
+Dedicated projection-based light-gun console. 
+
+## Super Skeet Arcade: Jurassic Park III
+
+Dedicated projection-based light-gun console. 
+
+## Arcadia Super Skeet
+
+Dedicated projection-based light-gun console. 
+
+## Super Skeet Arcade II
+
+Dedicated projection-based light-gun console. 
+
+# Universum
+
+# Zanussi
+
+# Virtual reality headsets
+
+For a VR game to qualify in this list, it must be rail-shooter in nature.. 
+
+## Nintendo Labo
+
+The Nintendo Switch supports a cardboard gun cradle for its Joy-Con known as the Toy-Con Blaster featured in the Nintendo Labo Toy-Con 04 VR-kit, which can be used for motion-based VR rail shooters.. 
+
+## PlayStation VR
+
+The PS4 supports the PlayStation VR headset paired with the PlayStation Move controllers and/or the DualShock 4 with its lightbar coupled with the PlayStation Camera for use as VR light-gun peripherals. Sony also separately released the PlayStation VR Aim Controller controller for PSVR which included all of the original dualshock 4's buttons on a VR gun controller accessory.. 
+
+## PlayStation VR2
+
+The PS5 has support for light-gun style VR rail shooters through PSVR2.. 
+
+# References
+
+[1] https://www.arcade-museum.com/game_detail.php?game_id=8808
+[2] https://archive.org/details/retro-gamer-raspberry-pi-buenos-aires/Retro%20Gamer%20196/page/72/mode/2up
+[3] http://www.arcade-museum.com/game_detail.php?game_id=5357
+[4] http://www.pinrepair.com/arcade/shotbea.htm
+[5] http://klov.com/game_detail.php?game_id=9659
+[6] https://www.arcade-museum.com/game_detail.php?game_id=10168
+[7] https://www.oldschoolgamermagazine.com/iircade-is-shutting-down-their-servers-friday-june-23rd-2023-by-brad-feingold/
+[8] https://www.ign.com/articles/2002/07/24/crime-patrol-2-drug-wars
+[9] https://www.gamespot.com/fast-draw-showdown/
+[10] https://www.mobygames.com/game/dos/last-bounty-hunter
+[11] https://store.steampowered.com/app/452860/Mad_Bullets/
+[12] https://www.mobygames.com/game-group/mad-dog-mccree-series
+[13] https://www.imdb.com/title/tt0293614/
+[14] https://www.techdue.com/classic-retro-games-android-ios/
+[15] http://uk.ign.com/cheats/games/the-house-of-the-dead-2-3-return-xbox-16719
+[16] http://xbox.gamespy.com/xbox/silent-scope-complete/493697p1.html
+[17] https://www.giantbomb.com/space-shadow/3030-40593/?path=/space-shadow/3030-40593/&permanent=1&httpPort=80&httpsPort=443
+[18] https://web.archive.org/web/20080218015523/http://wii.ign.com/articles/851/851372p1.html
+[19] http://uk.ign.com/articles/2010/05/26/attack-of-the-movies-3d-review
+[20] http://diehardgamefan.com/2009/10/26/review-chicken-blaster-wii/
+[21] https://www.gamespot.com/chicken-riot/user-reviews/2200-12355909/
+[22] https://www.gamespot.com/reviews/chicken-shoot-review/1900-6173751/
+[23] https://www.metacritic.com/game/cocoto-magic-circus/critic-reviews/?platform=wii
+[24] http://uk.ign.com/articles/2009/09/24/dead-space-extraction-review
+[25] https://www.metacritic.com/game/dino-strike/critic-reviews/?platform=wii
+[26] http://uk.ign.com/games/fast-draw-showdown/arcade-701811
+[27] http://www.allgame.com/cg/agg.dll?p=agg&sql=1:52679
+[28] http://uk.ign.com/games/ghost-squad/wii-903769
+[29] http://uk.ign.com/games/gunblade-ny/wii-70520
+[30] https://www.giantbomb.com/gunslingers/3030-35794/?path=/gunslingers/3030-35794/&permanent=1&httpPort=80&httpsPort=443
+[31] http://www.nintendolife.com/reviews/2009/02/house_of_the_dead_overkill_wii
+[32] https://archive.today/20120717153437/http://www.allgame.com/cg/agg.dll?p=agg&sql=1:62263
+[33] https://web.archive.org/web/20150402105357/http://www.nintendoworld.com.br/1620-ARTIGOS
+[34] http://www.honestgamers.com/35261/wii/martian-panic/game.html
+[35] https://www.nintendolife.com/reviews/2009/02/nerf_n_strike_wii
+[36] http://www.nintendowiifanboy.com/2008/08/15/nerf-n-strike-features-boom-blox-inspired-game/
+[37] https://gamefaqs.gamespot.com/wii/619506-pirate-blast/data
+[38] https://web.archive.org/web/20150621185643/http://m.gamefly.com/game/Resident-Evil-The-Darkside-Chronicles/136675/review/247760
+[39] https://www.videogamer.com/wii/resident_evil_umbrella_chronicles/review.html
+[40] https://www.gamespot.com/genre/light-gun/wii/
+[41] https://archive.today/20120717175425/http://www.allgame.com/cg/agg.dll?p=agg&sql=1:62674
+[42] https://www.nintendolife.com/reviews/2008/08/wild_west_guns
+[43] https://gamefaqs.gamespot.com/wii/605552-wild-west-shootout/images
+[44] http://www.push-start.co.uk/all/platform/nintendo/nintendo-news/wii/activision-announce-men-in-black-the-video-game/
+[45] https://www.theworldofcdi.com/cd-i_encyclopedia/drug-war/
+[46] https://www.smspower.org/forums/17752-Unreleased3DGunnerForMasterSystem
+[47] https://github.com/Widge-5/Lightgun-Game-Manuals/raw/main/Sega%20Mega%20CD/Snatcher.pdf
+[48] https://www.arcade-history.com/?n=crime-patrol-2-drug-wars&page=detail&id=4489
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] https://segaretro.org/Chaos_Control
+[52] https://web.archive.org/web/20150924054546/http://www.giantbomb.com/profile/doppelgamer/lists/shattered-dreams/352920/
+[53] http://uk.ign.com/games/the-lost-world-jurassic-park/dc-9965
+[54] https://archive.org/details/play-018/page/n35/mode/2up
+[55] https://psxdatacenter.com/games/J/S/SLPS-01081.html
+[56] http://www.giantbomb.com/ghoul-panic/3030-1538/
+[57] https://psxdatacenter.com/games/J/G/SLPS-01322.html
+[58] http://uk.ign.com/articles/1998/04/01/judge-dredd-2
+[59] http://www.gamespot.com/ps/action/maximumforce/review.html?sid=2548237&om_act=convert&om_clk=gsupdates&tag=updates;title;1
+[60] http://www.giantbomb.com/mighty-hits-special/3030-33679/
+[61] http://uk.ign.com/games/project-horned-owl/ps-706
+[62] https://archive.org/details/official-australian-playstation-magazine-35-june-2000/page/70
+[63] https://archive.org/details/official-uk-playstation-magazine-issue-022-1997-08-future-publishing-uk/page/n61
+[64] https://www.gamerankings.com/htmlpages2/517869.asp
+[65] https://www.gamerankings.com/htmlpages2/561250.asp
+[66] https://www.gamerankings.com/htmlpages2/476512.asp
+[67] https://www.gamerankings.com/htmlpages2/569388.asp
+[68] https://www.gamerankings.com/htmlpages2/920542.asp
+[69] https://www.gamerankings.com/htmlpages2/481081.asp
+[70] http://www.smh.com.au/articles/2003/01/29/1043804400818.html
+[71] https://www.gamerankings.com/htmlpages2/557717.asp
+[72] https://www.gamerankings.com/htmlpages2/562265.asp
+[73] http://gameidealist.com/editorials/top-five-of-the-best-playstation-move-compatible-light-gun-games-for-ps3/
+[74] http://www.gamespot.com/genre/Light-Gun/ps3/t
+[75] https://www.metacritic.com/game/heavy-fire-afghanistan/critic-reviews/?platform=playstation-3
+[76] http://uk.ign.com/articles/2012/02/16/house-of-the-dead-iii-review
+[77] https://www.metacritic.com/game/the-house-of-the-dead-4/critic-reviews/?platform=playstation-3
+[78] http://metro.co.uk/2011/10/27/the-house-of-the-dead-overkill-extended-cut-review-wii-shoot-198047/
+[79] http://www.giantbomb.com/the-last-bounty-hunter/3030-2446/
+[80] http://www.psnstores.com/review/review-mad-dog-mccree/
+[81] https://www.metacritic.com/game/mad-dog-ii-the-lost-gold-1994/critic-reviews/?platform=playstation-3
+[82] http://www.gamespot.com/genre/Light-Gun/ps3/
+[83] http://www.gamespot.com/reviews/time-crisis-4-review/1900-6183298/
+[84] http://www.gamespot.com/reviews/time-crisis-razing-storm-review/1900-6282859/
+[85] ISBN: 9781440228155

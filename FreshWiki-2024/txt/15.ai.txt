@@ -1,0 +1,136 @@
+15.ai
+
+15.ai was a free non-commercial web application that used artificial intelligence to generate text-to-speech voices of fictional characters from popular media. Created by an artificial intelligence researcher known as 15 during their time at the Massachusetts Institute of Technology, the application allowed users to make characters from video games, television shows, and movies speak custom text with emotional inflections faster than real-time. The platform was notable for its ability to generate convincing voice output using minimal training data—the name "15.ai" referenced the creator's claim that a voice could be cloned with just 15 seconds of audio. It was an early example of an application of generative artificial intelligence during the initial stages of the AI boom.
+Launched in March 2020, 15.ai gained widespread attention in early 2021 when it went viral on social media platforms like YouTube and Twitter, and quickly became popular among Internet fandoms, including the My Little Pony: Friendship Is Magic, Team Fortress 2, and SpongeBob SquarePants fandoms. The service distinguished itself through its support for emotional context in speech generation through emojis and precise pronunciation control through phonetic transcriptions. 15.ai is credited as the first mainstream platform to popularize AI voice cloning (audio deepfakes) in memes and content creation.
+15.ai received varied responses from the voice acting community and broader public. Voice actors and industry professionals debated the technology's merits for fan creativity versus its potential impact on the profession, particularly following controversies over unauthorized commercial use. While many critics praised the website's accessibility and emotional control, they also noted technical limitations in areas like prosody options and language support. The technology sparked discussions about ethical implications, including concerns about reduction of employment opportunities for voice actors, voice-related fraud, and misuse in explicit content, though 15.ai maintained strict policies against replicating real people's voices.
+15.ai's approach to data-efficient voice synthesis and emotional expression was influential in subsequent developments in AI text-to-speech technology. In January 2022, Voiceverse NFT sparked controversy when it was discovered that the company, which had partnered with voice actor Troy Baker, had misappropriated 15.ai's work for their own platform. The service was ultimately taken offline in September 2022. Its shutdown led to the emergence of various commercial alternatives in subsequent years.
+
+# History
+
+## Background
+
+The field of artificial speech synthesis underwent a significant transformation with the introduction of deep learning approaches. In 2016, DeepMind's publication of the seminal paper WaveNet: A Generative Model for Raw Audio marked a pivotal shift toward neural network-based speech synthesis, demonstrating unprecedented audio quality through dilated causal convolutions operating directly on raw audio waveforms at 16,000 samples per second, modeling the conditional probability distribution of each audio sample given all previous ones . Previously, concatenative synthesis—which worked by stitching together pre-recorded segments of human speech—was the predominant method for generating artificial speech, but it often produced robotic-sounding results with noticeable artifacts at the segment boundaries. Two years later, this was followed by Google AI's Tacotron in 2018, which demonstrated that neural networks could produce highly natural speech synthesis but required substantial training data—typically tens of hours of audio—to achieve acceptable quality . When trained on smaller datasets, such as 2 hours of speech, the output quality degraded while still being able to maintain intelligible speech, and with just 24 minutes of training data, Tacotron failed to produce intelligible speech. The same year saw the emergence of HiFi-GAN, a generative adversarial network (GAN)-based vocoder that improved the efficiency of waveform generation while producing high-fidelity speech,  followed by Glow-TTS, which introduced a flow-based approach that allowed for both fast inference and voice style transfer capabilities . Chinese tech companies also made significant contributions to the field, with Baidu and ByteDance developing proprietary text-to-speech frameworks that further advanced the state of the art, though specific technical details of their implementations remained largely undisclosed . 
+
+## Development, release, and operation
+
+15.ai was conceived in 2016 as a research project in deep learning speech synthesis by a developer known as "15" (at the age of 18 ) during their freshman year at the Massachusetts Institute of Technology (MIT)  as part of MIT's Undergraduate Research Opportunities Program (UROP) [15]. The developer was inspired by DeepMind's WaveNet paper, with development continuing through their studies as Google AI released Tacotron the following year . By 2019, the developer had demonstrated at MIT their ability to replicate WaveNet and Tacotron's results using 75% less training data than previously required. The name 15 is a reference to the creator's claim that a voice can be cloned with as little as 15 seconds of data . The developer had originally planned to pursue a doctorate based on their undergraduate research, but opted to work in the tech industry instead after their startup was accepted into the Y Combinator accelerator in 2019. After their departure in early 2020, the developer returned to their voice synthesis research, implementing it as a web application. According to the developer, instead of using conventional voice datasets like LJSpeech that contained simple, monotone recordings, they sought out more challenging voice samples that could demonstrate the model's ability to handle complex speech patterns and emotional undertones. The Pony Preservation Project—a fan initiative originating from /mlp/,  4chan's My Little Pony board, that had compiled voice clips from My Little Pony: Friendship Is Magic—played a crucial role in the implementation . The project's contributors had manually trimmed, denoised, transcribed, and emotion-tagged every line from the show. This dataset provided ideal training material for 15.ai's deep learning model. 15.ai was released in March 2020 with a limited selection of characters, including those from My Little Pony: Friendship Is Magic and Team Fortress 2. More voices were added to the website in the following months . A significant technical advancement came in late 2020 with the implementation of a multi-speaker embedding in the deep neural network, enabling simultaneous training of multiple voices rather than requiring individual models for each character voice [19]. This not only allowed rapid expansion from eight to over fifty character voices,   but also let the model recognize common emotional patterns across characters, even when certain emotions were missing from some characters' training data . In early 2021, the application went viral on Twitter and YouTube, with people generating skits, memes, and fan content using voices from popular games and shows that have accumulated millions of views on social media. Content creators, YouTubers, and TikTokers have also used 15.ai as part of their videos as voiceovers . [unreliable source?] At its peak, the platform incurred operational costs of US$12,000  per month from AWS infrastructure needed to handle millions of daily voice generations; despite receiving offers from companies to acquire 15.ai and its underlying technology, the website remained independent and was funded out of the personal previous startup earnings of the developer —then aged 23 at the time . 
+
+## Voiceverse NFT controversy
+
+On January 14, 2022, a controversy ensued after it was discovered that Voiceverse NFT, a company that video game and anime dub voice actor Troy Baker had announced his partnership with, had misappropriated voice lines generated from 15.ai as part of their marketing campaign. This came shortly after 15.ai's developer had explicitly stated in December 2021 that they had no interest in incorporating NFTs into their work [24]. Log files showed that Voiceverse had generated audio of characters from My Little Pony: Friendship Is Magic using 15.ai, pitched them up to make them sound unrecognizable from the original voices to market their own platform—in violation of 15.ai's terms of service . Voiceverse claimed that someone in their marketing team used the voice without properly crediting 15.ai; in response, 15 tweeted "Go fuck yourself,"  which went viral, amassing hundreds of thousands of retweets and likes on Twitter in support of the developer . Following continued backlash and the plagiarism revelation, Baker acknowledged that his original announcement tweet ending with "You can hate . Or you can create. What'll it be?" may have been "antagonistic," and on January 31, 2022, announced he would discontinue his partnership with Voiceverse. 
+
+## Inactivity
+
+In September 2022, 15.ai was taken offline  due to legal issues surrounding artificial intelligence and copyright . The creator has suggested a potential future version that would better address copyright concerns from the outset, though the website remains inactive as of 2025 . 
+
+# Features
+
+The platform was non-commercial,  and operated without requiring user registration or accounts . Users generated speech by inputting text and selecting a character voice, with optional parameters for emotional contextualizers and phonetic transcriptions . Each request produced three audio variations with distinct emotional deliveries sorted by confidence score. Characters available included multiple characters from Team Fortress 2 and My Little Pony: Friendship Is Magic; GLaDOS, Wheatley, and the Sentry Turret from the Portal series; SpongeBob SquarePants; Kyu Sugardust from HuniePop, Rise Kujikawa from Persona 4; Daria Morgendorffer and Jane Lane from Daria; Carl Brutananadilewski from Aqua Teen Hunger Force; Steven Universe from Steven Universe; Sans from Undertale; Madeline and multiple characters from Celeste; the Tenth Doctor Who; the Narrator from The Stanley Parable; and HAL 9000 from 2001: A Space Odyssey . Out of the over fifty  voices available, thirty were of characters from My Little Pony: Friendship Is Magic . Certain "silent" characters like Chell and Gordon Freeman were able to be selected as a joke, and would emit silent audio files when any text was submitted . The deep learning model's nondeterministic properties produced variations in speech output, creating different intonations with each generation, similar to how voice actors produce different takes. 15.ai introduced the concept of emotional contextualizers, which allowed users to specify the emotional tone of generated speech through guiding phrases . The emotional contextualizer functionality utilized DeepMoji, a sentiment analysis neural network developed at the MIT Media Lab . Introduced in 2017, DeepMoji processed emoji embeddings from 1.2 billion Twitter posts (from 2013 to 2017) to analyze emotional content . Testing showed the system could identify emotional elements, including sarcasm, more accurately than human evaluators. If an input into 15.ai contained additional context (specified by a vertical bar), the additional context following the bar would be used as the emotional contextualizer . For example, if the input was Today is a great day!|I'm very sad., the selected character would speak the sentence "Today is a great day!" in the emotion one would expect from someone saying the sentence "I'm very sad." . The application used pronunciation data from Oxford Dictionaries API, Wiktionary, and CMU Pronouncing Dictionary,  the last of which is based on ARPABET, a set of English phonetic transcriptions originally developed by the Advanced Research Projects Agency in the 1970s . For modern and Internet-specific terminology, the system incorporated pronunciation data from user-generated content websites, including Reddit, Urban Dictionary, 4chan, and Google. Inputting ARPABET transcriptions was also supported, allowing users to correct mispronunciations or specify the desired pronunciation between heteronyms—words that have the same spelling but have different pronunciations . Users could invoke ARPABET transcriptions by enclosing the phoneme string in curly braces within the input box (for example, {AA1 R P AH0 B EH2 T} to specify the pronunciation of the word "ARPABET" (/ˈɑːrpəˌbɛt/ AR-pə-beht). The interface displayed parsed words with color-coding to indicate pronunciation certainty: green for words found in the existing pronunciation lookup table, blue for manually entered ARPABET pronunciations, and red for words where the pronunciation had to be algorithmically predicted . Later versions of 15.ai introduced multi-speaker capabilities. Rather than training separate models for each voice, 15.ai used a unified model that learned multiple voices simultaneously through speaker embeddings–learned numerical representations that captured each character's unique vocal characteristics. Along with the emotional context conferred by DeepMoji, this neural network architecture enabled the model to learn shared patterns across different characters' emotional expressions and speaking styles, even when individual characters lacked examples of certain emotional contexts in their training data . The interface included technical metrics and graphs,  which, according to the developer, served to highlight the research aspect of the website . As of version v23, released in September 2021, the interface displayed comprehensive model analysis information, including word parsing results and emotional analysis data . The flow and generative adversarial network (GAN) hybrid vocoder and denoiser, introduced in an earlier version, was streamlined to remove manual parameter inputs. 
+
+# Reception
+
+## Critical reception
+
+Critics described 15.ai as easy to use and generally able to convincingly replicate character voices, with occasional mixed results. Natalie Clayton of PC Gamer wrote that SpongeBob SquarePants' voice was replicated well, but noted challenges in mimicking the Narrator from the The Stanley Parable: "the algorithm simply can't capture Kevan Brighting's whimsically droll intonation."  Zack Zwiezen of Kotaku reported that " [his] girlfriend was convinced it was a new voice line from GLaDOS' voice actor, Ellen McLain" . Rionaldi Chandraseta of AI newsletter Towards Data Science observed that "characters with large training data produce more natural dialogues with clearer inflections and pauses between words, especially for longer sentences."  Taiwanese newspaper United Daily News also highlighted 15.ai's ability to recreate GLaDOS's mechanical voice, alongside its diverse range of character voice options . Yahoo! News Taiwan reported that "GLaDOS in Portal can pronounce lines nearly perfectly", but also criticized that "there are still many imperfections, such as word limit and tone control, which are still a little weird in some words."  Chris Button of AI newsletter Byteside called the ability to clone a voice with only 15 seconds of data "freaky" but also called tech behind it "impressive" . The platform's voice generation capabilities were regularly featured on Equestria Daily, a fandom news site dedicated to the show My Little Pony: Friendship Is Magic and its other generations, with documented updates, fan creations, and additions of new character voices . In a post introducing new character additions to 15.ai, Equestria Daily's founder Shaun Scotellaro—also known by his online moniker "Sethisto"—wrote that "some of  [the voices] aren't great due to the lack of samples to draw from, but many are really impressive still anyway." . Multiple other critics also found the word count limit, prosody options, and English-only nature of the application as not entirely satisfactory. Peter Paltridge of anime and superhero news outlet Anime Superhero News opined that "voice synthesis has evolved to the point where the more expensive efforts are nearly indistinguishable from actual human speech," but also noted that "In some ways, SAM is still more advanced than this . It was possible to affect SAM’s inflections by using special characters, as well as change his pitch at will. With 15.ai, you’re at the mercy of whatever random inflections you get."  Conversely, Lauren Morton of Rock, Paper, Shotgun praised the depth of pronunciation control—"if you're willing to get into the nitty gritty of it" . Similarly, Eugenio Moto of Spanish news website Qore.com wrote that "the most experienced  [users] can change parameters like the stress or the tone."  Takayuki Furushima of Den Fami Nico Gamer highlighted the "smooth pronunciations", and Yuki Kurosawa of AUTOMATON noted its "rich emotional expression" as a major feature; both Japanese authors noted the lack of Japanese-language support . Renan do Prado of the Brazilian gaming news outlet Arkade and José Villalobos of Spanish gaming outlet LaPS4 pointed out that while users could create amusing results in Portuguese and Spanish respectively, the generation performed best in English . Chinese gaming news outlet GamerSky called the app "interesting", but also criticized the word count limit of the text and the lack of intonations . South Korean video game outlet Zuntata wrote that "the surprising thing about 15.ai is that  [for some characters], there's only about 30 seconds of data, but it achieves pronunciation accuracy close to 100%" . Machine learning professor Yongqiang Li wrote in his blog that he was surprised to see that the application was free . 
+
+## Reactions from voice actors of featured characters
+
+Some voice actors whose characters appeared on 15.ai have publicly shared their thoughts about the platform. In a 2021 interview on video game voice acting podcast The VŌC, John Patrick Lowrie—who voices the Sniper in Team Fortress 2—explained that he had discovered 15.ai when a prospective intern showed him a skit she had created using AI-generated voices of the Sniper and the Spy from Team Fortress 2. Lowrie commented:. He drew an analogy to synthesized music, adding:. In a 2021 live broadcast on his Twitch channel, Nathan Vetterlein—the voice actor of the Scout from Team Fortress 2—listened to an AI recreation of his character's voice. He described the impression as "interesting" and noted that "there's some stuff in there." [57]. 
+
+## Ethical concerns
+
+Other voice actors had mixed reactions to 15.ai's capabilities. While some industry professionals acknowledged the technical innovation, others raised concerns about the technology's implications for their profession. When voice actor Troy Baker announced his partnership with Voiceverse NFT, which had misappropriated 15.ai's technology, it sparked widespread controversy within the voice acting industry [58]. Critics raised concerns about automated voice acting's potential reduction of employment opportunities for voice actors, risk of voice impersonation, and potential misuse in explicit content . The controversy surrounding Voiceverse NFT and subsequent discussions highlighted broader industry concerns about AI voice synthesis technology . While 15.ai limited its scope to fictional characters and did not reproduce voices of real people or celebrities,  computer scientist Andrew Ng noted that similar technology could be used to do so, including for nefarious purposes . In his 2020 assessment of 15.ai, he wrote: . While discussing potential risks, he added:. 
+
+# Legacy
+
+15.ai was an early pioneer of audio deepfakes, leading to the emergence of AI speech synthesis-based memes during the initial stages of the AI boom in 2020. 15.ai is credited as the first mainstream platform to popularize AI voice cloning in Internet memes and content creation,  particularly through its ability to generate convincing character voices in real-time without requiring extensive technical expertise . The platform's impact was especially notable in fan communities, including the My Little Pony: Friendship Is Magic, Portal, Team Fortress 2, and SpongeBob SquarePants fandoms, where it enabled the creation of viral content that garnered millions of views across social media platforms like Twitter and YouTube . Team Fortress 2 content creators also used the platform to produce both short-form memes and complex narrative animations using Source Filmmaker . Fan creations included skits and new fan animations,  crossover content—such as Game Informer writer Liana Ruppert's demonstration combining Portal and Mass Effect dialogue in her coverage of the platform —recreations of viral videos (including the infamous Big Bill Hell's Cars car dealership parody ), adaptations of fanfiction using AI-generated character voices,  music videos and new musical compositions—such as the explicit Pony Zone series —and content where characters recited sea shanties . Some fan creations gained mainstream attention, such as a viral edit replacing Donald Trump's cameo in Home Alone 2: Lost in New York with the Heavy Weapons Guy's AI-generated voice, which was featured on a daytime CNN segment in January 2021 . Some users integrated 15.ai's voice synthesis with VoiceAttack, a voice command software, to create personal assistants . Its influence has been noted in the years after it became defunct,  with several commercial alternatives emerging to fill the void, such as ElevenLabs [b] and Speechify [76]. Contemporary generative voice AI companies have acknowledged 15.ai's pioneering role . Y Combinator startup PlayHT called the debut of 15.ai "a breakthrough in the field of text-to-speech (TTS) and speech synthesis". Cliff Weitzman, the founder and CEO of Speechify, credited 15.ai for "making AI voice cloning popular for content creation by being the first  [...] to feature popular existing characters from fandoms" . Mati Staniszewski, co-founder and CEO of ElevenLabs, wrote that 15.ai was transformative in the field of AI text-to-speech . Prior to its shutdown, 15.ai established several technical precedents that influenced subsequent developments in AI voice synthesis. Its integration of DeepMoji for emotional analysis demonstrated the viability of incorporating sentiment-aware speech generation, while its support for ARPABET phonetic transcriptions set a standard for precise pronunciation control in public-facing voice synthesis tools. The platform's unified multi-speaker model, which enabled simultaneous training of diverse character voices, proved particularly influential . This approach allowed the system to recognize emotional patterns across different voices even when certain emotions were absent from individual character training sets; for example, if one character had examples of joyful speech but no angry examples, while another had angry but no joyful samples, the system could learn to generate both emotions for both characters by understanding the common patterns of how emotions affect speech. 15.ai also made a key contribution in reducing training data requirements for speech synthesis. Earlier systems like Google AI's Tacotron and Microsoft Research's FastSpeech required tens of hours of audio to produce acceptable results and failed to generate intelligible speech with less than 24 minutes of training data. In contrast, 15.ai demonstrated the ability to generate speech with substantially less training data—specifically, the name "15.ai" refers to the creator's claim that a voice could be cloned with just 15 seconds of data . This approach to data efficiency influenced subsequent developments in AI voice synthesis technology, as the 15-second benchmark became a reference point for subsequent voice synthesis systems . The original claim that only 15 seconds of data is required to clone a human's voice was corroborated by OpenAI in 2024. 
+
+# References
+
+# References
+
+[2] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[1] [ERROR retrieving ref link]
+[3] [ERROR retrieving ref link]
+[4] [ERROR retrieving ref link]
+[5] [ERROR retrieving ref link]
+[6] [ERROR retrieving ref link]
+[7] [ERROR retrieving ref link]
+[8] [ERROR retrieving ref link]
+[9] [ERROR retrieving ref link]
+[10] [ERROR retrieving ref link]
+[11] [ERROR retrieving ref link]
+[12] [ERROR retrieving ref link]
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[15] https://web.archive.org/web/20241208035548/https://x.com/fifteenai/status/1865439846744871044
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[19] https://archive.today/20200229215215/https://fifteen.ai/about
+[20] [ERROR retrieving ref link]
+[21] [ERROR retrieving ref link]
+[22] [ERROR retrieving ref link]
+[23] [ERROR retrieving ref link]
+[24] https://web.archive.org/web/20220916223855/https://twitter.com/TroyBakerVA/status/1481869350621437955
+[25] [ERROR retrieving ref link]
+[26] [ERROR retrieving ref link]
+[27] [ERROR retrieving ref link]
+[28] [ERROR retrieving ref link]
+[29] [ERROR retrieving ref link]
+[30] [ERROR retrieving ref link]
+[31] [ERROR retrieving ref link]
+[32] [ERROR retrieving ref link]
+[33] [ERROR retrieving ref link]
+[34] [ERROR retrieving ref link]
+[35] [ERROR retrieving ref link]
+[36] [ERROR retrieving ref link]
+[37] [ERROR retrieving ref link]
+[38] [ERROR retrieving ref link]
+[39] [ERROR retrieving ref link]
+[40] [ERROR retrieving ref link]
+[41] [ERROR retrieving ref link]
+[42] [ERROR retrieving ref link]
+[43] [ERROR retrieving ref link]
+[44] [ERROR retrieving ref link]
+[45] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[47] [ERROR retrieving ref link]
+[48] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[52] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[54] [ERROR retrieving ref link]
+[55] [ERROR retrieving ref link]
+[56] [ERROR retrieving ref link]
+[57] https://www.youtube.com/watch?v=mlAmqIAwxh8
+[58] https://www.twitch.tv/chiliofdestiny/clip/DistinctTenuousOkapiAMPEnergy
+[59] [ERROR retrieving ref link]
+[60] [ERROR retrieving ref link]
+[61] [ERROR retrieving ref link]
+[62] [ERROR retrieving ref link]
+[63] [ERROR retrieving ref link]
+[64] [ERROR retrieving ref link]
+[65] [ERROR retrieving ref link]
+[66] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[68] [ERROR retrieving ref link]
+[69] [ERROR retrieving ref link]
+[70] [ERROR retrieving ref link]
+[71] [ERROR retrieving ref link]
+[72] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[74] [ERROR retrieving ref link]
+[75] [ERROR retrieving ref link]
+[76] https://edition.cnn.com/videos/entertainment/2021/01/15/macaulay-culkin-home-alone-2-trump-removal-moos-pkg-vpx.cnn
+[77] [ERROR retrieving ref link]
+[78] [ERROR retrieving ref link]
+[80] [ERROR retrieving ref link]
+[81] [ERROR retrieving ref link]
+[82] [ERROR retrieving ref link]
+[83] [ERROR retrieving ref link]
+[84] [ERROR retrieving ref link]
+[85] [ERROR retrieving ref link]

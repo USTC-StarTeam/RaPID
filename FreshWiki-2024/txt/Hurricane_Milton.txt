@@ -1,0 +1,311 @@
+Hurricane_Milton
+
+Hurricane Milton was an extremely powerful and destructive tropical cyclone which became the second-most intense Atlantic hurricane ever recorded over the Gulf of Mexico, behind only Hurricane Rita in 2005. Milton made landfall on the west coast of the U.S. state of Florida, less than two weeks after Hurricane Helene devastated the state's Big Bend region. The thirteenth named storm, ninth hurricane, fourth major hurricane, and second Category 5 hurricane of the 2024 Atlantic hurricane season, Milton was the strongest tropical cyclone to occur worldwide in 2024. 
+Milton formed from a long-tracked tropical disturbance that originated in the western Caribbean Sea and consolidated in the Bay of Campeche on October 5. Gradual intensification occurred as it slowly moved eastward, becoming a hurricane early on October 7. Later that day, Milton underwent explosive intensification and became a Category 5 hurricane with winds of 180 mph (285 km/h). At peak intensity, it had a pressure of 897 millibars (26.49 inHg), making it the fifth-most intense Atlantic hurricane on record. Milton weakened to a Category 4 hurricane after an eyewall replacement cycle, and reintensified into a Category 5 hurricane the following day. Increasing wind shear caused the hurricane to weaken as it turned northeast towards Florida, falling to Category 3 status before making landfall near Siesta Key late on October 9. Afterwards, Milton rapidly weakened as it moved across the state into the Atlantic Ocean, and became extratropical on October 10 as it became embedded within a frontal zone. The remnants gradually weakened and passed near the island of Bermuda before becoming indistinguishable and dissipating on October 13.
+Ahead of the hurricane, Florida declared a state of emergency in which many coastal residents were ordered to evacuate. Preparations were also undertaken in Mexico's Yucatán Peninsula. The hurricane spawned a deadly tornado outbreak and caused widespread flooding in Florida. As of October 21, 2024, Hurricane Milton killed at least 35 people: 32 in the United States and three in Mexico. Current damage estimates place the cost of destruction from the storm at US$34.3 billion.
+
+# Meteorological history
+
+The National Hurricane Center (NHC) first outlined an area for possible development in the western Caribbean Sea on September 26. A broad area of low pressure formed in the western Caribbean, producing disorganized showers and thunderstorms  before degenerating into an open trough two days later [10] [11]. The disturbance then interacted with the remnants of Tropical Depression Eleven-E in the Eastern Pacific Ocean and a stationary front,  and consolidated in the Bay of Campeche [12] [13]. By October 4,  showing more signs of development, it was designated Invest 92L [14]. The next day, as associated showers and thunderstorms organized further,  the NHC upgraded it to Tropical Depression Fourteen,  then to Tropical Storm Milton less than three hours later as satellite wind data indicated the storm was producing gale-force winds [15] [16]. The system gradually strengthened as it moved erratically in the Bay of Campeche due to weak steering currents [17]. A developing mid-level trough over the Central United States eventually helped steer Milton eastward across the Gulf of Mexico. Milton's radius of tropical storm-force winds was only 30 nautical miles (56 km), marking it as a relatively small storm. Spiral banding and consistent bursts of convection continued through the early morning of October 6 [18]. By the afternoon of October 6, Hurricane Hunters had found that Milton had intensified into a hurricane, with an intermittent eye feature. Overnight, Milton began to undergo explosive intensification, enabled by highly favorable environmental conditions consisting of very warm sea surface temperatures (SSTs) near 31 °C (88 °F), high mid-level relative humidity values and low wind shear [21]. As it did so, a pinhole eye measuring 4 nautical miles (7 km) soon developed within very deep convection of around −80 °C (−112 °F),  with Milton becoming a major hurricane and soon after a Category 5 hurricane, by 11:00 UTC and 16:00 UTC respectively on October 7,   making it the second Category 5 hurricane of the season [22] [23] [24]. Milton reached its peak intensity at 00:00 UTC on October 8 with maximum sustained winds of 180 mph (285 km/h) and a minimum central pressure of 897 mbar (26.49 inHg), the most intense since Wilma in 2005, making Milton the fifth-most intense Atlantic hurricane on record. In the 24-hour period from 00:00 UTC October 7 to 00:00 UTC October 8, the pressure fell from 981 mb (28.97 inHg) to 897 mbar (26.49 inHg), a drop of 84 mb (2.48 inHg), while the winds increased by 90 mph (145 km/h) in the same time period [25] [4]. This was also the third-fastest period of rapid intensification in the Atlantic after Wilma and Hurricane Felix, and the fastest in the Gulf of Mexico. After peaking in intensity, further strengthening was halted by an eyewall replacement cycle, causing the storm to weaken to Category 4 intensity later that night,    but a larger eye became increasingly well-defined, and Milton re-achieved Category 5 intensity by the afternoon of October 8,  by which time the hurricane had undergone a second round of rapid deepening to a secondary peak with winds of 165 mph (270 km/h) and a pressure of 902 mbar (26.64 inHg) at 00:00 UTC on October 9 [4] [27] [28] [6]. By this time, it began to turn towards the northeast and accelerate from the trough steering it towards Florida [29]. The next day, October 9, increasing wind shear began to affect Milton, and the storm fell below Category 5 intensity early that morning [6]. The eye of the hurricane became cloud-filled and increasingly ill-defined while the convection became more ragged-looking as strong southwesterly wind shear of 35–40 mph (56–65 km/h) overtook the hurricane [30]. Milton made landfall at about 00:30 UTC on October 10 (8:30 p.m [31]. local time on October 9) near Siesta Key, Florida, as a Category 3 hurricane with winds of 120 mph (195 km/h). Milton quickly weakened over land and emerged over the Atlantic Ocean as a Category 1 hurricane while also becoming increasingly entangled within a nearby frontal boundary [32]. On the afternoon of October 10, it transitioned to a hurricane-force extratropical low;  and proceeded to gradually spin down and become increasingly diffuse as it passed near Bermuda, dissipating on October 13. [33] [34]. According to scientists from Climate Central, the abnormally high sea surface temperature, which enabled the fast intensification of the hurricane, was made 400–800 times more probable due to climate change, based on the group's Climate Shift Index: Ocean (Ocean CSI) model. Scientists from the World Weather Attribution center calculated that 1 day rainfall events as those happened during the hurricane produce 20–30% more rain due to climate change while the wind speed of the hurricane increased by 10% [35]. Using statistical modeling, the scientists hypothesized that "without climate change Milton would have made landfall as a Category 2 instead of a Category 3 storm". 
+
+# Preparations
+
+## Mexico
+
+Heavy rainfall from Milton caused flooding in the city of Campeche. Dangerous storm surge and torrential rainfall impacted the state of Yucatán, with the seawall at Progreso being inundated by high waves [121]. Over 12,000 people were affected in the state by power outages. Flooding from the storm surge led to evacuations being carried out during the hurricane in Celestún [122]. Strong waves caused sections of the Ciudad del Carmen–Isla Aguada federal highway to be inundated by sea waters [123]. A man and a woman drowned in Calkiní due to waves produced by the hurricane [124]. Heavy winds from Milton caused an old house in Progreso to collapse,  and heavy winds and rainfall nearly demolished a home in Chuburná [125] [126] [127]. The municipalities of Sisal and Celestún suffered the most damage, with flooding, fallen trees, and blackouts affecting the cities. In Sisal, there were reports of some roofs of softball field stands and palapas collapsing. Over a thousand people from El Cuyo, Río Lagartos, and Las Coloradas needed to be transferred to shelters. Heavy swells and intense winds from Milton destroyed the dock of the port of Chelem [129]. Cancún International Airport canceled several flights due to Milton [130]. Fifteen fishermen on four boats from Progreso went missing while out on the water as Milton passed. Two of the boats, carrying eight fishermen, returned on October 9 [131]. Another missing boat, Peyucsa 12, was spotted a day later from a Mexican Navy plane, overturned about 133 mi (214 km) northeast of Progreso with one man on top. The plane was unable to rescue the man, and pilots called for a Defender-class patrol boat from the Mexican Navy to come to his rescue. The man's brother, who was on the search plane, said he saw him slide off the boat and into the water face first, sinking before the rescue boat arrived. The Mexican Navy has not confirmed this account. On October 11, the last missing fishing boat, Halcón I, was spotted by the Mexican Navy, capsized with no crew members on board [132] [115] [133]. 
+
+## United States
+
+Initial estimates by Fitch Ratings said that Milton caused US$50 billion in damage. Based upon initial estimates of insured losses, Fitch projected that most reinsurance attachment points would likely be met so that most insurances losses would not be borne by primary insurers [118]. A later estimate by CoreLogic stated that Milton caused US$21–34 billion in damage [139]. However, Moody’s Analytics released a much higher cost, at US$85 billion [140]. The NCEI estimate released in January 2025 placed the total cost at US$34.3 billion . 
+
+### Florida
+
+Sustained winds to hurricane-force were recorded along Florida's peninsular coast. In Venice, sustained winds reached 92 mph (148 km/h) with gusts to 107 mph (172 km/h). Gusts reached 107 mph (172 km/h) in Sarasota [141]. In Marineland, sustained winds reached 83 mph (134 km/h) with gusts to 92 mph (148 km/h). In Daytona Beach, sustained winds reached 60 mph (97 km/h) with gusts reaching 87 mph (140 km/h) [142]. Gusts reached 99 mph (159 km/h) in Ponce Inlet, 92 mph (148 km/h) in West Palm Beach and 86 mph (138 km/h) in Orlando [143]. Heavy rain also occurred in the state, with over 13 in (330 mm) of rain in Plant City and nearly 19 in (480 mm) in St. Petersburg, including 5.09 in (129 mm) in a single hour. In Tampa, nearly 12 in (300 mm) of rain fell, which pushed the city to its wettest year on record [147] [148] [149]. Further east, rainfall totals exceeded 12 in (300 mm) in portions of Volusia County, and 10 in (250 mm) in Indian River County, with 12.92 in (328 mm) of rain in Vero Beach [150]. Rainfall totals in Flagler County were lower, but 5.61 in (142 mm) of rain was still recorded in Flagler Beach [151] [152]. A storm surge of 5 ft (1.52 m) to 10 ft (3.04 m) was recorded from Naples to Siesta Key, including Charlotte Harbor [153]. Water levels rose over 8 ft (2.4 m) near Sarasota [8]. Naples saw a storm surge of 5.75 ft (1.75 m) [8]. On the other side of the state, Daytona experienced a storm surge peak between 4 ft (1.2 m) to 4.5 ft (1.37 m) [8]. The Hillsborough River crested at nearly 2 ft (.61 m) over record height Friday at Zephyrhills [154]. At the river's Morris Bridge site, it crested over 3 ft (.94 m) above record flood stage. A reverse storm surge occurred in Tampa, however, dropping water levels by 5 ft (1.5 m) [155]. Seven people were killed in St. Lucie County,  four in Volusia County, two in Pinellas County, and one each in Citrus, Polk, and Orange counties [157]. One person was killed in Ormond Beach due a tree falling into a roof [158] [159]. A woman in her late 70s was killed by a fallen tree branch in Hillsborough County [160]. One elderly man from Charlotte County died from smoke inhalation in a Bradenton hospital after a golf cart lithium battery exploded at his home due to storm surge flooding [158]. Ten people were injured in Wellington by an EF3 tornado [161]. Another EF3 tornado severely damaged two warehouses and killed six people [162]. The Waffle House Index was raised to red in various areas throughout the state including Tampa, Lakeland, Daytona, and Naples [163]. Tropicana Field, which had been set up to house first responders, lost a large part of its fiberglass roof as a result of wind gusts. The Tampa Bay Times building in downtown St [166]. Petersburg was severely damaged when a construction crane from a nearby partially built skyscraper collapsed into it. There were no reported injuries. Sarasota-Bradenton International Airport lost the entire roof of Concourse B, which housed the airport's Transportation Security Administration (TSA) screening checkpoint and all 13 aircraft loading gate hold rooms [167]. Multiple areas across the state experienced significant flooding including parts of Orlando, Saint Johns, and throughout Hillsborough County [168]. Rescuers saved 565 people from a Clearwater apartment complex where flooding was neck-deep in some places [169]. Across the state, about 125 homes were destroyed before Milton made landfall, and more than 3 million homes and buildings were left without power [170]. Hillsborough County saw the most power outages, with around 500,000 customers losing power [171] [172]. Nearly 1,000 people and 105 animals were rescued as of October 10 [173]. A sinkhole opened up in Hillsborough County as a result of Milton [174] [175]. US 17/92 collapsed with a sinkhole in Orange City, as well [176]. Another sink hole opened up in Polk County which swallowed a pick up truck [177]. Damage in Volusia County reached $267 million. In Collier County damage reached $280 million [179]. Key West saw a large decline in commercial activity as a result of Milton and the closure of the Port of Key West [180]. Due to the combined impacts of Helene and Milton upon Al Lang Stadium in St. Petersburg, the USL Championship team Tampa Bay Rowdies were forced to play their final two home games at IMG Academy's Soccer Complex in Bradenton. 
+
+### Georgia
+
+Coastal Georgia was placed under a tropical storm warning. On October 7, 2024, Atlanta Motor Speedway opened its campground for evacuees with pop-up campers and tents with access to a complementary shower house, including those from Florida, in collaboration with the Henry County Emergency Management Agency [98]. A limited number of camping spaces with water, power, and sewer hook-ups were made available as well. On October 8, Georgia Governor Brian Kemp issued an executive order which declared a state of emergency across 40 counties and ordered the Georgia Emergency Management and Homeland Security Agency to activate the Georgia Emergency Operations Plan and Georgia Department of Transportation and Georgia Department of Public Safety to take action to ensure the expeditious movement of utility vehicles, equipment, and personnel throughout the state to eliminate any potential power outages. The order also called up to 250 Georgia National Guard troops to be used in preparation, response, and recovery efforts. Cumberland Island National Seashore closed indefinitely on October 8 [100]. 
+
+## The Bahamas
+
+Bimini and West Grand Bahama experienced winds of around 15–20 miles per hour (24–32 km/h) and waves of two to four feet (0.61 to 1.22 m). Power and water outages occurred on a few islands. Localized flooding also occurred. Grand Bahama and Abaco experienced coastal floodings and strong gusts [216]. Aarone Sargeant, the managing director of The Bahamas' Disaster Risk Management Authority, stated that there were no reports of injuries or significant damage,  with only minor damage occurring in the country [217] [218]. 
+
+# Impact
+
+## Mexico
+
+Heavy rainfall from Milton caused flooding in the city of Campeche. Dangerous storm surge and torrential rainfall impacted the state of Yucatán, with the seawall at Progreso being inundated by high waves [121]. Over 12,000 people were affected in the state by power outages. Flooding from the storm surge led to evacuations being carried out during the hurricane in Celestún [122]. Strong waves caused sections of the Ciudad del Carmen–Isla Aguada federal highway to be inundated by sea waters [123]. A man and a woman drowned in Calkiní due to waves produced by the hurricane [124]. Heavy winds from Milton caused an old house in Progreso to collapse,  and heavy winds and rainfall nearly demolished a home in Chuburná [125] [126] [127]. The municipalities of Sisal and Celestún suffered the most damage, with flooding, fallen trees, and blackouts affecting the cities. In Sisal, there were reports of some roofs of softball field stands and palapas collapsing. Over a thousand people from El Cuyo, Río Lagartos, and Las Coloradas needed to be transferred to shelters. Heavy swells and intense winds from Milton destroyed the dock of the port of Chelem [129]. Cancún International Airport canceled several flights due to Milton [130]. Fifteen fishermen on four boats from Progreso went missing while out on the water as Milton passed. Two of the boats, carrying eight fishermen, returned on October 9 [131]. Another missing boat, Peyucsa 12, was spotted a day later from a Mexican Navy plane, overturned about 133 mi (214 km) northeast of Progreso with one man on top. The plane was unable to rescue the man, and pilots called for a Defender-class patrol boat from the Mexican Navy to come to his rescue. The man's brother, who was on the search plane, said he saw him slide off the boat and into the water face first, sinking before the rescue boat arrived. The Mexican Navy has not confirmed this account. On October 11, the last missing fishing boat, Halcón I, was spotted by the Mexican Navy, capsized with no crew members on board [132] [115] [133]. 
+
+## Cuba
+
+As Milton neared Cuba, its rainbands caused flooding,  with the first reports in Surgidero de Batabanó [135]. In Havana Bay, deteriorating weather conditions from Milton caused officials to suspend ferry services on October 8 [136]. The Institute of Meteorology (INSMET) reported that Western Cuba experienced winds of 25–30 mph (40–48 km/h) and maximum gusts in Casablanca, Havana, of 50 mph (80 km/h) [137]. 
+
+## United States
+
+Initial estimates by Fitch Ratings said that Milton caused US$50 billion in damage. Based upon initial estimates of insured losses, Fitch projected that most reinsurance attachment points would likely be met so that most insurances losses would not be borne by primary insurers [118]. A later estimate by CoreLogic stated that Milton caused US$21–34 billion in damage [139]. However, Moody’s Analytics released a much higher cost, at US$85 billion [140]. The NCEI estimate released in January 2025 placed the total cost at US$34.3 billion . 
+
+### Florida
+
+Sustained winds to hurricane-force were recorded along Florida's peninsular coast. In Venice, sustained winds reached 92 mph (148 km/h) with gusts to 107 mph (172 km/h). Gusts reached 107 mph (172 km/h) in Sarasota [141]. In Marineland, sustained winds reached 83 mph (134 km/h) with gusts to 92 mph (148 km/h). In Daytona Beach, sustained winds reached 60 mph (97 km/h) with gusts reaching 87 mph (140 km/h) [142]. Gusts reached 99 mph (159 km/h) in Ponce Inlet, 92 mph (148 km/h) in West Palm Beach and 86 mph (138 km/h) in Orlando [143]. Heavy rain also occurred in the state, with over 13 in (330 mm) of rain in Plant City and nearly 19 in (480 mm) in St. Petersburg, including 5.09 in (129 mm) in a single hour. In Tampa, nearly 12 in (300 mm) of rain fell, which pushed the city to its wettest year on record [147] [148] [149]. Further east, rainfall totals exceeded 12 in (300 mm) in portions of Volusia County, and 10 in (250 mm) in Indian River County, with 12.92 in (328 mm) of rain in Vero Beach [150]. Rainfall totals in Flagler County were lower, but 5.61 in (142 mm) of rain was still recorded in Flagler Beach [151] [152]. A storm surge of 5 ft (1.52 m) to 10 ft (3.04 m) was recorded from Naples to Siesta Key, including Charlotte Harbor [153]. Water levels rose over 8 ft (2.4 m) near Sarasota [8]. Naples saw a storm surge of 5.75 ft (1.75 m) [8]. On the other side of the state, Daytona experienced a storm surge peak between 4 ft (1.2 m) to 4.5 ft (1.37 m) [8]. The Hillsborough River crested at nearly 2 ft (.61 m) over record height Friday at Zephyrhills [154]. At the river's Morris Bridge site, it crested over 3 ft (.94 m) above record flood stage. A reverse storm surge occurred in Tampa, however, dropping water levels by 5 ft (1.5 m) [155]. Seven people were killed in St. Lucie County,  four in Volusia County, two in Pinellas County, and one each in Citrus, Polk, and Orange counties [157]. One person was killed in Ormond Beach due a tree falling into a roof [158] [159]. A woman in her late 70s was killed by a fallen tree branch in Hillsborough County [160]. One elderly man from Charlotte County died from smoke inhalation in a Bradenton hospital after a golf cart lithium battery exploded at his home due to storm surge flooding [158]. Ten people were injured in Wellington by an EF3 tornado [161]. Another EF3 tornado severely damaged two warehouses and killed six people [162]. The Waffle House Index was raised to red in various areas throughout the state including Tampa, Lakeland, Daytona, and Naples [163]. Tropicana Field, which had been set up to house first responders, lost a large part of its fiberglass roof as a result of wind gusts. The Tampa Bay Times building in downtown St [166]. Petersburg was severely damaged when a construction crane from a nearby partially built skyscraper collapsed into it. There were no reported injuries. Sarasota-Bradenton International Airport lost the entire roof of Concourse B, which housed the airport's Transportation Security Administration (TSA) screening checkpoint and all 13 aircraft loading gate hold rooms [167]. Multiple areas across the state experienced significant flooding including parts of Orlando, Saint Johns, and throughout Hillsborough County [168]. Rescuers saved 565 people from a Clearwater apartment complex where flooding was neck-deep in some places [169]. Across the state, about 125 homes were destroyed before Milton made landfall, and more than 3 million homes and buildings were left without power [170]. Hillsborough County saw the most power outages, with around 500,000 customers losing power [171] [172]. Nearly 1,000 people and 105 animals were rescued as of October 10 [173]. A sinkhole opened up in Hillsborough County as a result of Milton [174] [175]. US 17/92 collapsed with a sinkhole in Orange City, as well [176]. Another sink hole opened up in Polk County which swallowed a pick up truck [177]. Damage in Volusia County reached $267 million. In Collier County damage reached $280 million [179]. Key West saw a large decline in commercial activity as a result of Milton and the closure of the Port of Key West [180]. Due to the combined impacts of Helene and Milton upon Al Lang Stadium in St. Petersburg, the USL Championship team Tampa Bay Rowdies were forced to play their final two home games at IMG Academy's Soccer Complex in Bradenton. 
+
+### Tornado outbreak
+
+As Hurricane Milton approached Florida, the United States's Storm Prediction Center (SPC) outlined a slight risk convective outlook for much of southern Florida, observing that enhanced low to mid-level flow, dew points in the mid 70s, and favorable timing with peak daytime heating would lead to a conducive environment for tornadogenesis as Milton's outer convective bands swept the area. Rainbands stretching far from the center allowed the tornado outbreak to stretch further south [185]. The next day, an enhanced risk of severe weather was issued, for a 10% hatched area tornado risk . At least 46 confirmed tornadoes touched down in Florida ahead of the storm, during a prolific tornado outbreak that occurred between October 8–9, focused on the Florida Heartland, the Treasure Coast and the Space Coast. This became the largest single day of tornadoes in state history, surpassing Hurricane Irma [188]. At 6 pm, the National Weather Service office in Miami, which covers much of South Florida except the Florida Keys of Monroe County, reported that they had issued 55 tornado warnings, a record high in one day beating out the previous record of 37 on September 27, 2022, during Hurricane Ian,  and confirmed nine tornadoes on a preliminary basis [189] [190] [198]. The NWS in Tampa Bay also set a record high of 29 tornado warnings in one day, beating the previous record of 23 held by both Tropical Storm Debby of 2012 and Tropical Storm Andrea on June 6, 2013. In total, a record 126 tornado warnings have been issued throughout the state, the second-most of any state in one day, only behind Alabama on April 27, 2011, at the height of the 2011 Super Outbreak [192] [193]. Milton was also the first tropical cyclone to generate an intense (E/F3 or stronger) tornado in Florida since Agnes in 1972 and the third on record since 1950, the first occurring in 1959 [194]. Milton also yielded Florida's fourth deadliest outbreak in 70 years, behind the 1998 Kissimmee tornado outbreak, which killed 42; the March 31, 1962, outbreak, which killed 17; and the Hurricane Agnes outbreak, which killed seven [195]. The outbreak first started late on October 8 with an EF1 tornado striking the west side of Key West. The next day, 45 tornadoes touched down during the morning and afternoon as lines and clusters of supercells impacted South and Central [197]. Two EFU tornadoes moved across I-75 in the Everglades with no serious damage noted. Later, an EF1 tornado caused damage in the Sky Valley neighborhood of Clewiston [198]. A high-end EF2 tornado impacted the western part of Fort Myers before crossing the Caloosahatchee River and striking North Fort Myers, causing extensive damage to homes and knocking down numerous trees in the area [199]. An EF3 tornado, the strongest recorded tornado in southwest Florida's history, struck a neighborhood in the area of Lakeport in Glades County, destroying 39 homes, before weakening and causing minor damage in Brighton Reservation [200]. A solar farm in Lake Placid was struck by a tornado, decreasing electricity production [201] [199]. Clusters of supercells then passed west of the Miami metropolitan area and struck the Treasure Coast, producing several tornadoes. Another EF3 tornado struck a mobile home in Wellington before weakening and traveling northward where it then restrengthened to EF3 intensity and damaged a shopping and residential area in western Palm Beach Gardens before weakening again and eventually dissipating in the area of Jupiter Farms. The most devastating tornado was another low-end EF3 tornado that heavily damaged or destroyed multiple mobile home parks near Fort Pierce [199]. The most severe damage was in the Spanish Lakes community, where over 20 mobile homes were destroyed or flipped, killing six people. The tornado then impacted Vero Beach, where more homes and businesses were damaged before the tornado moved offshore [203]. During the tornado, many lives were reportedly saved on Winter Garden Parkway, as a woman began honking her horn to alert others of the tornadoes [204]. In addition to the fatalities, over 25 people required rescue during the tornado [205]. This became the deadliest tornado spawned by a tropical cyclone in history,  tied with an F2 tornado that also killed six during Hurricane Agnes in 1972 [206] [207]. A total of nine tornadoes struck the county, including three in the span of 25 minutes [208]. In all, at least nine tornadoes impacted the Treasure Coast [158]. The final tornado was an EF1 tornado in Cocoa Beach that ripped off the roof of a Wells Fargo bank. Following the tornadoes, the National Guard coordinated with local law enforcement and first responders to conduct rescue missions, provide immediate assistance, and clear debris from vital roads. Additionally, Local organizations, citizen groups, churches, and individual volunteers helped with tornado relief efforts, providing supplies, temporary housing, and emotional support. Among the coordinated efforts, WPTV-TV partnered with several local businesses in St [210] [211]. Lucie, Martin, and Palm Beach counties to fundraise for tornado victims. 
+
+### Elsewhere
+
+Wind gusts in Savannah, Georgia, peaked at 22 mph (35 km/h). In Tybee Island, impacts were less than expected; however, the beaches remained closed due to rip currents [213]. In South Carolina, wind gusts reached 40 mph (64 km/h) in Hilton Head Airport and Charleston Harbor, but impacts were also less than anticipated [214]. 
+
+## The Bahamas
+
+Bimini and West Grand Bahama experienced winds of around 15–20 miles per hour (24–32 km/h) and waves of two to four feet (0.61 to 1.22 m). Power and water outages occurred on a few islands. Localized flooding also occurred. Grand Bahama and Abaco experienced coastal floodings and strong gusts [216]. Aarone Sargeant, the managing director of The Bahamas' Disaster Risk Management Authority, stated that there were no reports of injuries or significant damage,  with only minor damage occurring in the country [217] [218]. 
+
+# Aftermath
+
+Amtrak again modified their Silver Service routes between October 13 and 15 due to residual impacts after the storm. Most tolls in Florida were re-instated on October 14, although exceptions were made for Orlando and Tampa [219]. Following the storm, many businesses and private citizens donated to relief efforts. Taylor Swift donated $5 million to help with combined relief from Milton and Hurricane Helene, with Walmart donating $16 million. On October 12, Joe Biden issued a disaster declaration for the state [221]. By October 13, over 250,000 Floridians registered for help, which was the most in a day in national history. There has also been mention that other celebrities have made contributions, such as Dolly Parton, Morgan Wallen, Blake Lively, Tom Brady and Metallica [222]. The Baltimore Orioles also donated at least $250,000 to Hurricane Milton relief efforts [223]. Widespread fuel shortages occurred at gas stations after the storm. Governor Ron DeSantis opened up three fuel sites where residents could get ten gallons of fuel as a result. Much of Cumberland Island National Seashore re-opened on October 12, although several trails in the northern segments of the park remained closed for damage assessments [225]. Canaveral National Seashore was also closed following the storm,  with re-opening beginning on October 19 [226] [227]. On October 13, Joe Biden flew to MacDill Air Force Base aboard Air Force One where he then boarded Marine One and embarked on an aerial tour of St. Petersburg before landing at Albert Whitted Airport. Biden met with state and local officials such as Senator Rick Scott, Representative Anna Paulina Luna, and Pinellas County Sheriff Bob Gualtieri. Biden then departed the airport in a motorcade and traveled to St. Pete Beach where he met residents and first responders before giving a speech about the recovery efforts. During the speech, Biden announced $612 million for six Department of Energy projects to improve the resilience of electric grids in areas affected by hurricanes, which included $94 million for two projects in Florida. The Florida Supervisors of Elections (FSOE), in an October 15 letter addressed to Florida Secretary of State Cord Byrd and Division of Elections Director Maria Matthews, requested a lessening of election and voting restrictions in Collier, Glades, Highlands, Indian River, Manatee, Orange, Pinellas, Polk, Sarasota, and St. Lucie counties. Among the requests included extensions to early voting and to the deadlines for mail-in ballot delivery, notification of the location of mail-in ballot drop boxes, and the appointment of poll workers. FSOE also asked if requirements could be waived for the relocation of polling places and to authorize "immediate family members of first responders, line workers and relief workers to request mail-in ballots on their behalf", according to Florida Politics. Florida saw a rise in cases of Vibrio vulnificus, a flesh-eating bacteria that favors warm waters and spreads in heavy flood rains, following Hurricane Milton, with cleanup efforts from Hurricane Helene happening concurrently. There were 38 confirmed cases in October after Milton [232]. Milton and Helene left behind standing water, causing an outbreak in dengue fever [232]. As happened following Hurricane Helene, misinformation and conspiracy theories regarding Milton and the post-storm government response began spreading over social media. 
+
+## FEMA response controversy
+
+FEMA came under criticism in early November, when a whistleblower's report revealed that FEMA supervisor Marn'i Washington instructed team members that it was "best practice" to skip Trump-supporting homes as they canvassed Florida neighborhoods, determining who needed assistance following the hurricane. FEMA workers skipped at least 20 homes in Lake Placid with Trump signs or flags. FEMA responded by stating it was "deeply disturbed by this employee's actions" and claimed that the agency works to "help all survivors regardless of their political preference or affiliation."  Washington was fired for her actions [235]. Following a state investigation of the matter, Florida Attorney General Ashley Moody filed a discrimination lawsuit on November 14 against FEMA for conspiring to violate the civil rights of Florida residents in the response to Hurricanes Helene and Milton [236]. 
+
+# References
+
+[1] [ERROR retrieving ref link]
+[186] [ERROR retrieving ref link]
+[2] https://www.washingtonpost.com/climate-environment/interactive/2024/billion-dollar-disasters-climate-change-economy/
+[3] https://www.cnn.com/2024/10/05/weather/tropical-storm-milton-florida-gulf-of-mexico/index.html
+[4] https://yaleclimateconnections.org/2024/11/category-5-super-typhoon-man-yi-hits-the-philippines/
+[5] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.012.shtml?
+[6] https://www.nbcnews.com/weather/hurricanes/live-blog/hurricane-milton-live-updates-rcna174425
+[7] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.015.shtml?
+[8] https://www.cbsnews.com/news/hurricane-milton-florida-landfall-path-storm/
+[9] https://weather.com/storms/hurricane/news/2024-10-09-hurricane-milton-forecast-landfall-florida-storm-surge-wind
+[10] https://www.ncei.noaa.gov/access/billions/events
+[11] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409262052&basin=atl&fdays=7
+[12] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409291438&basin=atl&fdays=7
+[13] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410012055&basin=atl&fdays=7
+[14] https://yaleclimateconnections.org/2024/10/watching-the-gulf-of-mexico-for-tropical-storm-formation/
+[15] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410050238&basin=atl&fdays=7
+[16] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410051141&basin=atl&fdays=7
+[17] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.001.shtml?
+[18] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10051725.shtml?
+[19] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.003.shtml?
+[20] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.004.shtml?
+[21] https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2023-051124.txt
+[22] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.006.shtml?
+[23] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.008.shtml?
+[24] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10071100.shtml?
+[25] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10071558.shtml?
+[26] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.011.shtml?
+[27] https://www.nytimes.com/2024/10/07/weather/hurricane-milton-intensity-speed.html
+[28] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.012.shtml?
+[29] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.013.shtml?
+[30] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.015.shtml?
+[31] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.017.shtml?
+[32] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.018.shtml?
+[33] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10100030.shtml?
+[34] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10100457.shtml?
+[35] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.022.shtml?
+[36] https://www.climatecentral.org/climate-shift-index-alert/hurricane-milton-october-2024
+[37] https://www.worldweatherattribution.org/yet-another-hurricane-wetter-windier-and-more-destructive-because-of-climate-change/
+[38] https://www.cbsnews.com/news/tropical-storm-milton-forms-gulf-of-mexico-florida/
+[39] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.003.shtml?
+[40] https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/061458.shtml
+[41] https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/062052.shtml?
+[42] https://www.cnn.com/2024/10/06/weather/tropical-storm-milton-florida-sunday/index.html
+[43] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.008.shtml?
+[44] https://riviera-maya-news.com/monstrous-milton-forces-the-evacuation-of-thousands-as-it-passes-the-yucatan-peninsula/2024.html
+[45] https://riviera-maya-news.com/quintana-roo-island-evacuations-begin-as-milton-intensifies-into-a-category-5-with-330-km-h-gusts/2024.html
+[46] https://www.poresto.net/campeche/2024/10/6/huracan-milton-alerta-verde-en-4-municipios-de-campeche.html
+[47] https://www.aztecayucatan.com/noticias/reportan-compras-de-panico-en-supermercados-de-merida-por-la-amenaza-del-huracan-milton
+[48] https://www.aztecayucatan.com/noticias/declaran-de-ultimo-momento-suspension-de-actividades-en-yucatan-por-huracan-milton
+[49] https://mexiconewsdaily.com/news/progreso-merida-hurricane-watch-milton-yucatan/
+[50] https://www.wesh.com/article/desantis-issues-executive-order-state-of-emergency-milton-florida/62519201
+[51] https://www.fox13news.com/news/tampa-looking-help-cleaning-up-debris-from-helene-ahead-milton
+[52] https://www.flgov.com/wp-content/uploads/2024/10/EO-24-214.pdf
+[53] https://www.reuters.com/business/environment/monster-hurricane-milton-threatens-an-already-battered-florida-2024-10-08/
+[54] https://www.wesh.com/article/edgewater-florida-sandbag-locations-heavy-rain-event/62514161
+[55] https://www.orlandosentinel.com/2024/10/07/intensifying-hurricane-milton-now-category-2-prompts-florida-storm-surge-warnings-hurricane-watches/
+[56] https://www.nbcnews.com/news/weather/live-blog/hurricane-milton-live-updates-rcna174253/rcrd58865?canonicalCard=true
+[57] https://caribbean.loopnews.com/content/tropical-storm-milton-could-hit-florida-major-hurricane-midweek
+[58] https://www.fldoe.org/em-response/storm-info.stml
+[59] https://www.wesh.com/article/florida-schools-cancel-classes-milton-landfall/62522192
+[60] https://www.nbc-2.com/article/school-closures-hurricane-milton-florida/62521397
+[61] https://www.thesandspur.org/hurricane-milton-update-college-closure-and-campus-evacuation/
+[62] https://www.ocalagazette.com/marion-county-mandatory-evacuation-for-mobile-homes-and-rvs-additional-shelter-openings/
+[63] https://www.amtrak.com/alert/modified-service-due-to-hurricane-milton.html
+[64] https://www.usatoday.com/story/travel/news/2024/10/07/hurricane-milton-florida-airports-cruises-theme-parks/75554388007/
+[65] https://www.nbcmiami.com/news/local/airports-close-and-flights-are-cancelled-due-to-hurricane-milton/3438303/
+[66] https://www.cbsnews.com/miami/news/hurricane-milton-flight-cancellations-delays-florida-airports/
+[67] https://www.tampabay.com/hurricane/2024/10/07/hurricane-milton-closure-cancelled-storm/
+[68] https://www.cbsnews.com/news/faa-clears-european-asteroid-probe-launch-stormy-weather-threatens-delay/
+[69] https://www.nasaspaceflight.com/2024/10/hera-launch/
+[70] https://blogs.nasa.gov/commercialcrew/2024/10/07/crew-8-return-no-earlier-than-oct-13/
+[71] https://wsvn.com/news/local/miami-dade/brightline-closes-operations-between-west-palm-beach-and-orlando-ahead-of-hurricane-milton/
+[72] https://www.cbsnews.com/news/hurricane-milton-disney-world-closing/
+[73] https://deadline.com/2024/10/hurricane-milton-florida-1236108890/
+[74] https://www.forbes.com/sites/alisondurkee/2024/10/10/disney-world-says-theme-parks-will-reopen-friday-after-hurricane-milton/
+[75] https://www.fox13news.com/news/hurricane-milton-busch-garden-closes-ahead-hurricane
+[76] https://www.foxweather.com/weather-news/milton-approachesflorida-prepares-largest-evacuation-since-2017s-hurricane-irma.amp/
+[77] https://www.news-journalonline.com/story/weather/hurricane/2024/10/07/hurricane-milton-evacuations-to-begin-wednesday-in-volusia-county/75560702007/
+[78] https://www.wtsp.com/article/weather/tropics/hillsborough-county-closing-comfort-stations-tropical-storm-milton/67-41dd0366-fa9e-40d2-8167-c18679e1ff4e
+[79] https://www.mysuncoast.com/2024/10/06/fire-chief-paul-dezzi-urges-longboat-key-residents-leave-soon-you-can/
+[80] https://www.nbc-2.com/article/uber-free-rides-shelters-counties-evacuating-hurricane-milton/62536679
+[81] https://www.bbc.com/future/article/20241009-how-zoos-and-aquariums-protect-animals-during-hurricanes
+[82] https://www.reuters.com/business/environment/tampa-zoo-animals-hunkered-down-milton-approaches-2024-10-09/
+[83] https://www.wcvb.com/article/rescued-pets-hurricane-milton/62548681
+[84] https://www.wsaz.com/2024/10/07/hurricane-milton-forces-nfl-nhl-other-sporting-events-adjust-game-plans/
+[85] https://www.thescore.com/nhl/news/3095779
+[86] https://gousfbulls.com/news/2024/10/8/usf-football-vs-memphis-rescheduled-to-saturday.aspx
+[87] https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-and-their-families-relocate-to-new-orleans-in-wake-of-hurricane-milton
+[88] https://mynews13.com/fl/orlando/weather/2024/10/08/stores-close-across-central-florida-ahead-of-milton
+[89] https://www.foxbusiness.com/lifestyle/some-florida-store-shelves-nearly-empty-milton-barrels-toward-coast
+[90] https://www.cnn.com/2024/10/08/business/hurricane-milton-florida-gasoline-shortages/index.html
+[91] https://apnews.com/article/hurricane-milton-gasoline-lines-stations-22cd2e163f13b1a898692822115dd7a6
+[92] https://www.usatoday.com/story/news/nation/2024/10/08/waffle-house-closures-hurricane-milton/75574021007/
+[93] https://san.com/cc/fema-experiencing-severe-staffing-shortage-ahead-of-milton-report/
+[94] https://www.nytimes.com/2024/10/07/climate/hurricane-milton-fema-staff-shortage.html?unlocked_article_code=1.Qk4.iTVB.HfdYSPpVFMYt&smid=url-share
+[95] https://www.theguardian.com/us-news/2024/oct/08/us-florida-mexico-hurricane-milton-tampa-bay-storm
+[96] https://www.ocala.com/story/news/accident/2024/10/08/woman-evacuating-for-hurricane-milton-dies-in-nw-marion-car-crash/75567386007/
+[97] https://www.tampabay.com/news/breaking-news/2024/10/08/plane-crash-tampa-bay-albert-whitted-milton/
+[98] https://www.naplesnews.com/story/news/local/2024/10/09/fhp-two-killed-in-immokalee-crash-ahead-of-hurricane-milton/75584070007/
+[99] https://www.wtoc.com/2024/10/09/hurricane-miltons-impact-coastal-empire-lowcountry/
+[100] https://www.atlantamotorspeedway.com/media/news/atlanta-motor-speedway-opening-campgrounds-for-milton-evacuees.html
+[101] https://gov.georgia.gov/executive-action/executive-orders/2024
+[102] https://home.nps.gov/cuis/learn/news/cumberland-island-national-seashore-to-close-in-preparation-for-hurricane-milton.htm
+[103] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.014.shtml?
+[104] https://ewnews.com/govt-issues-tropical-storm-watch-for-northern-islands/
+[105] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.015.shtml?
+[106] https://ournews.bs/emergency-operations-center-activated-in-grand-bahama/
+[107] https://ournews.bs/rbdf-we-stand-ready-to-mobilize-and-assist/
+[108] https://ewnews.com/school-closures-announced-due-to-hurricane-milton/
+[109] https://www.tribune242.com/news/2024/oct/08/weather-update-airport-warns-of-delays/
+[110] https://www.tribune242.com/news/2024/oct/07/seek-shelter-ministry-urges/
+[111] https://ournews.bs/gb-resident-im-so-happy-nothing-happened-to-this-great-beautiful-island/
+[112] https://ewnews.com/bpl-offices-in-select-islands-will-close-at-noon/
+[113] https://ewnews.com/banks-in-grand-bahama-abaco-to-close-thursday-oct-10-2024/
+[114] https://www.nmas.com.mx/estados/paso-del-huracan-milton-reporte-muertos-estados-de-mexico/
+[115] https://www.nmas.com.mx/noticieros/programas/en-punto/videos/milton-pescador-yucatan-muere-esperando-ayuda-otros-cuatro-son-salvados/
+[116] https://www.yucatan.com.mx/yucatan/2024/10/10/muere-naufrago-en-yucatan-barco-peyucsa-12-marina-no-lo-rescato-esto-dice-la-familia.html
+[117] https://www.travelweekly.com/Mexico-Travel/Minor-Milton-damage-in-Mexican-state-of-Yucatan
+[118] https://www.tampabay.com/hurricane/2024/10/10/least-16-people-dead-hurricane-miltons-aftermath/
+[119] https://www.businessinsider.com/hurricane-milton-insurance-fitch-50-billion-losses-2024-10
+[120] https://www.nbcnews.com/weather/hurricanes/manasota-key-utterly-devastated-hurricane-milton-made-landfall-nearby-rcna175215
+[121] https://www.palmbeachpost.com/story/news/2024/10/16/hurricane-milton-deaths-florida/75698772007/
+[122] https://tribunacampeche.com/07/lluvias-generadas-por-milton-inundan-calles-en-la-capital-campechana/695593/
+[123] https://www.informador.mx/mexico/Huracanes-Sin-tocar-tierra-Milton-deja-estragos-en-costas-de-Yucatan-como-categoria-cuatro-20241008-0030.html
+[124] https://www.aztecayucatan.com/noticias/huracan-milton-evacuan-de-emergencia-en-celestun-por-creciente-del-mar
+[125] https://tribunacampeche.com/07/a-causa-de-milton-el-mar-invade-y-deslava-tramos-en-la-carretera-carmen-isla-aguada/695718/
+[126] https://tribunacampeche.com/08/fiscalia-pide-colaboracion-ciudadana-para-localizar-a-familiares-de-persona-que-murio-ahogada-en-isla-arena/695837/
+[127] https://tribunacampeche.com/07/muere-ahogado-en-isla-arena-milton-cobra-su-primera-vctma/695714/
+[128] https://www.aztecayucatan.com/noticias/ultimo-momento-se-derrumba-casa-en-progreso-tras-fuertes-vientos-del-huracan-milton
+[129] https://www.aztecayucatan.com/noticias/fotos-potentes-vientos-huracan-milton-categoria-5-derribaron-casa-chuburna-comisaria-de-progreso
+[130] https://www.theyucatantimes.com/2024/10/no-casualties-reported-as-milton-hits-celestun-and-sisal
+[131] https://tribunacampeche.com/08/milton-dejo-sin-muelle-a-chelem-y-dano-el-de-progreso/695751/
+[132] https://mexiconewsdaily.com/news/yucatan-fishermen-missing-hurricane-milton/
+[133] https://www.theyucatantimes.com/2024/10/two-boats-with-fishermen-are-still-missing-after-hurricane-milton/
+[134] https://www.yucatan.com.mx/merida/2024/10/12/exigen-investigacion-por-naufrago-muerto-en-yucatan-que-marina-no-rescato.html#goog_rewarded
+[135] https://www.yucatan.com.mx/yucatan/2024/10/13/milton-sera-inolvidable-cronica-de-una-tragedia-en-yucatan.html
+[136] https://onecaribbeantelevision.com/news/hurricane-milton-brings-flooding-to-cuba/
+[137] https://en.cibercuba.com/noticias/2024-10-08-u1-e199894-s27061-nid289811-occidente-cubano-alerta-huracan-milton-esperan
+[138] https://en.cibercuba.com/noticias/2024-10-08-u1-e135253-s27061-nid289823-suspenden-servicio-lanchas-bahia-habana-efectos
+[139] https://havanatimes.org/news/hurricane-milton-to-make-landfall-in-florida-tonight/
+[140] https://www.wsj.com/finance/hurricane-milton-tests-the-revamped-plumbing-of-the-insurance-market-5fce8fbd
+[141] https://www.corelogic.com/press-releases/corelogic-hurricane-milton-wind-flood-cause-an-estimated-17b-to-28b-in-insured-losses-after-unusual-landfall-activity/
+[142] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.020.shtml?
+[143] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10100755.shtml?
+[144] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.021.shtml?
+[145] https://mynews13.com/fl/orlando/news/2024/10/10/rainfall-totals--top-wind-gusts-from-hurricane-milton
+[146] https://www.foxweather.com/weather-news/hurricane-milton-landfall-florida-storm-surge-power-outages
+[147] https://www.news-journalonline.com/story/weather/hurricane/2024/10/14/big-picture-of-hurricane-milton-in-volusia-flagler-widespread-pain/75590109007/
+[148] https://jaxtoday.org/2024/10/17/hurricane-milton-numbers/
+[149] https://www.scientificamerican.com/article/hurricane-miltons-rain-and-tornadoes-in-florida-broke-records/
+[150] https://www.theguardian.com/us-news/2024/oct/10/hurricane-milton-what-to-know
+[151] https://www.wfla.com/weather/tampa-sees-5x-the-usual-october-rainfall-due-to-hurricane-milton/
+[152] https://www.tcpalm.com/story/weather/hurricanes/2024/10/12/hurricane-milton-florida-wind-speeds-rain-totals/75644716007/
+[153] https://www.tallahassee.com/story/news/hurricane/2024/10/10/hurricane-milton-a-florida-damage-breakdown-by-city-photos-sarasota-tampa-fort-myers-naples-daytona/75604302007/
+[154] https://www.news-journalonline.com/story/weather/hurricane/2024/10/10/hurricane-milton-dumps-as-much-as-12-inches-of-rain-on-volusia-flagler/75602317007/
+[155] https://www.foxweather.com/weather-news/hurricane-milton-daytona-beach-florida.amp
+[156] https://www.foxweather.com/weather-news/river-flooding-hurricane-milton-hillsborough-county-st-johns.amp
+[157] https://apnews.com/article/hurricane-milton-tampa-bay-reverse-surge-3ac00f9d341d6ec5fa024af253f5bdc1
+[158] https://www.wflx.com/2024/10/15/death-toll-st-lucie-county-due-hurricane-milton-rises-7/
+[159] https://edition.cnn.com/weather/live-news/hurricane-milton-path-florida-10-10-24/index.html
+[160] https://www.cnn.com/weather/live-news/hurricane-milton-florida-damage-10-11-24/index.html?t=1728654313639
+[161] https://www.cnn.com/weather/live-news/hurricane-milton-path-florida-10-10-24/index.html
+[162] https://www.palmbeachpost.com/story/news/local/manatee/2024/10/15/medical-examiner-confirms-charlotte-county-casualty-during-milton/75684746007/
+[163] https://www.nbcmiami.com/news/local/multiple-fatalities-reported-in-florida-from-tornadoes-spawned-by-hurricane-milton/3440601/
+[164] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSMLB&e=202410132212
+[165] https://www.cbsnews.com/amp/news/hurricane-milton-waffle-house-index-tampa-locations-closed/
+[166] https://www.news-journalonline.com/story/weather/hurricane/2024/10/09/waffle-house-index-shows-daytona-area-closures-as-hurricane-milton-nears/75592861007/
+[167] https://www.nytimes.com/2024/10/10/us/tropicana-field-milton-tampa-bay.html
+[168] https://www.tampabay.com/hurricane/2024/10/10/crane-collapses-into-times-office-building-amid-thrashing-milton-winds/
+[169] https://www.wfla.com/news/local-news/sarasota-bradenton-international-airport-loses-roof-closed-until-wednesday/
+[170] https://www.nbcnews.com/weather/hurricanes/live-blog/hurricane-milton-live-updates-rcna174774
+[171] https://www.nbcnews.com/news/amp/live-blog/rcna174774
+[172] https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93
+[173] https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8
+[174] https://www.independent.co.uk/news/world/americas/hurricane-milton-map-visuals-charts-figures-deaths-storm-damage-b2627468.html
+[175] https://news.sky.com/story/hurricane-milton-hits-florida-latest-live-updates-13230451
+[176] https://www.cnn.com/weather/live-news/hurricane-milton-path-florida-10-10-24/index.html?t=1728610154029
+[177] https://www.cnn.com/2024/10/10/weather/video/sinkhole-damage-milton-aftermath-rosales-cnntm-digvid
+[178] https://www.wesh.com/article/orange-city-volusia-holes-roads-sinkhole-milton/62567276
+[179] https://www.usatoday.com/story/news/nation/2024/10/11/hurricane-milton-live-updates-friday/75624425007/
+[180] https://www.news-journalonline.com/story/weather/hurricane/2024/10/16/after-hurricane-milton-volusia-residents-call-for-action-on-flooding/75691351007/
+[181] https://www.naplesnews.com/story/news/local/2024/10/23/collier-county-saw-280-million-in-property-damage-by-hurricane-milton/75778230007/
+[182] https://www.cbsnews.com/miami/news/port-of-key-west-closes-due-to-hurricane-milton-local-businesses-feeling-impact/
+[183] https://www.rowdiessoccer.com/news/2024/10/18/tampa-bay-rowdies-to-close-out-2024-regular-season-at-img-academy/
+[184] https://www.nhc.noaa.gov/news/UpdatedCostliest.pdf
+[185] http://www.ncei.noaa.gov/news/national-climate-201812
+[187] https://www.spc.noaa.gov/products/outlook/archive/2024/day2otlk_20241008_0600.html
+[188] https://www.nbcnews.com/science/science-news/why-hurricane-milton-produced-strong-tornadoes-rcna175049
+[189] https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20241009_1630.html
+[190] https://www.nbc-2.com/article/hurricane-milton-tornado-warnings-florida/62561396
+[191] https://weather.com/storms/tornado/news/2024-10-23-hurricane-milton-florida-tornadoes-record
+[192] https://www.wmnf.org/milton-set-a-florida-record-for-the-most-tornadoes-in-one-day/
+[193] https://www.newsweek.com/hurricane-milton-record-tornado-tracking-florida-counties-warnings-1966691
+[194] https://x.com/NWSMiami/status/1844134821163041058
+[195] https://x.com/MathieuBlue/status/1844107253944811875
+[196] https://www.clickorlando.com/weather/hurricane/2024/10/10/record-breaking-126-tornado-warnings-issued-in-florida-ahead-of-hurricane-milton/
+[197] https://www.cfpublic.org/2024-10-25/for-the-record-milton-set-a-state-record-for-most-tornadoes-in-a-day
+[198] https://weather.com/storms/tornado/news/2024-10-23-hurricane-milton-florida-tornadoes-record
+[199] https://apps.dat.noaa.gov/stormdamage/damageviewer/
+[200] https://www.accuweather.com/en/hurricane/live-news/live-milton-landfall-hours-away-as-hurricane-spins-up-tornadoes-in-florida/1700449
+[201] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSMFL&e=202410152051
+[202] https://www.news-press.com/story/news/2024/10/09/tornadoes-hit-fort-myers-ahead-of-hurricane-milton/75591877007/
+[203] https://winknews.com/2024/10/15/twin-palms-tornado-was-the-strongest-tornado-ever-recorded-in-southwest-florida/
+[204] https://www.theweathernetwork.com/en/news/weather/severe/photos-reveal-dramatic-aftermath-of-tornado-hitting-florida-solar-farm-hurricane-milton
+[205] https://www.wptv.com/news/treasure-coast/region-st-lucie-county/national-weather-service-issues-preliminary-report-says-20-homes-in-spanish-lakes-were-tossed-or-flipped
+[206] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSMLB&e=202410132149
+[207] https://cbs12.com/news/local/were-all-alive-thats-what-matters-womans-actions-saved-lives-in-st-lucie-tornado-horn-fight-or-flight-spanish-lakes-deaths-home-shelter-hurricane-milton-october-14-2024
+[208] https://www.nbcmiami.com/news/local/names-of-6-victims-of-tornado-that-hit-spanish-lakes-mobile-home-community-released/3445312/
+[209] https://www.accuweather.com/en/hurricane/5-reasons-hurricane-miltons-tornado-outbreak-was-historic/1703606
+[210] https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=990000003
+[211] https://www.clickorlando.com/weather/2024/10/09/cocoa-beach-buildings-damaged-by-possible-tornado-spawned-by-hurricane-milton/
+[212] https://www.stellaradjusting.com/hurricane-milton-florida-tornado-damage/
+[213] https://cw34.com/news/local/volunteers-and-local-church-members-unite-to-aid-tornado-victims-in-st-lucie-county-hurricane-milton-florida-october-15-2024
+[214] https://www.wptv.com/weather/hurricane/lets-shine-a-light-wptv-partners-with-7-local-businesses-to-raise-money-for-tornado-victims
+[215] https://www.savannahnow.com/story/weather/hurricane/2024/10/10/hurricane-milton-causes-high-winds-in-savannah-with-flooding-possible/75603588007/
+[216] https://www.wjcl.com/article/tybee-island-flooding-concerns-at-ease-beach-is-closed/62571932
+[217] https://www.postandcourier.com/hurricanewire/weather-hurricane-milton-charleston-lowcountry/article_6cbf5d62-8737-11ef-bc9c-d3f8a594fd0a.html
+[218] https://www.tribune242.com/news/2024/oct/11/all-clear-and-time-to-clean-up/
+[219] https://www.thenassauguardian.com/news/no-major-damage-reported-on-northern-islands-after-milton-officials-say/article_54dfc580-873f-11ef-93f4-93157cf2289c.html
+[220] https://ewnews.com/hurricane-milton-update-drma-issues-all-clear-for-the-bahamas/
+[221] https://www.amtrak.com/alert/modified-service-due-to-hurricane-milton0.html?cmp=-20241013-customer_communicationstwitter&SID=14961050736
+[222] https://www.tallahassee.com/story/news/2024/10/16/florida-tolls-reinstated-still-suspended-hurricane-milton/75698293007/
+[223] https://www.accuweather.com/en/hurricane/hurricane-milton-aftermath-death-toll-climbs-with-hundreds-of-thousands-still-without-power/1702797/amp
+[224] https://www.usatoday.com/story/news/nation/2024/10/13/hurricane-milton-biden-florida-sunday/75657451007/
+[225] https://www.forbes.com/sites/maryroeloffs/2024/10/10/billionaire-taylor-swift-tom-brady-announce-hurricane-relief-donations-all-the-celebrities-whove-pitched-in/
+[226] https://www.sarasotamagazine.com/news-and-profiles/2024/10/orioles-make-donation-to-sarasota-hurricane-relief
+[227] https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c
+[228] https://www.nps.gov/cuis/learn/news/cumberland-island-ns-will-reopen-october-12-2024-following-hurricane-milton.htm
+[229] https://www.foxweather.com/lifestyle/canaveral-national-seashore-closed-indefinitely-hurricane-milton-damage.amp
+[230] https://mynews13.com/fl/orlando/news/2024/10/18/parts-of-canaveral-national-seashore-prepare-to-reopen-after-milton
+[231] https://www.npr.org/2024/10/13/nx-s1-5151825/biden-visit-florida-milton-electrical-grid
+[232] https://www.heraldtribune.com/story/news/2024/10/13/live-updates-president-biden-back-in-florida-after-hurricane-milton/75652081007/
+[233] https://floridapolitics.com/archives/701642-florida-supervisors-of-elections-ask-for-more-voting-accommodations-post-milton/
+[234] https://cnn.com/cnn/2024/10/18/health/dual-hurricanes-milton-and-helene-cause-flesh-eating-bacteria-cases-to-rise-in-florida
+[235] https://www.fox13news.com/news/mosquito-link-illness-found-west-florida-counties-after-milton
+[236] https://www.bbc.com/news/articles/c1e8q50y3v7o
+[237] https://www.washingtonexaminer.com/news/house/3224829/scalise-promises-house-investigation-after-fema-official-blocked-aid-to-florida-trump-homes/
+[238] https://www.cnn.com/2024/11/08/politics/fema-employee-trump-florida-hurricane/index.html
+[239] https://www.npr.org/2024/11/14/g-s1-34188/florida-discrimination-lawsuit-fema-trump-supporters

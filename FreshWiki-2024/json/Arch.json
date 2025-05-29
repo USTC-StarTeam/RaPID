@@ -1,0 +1,1687 @@
+{
+  "title": "Arch",
+  "url": "https://en.wikipedia.org/wiki/Arch",
+  "summary": "An arch is a curved vertical structure spanning an open space underneath it. Arches may support the load above them, or they may perform a purely decorative role. As a decorative element, the arch dates back to the 4th millennium BC, but structural load-bearing arches became popular only after their adoption by the Ancient Romans in the 4th century BC.\nArch-like structures can be horizontal, like an arch dam that withstands the horizontal hydrostatic pressure load. Arches are normally used as supports for many types of vaults, with the barrel vault in particular being a continuous arch. Extensive use of arches and vaults characterizes an arcuated construction, as opposed to the trabeated system, where, like in the architectures of ancient Greece, China, and Japan (as well as the modern steel-framed technique), posts and beams dominate. \nArches had several advantages over the lintel, especially in the masonry construction: with the same amount of material it can have larger span, carry more weight, and can be made from smaller and thus more manageable pieces. Their role in construction was diminished in the middle of the 19th century with introduction of the wrought iron (and later steel): the high tensile strength of these new materials made long lintels possible.",
+  "content": [
+    {
+      "section_title": "Basic concepts",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Terminology",
+          "section_content": [
+            {
+              "sentence": "A true arch is a load-bearing arc with elements held together by compression",
+              "refs": []
+            },
+            {
+              "sentence": "In much of the world introduction of the true arch was a result of European influence",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The term false arch has few meanings",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It is usually used to designate an arch that has no structural purpose, like a proscenium arch in theaters used to frame the performance for the spectators, but is also applied to corbelled and triangular arches that are not based on compression",
+              "refs": []
+            },
+            {
+              "sentence": "A typical true masonry arch consists of the following elements:",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A (left or right) half-segment of an arch is called an arc, the overall line of an arch is arcature  (this term is also used for an arcade)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Archivolt is the exposed (front-facing) part of the arch, sometimes decorated (occasionally also used to designate the intrados)",
+              "refs": [
+                "https://www.merriam-webster.com/dictionary/arcature"
+              ]
+            },
+            {
+              "sentence": "If the sides of voussoir blocks are not straight, but include angles and curves for interlocking, the arch is called \"joggled\"",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Arch action",
+          "section_content": [
+            {
+              "sentence": "A true arch, due to its rise, resolves the vertical loads into horizontal and vertical reactions at the ends, a so called arch action",
+              "refs": []
+            },
+            {
+              "sentence": "The vertical load produces a positive bending moment in the arch, while the inward-directed horizontal reaction from the spandrel/abutment provides a counterbalancing negative moment",
+              "refs": []
+            },
+            {
+              "sentence": "As a result, the bending moment in any segment of the arch is much smaller than in a beam with the equivalent load and span",
+              "refs": []
+            },
+            {
+              "sentence": "The diagram on the right shows the difference between a loaded arch and a beam",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Elements of the arch are mostly subject to compression (A), while in the beam a bending moment is present, with compression at the top and tension at the bottom (B).",
+              "refs": []
+            },
+            {
+              "sentence": "In the past, when arches were made of masonry pieces, the horizontal forces at the ends of an arch (so called thrust ) caused the need for heavy abutments (cf",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Roman triumphal arch)",
+              "refs": []
+            },
+            {
+              "sentence": "The other way to counteract the forces, and thus allow thinner supports, was to use the counter-arches, as in an arcade arrangement, where the horizontal thrust of each arch is counterbalanced by its neighbors, and only the end arches need to buttressed",
+              "refs": []
+            },
+            {
+              "sentence": "With new construction materials (steel, concrete, engineered wood), not only the arches themselves got lighter, but the horizontal thrust can be further relieved by a tie connecting the ends of an arch",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Funicular shapes",
+          "section_content": [
+            {
+              "sentence": "When evaluated from the perspective of an amount of material required to support a given load, the best solid structures are compression-only; with the flexible materials, the same is true for tension-only designs",
+              "refs": []
+            },
+            {
+              "sentence": "There is a fundamental symmetry in nature between solid compression-only and flexible tension-only arrangements, noticed by Robert Hooke in 1676: \"As hangs the flexible line, so but inverted will stand the rigid arch\", thus the study (and terminology) of arch shapes is inextricably linked to the study of hanging chains, the corresponding curves or polygons are called funicular",
+              "refs": []
+            },
+            {
+              "sentence": "Just like the shape of a hanging chain will vary depending on the weights attached to it, the shape of an ideal (compression-only) arch will depend on the distribution of the load",
+              "refs": []
+            },
+            {
+              "sentence": "While building masonry arches in the not very tall buildings of the past, a practical assumption was that the stones can withstand virtually unlimited amount of pressure (up to 100 N per mm2), while the tensile strength was very low, even with the mortar added between the stones, and can be effectively assumed to be zero",
+              "refs": []
+            },
+            {
+              "sentence": "Under these assumptions the calculations for the arch design are greatly simplified: either a reduced-scale model can be built and tested, or a funicular curve (pressure polygon) can be calculated or modeled, and as long as this curve stays within the confines of the voussoirs, the construction will be stable  (a so called \"safe theorem\").",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Classifications",
+      "section_content": [
+        {
+          "sentence": "There are multiple ways to classify an arch:",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Arrangements",
+      "section_content": [
+        {
+          "sentence": "A sequence of arches can be grouped together forming an arcade",
+          "refs": []
+        },
+        {
+          "sentence": "Romans perfected this form, as shown, for example, by arched structures of Pont du Gard",
+          "refs": []
+        },
+        {
+          "sentence": "In the interior of hall churches, arcades of separating arches were used to separate the nave of a church from the side aisle,  or two adjacent side aisles",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Two-tiered arches, with two arches superimposed, were sometimes used in Islamic architecture, mostly for decorative purposes",
+          "refs": []
+        },
+        {
+          "sentence": "An opening of the arch can be filled, creating a blind arch",
+          "refs": []
+        },
+        {
+          "sentence": "Blind arches are frequently decorative, and were extensively used in Early Christian, Romanesque, and Islamic architecture",
+          "refs": []
+        },
+        {
+          "sentence": "Alternatively, the opening can be filled with smaller arches, producing a containing arch, common in Gothic and Romanesque architecture",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Multiple arches can be superimposed with an offset, creating an interlaced series of usually (with some exceptions) blind and decorative arches",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Most likely of Islamic origin, the interlaced arcades were popular in Romanesque and Gothic architecture",
+          "refs": []
+        },
+        {
+          "sentence": "Rear-arch (also rere-arch) is the one that frames the internal side of an opening in the external wall",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Structural",
+          "section_content": [
+            {
+              "sentence": "Structurally, relieving arches (often blind or containing) can be used to take off load from some portions of the building (for example, to allow use of thinner exterior walls with larger window openings, or, as in the Roman Pantheon, to redirect the weight of the upper structures to particular strong points)",
+              "refs": []
+            },
+            {
+              "sentence": "Transverse arches, introduced in Carolingian architecture, are placed across the nave to compartmentalize (together with longitudinal separating arches) the internal space into bays and support vaults",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A diaphragm arch similarly goes in the transverse direction, but carries a section of wall on top",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It is used to support or divide sections of the high roof",
+              "refs": []
+            },
+            {
+              "sentence": "Strainer arches were built as an afterthought to prevent two adjacent supports from imploding due to miscalculation",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Frequently they were made very decorative, with one of the best examples provided by the Wells Cathedral",
+              "refs": []
+            },
+            {
+              "sentence": "Strainer arches can be \"inverted\" (upside-down) while remaining structural",
+              "refs": []
+            },
+            {
+              "sentence": "When used across railway cuttings to prevent collapse of the walls, strainer arches may be referred to as flying arches",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A counter-arch is built adjacent to another arch to oppose its horizontal action or help to stabilize it, for example, when constructing a flying buttress",
+              "refs": [
+                "https://historicengland.org.uk/whats-new/news/rare-victorian-railway-arches-saved/",
+                "https://HistoricEngland.org.uk/listing/the-list/list-entry/1072648?section=official-list-entry"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Shapes",
+      "section_content": [
+        {
+          "sentence": "The large variety of arch shapes (left) can mostly be classified into three broad categories: rounded, pointed, and parabolic",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Rounded",
+          "section_content": [
+            {
+              "sentence": "\"Round\" semicircular arches were commonly used for ancient arches that were constructed of heavy masonry,  and were relied heavily on by the Roman builders since the 4th century BC",
+              "refs": [
+                "https://archive.org/details/buildingstructur00ambr"
+              ]
+            },
+            {
+              "sentence": "It is considered to be the most common arch form,  characteristic for Roman, Romanesque, and Renaissance architecture",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A segmental arch, with a rounded shape that is less than a semicircle, is very old (the versions were cut in the rock in Ancient Egypt c",
+              "refs": []
+            },
+            {
+              "sentence": "2100 BC at Beni Hasan)",
+              "refs": []
+            },
+            {
+              "sentence": "Since then it was occasionally used in Greek temples,  utilized in Roman residential construction,  Islamic architecture, and got popular as window pediments during the Renaissance",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A basket-handle arch (also known as depressed arch, three-centred arch, basket arch) consists of segments of three circles with origins at three different centers (sometimes uses five or seven segments, so can also be five-centred, etc.)",
+              "refs": []
+            },
+            {
+              "sentence": "Was used in late Gothic and Baroque architecture",
+              "refs": []
+            },
+            {
+              "sentence": "A horseshoe arch (also known as keyhole arch) has a rounded shape that includes more than a semicircle, is associated with Islamic architecture and was known in areas of Europe with Islamic influence (Spain, Southern France, Italy)",
+              "refs": []
+            },
+            {
+              "sentence": "Occasionally used in Gothics, it briefly enjoyed popularity as the entrance door treatment in the interwar England",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Pointed",
+          "section_content": [
+            {
+              "sentence": "A pointed arch consists of two (\"two-centred arch\" ) or more circle segments culminating in a point at the top",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It originated in the Islamic architecture, arrived in Europe in the second half of the 11th century (Cluny Abbey)  and later became prominent in the Gothic architecture",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The advantages of a pointed arch over a semicircular one are flexible ratio of span to rise  and lower horizontal reaction at the base",
+              "refs": [
+                "https://books.google.com/books?id=LBZ6781vvOwC&q=gothic+architecture",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "This innovation allowed for taller and more closely spaced openings, which are typical of Gothic architecture",
+              "refs": []
+            },
+            {
+              "sentence": "Equilateral arch is the most common form of the pointed arch, with the centers of two circles forming the intrados coinciding with the springing points of the opposite segment",
+              "refs": [
+                "ISBN: 978-1-4392-5944-3",
+                "https://web.archive.org/web/20130313101430/http://dev5.mhhe.com/textflowdev/genhtml/0073379204/13.1.htm"
+              ]
+            },
+            {
+              "sentence": "Together with the apex point, they form a equilateral triangle, thus the name",
+              "refs": []
+            },
+            {
+              "sentence": "If the centers of circles are farther apart, the arch becomes a narrower and sharper lancet arch that appeared in France in the Early Gothic architecture (Saint-Denis Abbey) and became prominent in England in the late 12th and early 13th centuries (Salisbury Cathedral)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "If the centers are closer to another, the result is a wider blunt arch.",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The intrados of the cusped arch (also known as multifoil arch, polyfoil arch, polylobed arch, and scalloped arch) includes several independent circle segments in a scalloped arrangement",
+              "refs": []
+            },
+            {
+              "sentence": "These primarily decorative arches are common in Islamic architecture and Northern European Late Gothic, can be found in Romanesque architecture",
+              "refs": []
+            },
+            {
+              "sentence": "A similar trefoil arch includes only three segments and sometimes has a rounded, not pointed, top",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Common in Islamic architecture and Romanesque buildings influenced by it, it later became popular in the decorative motifs of the Late Gothic designs of Northern Europe",
+              "refs": []
+            },
+            {
+              "sentence": "Each arc of an ogee arch consists of at least two circle segments (for a total of at least four), with the center of an upper circle being outside the extrados",
+              "refs": []
+            },
+            {
+              "sentence": "After European appearance in the 13th century on the facade of the St Mark's Basilica, the arch became a fixture of the English Decorated style, French Flamboyant, Venetian, and other Late Gothic styles",
+              "refs": []
+            },
+            {
+              "sentence": "Ogee arch is also known as reversed curve arch, occasionally also called an inverted arch",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The top of an ogee arch sometimes projects beyond the wall, forming the so-called nodding ogee popular in 14th century England (pulpitum in Southwell Minster)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Each arc of a four-centred arch is made of two circle segments with distinct centers; usually the radius used closer to the springing point is smaller with a more pronounced curvature",
+              "refs": []
+            },
+            {
+              "sentence": "Common in Islamic architecture (Persian arch), and, with upper portion flattened  almost to straight lines (Tudor arch ), in the English Perpendicular Gothic",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A keel arch is a variant of four-centred arch with haunches almost straight, resembling a section view of a capsized ship",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Popular in Islamic architecture, it can be also found in Europe, occasionally with a small ogee element at the top,  so it is sometimes considered to be a variation of an ogee arch",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Curtain arch (also known as inflexed arch, and, like the keel arch, usually decorative ) uses two (or more) drooping curves that join at the apex",
+              "refs": [
+                "http://www.treccani.it/enciclopedia/arco_(Enciclopedia-Italiana)/"
+              ]
+            },
+            {
+              "sentence": "Utilized as a dressing for windows and doors primarily in Saxony in the Late Gothic and early Renaissance buildings (late 15th to early 16th century), associated with Arnold von Westfalen\u00a0 [de]",
+              "refs": []
+            },
+            {
+              "sentence": "When the intrados has multiple concave segments, the arch is also called a draped arch or tented arch",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A similar arch that uses a mixture of curved and straight segments  or exhibits sharp turns between segments  is a mixed-line arch (or mixtilinear arch)",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In Moorish architecture the mixed-line arch evolved into an ornate lambrequin arch,   also known as muqarnas arch.",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Parabolic",
+          "section_content": [
+            {
+              "sentence": "The popularity of the arches using segments of a circle is due to simplicity of layout and construction,  not their structural properties",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Consequently, the architects historically used a variety of other curves in their designs: elliptical curves, hyperbolic cosine curves (including catenary), and parabolic curves",
+              "refs": []
+            },
+            {
+              "sentence": "There are two reasons behind the selection of these curves:",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The hyperbolic curve is not easy to trace, but there are known cases of its use",
+              "refs": []
+            },
+            {
+              "sentence": "The non-circumferential curves look similar, and match at shallow profiles, so a catenary is often misclassified as a parabola  (per Galileo, \"the  [hanging] chain fits its parabola almost perfectly\" )",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Gonz\u00e1lez et al",
+              "refs": []
+            },
+            {
+              "sentence": "provide an example of Palau G\u00fcell, where researchers do not agree on classification of the arches or claim the prominence of parabolic arches, while the measurements show that just two of the 23 arches designed by Gaudi are actually parabolic",
+              "refs": []
+            },
+            {
+              "sentence": "Three parabolic-looking curves in particular are of significance to the arch design: parabola itself, catenary, and weighted catenary",
+              "refs": []
+            },
+            {
+              "sentence": "The arches naturally use the inverted (upside-down) versions of these curves.",
+              "refs": []
+            },
+            {
+              "sentence": "A parabola represents an ideal (all-compression) shape when the load is equally distributed along the span, while the weight of the arch itself is negligible",
+              "refs": []
+            },
+            {
+              "sentence": "A catenary is the best solution for the case where an arch with uniform thickness carries just its own weight with no external load",
+              "refs": []
+            },
+            {
+              "sentence": "The practical designs for bridges are somewhere in between, and thus use the curves that represent a compromise that combines both the catenary and the funicular curve for particular non-uniform distribution of load",
+              "refs": []
+            },
+            {
+              "sentence": "The practical free-standing arches are stronger and thus heavier at the bottom, so a weighted catenary curve is utilized for them",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The same curve also fits well an application where a bridge consists of an arch with a roadway of packed dirt above it, as the dead load increases with a distance from the center",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Other",
+          "section_content": [
+            {
+              "sentence": "Unlike regular arches, the flat arch (also known as jack arch, lintel arch, straight arch, plate-bande )  is not curved",
+              "refs": [
+                "https://books.google.com/books?id=ANY5AAAAMAAJ&pg=PA247"
+              ]
+            },
+            {
+              "sentence": "Instead, the arch is flat in profile and can be used under the same circumstances as lintel",
+              "refs": []
+            },
+            {
+              "sentence": "However, lintels are subject to bending stress, while the flat arches are true arches, composed of irregular voussoir shapes (the keystone is the only one of the symmetric  wedge shape),  and that efficiently uses the compressive strength of the masonry in the same manner as a curved arch and thus requires a mass of masonry on both sides to absorb the considerable lateral thrust",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Used in the Roman architecture to imitate the Greek lintels, Islamic architecture, European medieval and Renaissance architecture",
+              "refs": []
+            },
+            {
+              "sentence": "The flat arch is still being used as a decorative pattern, primarily at the top of window openings",
+              "refs": []
+            }
+          ],
+          "subsections": [
+            {
+              "section_title": "False arches",
+              "section_content": [
+                {
+                  "sentence": "The corbel (also corbelled) arch, made of two corbels meeting in the middle of the span, is a true arch in a sense of being able to carry a load, but it is false in a structural sense, as its components are subject to bending stress",
+                  "refs": []
+                },
+                {
+                  "sentence": "The typical profile is not curved, but has triangular shape",
+                  "refs": []
+                },
+                {
+                  "sentence": "Invented prior to the semicircular arch, the corbel arch was used already in the Egyptian and Mycenaean architecture in the 3rd and 2nd millennium BC",
+                  "refs": []
+                },
+                {
+                  "sentence": "Like a corbel arch, the triangular arch is not a true arch in a structural sense",
+                  "refs": []
+                },
+                {
+                  "sentence": "Its intrados is formed by two slabs leaning against each other",
+                  "refs": []
+                },
+                {
+                  "sentence": "Brick builders would call triangular any arch with straight inclined sides",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "The design was common in Anglo-Saxon England until the late 11th century (St Mary Goslany)",
+                  "refs": [
+                    "https://faculty-legacy.arch.tamu.edu/anichols/index_files/courses/arch631/NS6-1brickarch.pdf"
+                  ]
+                },
+                {
+                  "sentence": "Mayan corbel arches are sometimes called triangular due to their shape",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        },
+        {
+          "section_title": "Variations",
+          "section_content": [
+            {
+              "sentence": "Few transformations can be applied to arch shapes.",
+              "refs": []
+            },
+            {
+              "sentence": "If one impost is much higher than another, the arch (frequently pointed) is known as ramping arch, raking arch,  or rampant arch (from French: arc rampant)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Originally used to support inclined structures, like stairs, in the 13th-14th centuries they appeared as parts of flying buttresses used to counteract the thrust of Gothic ribbed vaults",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A central part of an arch can be raised on short vertical supports, creating a trefoil-like shouldered arch",
+              "refs": []
+            },
+            {
+              "sentence": "The raised central part can vary all the way from a flat arch to ogee",
+              "refs": []
+            },
+            {
+              "sentence": "The shouldered arches were used to decorate openings in Europe from medieval times to Late Gothic architecture, became common in Iranian architecture from the 14th century, and were later adopted in the Ottoman Turkey",
+              "refs": []
+            },
+            {
+              "sentence": "In a stilted arch (also surmounted ), the springing line is located above the imposts (on \"stilts\")",
+              "refs": [
+                "https://www.merriam-webster.com/dictionary/surmounted%20arch"
+              ]
+            },
+            {
+              "sentence": "Known to Islamic architects by the 8th century, the technique was utilized to vertically align the apexes of arches of different dimensions in Romanesque and Gothic architecture",
+              "refs": []
+            },
+            {
+              "sentence": "Stilting was useful for semicircular arches, where the ratio of the rise fixed at 1\u20442 of the span, but was applied to the pointed arches, too.",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The skew arch (also known as an oblique arch) is used when the arch needs to form an oblique angle in the horizontal plane with respect to the (parallel) springings,   for example, when a bridge crosses the river at an angle different than 90\u00b0",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A splayed arch is used for the case of unequal spans on the sides of the arch (when, for example, an interior opening in the wall is larger than the exterior one), the intrados of a round splayed arch is not cylindrical, but has a conical shape",
+              "refs": []
+            },
+            {
+              "sentence": "A wide arch with its rise less than 1\u20442 of the span (and thus the geometric circle of at least one segment is below the springing line) is called a surbased arch  (sometimes also a depressed arch )",
+              "refs": [
+                "https://www.merriam-webster.com/dictionary/surbased",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A drop arch is either a basket handle arch  or a blunt arch",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Hinged arches",
+      "section_content": [
+        {
+          "sentence": "The practical arch bridges are built either as a fixed arch, a two-hinged arch, or a three-hinged arch",
+          "refs": []
+        },
+        {
+          "sentence": "The fixed arch is most often used in reinforced concrete bridges and tunnels, which have short spans",
+          "refs": [
+            "https://books.google.com/books?id=hrOfsy89QxkC&q=three-hinged+arch+statically+determinate&pg=PA41"
+          ]
+        },
+        {
+          "sentence": "Because it is subject to additional internal stress from thermal expansion and contraction, this kind of arch is statically indeterminate (the internal state is impossible to determine based on the external forces alone)",
+          "refs": []
+        },
+        {
+          "sentence": "The two-hinged arch is most often used to bridge long spans",
+          "refs": []
+        },
+        {
+          "sentence": "This kind of arch has pinned connections at its base",
+          "refs": [
+            "https://archive.org/details/buildingstructur00ambr"
+          ]
+        },
+        {
+          "sentence": "Unlike that of the fixed arch, the pinned base can rotate,  thus allowing the structure to move freely and compensate for the thermal expansion and contraction that changes in outdoor temperature cause",
+          "refs": [
+            "http://web.mit.edu/4.441/1_lectures/1_lecture13/1_lecture13.html"
+          ]
+        },
+        {
+          "sentence": "However, this can result in additional stresses, and therefore the two-hinged arch is also statically indeterminate, although not as much as the fixed arch",
+          "refs": []
+        },
+        {
+          "sentence": "The three-hinged arch is not only hinged at its base, like the two-hinged arch, yet also at its apex",
+          "refs": []
+        },
+        {
+          "sentence": "The additional apical connection allows the three-hinged arch to move in two opposite directions and compensate for any expansion and contraction",
+          "refs": []
+        },
+        {
+          "sentence": "This kind of arch is thus not subject to additional stress from thermal change",
+          "refs": []
+        },
+        {
+          "sentence": "Unlike the other two kinds of arch, the three-hinged arch is therefore statically determinate",
+          "refs": []
+        },
+        {
+          "sentence": "It is most often used for spans of medial length, such as those of roofs of large buildings",
+          "refs": [
+            "https://books.google.com/books?id=hrOfsy89QxkC&q=three-hinged+arch+statically+determinate&pg=PA41"
+          ]
+        },
+        {
+          "sentence": "Another advantage of the three-hinged arch is that the reaction of the pinned bases is more predictable than the one for the fixed arch, allowing shallow, bearing-type foundations in spans of medial length",
+          "refs": []
+        },
+        {
+          "sentence": "In the three-hinged arch \"thermal expansion and contraction of the arch will cause vertical movements at the peak pin joint but will have no appreciable effect on the bases,\" which further simplifies foundational design",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "History",
+      "section_content": [
+        {
+          "sentence": "The arch became popular in the Roman times and mostly spread alongside the European influence, although it was known and occasionally used much earlier",
+          "refs": []
+        },
+        {
+          "sentence": "Many ancient architectures avoided the use of arches, including the Viking and Hindu ones",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Bronze Age: ancient Near East",
+          "section_content": [
+            {
+              "sentence": "True arches, as opposed to corbel arches, were known by a number of civilizations in the ancient Near East including the Levant, but their use was infrequent and mostly confined to underground structures, such as drains where the problem of lateral thrust is greatly diminished",
+              "refs": []
+            },
+            {
+              "sentence": "An example of the latter would be the Nippur arch, built before 3800 BC,  and dated by  H",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://www.jstor.org/stable/496542"
+              ]
+            },
+            {
+              "sentence": "V",
+              "refs": []
+            },
+            {
+              "sentence": "Hilprecht\u00a0(1859\u20131925) to even before 4000 BC",
+              "refs": []
+            },
+            {
+              "sentence": "Rare exceptions are an arched mudbrick home doorway dated to c.\u20092000\u00a0BC from Tell Taya in Iraq  and two Bronze Age arched Canaanite city gates, one at Ashkelon (dated to c.\u20091850 BC),  and one at Tel Dan (dated to c.\u20091750 BC), both in modern-day Israel",
+              "refs": [
+                "https://www.ccel.org/ccel/schaff/encyc01.html?term=Babylonia",
+                "https://doi.org/10.2307%2F4199854",
+                "https://web.archive.org/web/20130814034938/http://www.jpost.com/Local-Israel/Around-Israel/Oldest-arched-gate-in-the-world-restored"
+              ]
+            },
+            {
+              "sentence": "An Elamite tomb dated 1500 BC from Haft Teppe contains a parabolic vault which is considered one of the earliest evidences of arches in Iran.",
+              "refs": [
+                "https://books.google.com/books?id=jpbngoKHg8gC&pg=PA177",
+                "https://www.sciencedirect.com/science/article/abs/pii/S0950061812004849"
+              ]
+            },
+            {
+              "sentence": "The use of true arches in Egypt also originated in the 4th millennium BC (underground barrel vaults at the Dendera cemetery)",
+              "refs": []
+            },
+            {
+              "sentence": "Standing arches were known since at least the Third Dynasty, but very few examples survived, since the arches were mostly used in non-durable secular buildings and made of mud brick voussoirs that were not wedge-shaped, but simply held in place by mortar, and thus susceptible to a collapse (the oldest arch still standing is at Ramesseum)",
+              "refs": []
+            },
+            {
+              "sentence": "Sacred buildings exhibited either lintel design or corbelled arches",
+              "refs": []
+            },
+            {
+              "sentence": "Arches were mostly missing in Egypt temples even after the Roman conquest, even though Egyptians thought of the arch as a spiritual shape and used it in the rock-cut tombs and portable shrines",
+              "refs": []
+            },
+            {
+              "sentence": "Auguste Mariette suggested that this choice was based on a relative fragility of a vault: \"what would remain of the tombs and temples of Egyptians today, if they had preferred the vault?\"",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "http://www.treccani.it/enciclopedia/arco_(Enciclopedia-Italiana)/"
+              ]
+            },
+            {
+              "sentence": "Mycenaean architecture utilized only the corbel arches in their beehive tombs with triangular openings",
+              "refs": []
+            },
+            {
+              "sentence": "Mycenaeans had also built probably the oldest still standing [citation needed] stone-arch bridge in the world, Arkadiko Bridge, in Greece",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "As evidenced by their imitations of the parabolic arches, Hittites most likely were exposed to the Egyptian designs, but used the corbelled technique to build them",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Classical Persia and Greece",
+          "section_content": [
+            {
+              "sentence": "The Assyrians, also apparently under the Egyptian influence, adopted the true arch (with a slightly pointed profile) early in the 8th century",
+              "refs": []
+            },
+            {
+              "sentence": "In ancient Persia, the Achaemenid Empire (550 BC\u2013330 BC) built small barrel vaults (essentially a series of arches built together to form a hall) known as iwan, which became massive, monumental structures during the later Parthian Empire (247 BC\u2013AD 224)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "This architectural tradition was continued by the Sasanian Empire (224\u2013651), which built the Taq Kasra at Ctesiphon in the 6th century AD, the largest free-standing vault until modern times",
+              "refs": [
+                "ISBN: 0-415-32089-5",
+                "ISBN: 1-55786-860-3",
+                "ISBN: 0-521-20092-X"
+              ]
+            },
+            {
+              "sentence": "An early European example of a voussoir arch appears in the 4th century BC Greek Rhodes Footbridge",
+              "refs": []
+            },
+            {
+              "sentence": "Proto-true arches can also be found under the stairs of the temple of Apollo at Didyma and the stadium at Olympia",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": ".",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Ancient Rome",
+          "section_content": [
+            {
+              "sentence": "The ancient Romans learned the semicircular arch from the Etruscans (both cultures apparently adopted the design in the 4th century BC ), refined it and were the first builders in Europe to tap its full potential for above ground buildings:",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Throughout the Roman Empire, from Syria to Scotland, engineers erected arch structures",
+              "refs": []
+            },
+            {
+              "sentence": "The first use of arches was for civic structures, like drains and city gates",
+              "refs": []
+            },
+            {
+              "sentence": "Later the arches were utilized for major civic buildings bridges and aqueducts, with the outstanding 1st century AD examples provided by the Colosseum, Pont Du Gard, and the aqueduct of Segovia",
+              "refs": []
+            },
+            {
+              "sentence": "The introduction of the ceremonial triumphal arch dates back to Roman Republic, although the best examples are from the imperial times (Arch of Augustus at Susa, Arch of Titus)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Romans initially avoided using the arch in the religious buildings and, in Rome, arched temples were quite rare until the recognition of Christianity in 313 AD (with the exceptions provided by the Pantheon and the \"temple of Minerva Medica\" [verification needed])",
+              "refs": []
+            },
+            {
+              "sentence": "Away from the capital, arched temples were more common (temple of Hadrian at Ephesus\u00a0 [de], temple of Jupiter at Sbeitla, Severan temple at Djemila)",
+              "refs": []
+            },
+            {
+              "sentence": "Arrival of Christianity prompted creation of the new type of temple, a Christian basilica, that made a thorough break with the pagan tradition with arches as one of the main elements of the design, along with the  exposed brick walls (Santa Sabina in Rome, Sant'Apollinare in Classe)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "For a long period, from the late 5th century to the 20th century, arcades were a standard staple for the Western Christian architecture",
+              "refs": []
+            },
+            {
+              "sentence": "Vaults began to be used for roofing large interior spaces such as halls and temples, a function that was also assumed by domed structures from the 1st century BC onwards.",
+              "refs": []
+            },
+            {
+              "sentence": "The segmental arch was first built by the Romans who realized that an arch in a bridge did not have to be a semicircle,   such as in Alcon\u00e9tar Bridge or Ponte San Lorenzo",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The utilitarian and mass residential (insulae) buildings, as found in Ostia Antica and Pompeii, mostly used low segmental arches made of bricks and architraves made of wood, while the concrete lintel arches can be found in villas and palaces",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Ancient China",
+          "section_content": [
+            {
+              "sentence": "Ancient architecture of China (and Japan) used mostly timber-framed construction and trabeated system",
+              "refs": []
+            },
+            {
+              "sentence": "Arches were little-used, although there are few arch bridges known from literature and one artistic depiction in stone-carved relief",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Since the only surviving artefacts of architecture from the Han dynasty (202\u00a0BC \u2013 220\u00a0AD) are rammed earth defensive walls and towers, ceramic roof tiles from no longer existent wooden buildings,    stone gate towers,   and underground brick tombs, the known vaults, domes, and archways were built with the support of the earth and were not free-standing",
+              "refs": [
+                "ISBN: 0-521-07060-0",
+                "ISBN: 0-521-05803-1",
+                "ISBN: 0-300-09559-7",
+                "ISBN: 0-300-02723-0",
+                "ISBN: 0-472-11534-0",
+                "ISBN: 0-07-141279-4",
+                "ISBN: 0-300-09559-7",
+                "ISBN: 0-300-10797-8"
+              ]
+            },
+            {
+              "sentence": "China's oldest surviving stone arch bridge is the Anji Bridge",
+              "refs": []
+            },
+            {
+              "sentence": "Still in use, it was built between 595 CE and 605 CE during the Sui dynasty",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Islamic",
+          "section_content": [
+            {
+              "sentence": "Islamic architects adopted the Roman arches, but had quickly shown their resourcefulness: by the 8th century the simple semicircular arch was almost entirely replaced with fancier shapes, few fine examples of the former in the Umayyad architecture notwithstanding (cf",
+              "refs": []
+            },
+            {
+              "sentence": "the Great Mosque of Damascus, 706\u2013715 CE)",
+              "refs": []
+            },
+            {
+              "sentence": "The first pointed arches appear already at the end of the 7th century AD (Al-Aqsa Mosque, Palace of Ukhaidhir, cisterns at the White Mosque of Ramle  )",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Their variations spread fast and wide: Mosque of Ibn Tulun in Cairo (876-879 AD), Nizamiyya Madrasa at Khar Gerd (now Iran, 11th century), Kongo Mosque in Diani Beach (Kenya, 16th century)",
+              "refs": []
+            },
+            {
+              "sentence": "Islamic architecture brought to life a large amount of arch forms: the round horseshoe arch that became a characteristic trait of the Islamic buildings, the keel arch, the cusped arch,  and the mixed-line arch (where the curved \"ogee swell\" is interspersed with abrupt bends)",
+              "refs": []
+            },
+            {
+              "sentence": "The Great Mosque of Cordoba, that can be considered a catalogue of Islamic arches, contains also the arches with almost straight sides, trefoil, interlaced, and joggled",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Mosque of Ibn Tulun adds four-centred and stilted version of the pointed arch",
+              "refs": []
+            },
+            {
+              "sentence": "It is quite likely that the appearance of the pointed arch, an essential element of the Gothic style, in Europe (Monte Cassino, 1066\u20131071 AD, and the Cluny Abbey five years later) and the ogee arch in Venice (c",
+              "refs": []
+            },
+            {
+              "sentence": "1250) is a result of the Islamic influence,   possibly through Sicily",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Saoud  also credits to Islamic architects the spread of the transverse arch",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Mixed-line arch became popular in the Mud\u00e9jar style and subsequently spread around the Spanish-speaking world",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Western Europe",
+          "section_content": [
+            {
+              "sentence": "The collapse of the Western Roman Empire left the church as the only client of major construction; with all pre-Romanesque architectural styles borrowing from Roman construction with its semicircular arch",
+              "refs": []
+            },
+            {
+              "sentence": "Due to the decline in the construction quality, the walls were thicker, and the arches thus heavier, than their Roman prototypes",
+              "refs": []
+            },
+            {
+              "sentence": "Eventually the architects started to use the depth of the arches for decoration, turning the deep opening into an arch order (or rebated arch, a sequence of progressively smaller concentric arches, each inset with a rebate)",
+              "refs": []
+            },
+            {
+              "sentence": "Romanesque style started experiments with the pointed arch late in the 11th century (Cluny Abbey)",
+              "refs": []
+            },
+            {
+              "sentence": "In few decades, the practice spread (Durham Cathedral, Basilica of Saint-Denis)",
+              "refs": []
+            },
+            {
+              "sentence": "Early Gothic utilized the flexibility of the pointed arch by grouping together arches of different spans but with the same height",
+              "refs": []
+            },
+            {
+              "sentence": "While the arches used in the mediaeval Europe were borrowed from the Roman and Islamic architecture, the use of pointed arch to form the rib vault was novel and became the defining characteristic of Gothic construction",
+              "refs": []
+            },
+            {
+              "sentence": "At about 1400 AD, the city-states of Italy, where the pointed arch had never gotten much traction, initiated the revival of the Roman style with its round arches, Renaissance",
+              "refs": []
+            },
+            {
+              "sentence": "By the 16th century the new style spread across Europe and, through the influence of empires, to the rest of the world",
+              "refs": []
+            },
+            {
+              "sentence": "Arch became a dominant architectural form until the introduction of the new construction materials, like steel and concrete",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "India",
+          "section_content": [
+            {
+              "sentence": "The history of arch in India is very long (some arches were apparently found in excavations of Kosambi, 2nd millennium BC",
+              "refs": []
+            },
+            {
+              "sentence": "However, the continuous history begins with rock-cut arches in the Lomas Rishi cave (3rd century BC)",
+              "refs": []
+            },
+            {
+              "sentence": "Vaulted roof of an early Harappan burial chamber has been noted at Rakhigarhi",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "S.R Rao reports vaulted roof of a small chamber in a house from Lothal",
+              "refs": [
+                "https://books.google.com/books?id=1AJO2A-CbccC&q=vaulting+rakhigarhi+burial&pg=PA293"
+              ]
+            },
+            {
+              "sentence": "Barrel vaults were also used in the Late Harappan Cemetery H culture dated 1900 BC-1300 BC which formed the roof of the metal working furnace, the discovery was made by Vats in 1940 during excavation at Harappa",
+              "refs": [
+                "https://books.google.com/books?id=LmRuAAAAMAAJ&q=vaulted+roof+lothal"
+              ]
+            },
+            {
+              "sentence": "The use of arches until the Islamic conquest of India in the 12th century AD was sporadic, with ogee arches and barrel vaults in rock-cut temples (Karla Caves, from the 1st century BC) and decorative pointed gavaksha arches",
+              "refs": []
+            },
+            {
+              "sentence": "By the 5th century AD voussoir vaults were used structurally in the brick construction",
+              "refs": []
+            },
+            {
+              "sentence": "Surviving examples include the temple at Bhitargaon (5th century AD) and Mahabodhi temple (7th century AD), the latter has both pointed arches and semicircular arches",
+              "refs": []
+            },
+            {
+              "sentence": "These Gupta era arch vault system was later used extensively in Burmese Buddhist temples in Pyu and Bagan in 11th and 12th centuries",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://web.archive.org/web/20180702133648/https://books.google.com/books?id=wiUTOanLClcC&pg=PA9&lpg=PA9#v=onepage&f=false"
+              ]
+            },
+            {
+              "sentence": "With the arrival of Islamic and other Western Asia influence, the arches became prominent in the Indian architecture, although the post and lintel construction was still preferred",
+              "refs": []
+            },
+            {
+              "sentence": "A variety of pointed and lobed arches was characteristic for the Indo-Islamic architecture, with the monumental example of Buland Darwaza, that has pointed arch decorated with small cusped arches",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Pre-Columbian America",
+          "section_content": [
+            {
+              "sentence": "Mayan architecture utilized the corbel arches",
+              "refs": []
+            },
+            {
+              "sentence": "The other Mesoamerican cultures used only the flat roofs with no arches whatsoever,  although some researchers had suggested that both Maya and Aztec architects understood the concept of a true arch",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Revival of the trabeated system",
+          "section_content": [
+            {
+              "sentence": "The 19th-century introduction of the wrought iron (and later steel) into construction changed the role of the arch",
+              "refs": []
+            },
+            {
+              "sentence": "Due to the high tensile strength of new materials, relatively long lintels became possible, as was demonstrated  by the tubular Britannia Bridge (Robert Stephenson, 1846-1850)",
+              "refs": []
+            },
+            {
+              "sentence": "A fervent proponent of the trabeated system, Alexander \"Greek\" Thomson, whose preference for lintels was originally based on aesthetic criteria, observed that the spans of this bridge are longer than that of any arch ever built, thus \"the simple, unsophisticated stone lintel contains in its structure all the scientific appliances  [...] used in the great tubular bridge",
+              "refs": []
+            },
+            {
+              "sentence": "[...] Stonehenge is more scientifically constructed than York Minster.\"  Use of arches in bridge construction continued (the Britannia Bridge was rebuilt in 1972 as a truss arch bridge), yet the steel frames and reinforced concrete frames mostly replaced the arches as the load-bearing elements in buildings.",
+              "refs": [
+                "https://doi.org/10.2307%2F991404"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Construction",
+      "section_content": [
+        {
+          "sentence": "As a pure compression form, the utility of the arch is due to many building materials, including stone and unreinforced concrete, being strong under compression, but brittle when tensile stress is applied to them",
+          "refs": []
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Masonry",
+          "section_content": [
+            {
+              "sentence": "The voussoirs can be wedge-shaped or have a form of a rectangular cuboid, in the latter case the wedge-like shape is provided by the mortar",
+              "refs": []
+            },
+            {
+              "sentence": "An arch is held in place by the weight of all of its members, making construction problematic",
+              "refs": []
+            },
+            {
+              "sentence": "One answer is to build a frame (historically, of wood) which exactly follows the form of the underside of the arch",
+              "refs": []
+            },
+            {
+              "sentence": "This is known as a centre or centring",
+              "refs": []
+            },
+            {
+              "sentence": "Voussoirs are laid on it until the arch is complete and self-supporting",
+              "refs": []
+            },
+            {
+              "sentence": "For an arch higher than head height, scaffolding would be required, so it could be combined with the arch support",
+              "refs": []
+            },
+            {
+              "sentence": "Arches may fall when the frame is removed if design or construction has been faulty",
+              "refs": []
+            },
+            {
+              "sentence": "[citation needed]",
+              "refs": []
+            },
+            {
+              "sentence": "Old arches sometimes need reinforcement due to decay of the keystones, forming what is known as bald arch.",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Reinforced concrete",
+          "section_content": [
+            {
+              "sentence": "In reinforced concrete construction, the principle of the arch is used so as to benefit from the concrete's strength in resisting compressive stress",
+              "refs": []
+            },
+            {
+              "sentence": "Where any other form of stress is raised, such as tensile or torsional stress, it has to be resisted by carefully placed reinforcement rods or fibres",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Architectural styles",
+      "section_content": [
+        {
+          "sentence": "The type of arches (or absence of them) is one of the most prominent characteristics of an architectural style",
+          "refs": []
+        },
+        {
+          "sentence": "For example, when Heinrich H\u00fcbsch, in the 19th century, tried to classify the architectural style, his \"primary elements\" were roof and supports, with the top-level basic types: trabeated (no arches) and arcuated (arch-based)",
+          "refs": []
+        },
+        {
+          "sentence": "His next division for the arcuated styles was based on the use of round and pointed arch shapes",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Cultural references",
+      "section_content": [
+        {
+          "sentence": "The steady horizontal push of an arch against the abutments gave rise to a saying \"the arch never sleeps\", attributed to many sources, from Hindu  to Arabs",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "This adage stresses that the arch carries \"a seed of death\" for itself and the structure containing it, a statement that can be made upon observation of the Roman ruins",
+          "refs": [
+            "http://www.treccani.it/enciclopedia/arco_(Enciclopedia-Italiana)/"
+          ]
+        },
+        {
+          "sentence": "The plot of The Nebuly Coat by J",
+          "refs": [
+            "http://www.treccani.it/enciclopedia/arco_(Enciclopedia-Italiana)/"
+          ]
+        },
+        {
+          "sentence": "Meade Falkner, inspired by a collapse of a tower at the Chichester Cathedral plays with the idea while dealing with the slow disintegration of a church building",
+          "refs": []
+        },
+        {
+          "sentence": "Saoud  explains the proverb by chain-like self-balancing of the horizontal and vertical forces in the arch and its \"universal adaptability\"",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "References",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "Sources",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "External links",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "1": "[ERROR retrieving ref link]",
+    "2": "[ERROR retrieving ref link]",
+    "3": "[ERROR retrieving ref link]",
+    "4": "[ERROR retrieving ref link]",
+    "5": "[ERROR retrieving ref link]",
+    "6": "https://www.britannica.com/EBchecked/topic/32510",
+    "7": "[ERROR retrieving ref link]",
+    "8": "[ERROR retrieving ref link]",
+    "9": "[ERROR retrieving ref link]",
+    "10": "[ERROR retrieving ref link]",
+    "11": "[ERROR retrieving ref link]",
+    "12": "[ERROR retrieving ref link]",
+    "13": "https://www.merriam-webster.com/dictionary/rowlock%20arch",
+    "14": "[ERROR retrieving ref link]",
+    "15": "[ERROR retrieving ref link]",
+    "16": "[ERROR retrieving ref link]",
+    "17": "[ERROR retrieving ref link]",
+    "18": "[ERROR retrieving ref link]",
+    "19": "https://www.merriam-webster.com/dictionary/arcature",
+    "20": "[ERROR retrieving ref link]",
+    "21": "[ERROR retrieving ref link]",
+    "22": "[ERROR retrieving ref link]",
+    "23": "[ERROR retrieving ref link]",
+    "24": "[ERROR retrieving ref link]",
+    "25": "[ERROR retrieving ref link]",
+    "26": "[ERROR retrieving ref link]",
+    "27": "http://www.treccani.it/enciclopedia/arco_(Enciclopedia-Italiana)/",
+    "28": "[ERROR retrieving ref link]",
+    "29": "[ERROR retrieving ref link]",
+    "30": "[ERROR retrieving ref link]",
+    "31": "[ERROR retrieving ref link]",
+    "32": "ISBN: 3-572-05927-5",
+    "33": "[ERROR retrieving ref link]",
+    "34": "[ERROR retrieving ref link]",
+    "35": "[ERROR retrieving ref link]",
+    "36": "[ERROR retrieving ref link]",
+    "37": "[ERROR retrieving ref link]",
+    "38": "[ERROR retrieving ref link]",
+    "39": "[ERROR retrieving ref link]",
+    "40": "[ERROR retrieving ref link]",
+    "41": "[ERROR retrieving ref link]",
+    "42": "https://historicengland.org.uk/whats-new/news/rare-victorian-railway-arches-saved/",
+    "43": "https://HistoricEngland.org.uk/listing/the-list/list-entry/1072648?section=official-list-entry",
+    "44": "[ERROR retrieving ref link]",
+    "45": "https://archive.org/details/buildingstructur00ambr",
+    "46": "https://archive.org/details/buildingstructur00ambr",
+    "47": "[ERROR retrieving ref link]",
+    "48": "[ERROR retrieving ref link]",
+    "49": "[ERROR retrieving ref link]",
+    "50": "[ERROR retrieving ref link]",
+    "51": "[ERROR retrieving ref link]",
+    "52": "[ERROR retrieving ref link]",
+    "53": "[ERROR retrieving ref link]",
+    "54": "[ERROR retrieving ref link]",
+    "55": "https://books.google.com/books?id=LBZ6781vvOwC&q=gothic+architecture",
+    "56": "[ERROR retrieving ref link]",
+    "57": "ISBN: 978-1-4392-5944-3",
+    "58": "https://web.archive.org/web/20130313101430/http://dev5.mhhe.com/textflowdev/genhtml/0073379204/13.1.htm",
+    "59": "[ERROR retrieving ref link]",
+    "60": "[ERROR retrieving ref link]",
+    "61": "[ERROR retrieving ref link]",
+    "62": "[ERROR retrieving ref link]",
+    "63": "[ERROR retrieving ref link]",
+    "64": "[ERROR retrieving ref link]",
+    "65": "[ERROR retrieving ref link]",
+    "66": "[ERROR retrieving ref link]",
+    "67": "[ERROR retrieving ref link]",
+    "68": "[ERROR retrieving ref link]",
+    "69": "[ERROR retrieving ref link]",
+    "70": "[ERROR retrieving ref link]",
+    "71": "[ERROR retrieving ref link]",
+    "72": "[ERROR retrieving ref link]",
+    "73": "[ERROR retrieving ref link]",
+    "74": "[ERROR retrieving ref link]",
+    "75": "[ERROR retrieving ref link]",
+    "76": "[ERROR retrieving ref link]",
+    "77": "[ERROR retrieving ref link]",
+    "78": "[ERROR retrieving ref link]",
+    "79": "[ERROR retrieving ref link]",
+    "80": "[ERROR retrieving ref link]",
+    "81": "[ERROR retrieving ref link]",
+    "82": "[ERROR retrieving ref link]",
+    "83": "[ERROR retrieving ref link]",
+    "84": "[ERROR retrieving ref link]",
+    "85": "https://books.google.com/books?id=ANY5AAAAMAAJ&pg=PA247",
+    "86": "[ERROR retrieving ref link]",
+    "87": "[ERROR retrieving ref link]",
+    "88": "https://faculty-legacy.arch.tamu.edu/anichols/index_files/courses/arch631/NS6-1brickarch.pdf",
+    "89": "[ERROR retrieving ref link]",
+    "90": "[ERROR retrieving ref link]",
+    "91": "[ERROR retrieving ref link]",
+    "92": "http://www.treccani.it/enciclopedia/arco_(Enciclopedia-dell'-Arte-Medievale)/",
+    "93": "[ERROR retrieving ref link]",
+    "94": "https://www.merriam-webster.com/dictionary/surmounted%20arch",
+    "95": "[ERROR retrieving ref link]",
+    "96": "[ERROR retrieving ref link]",
+    "97": "[ERROR retrieving ref link]",
+    "98": "https://www.merriam-webster.com/dictionary/splayed%20arch",
+    "99": "https://www.merriam-webster.com/dictionary/surbased",
+    "100": "[ERROR retrieving ref link]",
+    "101": "[ERROR retrieving ref link]",
+    "102": "https://www.merriam-webster.com/dictionary/drop%20arch",
+    "103": "https://books.google.com/books?id=hrOfsy89QxkC&q=three-hinged+arch+statically+determinate&pg=PA41",
+    "104": "http://web.mit.edu/4.441/1_lectures/1_lecture13/1_lecture13.html",
+    "105": "[ERROR retrieving ref link]",
+    "106": "https://www.jstor.org/stable/496542",
+    "107": "https://www.ccel.org/ccel/schaff/encyc01.html?term=Babylonia",
+    "108": "https://doi.org/10.2307%2F4199854",
+    "109": "https://web.archive.org/web/20130814034938/http://www.jpost.com/Local-Israel/Around-Israel/Oldest-arched-gate-in-the-world-restored",
+    "110": "https://books.google.com/books?id=jpbngoKHg8gC&pg=PA177",
+    "111": "https://www.sciencedirect.com/science/article/abs/pii/S0950061812004849",
+    "112": "[ERROR retrieving ref link]",
+    "113": "ISBN: 0-415-32089-5",
+    "114": "ISBN: 1-55786-860-3",
+    "115": "ISBN: 0-521-20092-X",
+    "116": "[ERROR retrieving ref link]",
+    "117": "[ERROR retrieving ref link]",
+    "118": "[ERROR retrieving ref link]",
+    "119": "https://archive.org/details/greekromanarchit0000robe/page/231/mode/1up",
+    "120": "[ERROR retrieving ref link]",
+    "121": "[ERROR retrieving ref link]",
+    "122": "ISBN: 0-521-07060-0",
+    "123": "ISBN: 0-521-05803-1",
+    "124": "ISBN: 0-300-09559-7",
+    "125": "ISBN: 0-300-02723-0",
+    "126": "ISBN: 0-472-11534-0",
+    "127": "ISBN: 0-07-141279-4",
+    "128": "ISBN: 0-300-09559-7",
+    "129": "ISBN: 0-300-10797-8",
+    "130": "ISBN: 0-300-02723-0",
+    "131": "ISBN: 0-300-08284-3",
+    "132": "ISBN: 978-0-8048-3884-9",
+    "133": "ISBN: 0-521-29286-7",
+    "134": "[ERROR retrieving ref link]",
+    "135": "[ERROR retrieving ref link]",
+    "136": "[ERROR retrieving ref link]",
+    "137": "[ERROR retrieving ref link]",
+    "138": "[ERROR retrieving ref link]",
+    "139": "https://books.google.com/books?id=1AJO2A-CbccC&q=vaulting+rakhigarhi+burial&pg=PA293",
+    "140": "https://books.google.com/books?id=LmRuAAAAMAAJ&q=vaulted+roof+lothal",
+    "141": "https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol53_3_2018__Art04.pdf",
+    "142": "[ERROR retrieving ref link]",
+    "143": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1999_Metal%20Technologies%20of%20the%20Indus%20Valley%20Tradition.pdf",
+    "144": "https://web.archive.org/web/20180702133648/https://books.google.com/books?id=wiUTOanLClcC&pg=PA9&lpg=PA9#v=onepage&f=false",
+    "145": "https://books.google.com/books?id=9jb364g4BvoC&q=mahabodhi+temple+arch+cunningham&pg=PA246",
+    "146": "[ERROR retrieving ref link]",
+    "147": "https://www.journals.uchicago.edu/doi/abs/10.1086/200506?journalCode=ca",
+    "148": "https://www.journals.uchicago.edu/doi/abs/10.1086/200668?journalCode=ca",
+    "149": "https://doi.org/10.2307%2F991404",
+    "150": "https://books.google.com/books?id=J42yn0icWAcC&q=concrete,+like+stone,+is+strong+in+compression+but+weak+in+tension&pg=PA12",
+    "151": "https://archive.org/details/fundamentalsbuil00alle",
+    "152": "[ERROR retrieving ref link]",
+    "153": "[ERROR retrieving ref link]",
+    "154": "[ERROR retrieving ref link]",
+    "155": "[ERROR retrieving ref link]"
+  },
+  "flair_entities": [
+    "ce",
+    "heinrich h\u00fcbsch",
+    "hilprecht",
+    "taq kasra",
+    "al-aqsa mosque",
+    "saoud",
+    "arch",
+    "nippur",
+    "sbeitla",
+    "assyrians",
+    "levant",
+    "mary goslany",
+    "third dynasty",
+    "sasanian empire",
+    "anglo-saxon england",
+    "ephesus",
+    "archivolt",
+    "ottoman turkey",
+    "canaanite",
+    "israel",
+    "monte cassino",
+    "mesoamerican",
+    "bc",
+    "arnold von westfalen",
+    "mahabodhi",
+    "bronze age",
+    "roman",
+    "classe",
+    "greece",
+    "spanish-speaking",
+    "chichester cathedral",
+    "wells cathedral",
+    "ashkelon",
+    "roman republic",
+    "great mosque",
+    "arch of titus",
+    "basilica of saint-denis",
+    "ostia antica",
+    "kenya",
+    "france",
+    "french",
+    "tel dan",
+    "indian",
+    "scotland",
+    "arabs",
+    "near east",
+    "didyma",
+    "renaissance",
+    "sicily",
+    "4th millennium bc",
+    "nizamiyya madrasa",
+    "severan",
+    "york minster",
+    "romans",
+    "galileo",
+    "hindu",
+    "palace of ukhaidhir",
+    "christianity",
+    "pompeii",
+    "gothic",
+    "bagan",
+    "pre-columbian america  mayan",
+    "olympia",
+    "ancient romans",
+    "haft teppe",
+    "rome",
+    "early christian",
+    "beni hasan",
+    "english",
+    "jupiter",
+    "carolingian",
+    "robert hooke",
+    "arch of augustus",
+    "mayan",
+    "spain",
+    "mycenaean",
+    "islamic",
+    "persian",
+    "western europe",
+    "khar gerd",
+    "greek",
+    "hadrian",
+    "ponte san lorenzo",
+    "damascus",
+    "european",
+    "romanesque",
+    "durham cathedral",
+    "gonz\u00e1lez",
+    "saint-denis abbey",
+    "parthian empire",
+    "ctesiphon",
+    "western asia",
+    "gothics",
+    "han",
+    "southwell minster",
+    "harappan",
+    "palau g\u00fcell",
+    "susa",
+    "auguste mariette",
+    "sant'apollinare",
+    "harappa",
+    "djemila",
+    "rakhigarhi",
+    "arkadiko bridge",
+    "alcon\u00e9tar bridge",
+    "japan",
+    "umayyad",
+    "alexander \"greek\" thomson",
+    "venice",
+    "robert stephenson",
+    "pantheon",
+    "india",
+    "buland darwaza",
+    "santa sabina",
+    "roman empire",
+    "late gothic",
+    "saxony",
+    "voussoirs",
+    "cluny abbey",
+    "christian",
+    "st mark's basilica",
+    "bhitargaon",
+    "ramle",
+    "mud\u00e9jar",
+    "burmese buddhist",
+    "ancient egypt",
+    "vats",
+    "cairo",
+    "ogee",
+    "egyptian",
+    "gaudi",
+    "ibn tulun",
+    "baroque",
+    "western roman empire",
+    "rhodes footbridge",
+    "dendera",
+    "roman pantheon",
+    "europe",
+    "northern europe",
+    "moorish",
+    "persia",
+    "western christian",
+    "britannia bridge",
+    "indo-islamic",
+    "meade falkner",
+    "mycenaeans",
+    "viking",
+    "etruscans",
+    "venetian",
+    "kongo mosque",
+    "great mosque of cordoba",
+    "tudor",
+    "elamite",
+    "minerva medica",
+    "iranian",
+    "bc greek",
+    "iran",
+    "ramesseum",
+    "pont du gard",
+    "near east  true arches",
+    "italy",
+    "bc-1300 bc",
+    "late harappan cemetery h",
+    "egypt",
+    "syria",
+    "achaemenid empire",
+    "s.r rao",
+    "aztec",
+    "apollo",
+    "lomas rishi",
+    "tell taya",
+    "england",
+    "early gothic",
+    "china",
+    "white mosque",
+    "segovia",
+    "sui",
+    "southern france",
+    "anji bridge",
+    "diani beach",
+    "maya",
+    "stonehenge",
+    "the nebuly coat",
+    "lothal",
+    "french flamboyant",
+    "hittites",
+    "gupta",
+    "kosambi",
+    "egyptians",
+    "pyu",
+    "iraq",
+    "karla caves",
+    "salisbury cathedral",
+    "northern european",
+    "english decorated",
+    "colosseum"
+  ]
+}

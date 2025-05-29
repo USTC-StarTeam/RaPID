@@ -1,0 +1,297 @@
+Comstock_Act_of_1873
+
+The Comstock Act of 1873 is a series of current provisions in Federal law that generally criminalize the involvement of the United States Postal Service, its officers, or a common carrier in conveying obscene matter, crime-inciting matter, or certain abortion-related matter. The Comstock Act is largely codified across title 18 of the United States Code and was enacted beginning in 1872 with the attachment of a rider to the Post Office Consolidation Act of 1872. Amended multiple times since initial enactment, most recently in 1996, the Act is nonetheless often associated with U.S. Postal Inspector and anti-vice activist Anthony Comstock.
+The law was applied broadly for much of its history, before the scope of enforcement narrowed after various court rulings, and modern enforcement is primarily focused on prosecuting child pornography (with the most recent conviction under the Act being made in 2021). In spite of its contentious nature, something that has throughout the years spawned a variety of legal challenges on enumerated powers doctrine, vagueness doctrine, First Amendment grounds, etc., the Comstock Act has thus far been widely upheld as constitutional.
+
+# Text
+
+## Preface
+
+The majority of the Comstock Act is found in sections 1461 and 1462 of chapter 71, title 18 of the United States Code. The rest of chapter 71, title 18, United States Code, consists of various provisions from the Child Protection and Obscenity Enforcement Act of 1988 [note 2] and the PROTECT Act of 2003. [note 3]. 
+
+## 18 U.S.C. § 1461
+
+The first of the three sections of the Comstock Act which are contained under chapter 71, title 18, United States Code, is section 1461. This is the initial Comstock Act provision, as currently amended, and it was first enacted as a rider under Sec. 148 of the Post Office Consolidation Act of 1872. The punishment for violating section 1461 is either a fine, a jail sentence of up to 5 years for a first offense, a jail sentence of up to 10 years for any subsequent offense, or a combination of a jail sentence and a fine, as is stated in its text [3]. There exists two elements to an offense under section 1461. First, it must relate to that described; chiefly, either obscene or pertaining to abortion. Second, a person must knowingly mail, cause to be mailed, or remove from the mail, anything specified. The following is a brief summary of the matters covered:. There are a number of implications with these specifics listed in 18 U.S.C. § 1461.. First, as summarized in points 1, 2, and 3 above, this section outright criminalizes activities related to the mailing of three categories of objects and to this extent has been upheld as constitutionally valid by the Supreme Court. Second, as summarized in point 4 above, this section criminalizes activities related to the mailing of information providing as to from who, where, what, or how an article, already criminalized from being mailed outright, may be obtained or made. Although it holds little precedential value, as it was a decision by a United States district court,  this provision was ruled unconstitutional (for being overbroad) in United States v . Goldstein (1976). Third, laws prohibiting conveyance of material providing information on the procurement of legal abortion were ruled unconstitutional on First Amendment grounds in Bigelow v. Virginia (1975). As far as illegal abortion procurement is concerned, that is criminal solicitation and the First Amendment affords no constitutional protection . 
+
+## 18 U.S.C. § 1462
+
+The second of the three primary sections of the Comstock Act is codified in a positive law title at section 1462 of chapter 71, title 18, United States Code. It was initially enacted under Sec. 211 of the Criminal Code Act of 1909 on March 4, 1909.. The punishment for a violation of section 1462 is identical to that provided for violating section 1461. Similarly there exists two elements to an offense under this section. First, the matter in question has to be of the nature described. Second, a person must knowingly commit any of the specified acts (which in this section is either import, carriage in interstate or foreign commerce, or receipt of the specified material) and implicate in connection either the U.S. mail, a common carrier, or an interactive computer service. In terms of differences to the previous section, section 1462 deviates in that its scope expands to cover the use of a common carrier or interactive computer service. Section 1461 only applies to the U.S. Mail, but section 1462 covers both that and a private package delivery service such as United Parcel Service or Federal Express. An interactive computer service generally includes an internet website . Another difference of 18 U.S.C [19] [20]. § 1462 is in its scope, which is more limited than 18 U.S.C. § 1461, as it describes three as opposed to the seven particular matters. The three matters specified in 18 U.S.C. § 1462 are:. 
+
+## 18 U.S.C. § 552
+
+There is one section of the Comstock Act found in title 18, United States Code, which is outside chapter 71. This is 18 U.S.C. § 552,and pertains to customs officials acting as principal to certain activity. For abortion-related matter, this section applies to the extent implicating procurement of abortion. This section, currently codified in a positive law title, was first enacted as Sec. 4. of an Act for the Suppression of Trade in, and Circulation of, Obscene Literature and Articles of Immoral Use. There are four elements to an offense under this section. First, one must be either an officer, employee, or agent of the United States. Second, one must knowingly aid or abet any of the specified offenses (importing, advertising, dealing, exhibiting, sending, or receiving). Third, the knowing aiding or abetting by an officer, employee, or agent of the United States must implicate use of the mail. Fourth, the offense must implicate any of the matters specified. These are summarized below: [21]. 
+
+## Sec. 305. of the Tariff Act of 1930 (or 19 U.S.C. § 1305)
+
+In addition to the criminal importation provisions under section 1462, there is also a civil forfeiture provision of the Comstock Act. While an earlier version did exist, as Sec [22]. 5. of the Act for the Suppression of Trade in, and Circulation of, Obscene Literature and Articles of Immoral Use,  the modern version was initially enacted under Sec [3]. 305. of the Tariff Act of 1930 and is currently codified (in a non-positive law title) at section 1305 of title 19, United States Code. It presently provides that:. This provision has two basic aspects. First and foremost, it subjects certain matters to civil forfeiture. Secondly, it provides a number of exceptions. These exceptions are items imported without the importer's knowledge, bulk abortion-related materials not intended for unlawful use, classic books of recognized merit when permitted by the Secretary of the Treasury, and lottery tickets printed in Canada after 1993 for use in lotteries within the United States. 
+
+## 39 U.S.C. § 3001(e)
+
+The last section of the Comstock Act is found at 39 U.S.C. § 3001 in subsection (e), and it declares that unsolicited contraceptives are non-mailable unless the addressee is a manufacturer or trader in contraceptives, a physician, a nurse, a pharmacist, a hospital, or a clinic. This provision was ruled unconstitutional in Bolger v [24]. Youngs Drug Products Corp (1983), as-applied to business mailings, due to an as-applied First Amendment challenge. 
+
+# Definitions, knowledge requirement, statute of limitations, etc.
+
+## Definitions
+
+Concerning the definitions used in the Comstock Act, there are three key definitions: indecent, obscene, and knowingly.. For purposes of the Comstock Act, the term indecent is defined in the text as including "matter of a character tending to incite arson, murder, or assassination". This distinct definition has been narrowed by court rulings to a synonym for obscene . The term obscene is not defined in the actual text of Comstock Act, nor is it defined in the text for much of any of U.S. obscenity law, but the Miller test provides the most current definition used by courts when judging obscenity. The Miller Test has three prongs which are as follows: [32] [33]. 
+
+## Knowledge requirement
+
+For reference, under the Model Penal Code, a guide often used to assist in legislative drafting, the knowingly criminal knowledge requirement, the second most stringent behind purposely, is defined as follows: "A person acts knowingly with respect to a material element of an offense when...he is aware that his conduct is of that nature...if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result." [34]. 
+
+## Statute of limitations
+
+As nothing indicates otherwise, and since a violation of the Act is a non-capital offense, it has a 5-year statute of limitations. 
+
+# Jurisprudence
+
+## Contemporary
+
+### Context
+
+Following the outcome reached in Dobbs v. Jackson Women's Health Organization (2022), the Comstock Act has become increasingly discussed by anti-abortion groups and public figures as being a means by which abortion access in the United States could be curtailed without the need for new federal legislation. 
+
+### FDA v. Alliance for Hippocratic Medicine (2024)
+
+In March 2023, the Alliance for Hippocratic Medicine, an anti-abortion group founded in 2022, filed a federal lawsuit challenging the FDA's approval of mifepristone from back in the year 2000. On April 7, 2023, Matthew Kacsmaryk, a district judge for the United States District Court for the Northern District of Texas, ruled at the trial-level in that case, Alliance for Hippocratic Medicine v [42]. U.S. Food and Drug Administration, that the approval of mifepristone was improper, the lifting of REMS restrictions was improper, and the Comstock Act of 1873 made providing medication abortion by mail illegal. This ruling by judge Kacsmaryk conflicted with an opposing same day ruling issued by a U.S. district court in Washington (state). Upon appeal (six days later) to the United States Court of Appeals for the Fifth Circuit, some of the ruling by judge Kacsmaryk was partially stayed and some of the claims presented were thrown out, although a sizable portion of Kacsmaryk's ruling emerged unscathed. The case was later appealed from the Fifth Circuit to the Supreme Court [45] [46]. On June 13, 2024, the Supreme Court unanimously held that the Alliance for Hippocratic Medicine did not have standing (no plaintiff suffered a concrete and particularized injury-in-fact) sufficient to bring the case, and thereby the Supreme Court avoided a direct ruling on whether the Comstock Act applies to mifepristone or whether mifepristone was properly approved. 
+
+## Historical
+
+### Congressional authority to enact the Comstock Act
+
+Ex parte Jackson (1878) was the first case brought before the Supreme Court of the United States that considered the constitutionality of the Comstock Act. While primarily pertaining to a facial challenge mounted against a federal law barring the mailing of lottery items, the Court nonetheless made reference to the Comstock Act. In doing, the Supreme Court unanimously affirmed both the lottery circular law and the original provision of the Comstock Act (18 U.S.C [49]. § 1461) as being valid exercises of Congressional authority under the Postal Clause. This holding concerning the Comstock Act's initial provision was reaffirmed in later cases like Roth v . United States (1957), United States v. Reidel (1971), and Smith v. United States (1977). The 1909 amendment to the Comstock Act (18 U.S.C. § 1462) applies to both the U.S. mail and a common carrier and has been upheld on Commerce Clause grounds, as opposed to Postal Clause grounds, with United States v. Orito (1973) illustrating this. In a separate 1973 case, the Supreme Court would similarly uphold Sec [54] [55]. 305. of the Tariff Act of 1930 (19 U.S.C. § 1305) as a valid exercise of authority under the Commerce Clause. 
+
+### Vagueness challenges
+
+The broad language used in the Comstock Act has, mostly in the years since the Dobbs decision, lead to some opining that the Comstock Act, particularly 18 U.S.C. § 1461, is unconstitutionally vague. However, the understanding built by the surrounding case law has been largely dismissive of vagueness challenges [44] [57]. For instance, in Hamling v. United States (1974), the Supreme Court would uphold section 1461 by adopting a saving construction that conformed the section with the Miller test. Later, in Smith v [30] [58]. United States (1977), the Supreme Court would push back against another vagueness argument (this time presented as an as-applied challenge). Writing for the court, Justice Harry Blackmun, best known for writing the opinion delivered in Roe v [59] [53]. Wade (1973),  would go on to explicitly state the following: [60]. United States v. 12 200-ft Reels of Film (1973) and United States v. Thirty-Seven Photographs (1971) adopted a similar line of interpretation towards 18 U.S.C. § 1462 and Sec. 305. of the Tariff Act of 1930 (or 19 U.S.C. § 1305) respectively. The opinion in Thirty-Seven Photographs was handed down two years prior to Miller v [28] [56]. California (1973) and additionally interpreted a 14-day time limit into beginning forfeitures under Sec. 305 of the Tariff Act of 1930. 
+
+### Obscenity statutory interpretation
+
+While the standards for what constitutes obscenity have changed since the Comstock Act's initial passage, the Act's application to obscenity has been upheld against an array of First Amendment challenges. As an example, in Roth v. United States (1957), a case partially superseded by Miller v. California (1973) as to the particular test used, the Supreme Court upheld the Comstock Act against a First Amendment challenge. In One, Inc [50] [52]. v. Olesen (1958), decided as a follow-on to Roth, the Supreme Court ruled that material pertaining to homosexuality is not ipso facto obscene   and later reaffirming the conclusion in MANual Enterprises v [61] [70]. Day (1962). The Miller test is the obscenity test currently applied to the Comstock Act, as explained in the opinion for Hamling v [63] [64]. United States (1974). 
+
+### Statutory interpretation of abortion-related references
+
+With respect to the Comstock Act's references to abortion, which currently have not been removed as had the reference to contraceptives, historical interpretation has generally construed this as applying to articles intended for unlawful abortion, reconciling it with Sec. 305. of the Tariff Act of 1930, which does make such a distinction. Moreover, as the Supreme Court held, in Linder v. United States (1925), that " [o]bviously, direct control of medical practice in the states is beyond the power of the federal government",  historical jurisprudence of the Comstock Act in regard to prosecuting delivery of drugs and devices hinged on determining whether a purported use, such as for abortion or contraception, was outside the scope of accepted professional practice in the state of delivery or receipt, and thereby punishable under the Comstock Act [66]. 
+
+### Status as a RICO predicate
+
+An area of interest to legal scholars concerned the effect of the Comprehensive Crime Control Act of 1984 which, among other things, added 'dealing in obscene matters' as a predicate offense for purposes of the Racketeer Influenced and Corrupt Organizations Act of 1970 (RICO). It was initially believed by some scholars that this modification to RICO would get struck down as an unconstitutional burden on First Amendment protected conduct. Nine years after that modification was made to RICO, this concern would be answered as the Supreme Court, in Alexander v [68]. United States (1993), upheld, against a First Amendment challenge, a RICO forfeiture pertaining to obscenity. 
+
+## Related issues
+
+### Contraceptives
+
+Margaret Sanger, the founder of Planned Parenthood, was charged in 1915 for her work The Woman Rebel. Sanger circulated this work through the U.S. postal service, violating the Comstock Act. On appeal, her conviction was reversed on the grounds that contraceptive devices could legally be promoted for the cure and prevention of disease. Her husband, architect William Sanger, was similarly charged earlier that year under a New York law against disseminating contraceptive information [70]. In 1932, Margaret Sanger arranged for a shipment of diaphragms to be mailed from Japan to a sympathetic physician in New York City [71]. When U.S. customs confiscated the package as unlawful contraceptives, Sanger aided that physician in filing a lawsuit to contest the seizure. The United States Court of Appeals for the Second Circuit ruled in the case, United States v. One Package of Japanese Pessaries (1936), that the Comstock Act was not to be construed as interfering with practice of medicine. This holding was in line with the previously mentioned conclusion of the Supreme Court in Linder that " [o]bviously, direct control of medical practice in the states is beyond the power of the federal government",  so while the federal government could prohibit the mailing of contraceptives outside the course of professional practice, or tax drugs as it had with the Harrison Act at issue in Linder, it was not of the liberty to cast the judgment that a use, otherwise accepted by relevant state medical authorities, was nonetheless beyond the realm of legitimate professional practice, as regulation of medical practice is addressed at the state level in the United States [72] [66]. Griswold v. Connecticut (1965) struck down a contraception-related Comstock-style law in Connecticut. However, Griswold only applied to marital relationships. Eisenstadt v [73] [74]. Baird (1972) extended its holding to unmarried persons as well. In 1971, the U.S [75]. Congress removed the reference to contraceptives from the federal-level Comstock Act, but left much the rest of the Act stand as it had been written. 
+
+# Contemporary enforcement
+
+Due to its age, the Comstock Act has been referred to by some commentators, in publications such as MSNBC and Slate, as a "zombie law". However, the Act remains just as effective as does any other federal law unless repealed or amended [76] [77]. The doctrine of desuetude (a common law concept that a law is repealed by implication if it has not been used in a long time) has not garnered widespread support in U.S [78]. courts. The law has had some prosecutions in recent years, though enforcement of the Act's provisions has shifted from obscenity generally to primarily being a tool in securing child pornography convictions. The most recent conviction made under the Comstock Act, with five of the nine charges being brought forth under 18 U.S.C. § 1462, was that of Thomas Alan Arthur, a Texas man who was sentenced in 2021 to 40 years in federal prison for his role as the operator of an internet site which acted as a paid repository of obscene writings and drawings pertaining to child sexual abuse. According to FBI agent Roger Young,  the Comstock Act and other federal obscenity laws were initially the only tools available for federal authorities to prosecute child pornography: [6] [80] [81]. This change in enforcement, from general obscenity to an emphasis on child sexual abuse material, was bolstered by the Reagan Administration and by the outcome in New York v. Ferber (1982), a landmark decision in which the Supreme Court unanimously held that child pornography is not protected by the First Amendment. President Reagan made child sexual abuse prosecution a priority during his administration and stated  in 1987, "this Administration is putting the purveyors of illegal obscenity and child pornography on notice: your industry's days are numbered." [82] [83] [84]. Another anti-child-pornography and anti-obscenity law to be signed by President Reagan is the Child Protection Act of 1984 and it was the first law to generally outlaw child pornography at the federal level. Reagan-era amendments to Comstock Act do not stand alone though, as President Bill Clinton later signed into law 1994 and 1996 amendments to the Act that increased its penalties and expanded the scope of 18 U.S.C [85]. § 1462 to cover an interactive computer service (internet website). 
+
+# Present-day discourse
+
+## Context
+
+Following the outcome reached in Dobbs v. Jackson Women's Health Organization (2022), the Comstock Act has become increasingly discussed by anti-abortion groups and public figures as being a means by which abortion access in the United States could be curtailed without the need for new federal legislation. 
+
+## Anti-abortion discourse
+
+In a February 2024 interview with The New York Times, Jonathan F. Mitchell, an attorney active in the anti-abortion movement and a former Solicitor General of Texas, expressed an optimistic viewpoint about the Comstock Act's applicability to abortion: "We don't need a federal  [abortion] ban when we have Comstock on the books." However, Mitchell nonetheless hoped that former-President Donald Trump would not discuss the issue: " [I hope Trump] doesn't know about the existence of Comstock, because I just don't want him to shoot off his mouth." Mitchell said similarly of anti-abortion activists: "I think the pro-life groups should keep their mouths shut as much as possible until the  [2024 presidential] election."  Ed Whelan, another attorney active in the anti-abortion movement and the former president of the Ethics and Public Policy Center, a conservative think tank, expressed a view similar to that of Mitchell and criticized Biden administration policy towards abortion, claiming that " [b]y hook or by crook, the Biden administration is determined to undermine or circumvent state laws restricting abortion" [90]. In January 2023, Republican Vice President JD Vance, then a senator, signed a letter, along with other Senate colleagues, supporting the application of the Comstock Act to abortion-related articles such as abortion pills. The Heritage Foundation's Project 2025, a self-styled "mandate for leadership" intended for use by a future conservative President of the United States, has a section on abortion access that indirectly refers to the Comstock Act as "federal laws that prohibit the distribution of abortion drugs by postal mail". On February 2, 2023, twenty Republican State attorneys general issued a letter to CVS and Walgreens against the mailing of mifepristone and misoprostol in combination, citing the Comstock Act. This letter was in response to announcements by CVS and Walgreens in January 2023 that the pharmacy chains would begin processing mifepristone-misoprostol prescriptions [95]. In March 2023, Walgreens announced it would not distribute mifepristone-misoprostol in combination within those twenty states [96]. 
+
+## Abortion rights discourse
+
+Proponents of a right to access abortion, such as Democratic Senator for Minnesota Tina Smith, have, since the 2022 Dobbs decision, advocated for the repealing of the Comstock Act's language relating to abortion. On June 20, 2024, Senator Smith announced that she was going to be unveiling legislation to achieve that goal [98]. Senator Smith's proposed legislation is not the first time legislators in the United States have proposed or introduced legislation to repeal the Act's abortion-related language [99] [100]. In 1997, Representative Barney Frank introduced the Comstock Cleanup Act in an effort to achieve this same goal, but his bill failed (not even making it to committee). 
+
+## Implications
+
+If the Supreme Court were to affirm a determination that the Comstock Act applies to abortion-related articles generally, or if a future administration began enforcing it in such a way, then the Comstock Act could have renewed significance as mifepristone and misoprostol are used in 63% of the abortions performed in the United States. This combination regimen has increasingly been prescribed through telehealth and delivered by mail to individuals within states where abortion has since been broadly restricted following the Dobbs decision [102]. Some concerns raised, if this view took hold, are that not only would the use of telehealth to prescribe mifepristone and misoprostol, the two drugs used in combination for most medication abortion, become largely criminal but, since Comstock Act violations are a predicate offense, persons (and their associated enterprises) involved in provisioning abortion telehealth could also face penalties under the Racketeer Influenced and Corrupt Organizations Act of 1970. 
+
+# Historical background
+
+## General
+
+The Comstock Act's initial provision was enacted, June 8, 1872, as a rider under Sec. 148 of the Post Office Consolidation Act of 1872. It read: [3]. This section was amended by an Act of Congress on March 3, 1873. The amendment made by section two of that Act criminalized any use of the U.S [3]. Postal Service to send any of the following items:  obscenity, contraceptives, abortifacients, sex toys, personal letters with any sexual content or information, or any information regarding the above items [105]. The provisions of the Comstock Act, as currently revised, only pertain to obscene, crime-inciting, or abortion-related articles or mail matter. [106]. In addition to the federal law about half of the states enacted laws similar to the federal Comstock Act. : 9  In a 1919 issue of the Journal of Criminal Law & Criminology, Kansas judge J [107]. C. Ruppenthal, after reviewing the various State laws called them "haphazard and capricious" and lacking "any clear, broad, well-defined principle or purpose". 
+
+## Objectives and intent
+
+According to psychologist Paul R. Abramson, the widespread availability of pornography during the American Civil War (1861–1865) gave rise to an anti-pornography movement, culminating in the passage of the Comstock Act in 1873,  but which also dealt with birth control and abortion issues. [117]. The historical enforcement of Comstock-style laws targeted pornography, contraceptive equipment, abortion drugs and devices, materials providing descriptions of contraceptive or abortion methods, materials advertising people with information of or providing for birth control, abortion, or other similar things. A particular concern to historical enforcers was targeting advertisements for abortifacients found in penny papers, with these pills often advertised to women as a euphemistic treatment for "obstruction of their monthly periods". 
+
+## Legislative history
+
+### Brief legislative context
+
+As mentioned above, the initial provision of the Comstock Act was enacted in 1872 as a rider to a broader postal service consolidation bill. Afterwards, Anthony Comstock worked to introduce a stand-alone bill, the Act for the Suppression of Trade in, and Circulation of, Obscene Literature and Articles of Immoral Use, with more comprehensive provisions.. 
+
+### Act for the Suppression of Trade in, and Circulation of, Obscene Literature and Articles of Immoral Use
+
+Due to his personal connections with Justice William Strong, Comstock got his bill introduced before the United States Senate by Republican Senator for Minnesota William Windom on February 11, 1873, as S. 1572. It was reported without amendment from the Committee on Post Offices and Post Roads by Republican Senator for Minnesota Alexander Ramsey on February 13, 1873. On the following day, through motion by Republican Senator for Connecticut William A. Buckingham, it was recommitted back to that committee. It was later reported with an amendment (by Senator Buckingham) for consideration before the Committee of the Whole, but its consideration was postponed through motion by Democratic Senator for Ohio Allen G. Thurman on February 18, 1873. Consideration was postponed yet again, this time through motion by Senator Buckingham on February 20, 1873. On February 21, 1873, the bill passed, with the Buckingham amendment, in the Senate by unanimous consent after being read three times. The bill passed without objection in the United States House of Representatives on March 1, 1873. Finally, the Act for the Suppression of Trade in, and Circulation of, Obscene Literature and Articles of Immoral Use was signed into law by President Ulysses S. Grant on March 3, 1873. 
+
+## Further legislative context
+
+### YMCA
+
+In February 1866, the executive committee of the Young Men's Christian Association (YMCA) of New York privately distributed a report, written by Cephas Brainerd and Robert McBurney, entitled, "A Memorandum Respecting New-York as a Field for Moral and Christian Effort Among Young Men". This memorandum linked the main message of the YMCA to facts and figures drawn from census, tax, and licensing data. All of this data was used to support the belief held by the Association's leadership that many of its younger and less supervised members had ample time in the evenings to leisure about in bars, casinos, and brothels. The 1866 memorandum was used to support a plan to construct a centrally located building to better serve the younger men of New York. However, the memorandum also recommended, in addition to this new building, a "call to action" by the organization's members to investigate whether or not there were any local anti-vice laws in New York [112]. Upon concluding there were none, the group lobbied in the New York State legislature for an anti-vice law. The New York YMCA-drafted bill was successfully enacted in 1868, although with less comprehensive language than had been first proposed. This 1868 law enabled local magistrate judges to issue warrants allowing police to seize and later destroy (upon a guilty verdict) materials ruled "obscene". 
+
+### Anthony Comstock
+
+Anthony Comstock, anti-vice activist and namesake of the Comstock Act, got his political start when he campaigned against saloons in Brooklyn. Later introduced to the YMCA, Comstock would form close ties with the organization. Along his career, he became unhappy with the before-mentioned New York law and believed in a need for federal legislation. In 1872, Comstock managed to get the initial provision of the Comstock Act added as a rider to a postal service consolidation bill. Although Comstock had hoped this initial law would be enough to mitigate the postal service's use in facilitating "vice", he soon became disappointed as gaps in the law appeared. To remedy these perceived problems, Comstock worked on a new stand-alone piece of legislation, discussed previously, which passed in 1873. Anthony Comstock later secured a position as a United States Postal Inspector [112]. In spite of this, the Committee for the Suppression of Vice at the New York YMCA, which would later splinter off to become the New York Society for the Suppression of Vice, requested that he not be given a government salary. By preventing Comstock from receiving a federal salary, as well as any other publicly funded monetary rewards, the organization's directors attempted to prevent claims of self-interested motives and to ensure that Comstock was dependent on their donations. Extended works of Comstock along the lines of these laws include a petition from the Committee for the Suppression of Vice to include obscene written works that were enclosed in a sealed envelope, an item that was not covered in many renditions of Comstock-style laws, as an item to convict for a punishable offense. Other works that he tried to enclose under the range of the laws that used his namesake include international art pieces that depicted scantily-clad women, textbooks for medical students, and other sexually non-explicit items [114]. These efforts left some of his supporters to doubt his intentions. Comstock's career as a postal inspector yielded over 3,600 arrests and the destruction of over 160 tons (150,000 kg) of material ruled to be obscene. 
+
+# Historical discourse
+
+## Historical support
+
+### Obscenity arguments
+
+As the chief proponent of the law, many of Comstock's justifications revolved around what he believed were the negative effects indecent literature would have on children. He argued that moral decay was occurring in schools and in the home because of indecent literature, something he believed youth had easy access to. He also argued that allowing "obscenity" to flourish in broader society would cause a social breakdown of traditional marriage and of religious institutions. Comstock leaned on support from wealthier families for the majority of his legislative and political success. Clinton L . Merrian, who aided the Comstock Act's passage through the House of Representatives, campaigned its passage on the idea that obscenity threatened masculinity and that in order to protect it, the mailing of obscene materials needed to be outlawed. 
+
+### Contraception arguments
+
+As it originally implicated contraceptives, it was argued by some supporters that the Act would help prevent "illicit" sexual relations between unmarried persons, since without contraception, the unmarried would be deterred from having sex due to the possibility of unintended pregnancy. Father Coughlin, a Catholic priest and radio broadcaster, argued in support of the Act before a 1934 congressional committee, characterizing non-procreative sex as "legalized prostitution" [107]. During his testimony, there was heckling from the audience, with one woman calling out to Coughlin, "You're ridiculous." [117]. 
+
+## Historical opposition
+
+### 1878 repeal attempt
+
+Four years after the enactment of the federal law, a petition was circulated by the National Liberal League for its repeal in 1876, garnering between 40,000 and 70,000 signatures. : 63–65  Although the petition received positive press coverage, the efforts were stymied when Anthony Comstock showed samples of pornographic material to congressional leaders serving on the same committee for which the proposed repeal act was referred [107]. Comstock claimed that the pamphlets he had shared, a "collection of smutty circulars describing sex depravity", : 65  had been distributed by mail to youths and other persons. [107]. In March 1879, the National Defense Association submitted a letter of affidavits to Samuel Sullivan Cox, a congressional representative from New York, for review with the Committee on Post Office and Post Roads. The National Defense Association had been established in opposition shortly after the enactment of the Comstock Act [118]. The letter of affidavits had been sent in support of the petition from the National Liberal League. Anthony Comstock dismissed the petition after hearing about it, and he asserted that the list was made up of forged signatures and false names. Comstock would also go onto lambast the media for supporting the effort. : 65 [107]. 
+
+### Birth control movement failures
+
+After the 19th century failures, there was no concerted effort to change Comstock-style laws until the start of the birth control movement in the United States in 1914, led by Margaret Sanger. : 66  Between 1917 and 1925, bills were introduced in California (1917), : 83, 287  New York (1917, 1921,1923, 1924,1925), : 73–82, 282–84  Connecticut (1923, 1925), : 82, 285  and New Jersey (1925) : 82, 286  to make the contraceptive provisions of state laws less restrictive [107] [107] [107] [107] [107]. In both California and Connecticut, work was undertaken to simply have the contraceptive control provisions eliminated. All these state attempts at change failed to come to a vote so no change happened. There were also failed attempts to eliminate the restrictions on contraceptives from the federal law too, first starting in 1919 with the bill's supposed sponsor failing to introduce legislation. In 1923 a similar bill was reported before the Judiciary Committee, and while it was thought that the majority of this committee favored the bill, they evaded voting on it. : 98–98  There were also more attempts at change in the 1920s [107]. 
+
+### Free Love
+
+The Free Love movement of the Victorian-era United States was a group that made sustained attempts to repeal Comstock-style laws and discredit anything related to the anti-vice movement. This open distaste made free-love movement participants a major target of Anthony Comstock during his personal campaign against perceived obscenity. Comstock actively targeted individuals associated with the Free Love Movement, particularly those advocating for birth control and criticizing traditional marriage . Anthony Comstock used the law bearing his namesake to go after those he perceived as promoting immorality. One of Comstock's notable targets was Victoria Woodhull, a prominent figure in the Free Love Movement and an advocate for women's rights [120]. Woodhull and her sister, Tennessee Claflin, published a newspaper called "Woodhull & Claflin's Weekly" which promoted ideas about sexuality that challenged then-prevailing societal norms. Comstock had Woodhull arrested and charged with obscenity for publishing information about contraception [121]. 
+
+# References
+
+[8] [ERROR retrieving ref link]
+[9] [ERROR retrieving ref link]
+[10] [ERROR retrieving ref link]
+[12] [ERROR retrieving ref link]
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[15] [ERROR retrieving ref link]
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[31] [ERROR retrieving ref link]
+[1] https://www.justice.gov/criminal/criminal-ceos/citizens-guide-us-federal-law-obscenity
+[2] https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1461&num=0&edition=prelim
+[3] https://www.loc.gov/item/llsl-v17/
+[4] https://awpc.cattcenter.iastate.edu/2017/03/21/comstock-act-still-on-the-books-sept-24-1996/
+[5] https://firstamendment.mtsu.edu/article/comstock-act-of-1873/
+[6] https://law.justia.com/cases/federal/appellate-courts/ca5/21-50607/21-50607-2022-10-12.html
+[7] https://www.newsweek.com/texas-man-sentenced-40-years-running-website-stories-about-raping-murdering-children-1603191
+[11] https://www.law.cornell.edu/uscode/text/18/1461
+[19] https://supreme.justia.com/cases/federal/us/402/351/
+[20] https://supreme.justia.com/cases/federal/us/96/727/
+[21] https://openyls.law.yale.edu/handle/20.500.13051/15457
+[22] https://firstamendment.mtsu.edu/article/ex-parte-jackson/
+[23] https://libguides.law.ucla.edu/c.php?g=183345&p=10062637
+[24] https://law.justia.com/cases/federal/district-courts/FSupp/431/974/2185028/
+[25] https://firstamendment.mtsu.edu/article/bigelow-v-virginia/
+[26] https://www.ojp.gov/ncjrs/virtual-library/abstracts/criminal-speech-inducement-and-first-amendment
+[27] https://www.law.cornell.edu/uscode/text/18/1462
+[28] https://rquinnlaw.com/wp-content/uploads/2021/02/Quinn-Common-Carrier.pdf
+[29] [ERROR retrieving ref link]
+[30] https://www.wired.com/story/fight-over-section-230-internet-as-we-know-it/
+[32] https://www.law.cornell.edu/uscode/text/18/552
+[33] https://www.justice.gov/archives/jm/criminal-resource-manual-1964-immoral-articles-prohibition-importation
+[34] https://www.law.cornell.edu/uscode/text/19/1305
+[35] https://www.law.cornell.edu/uscode/text/39/3001
+[36] https://supreme.justia.com/cases/federal/us/463/60/
+[37] https://scholarworks.law.ubalt.edu/ublr/vol14/iss2/8
+[38] https://firstamendment.mtsu.edu/article/bolger-v-youngs-drug-products-corp/
+[39] https://supreme.justia.com/cases/federal/us/413/123/
+[40] https://supreme.justia.com/cases/federal/us/402/363/
+[41] https://supreme.justia.com/cases/federal/us/418/87/
+[42] https://supreme.justia.com/cases/federal/us/413/15/
+[43] https://openscholarship.wustl.edu/law_lawreview/vol74/iss2/9
+[44] https://firstamendment.mtsu.edu/article/miller-test/
+[45] https://archive.today/20240427222238/https://open.lib.umn.edu/criminallaw/chapter/4-2-criminal-intent/
+[46] https://www.law.cornell.edu/uscode/text/18/3282
+[47] https://www.cnn.com/2024/01/22/opinions/abortion-threat-comstock-act-must-be-repealed-cohen-donley-rebouche/index.html
+[48] https://www.npr.org/2024/04/08/1243366144/conservative-groups-aim-to-use-an-1873-law-to-virtually-end-abortions-nationwide
+[49] https://www.motherjones.com/politics/2023/04/mifepristone-comstock-abortion-medication-pill-texas-court-ban/
+[50] https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b63fad9b-7f12-4400-9019-b0586054e534
+[51] https://kffhealthnews.org/news/how-a-drugmaker-turned-the-abortion-pill-into-a-rare-disease-profit-machine/
+[52] https://sph.emory.edu/news/news-release/2023/04/mifepristone-questions-answers.html
+[53] https://www.theguardian.com/world/2023/mar/15/texas-abortion-pill-ban-judge-kacsmaryk
+[54] https://reason.com/volokh/2023/04/08/two-wrong-mifepristone-court-rulings-in-one-day/
+[55] https://www.vox.com/policy-and-politics/2023/1/22/23539363/abortion-medication-mifepristone-supreme-court-pills-comstock-matthew-kacsmaryk
+[56] https://reason.com/volokh/2023/04/13/the-good-and-bad-of-the-fifth-circuits-abortion-pill-ruling/
+[57] https://www.kff.org/policy-watch/update-on-status-alliance-hippocratic-medicine-v-the-food-and-drug-administration-et-al/
+[58] https://www.cnn.com/2024/03/29/politics/comstock-act-alito-thomas-abortion/index.html
+[59] https://www.scotusblog.com/2024/06/supreme-court-preserves-access-to-abortion-pill/
+[60] https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1305&context=plr
+[61] https://supreme.justia.com/cases/federal/us/354/476/
+[62] https://supreme.justia.com/cases/federal/us/431/291/
+[63] https://firstamendment.mtsu.edu/article/roth-v-united-states/
+[64] https://firstamendment.mtsu.edu/article/smith-v-united-states/
+[65] https://supreme.justia.com/cases/federal/us/413/139/
+[66] https://firstamendment.mtsu.edu/article/united-states-v-orito/
+[67] https://firstamendment.mtsu.edu/article/united-states-v-twelve-200-ft-reels-of-film/
+[68] https://papers.ssrn.com/abstract=4384327
+[69] https://scholarlycommons.law.northwestern.edu/jclc/vol65/iss4/8
+[70] https://supreme.justia.com/cases/federal/us/431/291/
+[71] https://hls.harvard.edu/today/eloquent-voice-for-the-oppressed/
+[72] https://supreme.justia.com/cases/federal/us/355/371/
+[73] https://www.nytimes.com/2019/06/19/us/legal-history-lgbtq-rights-timeline.html
+[74] https://supreme.justia.com/cases/federal/us/370/478/
+[75] ISBN: 978-0-231-18911-8
+[76] https://www.justice.gov/olc/opinion/application-comstock-act-mailing-prescription-drugs-can-be-used-abortions
+[77] https://volokh.com/2011/12/01/supreme-court-obviously-direct-control-of-medical-practice-in-the-states-is-beyond-the-power-of-the-federal-government/
+[78] https://www.ssrn.com/abstract=4881886
+[79] https://www.ojp.gov/ncjrs/virtual-library/abstracts/rico-racketeer-influenced-and-corrupt-organizations-vs-dealers
+[80] https://firstamendment.mtsu.edu/article/alexander-v-united-states/
+[81] http://asteria.fivecolleges.edu/findaids/sophiasmith/mnsss43_bioghist.html
+[82] https://timesmachine.nytimes.com/timesmachine/1915/09/11/100176200.pdf
+[83] https://embryo.asu.edu/pages/united-states-v-one-package-japanese-pessaries-1936
+[84] https://supreme.justia.com/cases/federal/us/381/479/
+[85] https://www.aeaweb.org/articles?id=10.1257/aer.100.1.98
+[86] https://supreme.justia.com/cases/federal/us/405/438/
+[87] https://slate.com/news-and-politics/2024/03/abortion-comstock-act-joe-biden-state-of-the-union.html
+[88] https://www.msnbc.com/opinion/msnbc-opinion/supreme-court-abortion-pill-mifepristone-comstock-act-rcna145147
+[89] https://crsreports.congress.gov/product/details?prodcode=R46484
+[90] https://www.ssrn.com/abstract=4529788
+[91] https://www.newsweek.com/texas-man-sentenced-40-years-running-website-stories-about-raping-murdering-children-1603191
+[92] https://www.catholicnewsagency.com/resource/56076/interview-with-roger-young-a-retired-fbi-agent-who-specialized-in-child-pornography-and-obscenity-cases
+[93] https://supreme.justia.com/cases/federal/us/458/747/
+[94] https://firstamendment.mtsu.edu/article/new-york-v-ferber/
+[95] https://www.presidency.ucsb.edu/documents/message-the-congress-transmitting-proposed-legislation-child-protection-and-obscenity
+[96] https://www.latimes.com/archives/la-xpm-1985-09-16-mn-22002-story.html
+[97] https://www.huffpost.com/entry/abortion-ban-comstock-act_n_643d56d7e4b0ed74f2a34db7
+[98] https://www.theguardian.com/commentisfree/2024/apr/08/republicans-abortion-comstock-congress
+[99] https://prospect.org/api/content/0e5781ee-f602-11ee-972f-12163087a831/
+[100] https://www.npr.org/2024/04/10/1243802678/abortion-comstock-act
+[101] https://www.nytimes.com/2024/02/17/us/politics/trump-allies-abortion-restrictions.html
+[102] https://www.nationalreview.com/bench-memos/olcs-dubious-stay-out-of-jail-card-for-abortion-drug-shippers/
+[103] https://www.washingtonpost.com/health/2024/07/17/jd-vance-abortion-comstock-vice-presidential-nominee/
+[104] https://www.theguardian.com/us-news/article/2024/jul/26/jd-vance-abortion-ban-travel
+[105] https://static.project2025.org/2025_MandateForLeadership_FULL.pdf
+[106] https://www.cnn.com/2023/02/01/politics/cvs-walgreens-medication-abortion-republicans/index.html
+[107] https://www.cnbc.com/2023/01/05/abortion-cvs-and-walgreens-will-sell-mifepristone-in-pharmacies.html
+[108] https://www.vox.com/policy/2023/3/15/23639267/walgreens-abortion-pill-mifepristone-mifeprex-misoprostol
+[109] https://www.nytimes.com/2024/04/02/opinion/comstock-act-abortion-repeal.html
+[110] https://www.huffpost.com/entry/democrats-introduce-bill-repeal-archaic-comstock-act-could-create-national-abortion-ban_n_667479e3e4b069d92e24a735
+[111] https://19thnews.org/2024/06/comstock-act-repeal-congress-democrats/
+[112] https://abcnews.go.com/Politics/what-is-comstock-act-supreme-court-abortion-pill-case/story?id=108395444
+[113] https://www.washingtonpost.com/politics/2024/03/19/abortion-medication-mifepristone-63-percent/
+[114] https://www.vox.com/policy/2023/12/27/24015092/abortion-pills-mifepristone-roe-reproductive-misoprostol
+[115] https://www.kff.org/womens-health-policy/issue-brief/the-comstock-act-implications-for-abortion-care-nationwide/
+[116] [ERROR retrieving ref link]
+[117] https://www.nytimes.com/2024/04/02/opinion/comstock-act-abortion-repeal.html
+[118] https://books.google.com/books?id=nF4oAQAAMAAJ
+[119] https://web.archive.org/web/20171222105252/https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?referer=https%3A%2F%2Fwww.google.com%2F&httpsredir=1&article=1616&context=jclc
+[120] ISBN: 0-19-514609-3
+[121] https://www.loc.gov/item/2002719613/
+[122] https://www.govinfo.gov/app/details/SERIALSET-01544_00_00-001-0000-0000
+[123] [ERROR retrieving ref link]
+[124] https://archive.org/details/creationofmediapo00star
+[125] http://recordsofrights.org/records/26/petition-for-stricter-obscenity-laws
+[126] https://web.archive.org/web/20191017044949/http://people.loyno.edu/~kchopin/new/related/comstock.html
+[127] https://archive.org/details/imperiledinnocen0000beis_u4i3
+[128] https://archive.org/details/historyofbirthco0000enge/page/163/
+[129] https://history.house.gov/Records-and-Research/Listing/c_019/
+[130] https://www.degruyter.com/document/doi/10.1515/9781400822089.76/html?lang=en
+[131] https://doi.org/10.2307%2F2711107
+[132] https://litsdigital.hamilton.edu/collections/woodhull-and-claflins-weekly#:~:text=Woodhull%20&%20Claflin's%20weekly%20is%20a,is%20called%20Woodhull%20&%20Claflin's%20journal.

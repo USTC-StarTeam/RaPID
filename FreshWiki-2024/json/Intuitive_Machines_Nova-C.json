@@ -1,0 +1,678 @@
+{
+  "title": "Intuitive_Machines_Nova-C",
+  "url": "https://en.wikipedia.org/wiki/Intuitive_Machines_Nova-C",
+  "summary": "The Intuitive Machines Nova-C, or simply Nova-C, is a class of lunar landers designed by Intuitive Machines (IM) to deliver small payloads to the surface of the Moon. Intuitive Machines was one of three service providers awarded task orders in 2019 for delivery of NASA science payloads to the Moon. The IM-1 lunar lander, named Odysseus (pronounced  \u0259-DISS-ee-\u0259s), was launched by a SpaceX Falcon 9 rocket on 15 February 2024, reached lunar orbit on 21 February, and landed on the lunar surface on 22 February. This marked the inaugural Nova-C landing on the Moon and the first American spacecraft to perform a soft landing on the Moon in over 50 years. It is the first spacecraft to use methalox propulsion to navigate between the Earth and the Moon.\nThe second Nova-C lander with the IM-2 mission is scheduled to launch no earlier than January 2025, and a third Nova-C lander on the IM-3 mission is scheduled for no earlier than October 2025. SpaceX is under contract to provide Falcon 9 launches for each of the three landers.",
+  "content": [
+    {
+      "section_title": "Funding",
+      "section_content": [
+        {
+          "sentence": "In 2017, Space Policy Directive 1 signaled the intention of returning NASA astronauts to the Moon",
+          "refs": []
+        },
+        {
+          "sentence": "NASA documents obtained by The New York Times suggested the agency would involve the private spaceflight sector in the effort",
+          "refs": [
+            "https://www.nytimes.com/2017/12/11/science/trump-moon-space-directive.html"
+          ]
+        },
+        {
+          "sentence": "In 2018, NASA solicited bids from nine companies, including Intuitive Machines, for the Commercial Lunar Payload Services (CLPS) program",
+          "refs": [
+            "https://www.nytimes.com/2018/02/11/science/nasa-budget-moon.html"
+          ]
+        },
+        {
+          "sentence": "CLPS is part of the NASA Artemis program; one of the long term goals of Artemis is establishing a permanent crewed base on the Moon",
+          "refs": [
+            "https://www.nasa.gov/press-release/nasa-announces-new-partnerships-for-commercial-lunar-payload-delivery-services"
+          ]
+        },
+        {
+          "sentence": "Intuitive Machines was one of three service providers awarded task orders in 2019 for delivery of NASA science payloads to the Moon",
+          "refs": []
+        },
+        {
+          "sentence": "In 2021, Intuitive Machines received a NASA contract that was initially valued at US$77 million to conduct lunar landings for NASA",
+          "refs": []
+        },
+        {
+          "sentence": "After contract modifications, the total contract value came to US$118 million in 2024",
+          "refs": [
+            "https://www.intuitivemachines.com/post/houston-based-aerospace-company-lands-77-5-million-deal-with-nasa-for-2024-moon-mission"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Overview",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Structure",
+          "section_content": [
+            {
+              "sentence": "The lander structure is a hexagonal cylinder with six landing legs and is 3.938\u00a0m (12.92\u00a0ft) tall",
+              "refs": []
+            },
+            {
+              "sentence": "It has a launch mass of 1,908\u00a0kg (4,206\u00a0lb) and can hold a payload of 100\u00a0kg (220\u00a0lb)",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Propulsion",
+          "section_content": [
+            {
+              "sentence": "Nova-C was developed by Intuitive Machines, inheriting technology from NASA's Project Morpheus",
+              "refs": []
+            },
+            {
+              "sentence": "Its gimbaled VR900 main engine uses methane and oxygen as liquid propellants",
+              "refs": []
+            },
+            {
+              "sentence": "Pressurized by helium gas, the engine produces 3,100\u00a0N (700\u00a0lbf) of thrust",
+              "refs": []
+            },
+            {
+              "sentence": "For attitude [a] control the vehicle uses a helium reaction control system (RCS)",
+              "refs": [
+                "https://fcc.report/IBFS/SAT-LOA-20210423-00055/6376549"
+              ]
+            },
+            {
+              "sentence": "Each thruster in the RCS produces 4.45 N (1 lbf) of thrust.At launch Nova-C is filled with 845\u00a0kg (1,863\u00a0lb) of liquid oxygen, 422\u00a0kg (930\u00a0lb) kg of liquid methane and 17\u00a0kg (37\u00a0lb) of gaseous helium",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Propellant is loaded onto Nova-C at the launch pad alongside propellant loading of the launch vehicle",
+              "refs": [
+                "https://www.intuitivemachines.com/_files/ugd/7c27f7_51f84ee63ea744a9b7312d17fefa9606.pdf",
+                "https://everydayastronaut.com/im-1-nova-c-odysseus-falcon-9-block-5/"
+              ]
+            },
+            {
+              "sentence": "Use of liquid methane and liquid oxygen is believed to be an enabling technology for future deep space missions",
+              "refs": [
+                "https://x.com/tgilliland89/status/1761855610528665940?s=20"
+              ]
+            },
+            {
+              "sentence": "Propellants aboard the lander were stored in composite over-wrap liner-less cryogenic tanks",
+              "refs": []
+            },
+            {
+              "sentence": "Thermodynamic venting systems provide cryogenic cooling",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Electric power",
+          "section_content": [
+            {
+              "sentence": "Nova-C landers use solar panels as a source of electrical power",
+              "refs": []
+            },
+            {
+              "sentence": "Most areas of the lunar surface are sunlit during lunar days, which last approximately fourteen Earth days.",
+              "refs": []
+            },
+            {
+              "sentence": "Electrical power is generated by a photovoltaic system with three solar panels, a top deck panel and two body panels, generating a combined maximum of 200 W on the lunar surface",
+              "refs": []
+            },
+            {
+              "sentence": "A 25 amp-hour battery supplies power to a 28 VDC bus for use by the spacecraft when power generation lags consumption",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Communications",
+          "section_content": [
+            {
+              "sentence": "Nova-C is capable of 24/7 data coverage for its client payloads",
+              "refs": [
+                "https://www.intuitivemachines.com/lunarlander"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Landing",
+          "section_content": [
+            {
+              "sentence": "The lander is designed to stay upright when landing on a slope of up to 10 degrees",
+              "refs": []
+            },
+            {
+              "sentence": "The lander includes autonomous landing and hazard detection technology and once landed is still capable of relocating itself to a second landing site by performing a vertical takeoff, cruise, and vertical landing",
+              "refs": [
+                "https://www.youtube.com/live/xa2n2-_hLPM?si=yT9BydDyM8WZYQqS"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Missions",
+      "section_content": [
+        {
+          "sentence": "Intuitive Machines is conducting the first three Nova-C missions for the NASA Commercial Lunar Payload Services program",
+          "refs": []
+        },
+        {
+          "sentence": "The landers are tasked with delivering small science and technology-development payloads",
+          "refs": [
+            "https://www.intuitivemachines.com/post/houston-based-aerospace-company-lands-77-5-million-deal-with-nasa-for-2024-moon-mission"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "IM-1 mission",
+          "section_content": [
+            {
+              "sentence": "The lander for the first Nova-C mission, IM-1, was named Odysseus",
+              "refs": []
+            },
+            {
+              "sentence": "A contract for the mission was signed in 2021, with later modifications",
+              "refs": [
+                "http://www.spaceminingnews.com/2018/11/30/intuitive-machines-headed-to-the-moon-in-2021/",
+                "https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations"
+              ]
+            },
+            {
+              "sentence": "The mission launched 15 February 2024 on a Falcon 9 launch vehicle and landed with a \"rough\" [citation needed] - soft landing on 22 February 2024 in the South Pole region of the moon, approximately at 80.13\u00b0 South latitude and 1.44\u00b0 East longitude, inside a shallow 1 km diameter crater with a 12\u00b0 slope",
+              "refs": [
+                "https://spacenews.com/final-preparations-underway-for-launch-of-first-intuitive-machines-lunar-lander/"
+              ]
+            },
+            {
+              "sentence": "The lander came to rest about 1.5 km away from the intended landing site near the Malapert A crater",
+              "refs": []
+            },
+            {
+              "sentence": "The line of approach brought Odysseus in from the northeast over Schomberger crater",
+              "refs": []
+            },
+            {
+              "sentence": "Upon initial contact with the lunar surface, the lander broke a leg off of the hexagonal body, and bounced back along the line of approach, with the main engine and RCS firing to null out vertical and lateral velocities",
+              "refs": []
+            },
+            {
+              "sentence": "After landing vertically, the lander slowly settled onto the lunar surface with the top solar array pointed in the general direction of Schomberger crater",
+              "refs": []
+            },
+            {
+              "sentence": "One of the rectangular arrays, originally intended to be vertical, is on top and angled 30\u00b0 with the horizontal, or about 18\u00b0 with the lunar surface",
+              "refs": []
+            },
+            {
+              "sentence": "IM announced that until entering standby mode on February 29, 2024, Odysseus had transmitted over 350 megabytes of science and engineering data from all payloads, and it will try to revive Odysseus during the next lunar day",
+              "refs": [
+                "https://www.nytimes.com/2024/02/22/science/intuitive-machines-lander-history.html",
+                "https://web.archive.org/web/20240219055643/https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations",
+                "https://www.intuitivemachines.com/im-1",
+                "https://www.nbcnews.com/science/space/moon-landing-odysseus-touches-down-lunar-surface-n1308924",
+                "https://www.nasa.gov/missions/lro/nasas-lro-images-intuitive-machines-odysseus-lander/"
+              ]
+            },
+            {
+              "sentence": "Odysseus's \"rough\" - soft Moon landing is the first soft landing of any kind for an American made spacecraft since Apollo 17, more than 50 years ago, and the first by a private company",
+              "refs": []
+            },
+            {
+              "sentence": "The soft Odysseus landing also qualifies the Odysseus mission as the first liquid methane and liquid oxygen (methalox) powered spacecraft to fire beyond low earth orbit, as well as the first methalox spacecraft to land on an off-world celestial body",
+              "refs": [
+                "https://investors.intuitivemachines.com/news-releases/news-release-details/intuitive-machines-historic-im-1-mission-success-american",
+                "https://apnews.com/article/moon-landings-nasa-private-ffb85d2a092df8d32c0494811e6691f5"
+              ]
+            },
+            {
+              "sentence": "After the landing Odysseus was resting on the surface at a 30\u00b0 angle with the horizontal",
+              "refs": []
+            },
+            {
+              "sentence": "[citation needed] It has been confirmed by Tim Crain, CTO of Intuitive Machines, that one of the landing leg struts broke off during the landing, and that the lander is resting on a helium tank and/or a computer shelf that was strapped outside of the main fuselage",
+              "refs": []
+            },
+            {
+              "sentence": "Based on telemetry received by mission controllers Odysseus appeared in \"good health.\" The antennas were not vertically aligned as initially planned, and transmissions from the lander were somewhat reduced",
+              "refs": []
+            },
+            {
+              "sentence": "Both science and engineering data were received from the lander",
+              "refs": []
+            },
+            {
+              "sentence": "It was hoped that a data link could be restored with Odysseus after lunar sunrise occurs at Malapert A crater, although this was not a requirement of the mission, On March 23 Intuitive Machines announced that Odysseus would not wake up and that the mission had ended",
+              "refs": [
+                "https://www.dropbox.com/scl/fi/bxegh13yo6p8f3nwxv83z/24-02-28-b-reply-from-steve-altemus.pdf?rlkey=48m09hfmv9hkv5lftd4f84bp5&dl=0",
+                "https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/",
+                "https://www.usatoday.com/story/news/nation/2024/02/28/odysseus-moon-lander-press-conference-nasa/72772049007/"
+              ]
+            },
+            {
+              "sentence": "Odysseus touched down on the Moon in the middle of a lunar day, and was expected to remain functional for approximately six Earth days (until February 27), when the cold lunar night will set in and the solar panels will no longer be able to supply power",
+              "refs": []
+            },
+            {
+              "sentence": "IM engineers announced that they may be able to maintain communication with Odysseus for an additional 10 to 20 hours after the sun has gone down over the Odysseus landing site, due to Odysseus's battery capacity",
+              "refs": [
+                "https://twitter.com/Int_Machines/status/1771609255616909738",
+                "https://www.nasa.gov/missions/lro/nasas-lro-images-intuitive-machines-odysseus-lander/"
+              ]
+            },
+            {
+              "sentence": "It was also announced that the Odysseus data feed back to Earth has been sending back payload related science data as well as images",
+              "refs": []
+            },
+            {
+              "sentence": "IM and NASA held a joint press conference on February 28 to discuss and review the IM-1 mission",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "IM-2 mission",
+          "section_content": [
+            {
+              "sentence": "IM was selected in October 2020 in order to land its second Nova-C lander near the lunar south pole",
+              "refs": []
+            },
+            {
+              "sentence": "As of September 2024, IM-2 is expected to be launched no earlier than January 2025",
+              "refs": []
+            },
+            {
+              "sentence": "In May 2024, the company shared IM-2 entered into its final assembly stage",
+              "refs": [
+                "https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/"
+              ]
+            },
+            {
+              "sentence": "The primary payload, PRIME-1, includes the TRIDENT ice drill to sample ice from below the lunar surface and the MSolo mass spectrometer to measure the amount of ice in the samples",
+              "refs": [
+                "https://www.youtube.com/watch?v=xa2n2-_hLPM"
+              ]
+            },
+            {
+              "sentence": "ILO-1 prime contractor Canadensys is working to deliver \"a flight-ready low-cost optical payload for the ILO-1 mission, ruggedized for the Moon South Pole environment\"",
+              "refs": []
+            },
+            {
+              "sentence": "It could potentially be ready for integration on the IM-2 mission",
+              "refs": []
+            },
+            {
+              "sentence": "The \u03bcNova (Micro-Nova) Hopper will separate from the Nova-C lander after landing and function as a standalone hopper lander, exploring multiple difficult-to-reach areas such as deep craters on the lunar surface",
+              "refs": []
+            },
+            {
+              "sentence": "A lunar communications satellite will be deployed on this mission to facilitate communications between the lander and ground stations on Earth",
+              "refs": []
+            },
+            {
+              "sentence": "Spaceflight will deliver rideshare payloads on this mission aboard its Sherpa EScape (Sherpa-ES) space tug called Geo Pathfinder",
+              "refs": []
+            },
+            {
+              "sentence": "The MiniPIX TPX3 SPACE payload, provided by the Czech company ADVACAM, will be onboard the Nova-C lunar lander",
+              "refs": []
+            },
+            {
+              "sentence": "This payload is designed to monitor the radiation field on the Moon and help understand how to protect crew and equipment from the negative effects of cosmic rays",
+              "refs": []
+            },
+            {
+              "sentence": "This marks the first Czech payload planned to be delivered to the Moon's surface",
+              "refs": []
+            },
+            {
+              "sentence": "Space technology company Lunar Outpost will send their first lunar rover, the Mobile Autonomous Prospecting Platform (MAPP), on this mission in a partnership with Nokia Bell Labs and IM",
+              "refs": []
+            },
+            {
+              "sentence": "MAPP will collect lunar samples for NASA under a contract worth just $1, which is symbolic of a new incentive for the emerging commercial space industry to access resources in space",
+              "refs": []
+            },
+            {
+              "sentence": "Photos of the samples and other data will be transmitted through radio equipment and antennas to communicate with the Nova-C lander",
+              "refs": [
+                "https://www.lsu.edu/research/news/2021/0504-tiger-eye-1.php",
+                "https://www.forbes.com/sites/ariannajohnson/2022/11/09/mit-will-return-to-the-moon-for-the-first-time-since-apollo-thanks-to-this-space-startup/?sh=731b823b6d72"
+              ]
+            },
+            {
+              "sentence": "A collaboration in order to demonstrate 4G cellular connectivity, in partnership with Nokia Bell Labs and NASA will be aboard the lander",
+              "refs": []
+            },
+            {
+              "sentence": "Nokia's equipment is a Network-In-a-Box and will connect the Nova-C lander with Lunar Outpost's MAPP rover and IM's Micro-Nova Hopper",
+              "refs": [
+                "https://www.nokia.com/about-us/newsroom/articles/inside-look-at-nokia-moon-mission/"
+              ]
+            },
+            {
+              "sentence": "This 4G/LTE network will provide more bandwidth than the more conventional ultra-high frequency (UHF) systems used for space communication",
+              "refs": []
+            },
+            {
+              "sentence": "Nokia says they hope that future missions will use shared infrastructure to interlink bases on the lunar surface",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "IM-3 mission",
+          "section_content": [
+            {
+              "sentence": "NASA selected a Nova-C mission for CLPS task order CP-11",
+              "refs": []
+            },
+            {
+              "sentence": "It will deliver payloads to the lunar swirl in the Reiner Gamma region",
+              "refs": [
+                "https://www.space.com/nokia-4g-cell-network-on-the-moon"
+              ]
+            },
+            {
+              "sentence": "In August 2021, Intuitive Machines selected SpaceX to launch its third lunar mission, IM-3",
+              "refs": [
+                "https://science.nasa.gov/lunar-science/clps-deliveries/cp-11/"
+              ]
+            },
+            {
+              "sentence": "As of August 2024, the launch of IM-3 is expected to take place no earlier than October 2025",
+              "refs": [
+                "https://www.intuitivemachines.com/post/three-peat-intuitive-machines-selects-spacex-falcon-9-rocket-for-third-moon-mission"
+              ]
+            },
+            {
+              "sentence": "The lander will conduct experiments investigating the properties of the unexpected magnetic field that has been detected in the vicinity of the Reiner Gamma swirl",
+              "refs": [
+                "https://spacenews.com/intuitive-machines-seeks-to-take-over-nasas-viper-lunar-rover/",
+                "https://www.intuitivemachines.com/post/nasa-selects-intuitive-machines-to-deliver-4-lunar-payloads-in-2024"
+              ]
+            },
+            {
+              "sentence": "The Reiner Gamma landing site was announced for the first PRISM opportunity and the JHU Applied Physics Laboratory's Lunar Vertex payload was selected to conducted a detailed scientific analysis of the surface and surface environment",
+              "refs": []
+            },
+            {
+              "sentence": "David Blewett (APL) is the principal investigator and leads the science team",
+              "refs": []
+            },
+            {
+              "sentence": "Lunar Vertex includes payload elements on the Nova-C lander (APL magnetometer, SwRI plasma spectrometer, and Redwire camera arrays) and on a Lunar Outpost rover (APL magnetometer and Canadensys microscopic imager)",
+              "refs": []
+            },
+            {
+              "sentence": "APL also provided overall management, systems engineer, SMA, and rover integration and testing",
+              "refs": []
+            },
+            {
+              "sentence": "Additional IM-3 payloads include the Cooperative Autonomous Distributed Robotic Explorers (CADRE) rovers, ESA's MoonLIGHT Pointing Actuator (MPAc) and KASI's Lunar Space Environment Monitor (LUSEM)",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "IM-4 mission",
+          "section_content": [
+            {
+              "sentence": "IM-4 was announced and awarded by NASA in September 2024 for a launch in 2027",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "IM-C1 mission",
+          "section_content": [
+            {
+              "sentence": "Intuitive Machines have indicated that they are working on a 'commercial' mission, named IM-C1",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Further Nova-C missions",
+      "section_content": [
+        {
+          "sentence": "The Nova-C lander was designed to be compatible with methane and oxygen fuel sources that are believed to be available on both the Moon and on Mars",
+          "refs": []
+        },
+        {
+          "sentence": "For future missions, methane and oxygen could potentially be \"harvested\" wherever the Nova-C lander may be based using In-situ resource utilization (ISRU) (off-world resource processing technologies)",
+          "refs": []
+        },
+        {
+          "sentence": "The Nova-C lander technology platform can be scaled up to mid and large lander classes, capable of accommodating larger payloads",
+          "refs": [
+            "https://www.nasa.gov/event/clps-flight-intuitive-machines-im-4/",
+            "https://web.archive.org/web/20110917140027/http://www.nasa.gov/mission_pages/constellation/main/lox_methane_engine.html"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Successors",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Nova-D",
+          "section_content": [
+            {
+              "sentence": "In an interview with NASA recorded in October 2023, Tim Crain, CTO of Intuitive Machines, mentioned the possible development of a Nova-D lander",
+              "refs": []
+            },
+            {
+              "sentence": "Early reports of the in-development Nova-D state that it will use two of the VR-900 engines and be capable of carrying more than 500 kg to the lunar surface",
+              "refs": [
+                "https://web.archive.org/web/20151002071438/http://www.telegraph.co.uk/news/science/science-video/9466145/Nasas-new-Mars-landing-craft-Morpheus-bursts-into-flames-on-take-off.html"
+              ]
+            },
+            {
+              "sentence": "In August 2024, Intuitive Machines proposed a mission to deliver NASA's VIPER rover to the Moon on a Nova-D lander no earlier than late 2027",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Nova-M",
+          "section_content": [
+            {
+              "sentence": "Intuitive Machines is developing another lander, the Nova-M which, according to early reports, will use two VR-3500 engines originally developed for Boeing and their HLS to carry 5,000 kg to the lunar surface",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "Notes",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "22": "[ERROR retrieving ref link]",
+    "1": "https://arstechnica.com/science/2021/05/for-lunar-cargo-delivery-nasa-accepts-risk-in-return-for-low-prices/",
+    "2": "https://www.intuitivemachines.com/lunarlander",
+    "3": "https://www.msn.com/en-us/travel/article/houston-company-among-9-tapped-to-build-moon-landers/ar-BBQhtDm#image=2",
+    "4": "https://nextspaceflight.com/launches/details/1915",
+    "5": "https://spacenews.com/final-preparations-underway-for-launch-of-first-intuitive-machines-lunar-lander/",
+    "6": "https://www.intuitivemachines.com/post/im-1-mission-nova-c-lunar-lander-successfully-enroute-to-the-moon-following-its-launch-on-spacex-s-f",
+    "7": "https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/",
+    "8": "https://www.chron.com/business/bizfeed/article/Houston-based-Intuitive-Machines-to-be-among-13938130.php",
+    "9": "https://www.nytimes.com/2024/02/22/science/intuitive-machines-lander-history.html",
+    "10": "https://www.cnn.com/us/live-news/nasa-odysseus-moon-landing-intuitive-machines-scn/index.html",
+    "11": "https://spacenews.com/intuitive-machines-seeks-to-take-over-nasas-viper-lunar-rover/",
+    "12": "https://spacenews.com/intuitive-machines-first-lunar-lander-mission-slips-to-2022/",
+    "13": "https://www.intuitivemachines.com/post/three-peat-intuitive-machines-selects-spacex-falcon-9-rocket-for-third-moon-mission",
+    "14": "https://www.columbia.com/omni-heat-infinity/moon-mission/?eid=twitter&mid=brand_organic_social&nid=general",
+    "15": "https://techcrunch.com/2020/04/13/intuitive-machines-picks-a-launch-date-and-landing-site-for-2021-moon-cargo-delivery-mission/",
+    "16": "https://www.nytimes.com/2017/12/11/science/trump-moon-space-directive.html",
+    "17": "https://www.nytimes.com/2018/02/11/science/nasa-budget-moon.html",
+    "18": "https://www.nasa.gov/press-release/nasa-announces-new-partnerships-for-commercial-lunar-payload-delivery-services",
+    "19": "https://www.intuitivemachines.com/post/houston-based-aerospace-company-lands-77-5-million-deal-with-nasa-for-2024-moon-mission",
+    "20": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=PRIME-1",
+    "21": "https://fcc.report/IBFS/SAT-LOA-20210423-00055/6376549",
+    "23": "https://www.intuitivemachines.com/_files/ugd/7c27f7_51f84ee63ea744a9b7312d17fefa9606.pdf",
+    "24": "https://everydayastronaut.com/im-1-nova-c-odysseus-falcon-9-block-5/",
+    "25": "https://x.com/tgilliland89/status/1761855610528665940?s=20",
+    "26": "https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/",
+    "27": "https://www.youtube.com/live/xa2n2-_hLPM?si=yT9BydDyM8WZYQqS",
+    "28": "https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html",
+    "29": "http://www.spaceminingnews.com/2018/11/30/intuitive-machines-headed-to-the-moon-in-2021/",
+    "30": "https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations",
+    "31": "https://web.archive.org/web/20240219055643/https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations",
+    "32": "https://www.intuitivemachines.com/im-1",
+    "33": "https://www.nbcnews.com/science/space/moon-landing-odysseus-touches-down-lunar-surface-n1308924",
+    "34": "https://www.nasa.gov/missions/lro/nasas-lro-images-intuitive-machines-odysseus-lander/",
+    "35": "https://qz.com/sideways-moon-landing-cuts-mission-short-private-us-lu-1851286363",
+    "36": "https://investors.intuitivemachines.com/news-releases/news-release-details/intuitive-machines-historic-im-1-mission-success-american",
+    "37": "https://apnews.com/article/moon-landings-nasa-private-ffb85d2a092df8d32c0494811e6691f5",
+    "38": "https://nextspaceflight.com/launches/details/1915",
+    "39": "https://www.dropbox.com/scl/fi/bxegh13yo6p8f3nwxv83z/24-02-28-b-reply-from-steve-altemus.pdf?rlkey=48m09hfmv9hkv5lftd4f84bp5&dl=0",
+    "40": "https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/",
+    "41": "https://www.usatoday.com/story/news/nation/2024/02/28/odysseus-moon-lander-press-conference-nasa/72772049007/",
+    "42": "https://twitter.com/Int_Machines/status/1771609255616909738",
+    "43": "https://everydayastronaut.com/im-1-nova-c-odysseus-falcon-9-block-5/",
+    "44": "https://www.intuitivemachines.com/im-1",
+    "45": "https://www.youtube.com/watch?v=xa2n2-_hLPM",
+    "46": "https://twitter.com/Int_Machines/status/1787845786916528621",
+    "47": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=PRIME-1",
+    "48": "https://www.nasa.gov/press-release/nasa-selects-intuitive-machines-to-land-water-measuring-payload-on-the-moon",
+    "49": "https://iloa.org/the-ilo-mission/",
+    "50": "https://web.archive.org/web/20210628060759/https://www.intuitivemachines.com/copy-of-leadership-partners",
+    "51": "https://www.intuitivemachines.com/post/intuitive-machines-to-deploy-and-operate-first-lunar-communication-satellite-in-2022",
+    "52": "https://www.intuitivemachines.com/post/im-2-south-pole-mission-adds-secondary-rideshare-spaceflight-inc",
+    "53": "https://www.nasaspaceflight.com/2021/09/spaceflight-inc-rideshare-moon-geostationary/",
+    "54": "https://advacam.com/camera/minipix-space/",
+    "55": "https://www.lsu.edu/research/news/2021/0504-tiger-eye-1.php",
+    "56": "https://www.forbes.com/sites/ariannajohnson/2022/11/09/mit-will-return-to-the-moon-for-the-first-time-since-apollo-thanks-to-this-space-startup/?sh=731b823b6d72",
+    "57": "https://abcnews.go.com/Business/nasa-pay-firm-moon-sample/story?id=74540402",
+    "58": "https://www.nokia.com/about-us/newsroom/media-resources/media-library/inside-look-at-nokia-moon-mission/",
+    "59": "https://www.nokia.com/about-us/newsroom/articles/inside-look-at-nokia-moon-mission/",
+    "60": "https://www.cnn.com/2024/04/24/tech/nokia-moon-4g-network-nasa-spc/index.html",
+    "61": "https://www.space.com/nokia-4g-cell-network-on-the-moon",
+    "62": "https://science.nasa.gov/lunar-science/clps-deliveries/cp-11/",
+    "63": "https://www.intuitivemachines.com/post/nasa-selects-intuitive-machines-to-deliver-4-lunar-payloads-in-2024",
+    "64": "https://www.nasa.gov/press-release/nasa-selects-intuitive-machines-for-new-lunar-science-delivery",
+    "65": "https://www.nasa.gov/news-release/nasa-selects-intuitive-machines-for-new-lunar-science-delivery/",
+    "66": "https://www.jhuapl.edu/news/news-releases/211018b-lunar-vertex",
+    "67": "https://www.nasa.gov/event/clps-flight-intuitive-machines-im-4/",
+    "68": "https://web.archive.org/web/20110917140027/http://www.nasa.gov/mission_pages/constellation/main/lox_methane_engine.html",
+    "69": "https://web.archive.org/web/20151002071438/http://www.telegraph.co.uk/news/science/science-video/9466145/Nasas-new-Mars-landing-craft-Morpheus-bursts-into-flames-on-take-off.html",
+    "70": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/im-1/",
+    "71": "https://www.nasaspaceflight.com/2021/08/intuitive-machines-im-3/"
+  },
+  "flair_entities": [
+    "moon south pole",
+    "sherpa escape",
+    "advacam",
+    "mapp",
+    "vr-900",
+    "cto",
+    "jhu applied physics laboratory",
+    "cadre",
+    "viper",
+    "im-c1",
+    "odysseus",
+    "earth",
+    "clps",
+    "geo pathfinder",
+    "lusem",
+    "boeing",
+    "moon",
+    "esa",
+    "czech",
+    "project morpheus",
+    "apollo 17",
+    "nokia",
+    "vr-3500",
+    "mpac",
+    "hopper",
+    "hls",
+    "mars",
+    "missions  intuitive machines",
+    "nova-d",
+    "nasa artemis program",
+    "prime-1",
+    "the new york times",
+    "tim crain",
+    "isru",
+    "\u03bcnova",
+    "us",
+    "im-1",
+    "malapert a",
+    "ilo-1",
+    "lunar space environment monitor",
+    "im-4",
+    "nasa commercial lunar payload services program",
+    "minipix",
+    "falcon 9",
+    "intuitive machines",
+    "im",
+    "nokia bell labs",
+    "lunar vertex",
+    "kasi",
+    "moonlight pointing actuator",
+    "artemis",
+    "american",
+    "commercial lunar payload services",
+    "david blewett",
+    "im-3",
+    "spacex",
+    "canadensys",
+    "reiner gamma",
+    "south pole",
+    "nova-m  intuitive machines",
+    "mobile autonomous prospecting platform",
+    "nova-m",
+    "sherpa-es",
+    "lunar outpost",
+    "im-2",
+    "apl",
+    "spacex falcon 9",
+    "msolo",
+    "network-in-a-box",
+    "redwire",
+    "cooperative autonomous distributed robotic explorers",
+    "schomberger",
+    "nasa",
+    "nova-c",
+    "rcs",
+    "micro-nova hopper"
+  ]
+}

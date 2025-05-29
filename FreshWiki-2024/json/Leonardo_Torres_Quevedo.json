@@ -1,0 +1,2137 @@
+{
+  "title": "Leonardo_Torres_Quevedo",
+  "url": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
+  "summary": "Leonardo Torres Quevedo (Spanish: [leo\u02c8na\u027e\u00f0o \u02c8tores ke\u02c8\u03b2e\u00f0o]; 28 December 1852 \u2013 18 December 1936) was a Spanish civil engineer, mathematician and inventor, known for his numerous engineering innovations, including aerial trams, airships, catamarans, and remote control. He was also a pioneer in the field of computing and robotics. Torres was a member of several scientific and cultural institutions and held such important positions as the seat N of the Real Academia Espa\u00f1ola (1920\u20131936) and the presidency of the Spanish Royal Academy of Sciences (1928\u20131934). In 1927 he became a foreign associate of the French Academy of Sciences.\nHis first groundbreaking invention was a cable car system patented in 1887 for the safe transportation of people, an activity that culminated in 1916 when the Whirlpool Aero Car was opened in Niagara Falls. In the 1890s, Torres focused his efforts on analog computation. He published Sur les machines alg\u00e9briques (1895) and Machines \u00e0 calculer (1901), technical studies that gave him recognition in France for his construction of machines to solve real and complex roots of polynomials. He made significant aeronautical contributions at the beginning of the 20th century, becoming the inventor of the non-rigid Astra-Torres airships, a trilobed structure that helped the British and French armies counter Germany's submarine warfare during World War I. These tasks in dirigible engineering led him to be a key figure in the development of radio control systems in 1901\u201305 with the Telekine, which he laid down modern wireless remote-control operation principles.\nFrom his Laboratory of Automation created in 1907, Torres invented one of his greatest technological achievements, El Ajedrecista (The Chess Player) of 1912, an electromagnetic device capable of playing a limited form of chess that demonstrated the capability of machines to be programmed to follow specified rules (heuristics) and marked the beginnings of research into the development of artificial intelligence. He advanced beyond the work of Charles Babbage in his 1914 paper Essays on Automatics, where he speculated about thinking machines and included the design of a special-purpose electromechanical calculator, introducing concepts still relevant like floating-point arithmetic. British historian Brian Randell called it \"a fascinating work which well repays reading even today\". Subsequently, Torres demonstrated the feasibility of an electromechanical analytical engine by successfully producing a typewriter-controlled calculating machine in 1920.\nHe conceived other original designs before his retirement in 1930, some of the most notable were in naval architecture projects, such as the Buque campamento (Camp-Vessel, 1913), a balloon carrier for transporting airships attached to a mooring mast of his creation, and the Binave (Twin Ship, 1916), a multihull steel vessel driven by two propellers powered by marine engines. In addition to his interests in engineering, Torres also stood out in the field of letters and was a prominent speaker and supporter of Esperanto.",
+  "content": [
+    {
+      "section_title": "Early life and education",
+      "section_content": [
+        {
+          "sentence": "Torres was born on 28 December 1852, on the Feast of the Holy Innocents, in Santa Cruz de Igu\u00f1a, Cantabria, Spain",
+          "refs": []
+        },
+        {
+          "sentence": "His father, Luis Torres Vild\u00f3sola y Urquijo (1818\u20131891), was a civil engineer in Bilbao, where he worked as a railway engineer",
+          "refs": []
+        },
+        {
+          "sentence": "His mother was Valentina Quevedo de la Maza (1825\u20131891)",
+          "refs": []
+        },
+        {
+          "sentence": "He had two siblings, Joaquina (b",
+          "refs": []
+        },
+        {
+          "sentence": "1851) and Luis (b",
+          "refs": []
+        },
+        {
+          "sentence": "1855)",
+          "refs": []
+        },
+        {
+          "sentence": "The family resided for the most part in Bilbao, although they also spent long periods in his mother's family home in Cantabria's mountain region",
+          "refs": []
+        },
+        {
+          "sentence": "During his childhood, he spent long periods of time separated from his parents due to work trips",
+          "refs": []
+        },
+        {
+          "sentence": "As a result, he was cared by relatives of his father, the Barrenechea sisters, who declared him heir to their property, which facilitated his future independence",
+          "refs": []
+        },
+        {
+          "sentence": "He studied high school in Bilbao and later went to Paris, to the college of the Christian Brothers, to complete studies for two years (1868 and 1869),  where he met French culture, customs, and language and that in later years it would help him in his scientific-technical relationships with personalities, and scientific institutions",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "In 1870, his father was transferred, bringing his family to Madrid",
+          "refs": []
+        },
+        {
+          "sentence": "The following year, Torres began his higher studies in the Official School of the Road Engineers' Corps\u00a0 [es]",
+          "refs": []
+        },
+        {
+          "sentence": "He temporarily suspended his studies in 1873 to volunteer along with his brother Luis for the defense of Bilbao, which had been surrounded by Carlist troops during the Third Carlist War",
+          "refs": []
+        },
+        {
+          "sentence": "Once the siege of Bilbao was lifted in 1874, he returned to Madrid and completed his studies in 1876, graduating fourth in his class",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Career",
+      "section_content": [
+        {
+          "sentence": "Torres began to work as a civil engineer for a few months on railway projects as his father did, but his curiosity and desire to learn led him to give up joining the Corps to dedicate himself in \"thinking about my things\"",
+          "refs": []
+        },
+        {
+          "sentence": "As a young entrepreneur who had inherited a considerable family fortune, he immediately set out on a long trip through Europe in 1877, visiting Italy, France and Switzerland, to know the scientific and technical advances of the day, especially in the incipient area of electricity",
+          "refs": [
+            "https://www.revista-critica.es/2017/09/25/torres-quevedo-pensar-para-progresar/"
+          ]
+        },
+        {
+          "sentence": "Returning to Spain, he settled in Santander, where he continued his self-supported research activities.",
+          "refs": [
+            "https://polipapers.upv.es/index.php/RIAI/article/view/8225/8368",
+            "http://www.itefi.csic.es/es/content/biografia-leonardo-torres-quevedo"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Cableways",
+          "section_content": [
+            {
+              "sentence": "Torres' experimentation in the field of cableways and cable cars began very early during his residence in the town of his birth, Molledo",
+              "refs": []
+            },
+            {
+              "sentence": "There, in 1885, he constructed the first cableway to span a depression of some 40 metres (130\u00a0ft)",
+              "refs": []
+            },
+            {
+              "sentence": "The cableway was about 200 metres (660\u00a0ft) across and transported a single person who was sitting in a chair hanging from a cable and had another traction cable",
+              "refs": []
+            },
+            {
+              "sentence": "The engine used to move the human load was a pair of cows",
+              "refs": []
+            },
+            {
+              "sentence": "Later, in 1887, he would build a cableway over the R\u00edo Le\u00f3n in Valle de Igu\u00f1a\u00a0 [es], much bigger and motorized, but which was intended only for transporting materials",
+              "refs": []
+            },
+            {
+              "sentence": "These experiments were the basis for his first patent application on 17 September 1887, in Spain, \"Un sistema de camino funicular a\u00e9reo de alambres m\u00faltiples\" (\"A multi-wire suspended aerial system\"),  for a cable car with which he obtained a level of safety suitable for the transport of people, not only cargo",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA5"
+              ]
+            },
+            {
+              "sentence": "The patent was extended to other countries: United States, Austria, Germany, France, United Kingdom, and Italy",
+              "refs": []
+            },
+            {
+              "sentence": "His cable car used a novel multi-cable support system, in which one end of a cable is anchored to fixed counterweights and the other (through a system of pulleys) to mobile counterweights",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA13"
+              ]
+            },
+            {
+              "sentence": "With this system the axial force of the cables via is constant and equal to the weight of the counterweight, regardless of the load in the shuttle",
+              "refs": []
+            },
+            {
+              "sentence": "What will vary with this load is the deflection of the via cables, which will increase by raising the counterweight",
+              "refs": []
+            },
+            {
+              "sentence": "Thus, the safety coefficient of these cables is perfectly known, and is independent of the shuttle load",
+              "refs": []
+            },
+            {
+              "sentence": "The resulting design is very strong and remains safe in case of a support cable failure",
+              "refs": []
+            },
+            {
+              "sentence": "In April 1889 Torres presented his cableway in Switzerland,  a place very interested in this means of transport due to its geography, between Pilatus-Kulm and Pilatus-Klimsenhorn (Mount Pilatus)",
+              "refs": [
+                "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=CH&NR=589A&KC=C&FT=D&ND=&date=18800518&DB=&locale="
+              ]
+            },
+            {
+              "sentence": "It was an aerial funicular with a length of 2\u00a0km and a gradient of 300 m",
+              "refs": [
+                "https://www.deutsche-digitale-bibliothek.de/item/FXKM4QHXPX7P32JCNVJWQYANBMCCIMAL"
+              ]
+            },
+            {
+              "sentence": "In 1890 he traveled to that country to convince different authorities of its construction",
+              "refs": []
+            },
+            {
+              "sentence": "He failed to convince the Swiss, who did not grant any reliability to the work of a Spanish engineer, and even the newspapers Nebelspalter and Eulm Spiegel published articles and satirical drawings about the project",
+              "refs": []
+            },
+            {
+              "sentence": "This disappointment, known as the \"Swiss failure\", led him to focus on other fields for several years",
+              "refs": []
+            },
+            {
+              "sentence": "On 30 September 1907, Torres put into operation a pioneer cableway suitable for public transportation, the Mount Ulia aerial ropeway\u00a0 [es] in San Sebasti\u00e1n",
+              "refs": [
+                "https://laplazuela.net/la-ciencia-olvidada/14818-leonardo-torres-quevedo-1-el-invento-del-transbordador"
+              ]
+            },
+            {
+              "sentence": "The journey was 280 meters, with a drop of 28 meters, lasted for just over three minutes, and the gondola had the capacity to board up to 18 people on each trip",
+              "refs": [
+                "https://www.mas.bg.ac.rs/_media/istrazivanje/fme/vol34/4/5._hoffmann_205-212.pdf"
+              ]
+            },
+            {
+              "sentence": "The execution of the project was the responsibility of the Society of Engineering Studies and Works of Bilbao, which was established in 1906 by Valent\u00edn Gorbe\u00f1a Ayarragaray, one of his closest friends, with the sole purpose of developing or marketing Torres' patents",
+              "refs": [
+                "https://www.noticiasdegipuzkoa.eus/donostia/2022/08/02/transbordador-parque-ulia-donostia-5876533.html"
+              ]
+            },
+            {
+              "sentence": "The Ulia cable car transported passengers until its closure in 1917",
+              "refs": [
+                "https://laplazuela.net/index.php/la-ciencia-olvidada/14870-leonardo-torres-quevedo-2-el-transbordador-del-niagara"
+              ]
+            },
+            {
+              "sentence": "The successful result of this type of cable car gave him the opportunity to design the Spanish Aerocar based on J",
+              "refs": []
+            },
+            {
+              "sentence": "Enoch Thompson's idea at Niagara Falls in Canada",
+              "refs": []
+            },
+            {
+              "sentence": "The cableway of 550 meters in length is an aerial cable car that spans the whirlpool in the Niagara Gorge on the Canadian side",
+              "refs": [
+                "https://www.atlasobscura.com/places/niagara-falls-spanish-aerocar"
+              ]
+            },
+            {
+              "sentence": "It travels at about 7.2 kilometres per hour (4.5\u00a0mph)",
+              "refs": []
+            },
+            {
+              "sentence": "The load per cable via is 9 tonnes (9.9 short tons), with a safety coefficient for the cables of 4.6",
+              "refs": []
+            },
+            {
+              "sentence": "and carries 35 standing passengers over a one-kilometre trip",
+              "refs": [
+                "http://www.cfcsl.com/wp-content/uploads/2015/07/2014_abril_3553_05_LEO_Torres_Quevedo_ROP.pdf"
+              ]
+            },
+            {
+              "sentence": "It was constructed between 1914 and 1916",
+              "refs": [
+                "http://www.niagaraparks.com/niagara-falls-attractions/whirlpool-aero-car.html"
+              ]
+            },
+            {
+              "sentence": "For its construction and assembly, the Niagara Spanish Aerocar Company Limited was set up from the Society of Engineering Studies and Works, with a capital of $110,000 (roughly $3.3\u00a0million in 2023),  and a planned concession of 20 years",
+              "refs": [
+                "https://www.bls.gov/data/inflation_calculator.htm"
+              ]
+            },
+            {
+              "sentence": "The construction was directed by Torres' son, Gonzalo Torres Polanco",
+              "refs": []
+            },
+            {
+              "sentence": "It completed its first tests on 15 February in 1916 and was officially inaugurated on 8 August, opening to the public the following day",
+              "refs": [
+                "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA324"
+              ]
+            },
+            {
+              "sentence": "The cableway, with small modifications, runs to this day with no accidents worthy of mention, constituting a popular tourist and cinematic attraction",
+              "refs": []
+            },
+            {
+              "sentence": "The Aero Car is believed to be the sole remaining example of Torres' design for an aerial ferry",
+              "refs": []
+            },
+            {
+              "sentence": "Although constructed and operated in Canada, it was a Spanish project from beginning to end: designed by a Spaniard and constructed by a Spanish company with Spanish capital",
+              "refs": []
+            },
+            {
+              "sentence": "In 1991, the Niagara Parks Commission received the Leonardo Torres Quevedo Award\u00a0 [es] on the 75th anniversary of the Aero Car, in recognition of its commitment to preserving Torres' design",
+              "refs": []
+            },
+            {
+              "sentence": "A plaque, mounted on a boulder in front of Aero Car Gift Shop recalls this fact: International Historic Civil Engineering Site",
+              "refs": []
+            },
+            {
+              "sentence": "The  Niagara Spanish Aerocar",
+              "refs": []
+            },
+            {
+              "sentence": "A tribute to the distinguished Spanish Engineer who designed the Niagara Spanish Aerocar",
+              "refs": []
+            },
+            {
+              "sentence": "This was only one of his many outstanding contributions to the engineering profession",
+              "refs": []
+            },
+            {
+              "sentence": "Engineer Leonardo Torres Quevedo (1852\u20131936)",
+              "refs": []
+            },
+            {
+              "sentence": "Constructed 1914\u20131916",
+              "refs": []
+            },
+            {
+              "sentence": "CSCE",
+              "refs": []
+            },
+            {
+              "sentence": "The Canadian Society for Civil Engineering",
+              "refs": []
+            },
+            {
+              "sentence": "2010",
+              "refs": []
+            },
+            {
+              "sentence": "Asociaci\u00f3n de Ingenieros de Caminos, Canales y Puertos de Espa\u00f1a",
+              "refs": []
+            },
+            {
+              "sentence": "Spanish aerial ferry of the Niagara",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Analogue calculating machines",
+          "section_content": [
+            {
+              "sentence": "Since the middle of the 19th century, several mechanical devices were known, including integrators, multipliers, etc",
+              "refs": []
+            },
+            {
+              "sentence": "The work of Torres in this matter is framed within this tradition, which began in 1893 with the presentation of the \"Mem\u00f3ria sobre las m\u00e1quinas alg\u00e9bricas\" (\"Memory about algebraic machines\") at the Spanish Royal Academy of Sciences in Madrid",
+              "refs": []
+            },
+            {
+              "sentence": "This paper was commented in a report by Eduardo Saavedra in 1894 and published in the Revista de Obras P\u00fablicas\u00a0 [es]",
+              "refs": [
+                "https://books.google.com/books?id=Eo0NAQAAIAAJ"
+              ]
+            },
+            {
+              "sentence": "Saavedra, who considered Torres' calculating machine as \"an extraordinary event in the course of Spanish scientific production\",  recommended that the final project of the device be financed",
+              "refs": [
+                "https://quickclick.es/rop/pdf/publico/1895/1895_tomoI_28_01.pdf",
+                "https://dbe.rah.es/biografias/9042/leonardo-torres-quevedo"
+              ]
+            },
+            {
+              "sentence": "In 1895 Torres presented \"Sur les machines alg\u00e9briques\", accompanied by a demonstration model, at the Bordeaux Congress of the Association pour l'Avancement des Sciences, and in Paris in the Comptes rendus de l'Acad\u00e9mie des Sciences",
+              "refs": []
+            },
+            {
+              "sentence": "Later on, in 1900, he presented a more detailed work, \"Machines \u00e0 calculer\" (\"Calculating machines\") at the Paris Academy of Sciences",
+              "refs": [
+                "https://www.aend.org/Revistas%20digitales/RevAEND88.pdf"
+              ]
+            },
+            {
+              "sentence": "The commission formed by Marcel Deprez, Henri Poincar\u00e9 and Paul Appell, asked the academy for its publication,  where they reported favorably: \"In M\u00e9canique analytique, Joseph-Louis Lagrange considers material systems whose connections are expressed by relationships between the coordinates or parameters used to define the position of the system",
+              "refs": [
+                "https://gallica.bnf.fr/ark:/12148/bpt6k840139b?rk=21459;2",
+                "http://www.itefi.csic.es/es/content/biografia-leonardo-torres-quevedo"
+              ]
+            },
+            {
+              "sentence": "We can, and this is what Mr",
+              "refs": []
+            },
+            {
+              "sentence": "Torres does, take the opposite point of view.\" Concluding: \"In short, Mr",
+              "refs": []
+            },
+            {
+              "sentence": "Torres has given a theoretical, general and complete solution to the problem of the construction of algebraic and transcendental relations by means of machines; moreover, he has effectively constructed machines that are easy to use for the solution of certains types of algebraic equations that are frequently encountered in applications.\"",
+              "refs": [
+                "https://gallica.bnf.fr/ark:/12148/bpt6k3086n/f874n3.capture#",
+                "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA330"
+              ]
+            },
+            {
+              "sentence": "These works examined mathematical and physical analogies that underlay analogue calculation or continuous quantities, and how to establish mechanically the relationships between them, expressed in mathematical formulae",
+              "refs": []
+            },
+            {
+              "sentence": "The study included complex variables and used the logarithmic scale",
+              "refs": []
+            },
+            {
+              "sentence": "From a practical standpoint, it showed that mechanisms such as turning disks could be used endlessly with precision, so that changes in variables were unlimited in both directions",
+              "refs": []
+            },
+            {
+              "sentence": "Torres developed a whole series of analogue mechanical calculating machines that used certain elements known as arithmophores, which consisted of a moving part and an index that made it possible to read the quantity according to the position shown thereon",
+              "refs": [
+                "https://ia801407.us.archive.org/4/items/lecalculmecaniqu00doca/lecalculmecaniqu00doca.pdf",
+                "https://archive.org/details/moderninstrument00horsuoft/page/263/mode/1up?view=theater&q=1906",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The aforesaid moving part was a graduated disk or a drum turning on an axis",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The angular movements were proportional to the logarithms of the magnitudes to be represented",
+              "refs": []
+            },
+            {
+              "sentence": "Between 1910 and 1920, using a number of such elements, Torres built a machine that was able to compute the roots of arbitrary polynomials of order eight, including the complex ones, with a precision down to thousandths",
+              "refs": []
+            },
+            {
+              "sentence": "This machine could calculated the equation:\u03b1=A1Xa+A2Xb+A3Xc+A4Xd+A5XeA6Xf+A7Xg+A8Xh{\\displaystyle \\alpha ={\\frac {A_{1}X^{a}+A_{2}X^{b}+A_{3}X^{c}+A_{4}X^{d}+A_{5}X^{e}}{A_{6}X^{f}+A_{7}X^{g}+A_{8}X^{h}}}\\,} where X is the variable and A1 ..",
+              "refs": []
+            },
+            {
+              "sentence": "A8 is the coefficient of each term",
+              "refs": []
+            },
+            {
+              "sentence": "Considering the case of \u03b1 = 1, it becomes the following formula, and the root of the algebraic equation can be obtained:A1Xa+A2Xb+A3Xc+A4Xd+A5Xe\u2212A6Xf\u2212A7Xg\u2212A8Xh=0{\\displaystyle A_{1}X^{a}+A_{2}X^{b}+A_{3}X^{c}+A_{4}X^{d}+A_{5}X^{e}-A_{6}X^{f}-A_{7}X^{g}-A_{8}X^{h}=0\\,}",
+              "refs": []
+            },
+            {
+              "sentence": "By calculated each term on a logarithmic scale, they can be calculated only by sums and products like A1 + a \u00d7 log(X), which can handle a very wide range of values, and the relative error during calculation is constant regardless of the size of the value",
+              "refs": []
+            },
+            {
+              "sentence": "However, to calculate the sum of each term, it is necessary to accurately obtain log(u + v) from the calculated values log(u) and log(v) on a logarithmic scale",
+              "refs": []
+            },
+            {
+              "sentence": "For this calculation, Torres invented a unique mechanism called the \"endless spindle\" (\"fusee sans fin\"), a complex differential gear using a helical gear shaped like a wine bottle, which allowed the mechanical expression of the relation y=log\u2061(10x+1){\\displaystyle y=\\log(10^{x}+1)}",
+              "refs": []
+            },
+            {
+              "sentence": "Putting log(u) \u2013 log(v) = log(u/v) = V, then u/v = 10 V, and the following formula is used to calculate log(u + v):  log\u2061(u+v)=log\u2061(v(u/v+1))=log\u2061(v)+log\u2061(u/v+1)=log\u2061(v)+log\u2061(10V+1){\\displaystyle \\log(u+v)=\\log(v(u/v+1))=\\log(v)+\\log(u/v+1)=\\log(v)+\\log(10^{V}+1)\\,},  the same technique which is the basis of the modern electronic logarithmic number system.",
+              "refs": [
+                "https://www.sciencedirect.com/science/article/pii/S0094114X07001231"
+              ]
+            },
+            {
+              "sentence": "Torres devised another machine around 1900 with a small computing using gears and linkages to obtain the complex number solution of the quadratic equation X2 \u2013 pX + q = 0",
+              "refs": []
+            },
+            {
+              "sentence": "Nowadays, all these machines are kept in the Torres Quevedo Museum at the  School of Civil Engineering of the Technical University of Madrid",
+              "refs": [
+                "https://doi.org/10.1016%2Fj.mechmachtheory.2022.104830"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Aerostatics",
+          "section_content": [
+            {
+              "sentence": "In 1902, Torres started the project of a new type of dirigible that would solve the serious problem of suspending the gondola,",
+              "refs": []
+            },
+            {
+              "sentence": "He applied for a patent in France   wrote \"Note sur le calcul d\u2019un ballon dirigeable a quille et suspentes interieures\" (\"Note on the calculus of a dirigible balloon with interior suspension and keel\"), and presented both to Madrid and Paris\u2019 Academies of Science",
+              "refs": [
+                "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=FR&NR=784E&FT=D",
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA47"
+              ]
+            },
+            {
+              "sentence": "By the end of that year the report at Paris's Academy of Science was included in the French journal L'A\u00e9rophile,  and an English-language summary was published in the British The Aeronautical Journal",
+              "refs": [
+                "http://hemerotecadigital.bne.es/issue.vm?id=0000682851&page=3&search=%22leonardo+torres+quevedo%22&lang=es",
+                "http://hemerotecadigital.bne.es/issue.vm?id=0001754720&page=13&search=%22leonardo+torres+quevedo%22&lang=es",
+                "https://books.google.com/books?id=n04IEAAAQBAJ",
+                "https://www.researchgate.net/publication/348018483_Leonardo_Torres_Quevedo_1902-1908_The_Foundations_for_100_years_of_Airship_designs",
+                "https://ia600209.us.archive.org/19/items/larophile10besa/larophile10besa.pdf"
+              ]
+            },
+            {
+              "sentence": "In 1904, Torres was appointed director of the Centre for Aeronautical Research in Madrid, a civil institution created by the government of Spain \"for the technical and experimental study of the air navigation problem and the management of remote engine maneuvers.\"  From March 1905, with Army Engineer Captain Alfredo Kindel\u00e1n as Technical Assistant, he supervised the construction of the first Spanish dirigible in the Army Military Aerostatics Service, located in Guadalajara, which was completed in June 1908",
+              "refs": [
+                "http://boe.es/datos/pdfs/BOE//1904/009/A00100-00101.pdf"
+              ]
+            },
+            {
+              "sentence": "The new airship, named Torres Quevedo in his honour,  made successful test flights with passengers in the gondola",
+              "refs": []
+            },
+            {
+              "sentence": "Despite this, in 1907 and 1909 he had requested an improved patent for his airship in France",
+              "refs": []
+            },
+            {
+              "sentence": "He moved all the material to a rented hangar in Sartrouville (Paris), beginning a collaboration with the Soci\u00e9t\u00e9 Astra, a new Aeronautical Society integrated in the conglomerate of French petroleum businessman Henri Deutsch de la Meurthe and directed by \u00c9douard Surcouf, who had been familiar with Torres' work since 1901",
+              "refs": [
+                "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=FR&NR=382794a&FT=D",
+                "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=FR&NR=11071E&FT=D"
+              ]
+            },
+            {
+              "sentence": "The Astra company managed to buy the patent with a cession of rights extended to all countries except Spain, making the use of said system free in the country",
+              "refs": []
+            },
+            {
+              "sentence": "In 1911, the construction of dirigibles known as the Astra-Torres airships was begun and Torres would receive royalties of 3 francs for every m3 of each airship sold",
+              "refs": []
+            },
+            {
+              "sentence": "In 1910, Torres also drew up designs for a \u2018docking station\u2019 to find a solution to the slew of problems faced by airship engineers in docking dirigibles",
+              "refs": []
+            },
+            {
+              "sentence": "He proposed the idea of attaching an airship's nose to a mooring mast and allowing the airship to weathervane with changes of wind direction",
+              "refs": []
+            },
+            {
+              "sentence": "The use of a metal column erected on the ground, the top of which the bow or stem would be directly attached to (by a cable) would allow a dirigible to be moored at any time, in the open, regardless of wind speeds",
+              "refs": []
+            },
+            {
+              "sentence": "Torres' design also called for the improvement and accessibility of temporary landing sites, where airships were to be moored for the purpose of disembarkation of passengers",
+              "refs": []
+            },
+            {
+              "sentence": "The patent was presented in February 1911 in Belgium, and later to France and the United Kingdom in 1912, which he named \"Improvements in Mooring Arrengements for Airships\"",
+              "refs": []
+            },
+            {
+              "sentence": "Mooring mast structure following his design became widely utilised as it allowed an unprecedented accessibility to dirigibles, eliminating the manhandling required when placing an airship in its hangar",
+              "refs": []
+            },
+            {
+              "sentence": "In Issy-les-Moulineaux (south-west of Paris) in February 1911, the trials of \u2018Astra-Torres no.1\u2019 were successful, with a volume of 1590m\u00b3 and a speed of up to 53\u00a0km/h",
+              "refs": []
+            },
+            {
+              "sentence": "Other Astra-Torres dirigibles followed, including the Astra-Torres XIV (HMA.No 3 to the Royal Naval Air Service), which broke the then world speed record for airships in September 1913 by reaching 83.2\u00a0km/h,  and the Pil\u00e2tre de Rozier (Astra-Torres XV) named after the aerostier Jean-Fran\u00e7ois Pil\u00e2tre de Rozier, which at 24,300 m3 was the same size of the German \u2018Zeppelins\u2019 and could reach speeds of around 85\u00a0km/h",
+              "refs": [
+                "https://dn790006.ca.archive.org/0/items/dorcysairshipman00orcyrich/dorcysairshipman00orcyrich.pdf",
+                "https://www.airshipsonline.com/dirigible/pdf_copies/No.%2090%20-%20Summer%202020/No.90%20Summer%202020.pdf"
+              ]
+            },
+            {
+              "sentence": "The distinctive trilobed design was also employed in the United Kingdom in the Coastal, C Star, and North Sea airships",
+              "refs": [
+                "https://dn790006.ca.archive.org/0/items/dorcysairshipman00orcyrich/dorcysairshipman00orcyrich.pdf"
+              ]
+            },
+            {
+              "sentence": "The Entente powers used these dirigibles during the First World War (1914\u20131918)  for diverse tasks, principally to the escort of convoys, the continuous surveillance of coasts and the search, from bases in Marseille, Tunisia and Algeria, for German submarines in the Bay of Biscay, the English Channel and the Mediterranean Sea",
+              "refs": [
+                "https://books.google.com/books?id=KkN-CgAAQBAJ",
+                "https://books.google.com/books?id=q346DQAAQBAJ&pg=PT30"
+              ]
+            },
+            {
+              "sentence": "In 1919, Torres designed, based on a proposal from engineer Emilio Herrera Linares, a transatlantic dirigible, which was named Hispania,  aiming to claim the honour of the first transatlantic flight for Spain",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA63"
+              ]
+            },
+            {
+              "sentence": "Owing to financial problems, the project was finally not carried out",
+              "refs": []
+            },
+            {
+              "sentence": "The success of the trilobed blimps during the war even drew the attention of the Imperial Japanese Navy in 1922, who acquired the Nieuport AT-2 with almost 263\u00a0ft long, maximum diameter 54\u00a0ft and with a hydrogen capacity of 363,950\u00a0ft 3",
+              "refs": [
+                "https://www.jotdown.es/2016/11/espana-los-dirigibles-una-historia-desencuentros/"
+              ]
+            },
+            {
+              "sentence": "This type of non-rigid airship continued to be manufactured in various countries during the post war era, especially those by the French Zodiac Company which influenced the design of most later dirigibles",
+              "refs": [
+                "http://www.j-aircraft.com/research/jas_jottings/japanese_airships.htm"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Radio control: the Telekino",
+          "section_content": [
+            {
+              "sentence": "Torres was a pioneer in remote control technology",
+              "refs": []
+            },
+            {
+              "sentence": "He began to develop a radio control system around 1901 or 1902, as a way of testing his airships without risking human lives",
+              "refs": []
+            },
+            {
+              "sentence": "Between 1902 and 1903, he applied for patents in France,  Spain,  and Great Britain,  under the name \"Syst\u00e9me dit T\u00e9l\u00e9kine pour commander \u00e0 distance un mouvement m\u00e9canique\" (\"Means or method for directing mechanical movements at or from a distance\").",
+              "refs": [
+                "https://worldwide.espacenet.com/patent/search/family/001377220/publication/FR327218A?q=pn%3DFR327218A",
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA33",
+                "https://worldwide.espacenet.com//publicationDetails/originalDocument?CC=GB&NR=190327073a&FT=D"
+              ]
+            },
+            {
+              "sentence": "On 3 August 1903, he presented the Telekino at the French Academy of Sciences, together with a detailed memory,  and making a practical demonstration to its members",
+              "refs": [
+                "https://www.biodiversitylibrary.org/item/31206#page/323/mode/1up"
+              ]
+            },
+            {
+              "sentence": "For the construction of this first model, Torres received help from Gabriel Koenigs, director of the Mechanics Laboratory of the Sorbonne, and Octave Rochefort, who collaborated by providing wireless telegraphy devices",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In 1904 Torres chose to conduct initial Telekino testings in the Beti Jai fronton of Madrid, which became the temporary headquarters of the Centre for Aeronautical Research,  first in an electric three-wheeled land vehicle  with an effective range of just 20 to 30 meters, which has been considered the first known example of a radio-controlled unmanned ground vehicle (UGV)",
+              "refs": [
+                "https://www.frontonbetijai.es/pelota-vasca/",
+                "ISBN: 0-471-71814-9"
+              ]
+            },
+            {
+              "sentence": "In 1905, Torres tested a second model of the Telekino remotely controlling the maneuvers of the electrically powered boat Vizcaya in the pond of the Casa de Campo in Madrid, achieving distances of up to about 250 m  from the terrace of the Club Mar\u00edtimo del Abra, and with the assistance of the president of the Provincial Council and other authorities",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://cyberneticzoo.com/early-robot-enabling-technologies/1902-telekine-telekino-leonardo-torres-quevedo-spanish/"
+              ]
+            },
+            {
+              "sentence": "Witness to the success of these tests, Jos\u00e9 Echegaray highlighted how \"no one moves\" the Telekino, \"it moves automatically.\" It was an automaton of \"a certain intelligence, not conscious, but disciplined\"; \"a material device, without intelligence, interpreting, as if it were intelligent, the instructions communicated to it in a succession of Hertzian waves.\"  These feats were also echoed in the international press",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://theconversation.com/el-fronton-beti-jai-el-edificio-olvidado-donde-se-probo-el-primer-mando-a-distancia-de-la-historia-112150",
+                "https://principia.io/2020/10/08/el-telekino-origen-de-los-drones.IjEyNjEi/?fbclid=IwAR0X2twuAectyig79xCPYzLrQhLf345j6VEKxhHUuo3uhlvShd5VQKUEEiU"
+              ]
+            },
+            {
+              "sentence": "On 25 September 1906, in the presence of the king Alfonso XIII and before a great crowd, Torres successfully demonstrated the invention in the port of Bilbao, guiding the boat Vizcaya from the shore with people on board, demonstrating a standoff range of 2\u00a0km",
+              "refs": []
+            },
+            {
+              "sentence": "By applying the Telekino to electrically powered vessels, he was able to select different positions for the steering engine and different velocities for the propelling engine independently",
+              "refs": [
+                "https://books.google.com/books?id=fNjgCgAAQBAJ&q=Wilson+1897+Torpedo&pg=PA87"
+              ]
+            },
+            {
+              "sentence": "He was also able to act over other mechanisms such a light, for switching on or off, and a flag, for raising or dropping it, at the same time",
+              "refs": []
+            },
+            {
+              "sentence": "Specifically, Torres was able to do up to 19 different actions with his prototypes",
+              "refs": []
+            },
+            {
+              "sentence": "The positive results of those experiences encouraged Torres to apply the Spanish government for the financial aid required to use his Telekino to steer submarine torpedoes, a technological field which was just starting out",
+              "refs": []
+            },
+            {
+              "sentence": "His application was denied, which caused him to abandon the improvement of the Telekino",
+              "refs": []
+            },
+            {
+              "sentence": "On 15 March 2007, the prestigious Institute of Electrical and Electronics Engineers (IEEE) dedicated a Milestone in Electrical Engineering and Computing  to the Telekino, based on the research work developed at Technical University of Madrid by Prof",
+              "refs": [
+                "http://www.ieeeghn.org/wiki/index.php/Milestones:Early_Developments_in_Remote-Control,_1901"
+              ]
+            },
+            {
+              "sentence": "Antonio P\u00e9rez Yuste, who was the driving force behind the Milestone nomination.",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Formal language",
+          "section_content": [
+            {
+              "sentence": "In 1907, Torres introduced a formal language for the description of mechanical drawings, and thus for mechanical devices, in Vienna",
+              "refs": []
+            },
+            {
+              "sentence": "He previously published \"Sobre un sistema de notaciones y s\u00edmbolos destinados a facilitar la descripci\u00f3n de las m\u00e1quinas\"  (\"System of notations and symbols intended to facilitate the description of the machines\") in the Revista de Obras P\u00fablicas",
+              "refs": []
+            },
+            {
+              "sentence": "According to the Austrian computer scientist Heinz Zemanek, this was equivalent to a programming language for the numerical control of machine tools",
+              "refs": [
+                "https://quickclick.es/rop/pdf/publico/1907/1907_tomoI_1634_01.pdf"
+              ]
+            },
+            {
+              "sentence": "He defined a table of symbols, a collection of rules and, as usual in his works, applied them to an example",
+              "refs": [
+                "https://books.google.com/books?id=Gh8SEAAAQBAJ&dq=leonardo+torres+quevedo+heinz+zemanek+formal+language&pg=PA1212"
+              ]
+            },
+            {
+              "sentence": "This symbolic language reveals Torres' main capacities, both his ability to detect a problem, in this case a social problem of origin and its technical consequences, as well as his capacity for creation \u2013 invention \u2013 to give a rational, properly technical response",
+              "refs": []
+            },
+            {
+              "sentence": "In the words of Torres: \"Charles Babbage and Franz Reuleaux \u2013 and I suppose others as well, although I don't have news of them \u2013 have tried, without any success, to put remedy to this inconvenience; but although these eminent authors have failed, should not be a sufficient reason to abandon such an important effort\"",
+              "refs": []
+            },
+            {
+              "sentence": "Babbage, Reuleaux and Torres failed",
+              "refs": []
+            },
+            {
+              "sentence": "The world of machines continues without any other symbolic language than descriptive geometry",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Laboratory of Automation",
+          "section_content": [
+            {
+              "sentence": "As a member of the steering  committee of the Junta para Ampliaci\u00f3n de Estudios\u00a0 [es] (JAE) established in 1907 in Madrid to promote research and scientific education in Spain,  Torres played a leading role in the creation of three key state agencies that were the models for the JAE's support to research, regardless of the discipline: the Laboratory of Automation (1907) \u2013 of which he was named director,  the construction of instruments \u2013  the Laboratories Association (1910) \u2013 the union of state laboratories and workshops \u2013 and the Institute of Science Materials (1911)  \u2013 the budget allocation.",
+              "refs": [
+                "https://boe.es/datos/pdfs/BOE//1907/015/A00165-00167.pdf",
+                "http://boe.es/datos/pdfs/BOE//1907/064/A00862-00863.pdf"
+              ]
+            },
+            {
+              "sentence": "The Laboratory of Automation produced the most varied instruments; it not only built its own inventions, but also provided services and support to universities and researchers of the JAE",
+              "refs": []
+            },
+            {
+              "sentence": "Torres, the physicist Blas Cabrera, and Juan Costa, the head of the workshop, jointly designed several scientific instruments (Weiss-type electromagnet, an X-ray spectrometer, a mechanism to handle through remote control a Bunge scale, a reservoir of variable height with micrometer movements for magnetic-chemical measurements, and some on)",
+              "refs": []
+            },
+            {
+              "sentence": "\u00c1ngel del Campo\u00a0 [es], head of the Spectroscopy Section of the Laboratory of Physical Research and Miguel A",
+              "refs": []
+            },
+            {
+              "sentence": "Catal\u00e1n\u2019s teacher, ordered Torres's workshop a spectrographic equipment; Manuel Mart\u00ednez Risco\u00a0 [es] requested an interferometer for a variable distance, Michelson- type; Juan Negr\u00edn requested a stalagmometer, and Santiago Ram\u00f3n y Cajal commissioned a microtome and panmicrotome, and a projector for film screenings",
+              "refs": []
+            },
+            {
+              "sentence": "The development of the Laboratory of Automation reached its peak with the reform of the Palace of the Arts and Industry\u00a0 [es], to house the School of Industrial Engineers and the JAE, and the National Museum of Natural Sciences, also expanding the own Laboratory",
+              "refs": []
+            },
+            {
+              "sentence": "In 1939 the Laboratory of Automation gave rise to the Torres Quevedo Institute of the Spanish National Research Council (Consejo Superior de Investigaciones Cient\u00edficas, CSIC)",
+              "refs": [
+                "http://www.itefi.csic.es/es/content/biografia-leonardo-torres-quevedo"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Chess automaton: El Ajedrecista",
+          "section_content": [
+            {
+              "sentence": "By the beginning of 1910 Torres commenced his work to make a chess-playing automaton, which he dubbed El Ajedrecista (The Chess Player)",
+              "refs": []
+            },
+            {
+              "sentence": "As opposed to The Turk and Ajeeb, El Ajedrecista was an electromechanical machine with true integrated automation that could automatically play a king and rook endgame against the king from any position, without any human intervention",
+              "refs": []
+            },
+            {
+              "sentence": "The pieces had a metallic mesh at their base, which closed an electric circuit that encoded their position in the board",
+              "refs": []
+            },
+            {
+              "sentence": "When the black king was moved by hand, an algorithm calculated and performed the next best move for the white player",
+              "refs": []
+            },
+            {
+              "sentence": "If an illegal move was made by the opposite player, the automaton would signal it by turning on a light",
+              "refs": [
+                "https://hipertextual.com/2011/07/el-ajedrecista-el-abuelo-de-deep-blue"
+              ]
+            },
+            {
+              "sentence": "If the opposing player made three illegal moves, the automaton would stop playing",
+              "refs": []
+            },
+            {
+              "sentence": "The automaton does not deliver checkmate in the minimum number of moves, nor always within the 50 moves allotted by the fifty-move rule, because of the simple algorithm that calculates the moves",
+              "refs": [
+                "https://es.chessbase.com/post/robots-y-ajedrez"
+              ]
+            },
+            {
+              "sentence": "It did, however, checkmate the opponent every time",
+              "refs": []
+            },
+            {
+              "sentence": "Claude Shannon noted in his work Programming a Computer for Playing Chess (1950) that Torres' machine was quite advanced for that period",
+              "refs": [
+                "ISBN: 1-871516-44-7"
+              ]
+            },
+            {
+              "sentence": "The device has been considered the first computer game in history",
+              "refs": [
+                "https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf"
+              ]
+            },
+            {
+              "sentence": "This example recorded in portable game notation shows how White checkmates the black King, following Torres' algorithm:",
+              "refs": []
+            },
+            {
+              "sentence": "It created great excitement when it made its public debut at the University of Paris in 1914",
+              "refs": []
+            },
+            {
+              "sentence": "Its internal construction was published by Henri Vigneron in the French magazine La Nature",
+              "refs": [
+                "https://en.chessbase.com/post/torres-y-quevedo-s-rook-endgame-automaton"
+              ]
+            },
+            {
+              "sentence": "On 6 November 1915 Scientific American magazine in their Supplement 2079 pp.\u00a0296\u2013298 published an illustrated article entitled \"Torres and His Remarkable Automatic Devices",
+              "refs": [
+                "http://cnum.cnam.fr/CGI/fpage.cgi?4KY28.87/60/100/329/5/313",
+                "https://cyberneticzoo.com/wp-content/uploads/2011/01/Levy-Torres-Vigneron-Translation.pdf"
+              ]
+            },
+            {
+              "sentence": "He Would Substitute Machinery for the Human Mind\"",
+              "refs": []
+            },
+            {
+              "sentence": "It was summarized as follows:",
+              "refs": [
+                "https://www.historyofinformation.com/detail.php?id=569",
+                "https://web.archive.org/web/20130921055055/http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf"
+              ]
+            },
+            {
+              "sentence": "In November 1922, about to turn 70, Torres finished the construction designs of the second chess player, in which, under his direction, his son Gonzalo had introduced various improvements",
+              "refs": []
+            },
+            {
+              "sentence": "The mechanical arms to move pieces were replaced for electromagnets located under the board, sliding the pieces from one square to another",
+              "refs": []
+            },
+            {
+              "sentence": "This version included a gramophone, with a voice recording announcing checkmate when the computer won the game",
+              "refs": []
+            },
+            {
+              "sentence": "Torres initially presented it  in 1923 in Paris",
+              "refs": [
+                "http://www.eldiario.es/turing/Leonardo-Torres-Quevedo-Espana-desconocido_0_318818588.html",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "His son later exposed the advanced machine at several international meetings, introducing it to a wider audience at the 1951 Paris conference on computers and human thinking",
+              "refs": []
+            },
+            {
+              "sentence": "Norbert Wiener played on 12 or 13 January",
+              "refs": [
+                "https://www.abc.es/ciencia/increible-ajedrecista-torres-quevedo-automata-siempre-daba-20230519132906-nt.html",
+                "https://www.nytimes.com/1951/01/14/archives/robot-plays-chess-in-paris.html"
+              ]
+            },
+            {
+              "sentence": "El Ajedrecista defeated Savielly Tartakower at the conference,  being the first Grandmaster to lose against a machine",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://inria.hal.science/hal-01620145/document",
+                "https://cyberneticzoo.com/not-quite-robots/1911-20-chess-playing-machines-leonardo-torres-y-quevedo-spanish/"
+              ]
+            },
+            {
+              "sentence": "It was also demonstrated at the 1958 Brussels World's Fair, Heinz Zemanek, who played against that device, described it as \"a historical witness of automaton artistry that was far ahead of its time",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Torres created a prefect algorithm with 6 subrules which he realized with the technological means of that time, essentially with levers, gearwheels, and relays.\"",
+              "refs": [
+                "https://books.google.com/books?id=Gh8SEAAAQBAJ&dq=leonardo+torres+quevedo+heinz+zemanek+formal+language&pg=PA1209"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Essays on Automatics",
+          "section_content": [
+            {
+              "sentence": "On 19 November 1914, Torres published \"Ensayos sobre Autom\u00e1tica",
+              "refs": []
+            },
+            {
+              "sentence": "Su definici\u00f3n",
+              "refs": []
+            },
+            {
+              "sentence": "Extensi\u00f3n te\u00f3rica de sus aplicaciones\" (Essays on Automatics",
+              "refs": []
+            },
+            {
+              "sentence": "Its Definition \u2013 Theoretical Extent of Its Applications) in the Revista de Obras P\u00fablicas",
+              "refs": []
+            },
+            {
+              "sentence": "It was translated into French with the title \"Essais sur l'Automatique\" in the Revue G\u00e9n\u00e9rale des Sciences Pures et Appliqu\u00e9es, 1915, vol",
+              "refs": []
+            },
+            {
+              "sentence": "2, pp.\u00a0601\u2013611",
+              "refs": []
+            },
+            {
+              "sentence": "This paper is Torres' major written work on the subject he called Automatics, \"another type of automaton of great interest: those that imitate, not the simple gestures, but the thoughtful actions of a man, and which can sometimes replace him\"",
+              "refs": []
+            },
+            {
+              "sentence": "He drew a distinction between the simpler sort of automaton, which has invariable mechanical relationships and the more complicated, interesting kind, whose relationships between operating parts alter \"suddenly when necessary circumstances arise\"",
+              "refs": []
+            },
+            {
+              "sentence": "Such an automaton must have sense organs, that is, \"thermometers, magnetic compasses, dynamometers, manometers\", and limbs, as Torres called them, mechanisms capable of executing the instructions that would come from the sense organs",
+              "refs": []
+            },
+            {
+              "sentence": "The automaton postulated by Torres would be able to make decisions so long as \"the rules the automaton must follow are known precisely\"",
+              "refs": []
+            },
+            {
+              "sentence": "The paper provides the main link between Torres and Babbage",
+              "refs": []
+            },
+            {
+              "sentence": "He gives a brief history of Babbage's efforts at constructing a mechanical Difference engine and Analytical engine",
+              "refs": []
+            },
+            {
+              "sentence": "He described the Analytical Engine as exemplifying his theories as to the potential power of machines, and takes the problem of designing such an engine as a challenge to his skills as an inventor of electromechanical devices",
+              "refs": []
+            },
+            {
+              "sentence": "Contains a complete design (albeit one that Torres regarded as theoretical rather than practical) for a machine capable of calculating completely automatically the value of the formula ax(y\u2212z)2{\\displaystyle a^{x}(y-z)^{2}}, for a sequence of sets of values of the variables involved",
+              "refs": []
+            },
+            {
+              "sentence": "It demonstrates cunning electromechanical gadgets for storing decimal digits, for performing arithmetic operations using built-in function tables, and for comparing the values of two quantities",
+              "refs": []
+            },
+            {
+              "sentence": "The whole machine was to be controlled from a read-only program (complete with provisions for conditional branching), represented by a pattern of conducting areas mounted around the surface of a rotating cylinder",
+              "refs": []
+            },
+            {
+              "sentence": "It also introduced the idea of floating-point arithmetic, which historian Randell says was described \"almost casually\",  apparently without recognizing the significance of the discovery",
+              "refs": [
+                "https://web.archive.org/web/20130921055055/http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf"
+              ]
+            },
+            {
+              "sentence": "Torres proposed a format that showed he understood the need for a fixed-size significand as is presently used for floating-point data",
+              "refs": []
+            },
+            {
+              "sentence": "He did it in the following way:",
+              "refs": [
+                "https://books.google.com/books?id=eq4ZDgAAQBAJ&dq=leonardo+torres+quevedo++electromechanical+machine+essays&pg=PA84"
+              ]
+            },
+            {
+              "sentence": "The paper ends with a comparison of the advantages of electromechanical devices that were all that were available to Babbage",
+              "refs": []
+            },
+            {
+              "sentence": "It establishes that Torres would have been quite capable of building a general-purpose electromechanical computer more than 20 years ahead of its time, had the practical need, motivation, and financing been present",
+              "refs": []
+            }
+          ],
+          "subsections": [
+            {
+              "section_title": "Analytical machines",
+              "section_content": [
+                {
+                  "sentence": "Torres went ahead to prove his theories with a series of working prototypes",
+                  "refs": []
+                },
+                {
+                  "sentence": "He demonstrated twice, in 1914 and in 1920, that all of the cogwheel mechanisms of a calculating machine like that of Babbage could be implemented using electromechanical parts",
+                  "refs": []
+                },
+                {
+                  "sentence": "His 1914 analytical machine used a small memory built with electromagnets, capable of evaluating p \u00d7 q \u2013 b",
+                  "refs": []
+                },
+                {
+                  "sentence": "In 1920, during a conference in Paris, commemorating the centenary of the invention of the mechanical arithmometer, Torres surprised attendees with the demonstration of the \"Arithmom\u00e8tre Electrom\u00e9chanique\" (Electromechanical Arithmometer)",
+                  "refs": []
+                },
+                {
+                  "sentence": "It consisted of an arithmetic unit connected to a (possibly remote) typewriter, on which commands could be typed and the results printed automatically  (e.g",
+                  "refs": [
+                    "https://web.archive.org/web/20130921055055/http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf"
+                  ]
+                },
+                {
+                  "sentence": "\"532 \u00d7 257\" and \"= \" from the typewriter)",
+                  "refs": []
+                },
+                {
+                  "sentence": "This calculator was not programmable, but was able to print the numerical value of the answer",
+                  "refs": []
+                },
+                {
+                  "sentence": "From the user interface point of view, this machine can be regarded as the predecessor of current computers that use a keyboard as an input interface",
+                  "refs": [
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "In terms of usage, it was also assumed that calculations could be performed remotely by extending electric wires,  and is considered to be a rudimentary version of today's online systems that use communication lines",
+                  "refs": [
+                    "https://books.google.com/books?id=z4zMiZyAE1kC&dq=leonardo+torres+quevedo+++computing&pg=PA291",
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "Torres had no thought of making such a machine commercially, viewing it instead as a means of demonstrating his ideas and techniques",
+                  "refs": []
+                },
+                {
+                  "sentence": "Furthermore, in his paper about this device,  he pointed out the need for various automatic machines to represent continuous numerical values as finite, discrete values for processing and evaluation,  which corresponds to current digital data.",
+                  "refs": [
+                    "http://history.computer.org/pioneers/torres.html",
+                    "http://www.computer-timeline.com/wp-content/uploads/2022/07/TorresArithmometreMechanic.pdf",
+                    "[ERROR retrieving ref link]"
+                  ]
+                },
+                {
+                  "sentence": "From 26 April to 23 September 1990, an exposition called De la Machine \u00e0 Calculer de Pascal \u00e0 l'Ordinateur",
+                  "refs": []
+                },
+                {
+                  "sentence": "350 annes d'Informatique was held at the Mus\u00e9e des Arts et M\u00e9tiers in Paris,  where Torres' invention would be recognized as one of the first digital calculation systems: \"In 1920, the Spaniard Leonardo Torres Quevedo built a fully automatic electromagnetic arithmometer",
+                  "refs": [
+                    "https://photocalcul.com/Bibliographie/livres_machinesFrancais.html"
+                  ]
+                },
+                {
+                  "sentence": "To do this, he used relay technology, developed for the needs of the telephone.\"",
+                  "refs": [
+                    "https://hipertextual.com/2011/09/aritmometro-electromecanico-calculadora-digital",
+                    "https://gaceta.rsme.es/abrir.php?id=469.pdf"
+                  ]
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        },
+        {
+          "section_title": "Naval projects",
+          "section_content": [
+            {
+              "sentence": "In those days when the outbreak of the Great War was anticipated, Torres designed a transport ship intended to accompany fleets",
+              "refs": []
+            },
+            {
+              "sentence": "On 30 July 1913, he patented the \"Buque campamento\" (\"Camp-Vessel\"),  an airship carrier with a mooring mast and a hold large enough to house up to two inflated units, and hydrogen cylinders",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA55"
+              ]
+            },
+            {
+              "sentence": "He had thought of the possibility of combining aeronautics with the navy in this way, offering his patent to Vickers Limited, although the conglomerate did not show interest in the project",
+              "refs": []
+            },
+            {
+              "sentence": "Negotiations continued, and Torres reached Admiral Reginald Bacon, who, on 17 March 1914, wrote from the Coventry Ordnance Works that \"the experience of the Navy has invariably been that any auxiliary craft carried on board ship are of very little real service\"",
+              "refs": []
+            },
+            {
+              "sentence": "A few years later, in 1922, the Spanish Navy would construct a real airship carrier, the D\u00e9dalo, to be used in the war against Morocco",
+              "refs": []
+            },
+            {
+              "sentence": "In 1916 Torres patented in Spain a new kind of ship, a multihull steel vessel which received the name of \"Binave\" (\"Twin Ship\")",
+              "refs": []
+            },
+            {
+              "sentence": "He applied for the patent of the Binave in the United Kingdom with the name \"Improvements in Ships\" in 1917,  and it was built by the Euskalduna company in Bilbao in 1918, with several test departures such as the successful round trip to Santo\u00f1a on 28 September",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA75",
+                "https://worldwide.espacenet.com/patent/search/family/032241436/publication/GB111672A?q=pn%3DGB111672A"
+              ]
+            },
+            {
+              "sentence": "The tests would be resumed in 1919, obtaining the certificate of implementation of the patent on 12 November of that year",
+              "refs": []
+            },
+            {
+              "sentence": "The design introduces new features, including two 30 HP Hispano-Suiza marine engines, and the ability to modify its configuration when sailing, positioning two rudders at the stern of each float, and placing the propellers aft too",
+              "refs": []
+            },
+            {
+              "sentence": "As a result of the experience acquired in the tests, to improve stability in 1920 it was considered appropriate to add a lower keel to each of the floats proposed in the patent, making it similar to modern catamarans, whose development would become widespread from the 1990s onwards",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Other inventions and miscellaneous activities",
+          "section_content": [
+            {
+              "sentence": "Apart from the aforementioned inventions, Torres patented the \"Indicadores coordinados\" (\"Coordinate Indicator\", 1901), a guidance system for vehicles and pedestrians using markers installed on streetlights throughout an entire city, which he proposed for Madrid and Paris under the name of \"Guide Torres\",   the \"Dianemologo\" (1907), an apparatus for copying a speech as it is delivery without the need for shorthand,  \"Globos fusiformes deformables\" (\"Deformable Fusiform Balloons\", 1914), a fusiform envelope with a variable section depending on the volume of the hydrogen contained,  and \"Enclavamientos T.Q.\" (\"Interlocks T.Q.\", 1918), a railway interlock of his own design to protect the movement of trains within a certain area",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA27",
+                "https://www.acta.es/medios/articulos/biografias_y_personajes/002001.pdf",
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA69",
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA59"
+              ]
+            },
+            {
+              "sentence": "In the last years of his life, Torres turned his attention to the field of educational disciplines, to investigate those elements or machines that could help educators in their task",
+              "refs": []
+            },
+            {
+              "sentence": "His last patents related to subjects such as typewriters and their improvement (1922\u201323),  the marginal pagination of books (1926),  and, especially, the \"Puntero Proyectable\" (Projectable Pointer, 1930),  and the \"Proyector Did\u00e1ctico\" (Didactic Projector, 1930)",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA87",
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA105",
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA115"
+              ]
+            },
+            {
+              "sentence": "The Projectable Pointer was based on the shadow produced on a plate or screen by an opaque body in motion",
+              "refs": [
+                "https://books.google.com/books?id=hz6IUtukL48C&pg=PA121"
+              ]
+            },
+            {
+              "sentence": "The presenter had the option to move the pointer on any place on the plate (today a slide) at operate with an articulated system",
+              "refs": []
+            },
+            {
+              "sentence": "The Didactic Projector improved the way slides were placed on glass plates for projection",
+              "refs": [
+                "https://www.acta.es/medios/articulos/biografias_y_personajes/002001.pdf"
+              ]
+            }
+          ],
+          "subsections": [
+            {
+              "section_title": "Esperantist",
+              "section_content": [
+                {
+                  "sentence": "In the early 1900s, Torres learned the international language Esperanto, and was an advocate of the language throughout his life",
+                  "refs": []
+                },
+                {
+                  "sentence": "From 1922 to 1926 he participated in the work of the International Committee on Intellectual Cooperation of the League of Nations, where such figures as Albert Einstein, Marie Curie, Gilbert Murray and Henri Bergson, its first president, attended",
+                  "refs": []
+                },
+                {
+                  "sentence": "Torres proposed to the Committee that it study the role of an artistic auxiliary language to facilitate the scientific ones relations between the peoples",
+                  "refs": [
+                    "https://theses.hal.science/tel-01853903"
+                  ]
+                },
+                {
+                  "sentence": "Although almost half of the Committee members were in favor of Esperanto, his motion was strongly opposed by President Bergson, receiving a clear notice from French diplomats to put the influence of French culture first, which included the French ambassador in Bern, who considered Torres a \"farouchement esp\u00e9rantiste\" (\"fierce Esperantist\")",
+                  "refs": []
+                },
+                {
+                  "sentence": "In 1925 he participated as the official representative of the Spanish government in the \"Conference on the Use of Esperanto in Pure and Applied Sciences\" held in Paris, together with Vicente Inglada Ors\u00a0 [es] and Emilio Herrera Linares",
+                  "refs": []
+                },
+                {
+                  "sentence": "That same year, he joined to the Honorary Committee of the Spanish Association of Esperanto\u00a0 [es] (HEA) founded by Julio Mangada, and continued defending the language in other forums until his death in 1936",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "section_title": "Spanish-American Technological Dictionary",
+              "section_content": [
+                {
+                  "sentence": "In 1910 Torres traveled to Argentina with the Infanta Isabel  to assist at the International Scientific Congress held in Buenos Aires, one of the events organized to mark the centenary of the independence of Argentina",
+                  "refs": [
+                    "https://hemerotecadigital.bne.es/hd/viewer?oid=0001832902&page=144"
+                  ]
+                },
+                {
+                  "sentence": "At the congress, he proposed, along with the Argentinean engineer Santiago Barabino, the constitution of a Spanish-American board of scientific technology, which would eventually become the \"Uni\u00f3n Internacional Hispano\u2013Americana de Bibliograf\u00eda y Terminolog\u00eda Cient\u00edficas\"",
+                  "refs": []
+                },
+                {
+                  "sentence": "The first task was the publication of a technological dictionary of the Spanish language to tackle the problems caused by the increasing use of scientific and technological neologisms, as well as the adaptation of words from other languages, confronted with the avalanche of foreign terms",
+                  "refs": [
+                    "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA352"
+                  ]
+                },
+                {
+                  "sentence": "As a result of the work of this board, the Diccionario Tecnol\u00f3gico Hispanoamericano (Hispanic American Technological Dictionary) began to be published in fascicles between 1926 and 1930, although it did not see a complete edition until 1983, with a second expanded edition in 1990",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Distinctions",
+      "section_content": [
+        {
+          "sentence": "Over the years, Torres received an increasing number of decorations, prizes, and societal memberships, both Spanish and from other countries",
+          "refs": []
+        },
+        {
+          "sentence": "In 1901, he entered the Spanish Royal Academy of Sciences in Madrid for his work carried out in these years about algebraic machines,  an entity of which he was its president between 1928 and 1934",
+          "refs": [
+            "https://rac.es/sobre-nosotros/miembros/academicos-historicos/numerarios/216/"
+          ]
+        },
+        {
+          "sentence": "In 1916 King Alfonso XIII of Spain bestowed the Echegaray Medal upon him;  and in 1918, he declined the offer of the position of Minister of Development",
+          "refs": [
+            "https://rac.es/sobre-nosotros/miembros/galeria-presidentes/",
+            "https://rac.es/ficheros/doc/00186.pdf",
+            "https://hemerotecadigital.bne.es/hd/viewer?oid=0001985292"
+          ]
+        },
+        {
+          "sentence": "In 1920, he was admitted to the Real Academia Espa\u00f1ola, to fill the seat N vacated by the death of Benito P\u00e9rez Gald\u00f3s",
+          "refs": []
+        },
+        {
+          "sentence": "In his acceptance speech he said in a humble and funny way:",
+          "refs": []
+        },
+        {
+          "sentence": "That same year Torres was elected President of the Spanish Royal Physics Society and the Royal Spanish Mathematical Society,   the latter position he held until 1924, and became a member of the Mechanics Section of the Paris Academy",
+          "refs": [
+            "https://rsef.es/rsef-informacion-general/informacion-institucional/itemlist/category/44-presidentes",
+            "https://www.rsme.es/la-sociedad/quienes-somos/historia/historico-de-presidentes/"
+          ]
+        },
+        {
+          "sentence": "In 1921 he was appointed President of the International Spanish-American Union of Scientific Bibliography and Technology",
+          "refs": [
+            "https://cths.fr/an/savant.php?id=117592#"
+          ]
+        },
+        {
+          "sentence": "From 1921 to 1928 he assumed the presidency of the Spanish section of the International Committee for Weights and Measures, where due to his experience in development of instruments, contributed to the improvement of measurements made in the laboratories of the International Bureau of Weights and Measures (BIPM)",
+          "refs": []
+        },
+        {
+          "sentence": "In 1923 he became an Honorary Academician of the Geneva Society of Physics and Natural History\u00a0 [fr]",
+          "refs": [
+            "https://www.cem.es/sites/default/files/2022-12/Personajes%20espan%CC%83oles%20relevantes%20en%20el%20campo%20de%20la%20metrologi%CC%81a.pdf"
+          ]
+        },
+        {
+          "sentence": "In 1925 he was promoted to Corresponding Member of the Hispanic Society of America",
+          "refs": [
+            "https://www.e-periodica.ch/cntmng?pid=ads-001%3A1931%3A13%3A%3A566"
+          ]
+        },
+        {
+          "sentence": "In 1926 he became Honorary Inspector General of the Corps of Civil Engineers",
+          "refs": []
+        },
+        {
+          "sentence": "On 27 June 1927 he was named one of the twelve foreign associate academicians of the French Academy of Sciences  with 34 votes in favor for his entry, surpassing Ernest Rutherford (4 votes) and Santiago Ram\u00f3n y Cajal (2 votes)",
+          "refs": [
+            "https://www.academie-sciences.fr/fr/Liste-des-membres-depuis-la-creation-de-l-Academie-des-sciences/les-membres-du-passe-dont-le-nom-commence-par-t.html"
+          ]
+        },
+        {
+          "sentence": "His accolades also include:",
+          "refs": [
+            "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA321"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Personal life, religious beliefs and death",
+      "section_content": [
+        {
+          "sentence": "On 16 April 1885 Torres married Luz Polanco y Navarro (1856\u20131954) in Portol\u00edn (Molledo)",
+          "refs": []
+        },
+        {
+          "sentence": "The marriage lasted 51 years and had eight children (3 sons and 5 daughters: Leonardo (born 1887, died 2 years old in 1889), Gonzalo (born 1893, died in 1965, who also became an engineer, and used to work as an assistant of his father), Luz, Valentina, Luisa, Julia (also died young), Joaquina, and Fernando)",
+          "refs": []
+        },
+        {
+          "sentence": "After the death of his first son, in 1889, Torres moved with his family to Madrid with the firm intention of putting into practice the projects he had devised in previous years",
+          "refs": [
+            "https://ancestors.familysearch.org/en/L7LY-NG1/leonardo-luis-inocencio-torres-de-quevedo-1852-1936"
+          ]
+        },
+        {
+          "sentence": "During this time he attended the Athen\u00e6um in the Spanish capital   and the literary gatherings at the Caf\u00e9 Suizo\u00a0 [es], but generally without participating in debates and discussions of a political nature",
+          "refs": [
+            "https://www.ateneodemadrid.com/wp-content/uploads/2022/01/Indice-Ateneistas-Ilustres-I.pdf"
+          ]
+        },
+        {
+          "sentence": "He lived for many years in Calle de V\u00e1lgame Dios\u00a0 [es] n\u00ba 3",
+          "refs": []
+        },
+        {
+          "sentence": "Torres was a devout Catholic who usually read the catechism and take communion every First Friday of the month",
+          "refs": []
+        },
+        {
+          "sentence": "He read the catechism as if intimately preparing himself for the next peaceful end that awaited him",
+          "refs": [
+            "https://catholicscientists.org/scientists-of-the-past/leonardo-torres/"
+          ]
+        },
+        {
+          "sentence": "His daughter Valentina told him on one occasion: \"Dad, maybe you don't fully understand the mysteries that faith offers us, just as I don't understand your inventions either\" and he responded affectionately: \"Oh daughter, it's just that from God to me there is an infinite distance!\"",
+          "refs": []
+        },
+        {
+          "sentence": "Once the Spanish Civil War began, his daughter Luz was arrested by the militia, and the family had to resort to the fact that Torres was a Commander of the Legion of Honour to save her life, with the intervention of the French Embassy included",
+          "refs": []
+        },
+        {
+          "sentence": "In his last moments, his family managed to have the sacraments administered to him despite the difficulties due to religious persecution",
+          "refs": []
+        },
+        {
+          "sentence": "At the moment of receiving the extreme unction, he pronounced his last words: \"Memento homnia, quia pulvis eris et in pulverem reverteris\" (\"Remember, man, you are dust and to dust you will return\")",
+          "refs": []
+        },
+        {
+          "sentence": "On 18 December 1936, after a progressive illness, Torres died at his son Gonzalo's home in Madrid, in the middle of the Civil War, ten days before his eighty-fourth birthday",
+          "refs": [
+            "https://www.religionenlibertad.com/ciencia_y_fe/603685907/AQuien-fue-el-ingeniero-espanol-mas-importante-de-la-historia-Probablemente-Torres-Quevedo.html"
+          ]
+        },
+        {
+          "sentence": "He was initially buried in the Cementerio de la Almudena, and later removed in 1957 to the monumental Saint Isidore Cemetery",
+          "refs": [
+            "http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/sevilla/abc.sevilla/1937/01/02/007.html"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Legacy",
+      "section_content": [
+        {
+          "sentence": "The distressing circumstances that Spain was going through during its Civil War meant that Torres' death in 1936 went somewhat unnoticed",
+          "refs": []
+        },
+        {
+          "sentence": "However, newspapers such as The New York Times and the French mathematician Maurice d'Ocagne reported on his demise by publishing obituaries and articles in 1937\u201338, with d'Ocagne giving some lectures about his research work in Paris and Brussels",
+          "refs": []
+        },
+        {
+          "sentence": "In the years following his death, Torres was not forgotten",
+          "refs": []
+        },
+        {
+          "sentence": "Created the Spanish National Research Council (CSIC) in 1939, the architect Ricardo Fern\u00e1ndez Vallesp\u00edn\u00a0 [es] was commissioned with the project and construction of a large building in Madrid to house the new Institute \u00abLeonardo Torres Quevedo\u00bb of Applied Physics, which was completed in 1943",
+          "refs": []
+        },
+        {
+          "sentence": "Its dedicated to \"designing and manufacturing instruments and investigating mechanical, electrical and electronic problems\", and was the germ of the current Institute of Physical and Information Technologies \"Leonardo Torres Quevedo\" (ITEFI)",
+          "refs": [
+            "https://www.aend.org/Revistas%20digitales/RevAEND88.pdf",
+            "https://www.educacionyfp.gob.es/dctm/revista-de-educacion/1945/194557/1945re57quehacer01.pdf?documentId=0901e72b81ee4b1b"
+          ]
+        },
+        {
+          "sentence": "In 1940 his name was among those selected by American philanthropist Archer Milton Huntington to inscribe on the building of the Hispanic Society of America",
+          "refs": []
+        },
+        {
+          "sentence": "In 1953, the commemorative events for the centenary of his birth began,  which took place at the Spanish Royal Academy of Sciences with the participation of high academic, scientific and university figures from the country and abroad, among them Louis Couffignal, Charles Lambert Manneback, and Aldo Ghizzetti\u00a0 [it]",
+          "refs": [
+            "https://www.abc.es/archivo/periodicos/abc-sevilla-19530325.html"
+          ]
+        },
+        {
+          "sentence": "Two postage stamps were issued in Spain to honoured him in 1955 and 1983,  the last one next to the image of the Niagara cable car, regardess as a work of genius",
+          "refs": [
+            "https://www.researchgate.net/publication/355095639_Leonardo_Torres_Quevedo_en_la_filatelia_Revista_Los_Cantabros_2603-8757"
+          ]
+        },
+        {
+          "sentence": "In 1965, the City Council of Madrid dedicated a commemorative plaque to him in his residence building at V\u00e1lgame Dios, 3, informing the people of Madrid that \"the scientist who brought so much glory to Spain lived in that place.\"",
+          "refs": [
+            "https://esculturayarte.com/005598/Torres-Quevedo-Placa-en-Madrid.html",
+            "https://www.revistamadridhistorico.es/2019/09/huellas-de-leonardo-torres-quevedo/"
+          ]
+        },
+        {
+          "sentence": "In 1978 his work was honoured in Madrid at the Palacio de Cristal del Retiro, an exposition that was organized by the College of Civil Engineers led by Jos\u00e9 Antonio Fern\u00e1ndez Ord\u00f3\u00f1ez\u00a0 [es]",
+          "refs": []
+        },
+        {
+          "sentence": "The Leonardo Torres Quevedo National Research Award\u00a0 [es] was established in 1982 in Spain by the Ministry of Science in recognition of the merits of Spanish scientists or researchers in the field of engineering",
+          "refs": []
+        },
+        {
+          "sentence": "The same year the Leonardo Torres Quevedo Foundation\u00a0 [es] (FLTQ) was created under his name as a non-profit organization to promote scientific research within the framework of the University of Cantabria and to training professionals in this area",
+          "refs": [
+            "https://www.boe.es/boe/dias/1982/09/18/pdfs/A25395-25395.pdf",
+            "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/ciencia-e-innovacion/Paginas/2020/131120-premios.aspx"
+          ]
+        },
+        {
+          "sentence": "The Foundation had its headquarters at the University of Cantabria School of Civil Engineering",
+          "refs": []
+        },
+        {
+          "sentence": "A bronze statue on a stone pedestal was erected in 1986 on the occasion of the fiftieth anniversary of his death",
+          "refs": []
+        },
+        {
+          "sentence": "The work was commissioned to the sculptor Ram\u00f3n Muriedas\u00a0 [es] and its located in Santa Cruz de Igu\u00f1a, Torres' birth town",
+          "refs": []
+        },
+        {
+          "sentence": "Between the end of the 1980s and the mid-1990s, three symposiums were held in Spain on his figure titled Leonardo Torres Quevedo, su vida, su tiempo, su obra in Molledo (1987), Camargo (1991) and Pozuelo de Alarc\u00f3n (1995)",
+          "refs": []
+        },
+        {
+          "sentence": "On 19 July 2008, Spain's National Lottery\u00a0 [es] commemorated the centenary of the Torres Quevedo airship built in Guadalajara, which was the beginnings of the Spanish Air Force",
+          "refs": []
+        },
+        {
+          "sentence": "In November, the Leonardo Torres Quevedo Centre was established in Santa Cruz, Molledo, dedicated to his life and work",
+          "refs": [
+            "https://www.nacionalloteria.es/rincon-del-coleccionista/decimo-de-coleccion.php?id=2375"
+          ]
+        },
+        {
+          "sentence": "On 28 December 2012, Google celebrated his 160th birthday with a Google Doodle",
+          "refs": []
+        },
+        {
+          "sentence": "The company had also commemorated the 100th anniversary of El Ajedrecista, highlighting that it was a marvel of its time and could be considered the \"grandfather\" of current video games",
+          "refs": [
+            "https://www.youtube.com/watch?v=teyO9CqnLn0"
+          ]
+        },
+        {
+          "sentence": "A conference was organized on 7 November in cooperation with the School of Telecommunication Engineering of the Technical University of Madrid to exhibit Torres' devices",
+          "refs": []
+        },
+        {
+          "sentence": "Since 2015, an image of his Mount Ulia aerial ropeway\u00a0 [es], a pioneering cable car built in San Sebasti\u00e1n in 1907 to transport people, can be seen on the 'visas' page of the Spanish passports",
+          "refs": []
+        },
+        {
+          "sentence": "On 8 August 2016, the 100th Anniversary of the Whirlpool Aero Car was celebrated for its uninterrupted operation, without having had any accidents",
+          "refs": []
+        },
+        {
+          "sentence": "The ceremony also included members of the Torres Quevedo family, who made a special trip from Spain to attend the anniversary celebrations and Carlos G\u00f3mez-M\u00fagica\u00a0 [es], the Spanish Ambassador to Canada",
+          "refs": []
+        },
+        {
+          "sentence": "According to Niagara Parks Commission Chair, Janice Thomson, \"this morning\u2019s celebrations have allowed us to properly mark an important milestone in the history of the Niagara Parks Commission, all while recognizing the accomplishments and paying tribute to Leonardo Torres Quevedo, who through his work made a lasting impression on both the engineering profession and the tourism industry here in Niagara.\"",
+          "refs": [
+            "https://niagaraatlarge.com/2016/08/08/niagara-parks-whirlpool-aero-car-celebrates-100th-anniversary/"
+          ]
+        },
+        {
+          "sentence": "In February 2022 was presented in Santander the new turbosail of La Fura dels Baus, La Naumon, a large white structure at the base of which stands out the figure of Leonardo Torres Quevedo, with whose name it was baptized the device",
+          "refs": []
+        },
+        {
+          "sentence": "A museum called El Valle de los Inventos was opened in La Serna de Igu\u00f1a, which offers a permanent exhibition about him and his inventions where guided tours, scientific workshops and an escape room are organized",
+          "refs": [
+            "https://www.eldiariomontanes.es/culturas/buque-naumon-fura-20220203143816-nt.html",
+            "https://lafura.com/en/news/la-naumon-de-la-fura-inicia-su-singladura-tras-la-instalacion-de-la-nueva-turbo-vela-leonardo-torres/"
+          ]
+        },
+        {
+          "sentence": "On 4 July, the flag carrier Iberia received the fifth of the six Airbus A320neo planned for that year",
+          "refs": [
+            "https://cadenaser.com/2022/02/21/leonardo-torres-quevedo-ya-tiene-un-museo-en-la-serna-de-iguna/"
+          ]
+        },
+        {
+          "sentence": "This A320neo with registration EC-NTQ bears the name \"Leonardo Torres Quevedo\" in his honour",
+          "refs": []
+        },
+        {
+          "sentence": "On 5 May 2023, the Instituto Cervantes opens the Caja de las Letras to house the \"in memoriam\" legacy of Leonardo Torres Quevedo",
+          "refs": []
+        },
+        {
+          "sentence": "Among the deposited objects, letters and manuscripts; a dozen publications, with books, monographs or catalogues; postcards and a schedule of the Niagara Falls cable car designed by him, and the Milestone awarded by the Institute of Electrical and Electronics Engineers that recognizes the engineer's scoop in the development of remote-control in 1901 with the Telekino",
+          "refs": []
+        },
+        {
+          "sentence": "Torres' granddaughter Mercedes Torres Quevedo expressed her gratitude to the institution on behalf of all her descendants for welcoming her grandfather's legacy and the \"pride\" of all of them for the scientific and humanistic work he carried out throughout of his life",
+          "refs": []
+        },
+        {
+          "sentence": "His legacy has been deposited in box number 1275 and the keys in the hands of his descendants and the institution itself",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "In fiction",
+      "section_content": [
+        {
+          "sentence": "Leonardo Torres Quevedo is a main character of the novel Los horrores del escalpelo (The Horrors of the Scalpel, 2011), written by Daniel Mares",
+          "refs": []
+        },
+        {
+          "sentence": "The plot tells how the Spanish engineer travels to London in 1888 to find Maelzel's Chess Player, a mechanical automaton that was believed to have been lost for decades",
+          "refs": []
+        },
+        {
+          "sentence": "Together with Raimundo Aguirre, a thief and murderer, who claims to have the clue to the lost automaton, he begins the search through the London underworld and Victorian high society",
+          "refs": []
+        },
+        {
+          "sentence": "The search is interrupted due to the streets of the Whitechapel neighborhood dawn with corpses of prostitutes, which causes Torres and his partner Aguirre to become involved in the hunt for Jack the Ripper",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Selected works",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "References",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Notes",
+          "section_content": [],
+          "subsections": []
+        },
+        {
+          "section_title": "Bibliography",
+          "section_content": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "External links",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "1": "https://boe.es/datos/pdfs/BOE//1906/257/A01049-01049.pdf",
+    "2": "https://boe.es/datos/pdfs/BOE//1921/004/A00043-00043.pdf",
+    "3": "http://hemerotecadigital.bne.es/issue.vm?id=0002710119&page=1&search=%22Leonardo+Torres+Quevedo%22&lang=es",
+    "4": "https://biblioteca.ucm.es/edu/biografia",
+    "5": "https://baileymj67.weebly.com/leonardo-torres-y-quevedo.html",
+    "6": "https://gaceta.rsme.es/abrir.php?id=440",
+    "7": "https://www.researchgate.net/publication/347954080_The_Aeronautical_Contribution_of_Leonardo_Torres_Quevedo_from_World_War_I_to_21st_Century_Cross_Cockade_International_Journal_1360-9009",
+    "8": "https://www.wired.com/2011/11/1107wireless-remote-control/",
+    "9": "https://books.google.com/books?id=xLVdDgAAQBAJ&dq=Torres+and+his+remarkable+automatic+devices.+Issue+2079+of+Scientific+American,+1915&pg=PA30",
+    "10": "https://www.britannica.com/biography/Leonardo-Torres-Quevedo",
+    "11": "[ERROR retrieving ref link]",
+    "12": "[ERROR retrieving ref link]",
+    "13": "https://dl.acm.org/doi/pdf/10.5555/1074100.1074334",
+    "14": "https://www.researchgate.net/publication/347904072_Del_'buque-campamento'_de_Torres_Quevedo_1913_al_'Dedalo'_1922_de_la_Armada_Espanola",
+    "15": "https://journals.sagepub.com/doi/abs/10.1177/08438714221075417",
+    "16": "http://www.delbarrio.eu/torresquevedo.htm",
+    "17": "http://www.itefi.csic.es/es/content/biografia-leonardo-torres-quevedo",
+    "18": "[ERROR retrieving ref link]",
+    "19": "https://www.revista-critica.es/2017/09/25/torres-quevedo-pensar-para-progresar/",
+    "20": "https://polipapers.upv.es/index.php/RIAI/article/view/8225/8368",
+    "21": "https://laplazuela.net/la-ciencia-olvidada/14818-leonardo-torres-quevedo-1-el-invento-del-transbordador",
+    "22": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA5",
+    "23": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA13",
+    "24": "http://www.cfcsl.com/wp-content/uploads/2015/07/2014_abril_3553_05_LEO_Torres_Quevedo_ROP.pdf",
+    "25": "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA322",
+    "26": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=CH&NR=589A&KC=C&FT=D&ND=&date=18800518&DB=&locale=",
+    "27": "https://www.deutsche-digitale-bibliothek.de/item/FXKM4QHXPX7P32JCNVJWQYANBMCCIMAL",
+    "28": "https://www.mas.bg.ac.rs/_media/istrazivanje/fme/vol34/4/5._hoffmann_205-212.pdf",
+    "29": "https://www.noticiasdegipuzkoa.eus/donostia/2022/08/02/transbordador-parque-ulia-donostia-5876533.html",
+    "30": "https://laplazuela.net/index.php/la-ciencia-olvidada/14870-leonardo-torres-quevedo-2-el-transbordador-del-niagara",
+    "31": "http://www.kulturaldia.com/denborapasa/ulia-san-pedro-un-delicioso-viaje-en-el-tiempo/",
+    "32": "https://www.atlasobscura.com/places/niagara-falls-spanish-aerocar",
+    "33": "http://www.cfcsl.com/wp-content/uploads/2015/07/2014_abril_3553_05_LEO_Torres_Quevedo_ROP.pdf",
+    "34": "http://www.niagaraparks.com/niagara-falls-attractions/whirlpool-aero-car.html",
+    "35": "https://www.bls.gov/data/inflation_calculator.htm",
+    "36": "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA324",
+    "37": "http://www.niagaraparks.com/nfgg/aerocar.php",
+    "38": "https://legacy.csce.ca/en/historic-site/the-whirlpool-spanish-aero-car/",
+    "39": "https://books.google.com/books?id=Eo0NAQAAIAAJ",
+    "40": "https://quickclick.es/rop/pdf/publico/1895/1895_tomoI_28_01.pdf",
+    "41": "https://dbe.rah.es/biografias/9042/leonardo-torres-quevedo",
+    "42": "https://www.aend.org/Revistas%20digitales/RevAEND88.pdf",
+    "43": "https://gallica.bnf.fr/ark:/12148/bpt6k840139b?rk=21459;2",
+    "44": "https://gallica.bnf.fr/ark:/12148/bpt6k3086n/f874n3.capture#",
+    "45": "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA330",
+    "46": "https://ia801407.us.archive.org/4/items/lecalculmecaniqu00doca/lecalculmecaniqu00doca.pdf",
+    "47": "https://archive.org/details/moderninstrument00horsuoft/page/263/mode/1up?view=theater&q=1906",
+    "48": "[ERROR retrieving ref link]",
+    "49": "[ERROR retrieving ref link]",
+    "50": "https://www.sciencedirect.com/science/article/pii/S0094114X07001231",
+    "51": "https://doi.org/10.1016%2Fj.mechmachtheory.2022.104830",
+    "52": "http://www.upm.es/UPM/MuseosUPM/MuseoTorresQuevedo",
+    "53": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=FR&NR=784E&FT=D",
+    "54": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA47",
+    "55": "http://hemerotecadigital.bne.es/issue.vm?id=0000682851&page=3&search=%22leonardo+torres+quevedo%22&lang=es",
+    "56": "http://hemerotecadigital.bne.es/issue.vm?id=0001754720&page=13&search=%22leonardo+torres+quevedo%22&lang=es",
+    "57": "https://books.google.com/books?id=n04IEAAAQBAJ",
+    "58": "https://www.researchgate.net/publication/348018483_Leonardo_Torres_Quevedo_1902-1908_The_Foundations_for_100_years_of_Airship_designs",
+    "59": "https://ia600209.us.archive.org/19/items/larophile10besa/larophile10besa.pdf",
+    "60": "https://www.cambridge.org/core/journals/aeronautical-journal/article/abs/navigable-balloon-scheme-of-m-torres/62BE6F6230745DB75A01484966185A71",
+    "61": "http://boe.es/datos/pdfs/BOE//1904/009/A00100-00101.pdf",
+    "62": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=FR&NR=382794a&FT=D",
+    "63": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=FR&NR=11071E&FT=D",
+    "64": "https://www.researchgate.net/profile/Francisco-Gonzalez-Redondo/publication/347906296_The_Mooring_Mast_history_and_controversy_Dirigible_The_Journal_of_The_Airship_Heritage_Trust_1753-2175/links/5fe67094299bf14088440363/The-Mooring-Mast-history-and-controversy-Dirigible-The-Journal-of-The-Airship-Heritage-Trust-1753-2175.pdf",
+    "65": "[ERROR retrieving ref link]",
+    "66": "https://www.semanticscholar.org/paper/LEONARDO-TORRES-QUEVEDO%2C-1902-1908.-THE-FOUNDATIONS-Redondo/908ea29044d0bc3879e85f97ecbd0006885d0a1b/figure/7",
+    "67": "https://dn790006.ca.archive.org/0/items/dorcysairshipman00orcyrich/dorcysairshipman00orcyrich.pdf",
+    "68": "https://www.airshipsonline.com/dirigible/pdf_copies/No.%2090%20-%20Summer%202020/No.90%20Summer%202020.pdf",
+    "69": "https://dn790006.ca.archive.org/0/items/dorcysairshipman00orcyrich/dorcysairshipman00orcyrich.pdf",
+    "70": "https://books.google.com/books?id=KkN-CgAAQBAJ",
+    "71": "https://books.google.com/books?id=q346DQAAQBAJ&pg=PT30",
+    "72": "https://www.airshipsonline.com/dirigible/pdf_copies/No.%2090%20-%20Summer%202020/No.90%20Summer%202020.pdf",
+    "73": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA63",
+    "74": "https://www.jotdown.es/2016/11/espana-los-dirigibles-una-historia-desencuentros/",
+    "75": "http://www.j-aircraft.com/research/jas_jottings/japanese_airships.htm",
+    "76": "https://www.researchgate.net/publication/348018483_Leonardo_Torres_Quevedo_1902-1908_The_Foundations_for_100_years_of_Airship_designs",
+    "77": "https://worldwide.espacenet.com/patent/search/family/001377220/publication/FR327218A?q=pn%3DFR327218A",
+    "78": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA33",
+    "79": "https://worldwide.espacenet.com//publicationDetails/originalDocument?CC=GB&NR=190327073a&FT=D",
+    "80": "https://www.biodiversitylibrary.org/item/31206#page/323/mode/1up",
+    "81": "[ERROR retrieving ref link]",
+    "82": "https://gaceta.rsme.es/abrir.php?id=469.pdf",
+    "83": "https://www.frontonbetijai.es/pelota-vasca/",
+    "84": "ISBN: 0-471-71814-9",
+    "85": "https://cyberneticzoo.com/early-robot-enabling-technologies/1902-telekine-telekino-leonardo-torres-quevedo-spanish/",
+    "86": "[ERROR retrieving ref link]",
+    "87": "https://theconversation.com/el-fronton-beti-jai-el-edificio-olvidado-donde-se-probo-el-primer-mando-a-distancia-de-la-historia-112150",
+    "88": "https://principia.io/2020/10/08/el-telekino-origen-de-los-drones.IjEyNjEi/?fbclid=IwAR0X2twuAectyig79xCPYzLrQhLf345j6VEKxhHUuo3uhlvShd5VQKUEEiU",
+    "89": "https://trove.nla.gov.au/newspaper/article/239438574",
+    "90": "https://books.google.com/books?id=fNjgCgAAQBAJ&q=Wilson+1897+Torpedo&pg=PA87",
+    "91": "https://pdfs.semanticscholar.org/4e50/0c55919cb5188ea379033bde77ac7aa2de2b.pdf",
+    "92": "http://www.ieeeghn.org/wiki/index.php/Milestones:Early_Developments_in_Remote-Control,_1901",
+    "93": "https://quickclick.es/rop/pdf/publico/1907/1907_tomoI_1634_01.pdf",
+    "94": "https://books.google.com/books?id=Gh8SEAAAQBAJ&dq=leonardo+torres+quevedo+heinz+zemanek+formal+language&pg=PA1212",
+    "95": "https://gaceta.rsme.es/abrir.php?id=469.pdf",
+    "96": "https://boe.es/datos/pdfs/BOE//1907/015/A00165-00167.pdf",
+    "97": "http://boe.es/datos/pdfs/BOE//1907/064/A00862-00863.pdf",
+    "98": "http://www.residencia.csic.es/jae/en/protagonistas/50.htm",
+    "99": "https://books.google.com/books?id=DHetMwAACAAJ",
+    "100": "https://museovirtual.csic.es/coleccion/torres/torres1.htm",
+    "101": "https://books.google.com/books?id=XiJFORKEm0oC",
+    "102": "https://hipertextual.com/2011/07/el-ajedrecista-el-abuelo-de-deep-blue",
+    "103": "https://es.chessbase.com/post/robots-y-ajedrez",
+    "104": "ISBN: 1-871516-44-7",
+    "105": "https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf",
+    "106": "ISBN: 0-262-63318-3",
+    "107": "https://en.chessbase.com/post/torres-y-quevedo-s-rook-endgame-automaton",
+    "108": "http://cnum.cnam.fr/CGI/fpage.cgi?4KY28.87/60/100/329/5/313",
+    "109": "https://cyberneticzoo.com/wp-content/uploads/2011/01/Levy-Torres-Vigneron-Translation.pdf",
+    "110": "https://www.historyofinformation.com/detail.php?id=569",
+    "111": "https://web.archive.org/web/20130921055055/http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf",
+    "112": "http://www.eldiario.es/turing/Leonardo-Torres-Quevedo-Espana-desconocido_0_318818588.html",
+    "113": "[ERROR retrieving ref link]",
+    "114": "https://www.abc.es/ciencia/increible-ajedrecista-torres-quevedo-automata-siempre-daba-20230519132906-nt.html",
+    "115": "https://www.nytimes.com/1951/01/14/archives/robot-plays-chess-in-paris.html",
+    "116": "[ERROR retrieving ref link]",
+    "117": "https://inria.hal.science/hal-01620145/document",
+    "118": "https://cyberneticzoo.com/not-quite-robots/1911-20-chess-playing-machines-leonardo-torres-y-quevedo-spanish/",
+    "119": "[ERROR retrieving ref link]",
+    "120": "https://books.google.com/books?id=Gh8SEAAAQBAJ&dq=leonardo+torres+quevedo+heinz+zemanek+formal+language&pg=PA1209",
+    "121": "https://diccan.com/dicoport/Torres.htm",
+    "122": "[ERROR retrieving ref link]",
+    "123": "https://search.worldcat.org/oclc/52197627",
+    "124": "https://books.google.com/books?id=eq4ZDgAAQBAJ&dq=leonardo+torres+quevedo++electromechanical+machine+essays&pg=PA84",
+    "125": "https://quickclick.es/rop/pdf/publico/1914/1914_tomoI_2043_01.pdf",
+    "126": "http://history.computer.org/pioneers/torres.html",
+    "127": "[ERROR retrieving ref link]",
+    "128": "[ERROR retrieving ref link]",
+    "129": "https://books.google.com/books?id=z4zMiZyAE1kC&dq=leonardo+torres+quevedo+++computing&pg=PA291",
+    "130": "http://history.computer.org/pioneers/torres.html",
+    "131": "http://www.computer-timeline.com/wp-content/uploads/2022/07/TorresArithmometreMechanic.pdf",
+    "132": "https://photocalcul.com/Bibliographie/livres_machinesFrancais.html",
+    "133": "https://hipertextual.com/2011/09/aritmometro-electromecanico-calculadora-digital",
+    "134": "https://gaceta.rsme.es/abrir.php?id=469.pdf",
+    "135": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA55",
+    "136": "https://www.researchgate.net/publication/347905745_Airships_on_board_the_history_of_the_'Airships_Carrier'_1913-1922",
+    "137": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA75",
+    "138": "https://worldwide.espacenet.com/patent/search/family/032241436/publication/GB111672A?q=pn%3DGB111672A",
+    "139": "https://www.researchgate.net/publication/363407159_La_binave_de_Torres-Quevedo_precursora_de_los_modernos_catamaranes",
+    "140": "https://aviaciondigital.com/la-binave-de-torres-quevedo-el-precursor-de-los-modernos-catamaranes/",
+    "141": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA27",
+    "142": "https://www.acta.es/medios/articulos/biografias_y_personajes/002001.pdf",
+    "143": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA69",
+    "144": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA59",
+    "145": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA81",
+    "146": "https://www.tabakalera.eus/en/maker-heritage-engineer-torres-quevedo-and-ulia-aerial-tram/",
+    "147": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA87",
+    "148": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA105",
+    "149": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA115",
+    "150": "https://books.google.com/books?id=hz6IUtukL48C&pg=PA121",
+    "151": "https://www.acta.es/medios/articulos/biografias_y_personajes/002001.pdf",
+    "152": "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA353",
+    "153": "https://theses.hal.science/tel-01853903",
+    "154": "https://books.google.com/books?id=mgvZuQEACAAJ",
+    "155": "https://bitoteko.esperanto.es/xmlui/bitstream/handle/11013/5936/Riverego142-144.pdf?sequence=1&isAllowed=y",
+    "156": "https://hemerotecadigital.bne.es/hd/viewer?oid=0001832902&page=144",
+    "157": "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA352",
+    "158": "https://rac.es/fedora/get/General:GEN_20100409_00001/PDF",
+    "159": "https://books.google.com/books?id=xst7E9w3fzgC&dq=leonardo+torres+quevedo+diccionario+tecnologico+1983&pg=PA513",
+    "160": "https://rac.es/sobre-nosotros/miembros/academicos-historicos/numerarios/216/",
+    "161": "https://rac.es/sobre-nosotros/miembros/galeria-presidentes/",
+    "162": "https://rac.es/ficheros/doc/00186.pdf",
+    "163": "https://hemerotecadigital.bne.es/hd/viewer?oid=0001985292",
+    "164": "https://www.rae.es/academico/leonardo-torres-quevedo",
+    "165": "https://www.rae.es/sites/default/files/Discurso_de_ingreso_Leonardo_Torres_Quevedo.pdf",
+    "166": "https://rsef.es/rsef-informacion-general/informacion-institucional/itemlist/category/44-presidentes",
+    "167": "https://www.rsme.es/la-sociedad/quienes-somos/historia/historico-de-presidentes/",
+    "168": "https://cths.fr/an/savant.php?id=117592#",
+    "169": "https://www.cem.es/sites/default/files/2022-12/Personajes%20espan%CC%83oles%20relevantes%20en%20el%20campo%20de%20la%20metrologi%CC%81a.pdf",
+    "170": "https://www.e-periodica.ch/cntmng?pid=ads-001%3A1931%3A13%3A%3A566",
+    "171": "https://www.academie-sciences.fr/fr/Liste-des-membres-depuis-la-creation-de-l-Academie-des-sciences/les-membres-du-passe-dont-le-nom-commence-par-t.html",
+    "172": "https://www.lavanguardia.com/hemeroteca/20161215/412637730384/leonardo-torres-quevedo-inventores.html",
+    "173": "https://books.google.com/books?id=dBvHEAAAQBAJ&dq=leonardo+torres+quevedo+innovator&pg=PA321",
+    "174": "https://ancestors.familysearch.org/en/L7LY-NG1/leonardo-luis-inocencio-torres-de-quevedo-1852-1936",
+    "175": "https://www.ateneodemadrid.com/wp-content/uploads/2022/01/Indice-Ateneistas-Ilustres-I.pdf",
+    "176": "[ERROR retrieving ref link]",
+    "177": "https://catholicscientists.org/scientists-of-the-past/leonardo-torres/",
+    "178": "https://www.religionenlibertad.com/ciencia_y_fe/603685907/AQuien-fue-el-ingeniero-espanol-mas-importante-de-la-historia-Probablemente-Torres-Quevedo.html",
+    "179": "http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/sevilla/abc.sevilla/1937/01/02/007.html",
+    "180": "https://archivo.rae.es/copia-sin-firma-de-la-carta-a-jose-maria-de-cossio-con-el-encargo-del-director-de-que-represente-a-la-academia-en-la-misa-funeral-y-en-el-traslado-de-los-restos-mortales-de-leonardo-torres-quevedo-desde-el-cementerio-de-la-almudena-a-l",
+    "181": "https://cementeriodesanisidro.com/2020/11/12/semana-de-la-ciencia-2020/",
+    "182": "[ERROR retrieving ref link]",
+    "183": "https://www.nytimes.com/1937/01/10/archives/spanish-engineer-dead-de-torres-quevedo-invented-cable-railway-at.html",
+    "184": "[ERROR retrieving ref link]",
+    "185": "[ERROR retrieving ref link]",
+    "186": "https://www.aend.org/Revistas%20digitales/RevAEND88.pdf",
+    "187": "https://www.educacionyfp.gob.es/dctm/revista-de-educacion/1945/194557/1945re57quehacer01.pdf?documentId=0901e72b81ee4b1b",
+    "188": "https://hispanicsociety.emuseum.com/objects/3213/leonardo-torres-quevedo#",
+    "189": "https://www.abc.es/archivo/periodicos/abc-sevilla-19530325.html",
+    "190": "https://www.researchgate.net/publication/347976560_Leonardo_Torres_Quevedo_1852-1936_1_Parte_Las_maquinas_algebricas_La_Gaceta_de_la_RSME_1138-8927",
+    "191": "https://www.researchgate.net/publication/355095639_Leonardo_Torres_Quevedo_en_la_filatelia_Revista_Los_Cantabros_2603-8757",
+    "192": "https://www.nytimes.com/1983/11/20/arts/stamps-new-cept-issue-honors-genius.html",
+    "193": "https://esculturayarte.com/005598/Torres-Quevedo-Placa-en-Madrid.html",
+    "194": "https://www.revistamadridhistorico.es/2019/09/huellas-de-leonardo-torres-quevedo/",
+    "195": "https://elpais.com/diario/1978/04/02/sociedad/260319605_850215.html",
+    "196": "https://books.google.com/books?id=fuKkHgngvjwC&dq=torres+quevedo+ajedrecista+1978++palacio+de+cristal&pg=PA80",
+    "197": "https://www.boe.es/boe/dias/1982/09/18/pdfs/A25395-25395.pdf",
+    "198": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/ciencia-e-innovacion/Paginas/2020/131120-premios.aspx",
+    "199": "https://www.boe.es/boe/dias/1982/12/18/pdfs/A34887-34888.pdf",
+    "200": "https://www.researchgate.net/publication/347951264_Leonardo_Torres_Quevedo_en_el_Ano_Da_Vinci_2019_Revista_Los_Cantabros_2603-8757",
+    "201": "https://www.eldiariomontanes.es/region/besaya/leonardo-torres-quevedo-20210820214844-ntvo.html",
+    "202": "https://www.nacionalloteria.es/rincon-del-coleccionista/decimo-de-coleccion.php?id=2375",
+    "203": "https://www.eldiariomontanes.es/20081101/region/molledo/abierto-centro-interpretacion-sobre-20081101.html",
+    "204": "https://www.youtube.com/watch?v=teyO9CqnLn0",
+    "205": "https://www.europapress.es/ciencia/laboratorio/noticia-primer-juego-ordenador-analogico-cumple-100-anos-espanol-20121031135018.html",
+    "206": "https://www.upm.es/UPM/SalaPrensa/Noticias?fmt=detail&prefmt=articulo&id=726b147fe2afa310VgnVCM10000009c7648a____",
+    "207": "https://www.diariovasco.com/san-sebastian/201504/14/transbordador-ulia-nuevos-pasaportes-20150413062433.html",
+    "208": "https://niagaraatlarge.com/2016/08/08/niagara-parks-whirlpool-aero-car-celebrates-100th-anniversary/",
+    "209": "https://www.eldiariomontanes.es/culturas/buque-naumon-fura-20220203143816-nt.html",
+    "210": "https://lafura.com/en/news/la-naumon-de-la-fura-inicia-su-singladura-tras-la-instalacion-de-la-nueva-turbo-vela-leonardo-torres/",
+    "211": "https://cadenaser.com/2022/02/21/leonardo-torres-quevedo-ya-tiene-un-museo-en-la-serna-de-iguna/",
+    "212": "https://grupo.iberia.com/pressrelease/details/14037",
+    "213": "https://cultura.cervantes.es/espanya/es/CajadelasLetras:LeonardoTorresQuevedoinmemoriam/160553",
+    "214": "https://novaciencia.es/el-legado-de-torres-quevedo-ya-esta-en-la-caja-de-las-letras-del-cervantes/",
+    "215": "https://archive.org/details/los-horrores-del-escalpelo-daniel-mares"
+  },
+  "flair_entities": [
+    "niagara gorge",
+    "school of telecommunication engineering",
+    "international scientific congress",
+    "jos\u00e9 echegaray",
+    "didactic projector",
+    "corps",
+    "whitechapel",
+    "paris academy of sciences",
+    "international historic civil engineering site",
+    "hertzian",
+    "uni\u00f3n internacional hispano\u2013americana de bibliograf\u00eda y terminolog\u00eda cient\u00edficas",
+    "barrenechea",
+    "henri deutsch de la meurthe",
+    "eulm spiegel",
+    "bay of biscay",
+    "technical university of madrid",
+    "ec-ntq",
+    "leonardo torres quevedo",
+    "santiago ram\u00f3n y cajal",
+    "the horrors of the scalpel",
+    "spanish",
+    "niagara falls",
+    "jos\u00e9 antonio fern\u00e1ndez ord\u00f3\u00f1ez",
+    "carlist",
+    "applied physics",
+    "city council of madrid",
+    "torres",
+    "first world war",
+    "entente",
+    "chess player",
+    "committee",
+    "coventry ordnance works",
+    "cementerio de la almudena",
+    "esperanto",
+    "franz reuleaux",
+    "albert einstein",
+    "leonardo torres",
+    "laboratory of physical research and miguel a",
+    "aeronautical society",
+    "csic",
+    "german",
+    "paris academy",
+    "ugv",
+    "belgium",
+    "english channel",
+    "casa de campo",
+    "world war i",
+    "jack the ripper",
+    "brian randell",
+    "telekino",
+    "d'ocagne",
+    "aguirre",
+    "navy",
+    "antonio p\u00e9rez yuste",
+    "soci\u00e9t\u00e9 astra",
+    "fernando",
+    "torres quevedo institute of the spanish national research council",
+    "d'informatique",
+    "puntero proyectable",
+    "mus\u00e9e des arts et m\u00e9tiers",
+    "ulia",
+    "mem\u00f3ria sobre las m\u00e1quinas alg\u00e9bricas",
+    "julia",
+    "scientific american",
+    "austria",
+    "palace of the arts and industry",
+    "god",
+    "sobre un sistema de",
+    "henri poincar\u00e9",
+    "conference on the use of esperanto in pure and applied sciences",
+    "international committee on intellectual cooperation of the league of nations",
+    "niagara",
+    "savielly tartakower",
+    "\u00e9douard surcouf",
+    "deformable fusiform balloons",
+    "buque campamento",
+    "europe",
+    "hispania",
+    "spanish civil war",
+    "caja de las letras",
+    "bordeaux congress of the association",
+    "euskalduna",
+    "google doodle",
+    "institute of science materials",
+    "spanish aerocar",
+    "italy",
+    "enclavamientos t.q",
+    "united states",
+    "a320neo",
+    "athen\u00e6um",
+    "british",
+    "real academia espa\u00f1ola",
+    "michelson",
+    "astra-torres xiv",
+    "un sistema de camino funicular a\u00e9reo de alambres m\u00faltiples",
+    "valentina quevedo de la maza",
+    "vicente inglada ors",
+    "gilbert murray",
+    "randell",
+    "reginald bacon",
+    "note sur le calcul d\u2019un ballon",
+    "sartrouville",
+    "college of civil engineers",
+    "la naumon",
+    "juan costa",
+    "canales y puertos de espa\u00f1a",
+    "benito p\u00e9rez gald\u00f3s",
+    "aldo ghizzetti",
+    "ensayos sobre autom\u00e1tica",
+    "national museum of natural sciences",
+    "university of cantabria school of civil engineering",
+    "centre for aeronautical research",
+    "santa cruz de igu\u00f1a",
+    "the chess player",
+    "telekino  torres",
+    "santo\u00f1a",
+    "astra-torres xv",
+    "luis torres vild\u00f3sola y urquijo",
+    "mechanics section",
+    "google",
+    "madrid",
+    "leonardo",
+    "tunisia",
+    "luisa",
+    "canada",
+    "spanish royal academy of sciences",
+    "coordinate indicator",
+    "guide torres",
+    "ministry of science",
+    "spanish air force",
+    "pilatus-klimsenhorn",
+    "r\u00edo le\u00f3n",
+    "ricardo fern\u00e1ndez vallesp\u00edn",
+    "french academy of sciences",
+    "projectable pointer",
+    "provincial council",
+    "instituto cervantes",
+    "carlos g\u00f3mez-m\u00fagica",
+    "ieee",
+    "reuleaux",
+    "calle de v\u00e1lgame dios",
+    "asociaci\u00f3n de ingenieros de caminos",
+    "torres quevedo museum",
+    "mount ulia",
+    "spanish-american",
+    "charles babbage",
+    "m\u00e9canique",
+    "babbage",
+    "marie curie",
+    "pil\u00e2tre de rozier",
+    "white",
+    "academy of science",
+    "saint isidore cemetery",
+    "c star",
+    "bergson",
+    "third carlist war",
+    "molledo",
+    "hispano-suiza",
+    "leonardo torres quevedo foundation",
+    "enoch thompson",
+    "catholic",
+    "automatics",
+    "canadian",
+    "twin ship",
+    "bern",
+    "d\u00e9dalo",
+    "la nature",
+    "paul appell",
+    "institute of physical and information technologies",
+    "v\u00e1lgame dios",
+    "spanish royal physics society",
+    "legion of honour",
+    "bilbao",
+    "consejo superior de investigaciones cient\u00edficas",
+    "claude shannon",
+    "binave",
+    "l'a\u00e9rophile",
+    "the new york times",
+    "itefi",
+    "comptes rendus de l'acad\u00e9mie des sciences",
+    "hispanic society of america",
+    "spectroscopy section",
+    "proyector did\u00e1ctico",
+    "diccionario tecnol\u00f3gico hispanoamericano",
+    "aero car gift shop",
+    "astra-torres",
+    "luis",
+    "niagara spanish aerocar company limited",
+    "dianemologo",
+    "maurice d'ocagne",
+    "\u00e1ngel del campo",
+    "vizcaya",
+    "sorbonne",
+    "the turk",
+    "corps of civil engineers",
+    "blas cabrera",
+    "julio mangada",
+    "quevedo  leonardo torres quevedo",
+    "issy-les-moulineaux",
+    "canadian society for civil engineering",
+    "spanish national research council",
+    "spanish navy",
+    "cantabria",
+    "gonzalo",
+    "grandmaster",
+    "american",
+    "eduardo saavedra",
+    "caf\u00e9 suizo",
+    "international committee for weights and measures",
+    "france",
+    "milestone",
+    "saavedra",
+    "la serna de igu\u00f1a",
+    "ram\u00f3n muriedas",
+    "henri bergson",
+    "civil war",
+    "juan negr\u00edn",
+    "paris",
+    "national lottery",
+    "valent\u00edn gorbe\u00f1a ayarragaray",
+    "torres quevedo",
+    "imperial japanese navy",
+    "charles lambert manneback",
+    "sur les machines alg\u00e9briques",
+    "zeppelins\u2019",
+    "germany",
+    "cableways  torres'",
+    "marcel deprez",
+    "aero car",
+    "spain",
+    "valentina",
+    "career  torres",
+    "jae",
+    "norbert wiener",
+    "french zodiac company",
+    "guadalajara",
+    "great britain",
+    "great war",
+    "laboratories association",
+    "astra",
+    "nieuport at-2",
+    "switzerland",
+    "hispanic american technological dictionary",
+    "mercedes torres quevedo",
+    "army engineer",
+    "buenos aires",
+    "alfonso xiii",
+    "nebelspalter",
+    "laboratory of automation",
+    "catal\u00e1n",
+    "janice thomson",
+    "beti jai fronton",
+    "san sebasti\u00e1n",
+    "mount pilatus",
+    "spanish-american technological dictionary",
+    "school of civil engineering",
+    "leonardo torres quevedo national research award",
+    "santa cruz",
+    "iberia",
+    "portol\u00edn",
+    "telekine",
+    "paris\u2019 academies of science",
+    "ajeeb",
+    "institute of electrical and electronics engineers",
+    "hea",
+    "society of engineering studies and works",
+    "swiss",
+    "united kingdom",
+    "british the aeronautical journal",
+    "argentina",
+    "maelzel",
+    "machines \u00e0 calculer",
+    "spaniard",
+    "heinz zemanek",
+    "valle de igu\u00f1a",
+    "revue g\u00e9n\u00e9rale des sciences pures et appliqu\u00e9es",
+    "revista de obras p\u00fablicas",
+    "los horrores del escalpelo",
+    "gabriel koenigs",
+    "ernest rutherford",
+    "leonardo torres quevedo award",
+    "brussels world's fair",
+    "la fura dels baus",
+    "morocco",
+    "international bureau of weights and measures",
+    "programming a computer for playing chess",
+    "camp-vessel",
+    "el ajedrecista",
+    "alfredo kindel\u00e1n",
+    "austrian",
+    "club mar\u00edtimo del abra",
+    "french",
+    "echegaray medal",
+    "de la machine \u00e0 calculer de pascal \u00e0 l'ordinateur",
+    "victorian",
+    "international spanish-american union of scientific bibliography and technology",
+    "raimundo aguirre",
+    "brussels",
+    "octave rochefort",
+    "csce",
+    "pozuelo de alarc\u00f3n",
+    "feast of the holy innocents",
+    "geneva society of physics and natural history",
+    "pilatus-kulm",
+    "niagara parks commission",
+    "royal naval air service",
+    "fltq",
+    "niagara spanish aerocar",
+    "army military aerostatics service",
+    "l'avancement des sciences",
+    "society of engineering studies and works of bilbao",
+    "essais sur l'automatique",
+    "archer milton huntington",
+    "mediterranean sea",
+    "spanish association of esperanto  [es",
+    "algeria",
+    "argentinean",
+    "louis couffignal",
+    "jean-fran\u00e7ois pil\u00e2tre de rozier",
+    "junta para ampliaci\u00f3n de estudios  [es",
+    "royal spanish mathematical society",
+    "north sea",
+    "joaquina",
+    "airbus a320neo",
+    "joseph-louis lagrange",
+    "luz",
+    "emilio herrera linares",
+    "esperantist",
+    "coastal",
+    "whirlpool aero car",
+    "santander",
+    "torres'",
+    "vickers limited",
+    "marseille",
+    "gonzalo torres polanco",
+    "luz polanco y navarro",
+    "christian brothers",
+    "university of paris",
+    "university of cantabria",
+    "daniel mares",
+    "infanta isabel",
+    "london",
+    "camargo",
+    "henri vigneron",
+    "palacio de cristal del retiro",
+    "official school of the road engineers' corps",
+    "el valle de los inventos",
+    "quevedo centre",
+    "bipm",
+    "manuel mart\u00ednez risco",
+    "santiago barabino",
+    "school of industrial engineers",
+    "vienna"
+  ]
+}

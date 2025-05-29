@@ -1,0 +1,236 @@
+{
+  "title": "TDI_(engine)",
+  "url": "https://en.wikipedia.org/wiki/TDI_(engine)",
+  "summary": "TDI (Turbocharged Direct Injection) is Volkswagen Group's term for its current common rail direct injection turbodiesel engine range that have an intercooler in addition to the turbo compressor.\nTDI engines are used in motor vehicles sold by the Audi, Volkswagen, SEAT and Skoda marques, as well as in boat engines sold by Volkswagen Marine and industrial engines sold by Volkswagen Industrial Motor.\nThe first TDI engine, a straight-five engine, was produced for the 1989 Audi 100 TDI sedan. In 1999, common rail fuel injection was introduced in the V8 engine used by the Audi A8 3.3 TDI Quattro. From 2006 until 2014, Audi successfully competed in the LMP1 category of motor racing using TDI engine-powered racing cars.\nTDI engines installed in 2009 to 2015 model year Volkswagen Group cars sold through 18 September 2015 had an emissions defeat device, which activated emissions controls only during emissions testing. The emissions controls were suppressed otherwise, allowing the TDI engines to exceed legal limits on emissions. Volkswagen has admitted to using the illegal device in its TDI diesel cars.",
+  "content": [
+    {
+      "section_title": "Overview",
+      "section_content": [
+        {
+          "sentence": "TDI is the combination of two existing diesel engine technologies:",
+          "refs": []
+        },
+        {
+          "sentence": "Most TDI engines also use an intercooler to lower the temperature (and therefore increase the density) of the compressed air before it enters the cylinder",
+          "refs": []
+        },
+        {
+          "sentence": "Similar technology has been used by other automotive companies, but the \"TDI\" marketing term is only used by Volkswagen Group and Land Rover",
+          "refs": []
+        },
+        {
+          "sentence": "Volkswagen Group uses the term SDI (which stands for \"Suction Diesel Injection\") for its naturally aspirated (i.e",
+          "refs": []
+        },
+        {
+          "sentence": "non-turbocharged) direct-injection diesel engines.",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "History",
+      "section_content": [
+        {
+          "sentence": "Prior to Volkswagen Group's first TDI engine, the first turbocharged diesel engine used in a passenger car was an indirect injection five-cylinder engine fitted to the 1978 Mercedes-Benz 300SD (W116) 300 SD sedan",
+          "refs": []
+        },
+        {
+          "sentence": "The first turbodiesel engine with direct injection was the 1986 Fiat Croma 2.0 TD i.d",
+          "refs": [
+            "https://mercedes-benz-publicarchive.com/marsClassic/instance/ko/ko.xhtml?oid=4865"
+          ]
+        },
+        {
+          "sentence": "liftback sedan",
+          "refs": []
+        },
+        {
+          "sentence": "Three years after the Fiat Croma, Volkswagen Group's first TDI engine was introduced in the 1989 Audi 100 TDI sedan",
+          "refs": []
+        },
+        {
+          "sentence": "The Audi 100 was powered by the Volkswagen 2.5 R5 TDI straight-five engine which used an electronic distributor injection pump (called \"VerteilerPumpe\" by Volkswagen) and two-stage direct injection",
+          "refs": [
+            "https://www.motorbiscuit.com/8-cars-that-tell-the-history-of-diesel-in-the-u-s/",
+            "https://www.audi-mediacenter.com/en/audi-at-a-glance-3757/history-3766"
+          ]
+        },
+        {
+          "sentence": "The initial version of this engine generated 88\u00a0kW (118\u00a0hp) at 3,250 rpm and 275\u00a0N\u22c5m (203\u00a0lb\u22c5ft) at 2,500 rpm.",
+          "refs": []
+        },
+        {
+          "sentence": "TDI engines using common rail fuel injection (using piezoelectric fuel injectors) were introduced with the Volkswagen Group 32v TDI V8 engine used in the 1999 Audi A8 3.3 TDI Quattro, two years after the 1997 Alfa Romeo 156 2.4-L JTD became the first passenger car to use common rail injection",
+          "refs": []
+        },
+        {
+          "sentence": "In 1999, the Volkswagen 1.2-litre TDI won the International Engine of the Year categories for \"1.0 to 1.4 litres\" and \"Best Fuel Economy\"",
+          "refs": []
+        },
+        {
+          "sentence": "In 2000, a fuel system using unit injectors (called \"Pumpe D\u00fcse\" by Volkswagen) began to replace the distributor injection pump systems (except for the V8 engine, which used common rail design)",
+          "refs": []
+        },
+        {
+          "sentence": "In 2003, upgraded fuel injectors using a piezoelectric design began to replace the previous solenoid-operated unit injectors.",
+          "refs": [
+            "http://www.volkswagen.co.uk/technology/tdi"
+          ]
+        },
+        {
+          "sentence": "Since 2009, most of the Volkswagen Group TDI engines have switched from unit injectors to common rail injection.",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Emissions testing falsification",
+      "section_content": [
+        {
+          "sentence": "On 18 September 2015 the US EPA and California Air Resources Board served notice to VW that approximately 480,000 VW and Audi automobiles equipped with 2.0 TDI engines sold in the US between 2009 and 2015 had an emissions compliance defeat device installed",
+          "refs": []
+        },
+        {
+          "sentence": "The defeat device, in the form of specially crafted engine management unit firmware, detects emissions testing conditions, and in such conditions will cause the vehicle to comply with emissions regulations by properly activating all emissions controls",
+          "refs": [
+            "http://www3.epa.gov/otaq/cert/documents/vw-nov-caa-09-18-15.pdf",
+            "http://yosemite.epa.gov/opa/admpress.nsf/d0cf6618525a9efb85257359003fb69d/dfc8e33b5ab162b985257ec40057813b!opendocument"
+          ]
+        },
+        {
+          "sentence": "However, under normal driving conditions, the emissions controls are suppressed, allowing the engine to produce more torque and get better fuel economy, at the expense of emitting up to 40 times more nitrogen oxides than allowed by law",
+          "refs": []
+        },
+        {
+          "sentence": "Such NOx emission levels are not in compliance with US regulations",
+          "refs": [
+            "https://www.nytimes.com/2015/09/21/business/international/volkswagen-chief-apologizes-for-breach-of-trust-after-recall.html"
+          ]
+        },
+        {
+          "sentence": "VW has since admitted to these allegations, and said that the illegal software was in use in its diesel cars worldwide, affecting some 11 million vehicles",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Motor racing",
+      "section_content": [
+        {
+          "sentence": "The first TDI engine used by Volkswagen Group for motor racing was in the Audi R10 TDI, which competed in the Le Mans Prototype (LMP) class of sports car racing",
+          "refs": []
+        },
+        {
+          "sentence": "The Audi R10 recorded a victory on its debut at the 2006 12 Hours of Sebring race    and then at the 2006 24 Hours of Le Mans race, with both results being the first time that a diesel-powered car had won each race",
+          "refs": [
+            "http://www.audi.ca/ca/brand/en/exp/motorsport/races/sebring.html",
+            "https://www.topspeed.com/cars/audi/2006-audi-r10/",
+            "http://www.bosch-press.com/tbwebdb/bosch-usa/en-US/PressText.cfm?nh=00&Search=0&id=352"
+          ]
+        },
+        {
+          "sentence": "In the nine years from 2006 to 2014, the R10 and its successors (R15 and R18) won the 24 Hours of Le Mans eight times (the 2009 race was won by another diesel-powered car, the Peugeot 908 HDi FAP).",
+          "refs": [
+            "https://www.theguardian.com/sport/2012/jun/17/audi-le-mans-24-hours-race",
+            "http://www.audi.co.uk/audi-innovation/audi-motorsport/audi-r10-tdi.html",
+            "http://www.lemans.org/en/news/audi-on-course-for-a-10th-victory-_6460.html?m=2"
+          ]
+        },
+        {
+          "sentence": "In the World Touring Car Championship (WTCC) racing series, the SEAT Le\u00f3n TDI won the 2008 championship and the 2009 championship for drivers and manufacturers",
+          "refs": []
+        },
+        {
+          "sentence": "In 2008, the SEAT Leon TDI also competed in the British Touring Car Championship (BTCC) and became the first diesel car to win a round of the championship when it won the round at Donington Park",
+          "refs": [
+            "https://www.theguardian.com/seat-leon-tdi/world-touring-car-championship",
+            "https://web.archive.org/web/20120313073925/http://www.seat-sport.com/en/compania/seat-competicion.php"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "1": "http://www.volkswagen.co.uk/technology/tdi",
+    "2": "http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/experience/innovation/technical_glossary/tdi.index.html",
+    "3": "https://web.archive.org/web/20110719113053/http://www.vw-m.de/index.php?id=6&L=1",
+    "4": "https://web.archive.org/web/20110719113107/http://www.vw-m.de/download.php?d=uploads%2Fvwm%2FSelf-study_programme_061214999999.pdf",
+    "5": "https://web.archive.org/web/20110719113134/http://www.vw-m.de/download.php?d=uploads%2Fvwm%2FSelbststudienprogramm_V6_engl_1_070115122148.pdf",
+    "6": "https://web.archive.org/web/20110714082530/http://www.mi-uk.com/products/engines/downloads/sdi19industrial.pdf",
+    "7": "http://www.gates.com/europe/file_save_common.cfm?thispath=Europe%2Fdocuments_module&file=TB_020_addendum.pdf",
+    "8": "http://www3.epa.gov/otaq/cert/documents/vw-nov-caa-09-18-15.pdf",
+    "9": "http://yosemite.epa.gov/opa/admpress.nsf/d0cf6618525a9efb85257359003fb69d/dfc8e33b5ab162b985257ec40057813b!opendocument",
+    "10": "https://www.nytimes.com/2015/09/21/business/international/volkswagen-chief-apologizes-for-breach-of-trust-after-recall.html",
+    "11": "https://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html",
+    "12": "http://www.ro-des.com/mecanica/motores-tdi/",
+    "13": "https://mercedes-benz-publicarchive.com/marsClassic/instance/ko/ko.xhtml?oid=4865",
+    "14": "https://web.archive.org/web/20130108154551/http://www.fiat.com/com/air-technologies",
+    "15": "https://www.motorbiscuit.com/8-cars-that-tell-the-history-of-diesel-in-the-u-s/",
+    "16": "https://www.audi-mediacenter.com/en/audi-at-a-glance-3757/history-3766",
+    "17": "https://web.archive.org/web/20130703105445/http://www.autonews.com/files/07_ane_ptc/speakers.html",
+    "18": "https://www.audiworld.com/news/00/a80709/content.shtml",
+    "19": "https://www.ukimediaevents.com/engineoftheyear/archive.php",
+    "20": "http://www.audi.ca/ca/brand/en/exp/motorsport/races/sebring.html",
+    "21": "https://www.topspeed.com/cars/audi/2006-audi-r10/",
+    "22": "http://www.bosch-press.com/tbwebdb/bosch-usa/en-US/PressText.cfm?nh=00&Search=0&id=352",
+    "23": "https://www.theguardian.com/sport/2012/jun/17/audi-le-mans-24-hours-race",
+    "24": "http://www.audi.co.uk/audi-innovation/audi-motorsport/audi-r10-tdi.html",
+    "25": "http://www.lemans.org/en/news/audi-on-course-for-a-10th-victory-_6460.html?m=2",
+    "26": "https://www.theguardian.com/seat-leon-tdi/world-touring-car-championship",
+    "27": "https://web.archive.org/web/20120313073925/http://www.seat-sport.com/en/compania/seat-competicion.php",
+    "28": "http://www.btcc.net/html/racereport_detail.php?race_id=47&season_id=51"
+  },
+  "flair_entities": [
+    "volkswagen industrial motor",
+    "world touring car championship",
+    "audi r10",
+    "tdi v8",
+    "seat le\u00f3n tdi",
+    "wtcc",
+    "skoda",
+    "volkswagen",
+    "lmp",
+    "land rover",
+    "vw",
+    "lmp1",
+    "audi a8",
+    "audi 100 tdi",
+    "mercedes-benz 300sd",
+    "12 hours of sebring",
+    "hdi fap",
+    "international engine of the year",
+    "us",
+    "seat leon tdi",
+    "le mans prototype",
+    "tdi quattro",
+    "audi r10 tdi",
+    "alfa romeo 156",
+    "2.4-l jtd",
+    "donington park",
+    "fiat croma",
+    "volkswagen marine",
+    "24 hours of le mans",
+    "california air resources board",
+    "seat",
+    "r10",
+    "us epa",
+    "btcc",
+    "audi 100",
+    "audi",
+    "sdi",
+    "british touring car championship",
+    "peugeot 908",
+    "volkswagen group",
+    "tdi"
+  ]
+}

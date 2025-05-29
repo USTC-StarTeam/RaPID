@@ -1,0 +1,461 @@
+Religion_of_the_Shang_dynasty
+
+The state religion of the Shang dynasty (c. 1600 – c. 1046 BC) involved trained practitioners communicating with deities, including deceased ancestors and nature spirits. These deities formed a pantheon headed by the high god Di. Methods of communication with spirits included divinations inscribed on oracle bones and sacrifice of living beings. Much of what is known about Shang religion has been discovered through archaeological work at Yinxu – the site of Yin, the final Shang capital – among other sites. At Yinxu, artefacts such as oracle bones and ritual bronze vessels have been excavated. The earliest attested inscriptions were made c. 1250 BC, during the reign of King Wu Ding – though the attested script is fully mature, and is believed to have emerged significantly earlier. 
+Religion played a significant role in Shang court life. The Shang built large tombs, reflecting a belief in the afterlife and in sacred places. Deities were constantly honoured with ceremonies, the scheduling of which was facilitated by Shang astronomers via the invention of a sophisticated calendar system based on a 60-day cycle. Using the calendar, royal adherents of the religion conducted liturgical rituals dedicated to those spirits. Regional estates maintained independent practitioners but worshipped the same deities for common purposes. Those acts of worship, which were formalised over time, were held for divine fortune along with prosperity of the late Shang state.
+The Shang originated in the Yellow River valley, and for over two hundred years, their religion influenced and was influenced by the traditions of neighbouring peoples. After 1046 BC, the Zhou dynasty, which replaced the Shang, gradually assimilated elements of Di into its own cosmology. Elements of Shang beliefs and practices were integrated into later Chinese culture, with ancestor worship and the calendar still reflected in traditions throughout the Sinosphere.
+
+# Beliefs
+
+Certain characteristics of the Shang state religion have been identified as prefiguring later elements of Chinese bureaucratic culture. The Shang articulated an image of a supreme being that simultaneously led a body of lesser deities, including both ancestor and nature  spirits, while also being a composite of all of them. . 
+
+## High god Di
+
+The highest of the Shang gods was Shangdi (上帝), or simply Di (帝). [b] In many oracle bone inscriptions, Di is described as presiding over a hierarchy of spirits, including former humans and nature deities, of which all were under Di's control . Di was not described by Shang priests in works of scripture; instead, the will of Di could only be known through the practice of divination using oracle bones . The Shang believed that Di exercised authority over both the natural and human worlds, which included controlling the climate, influencing both the harvest and the outcomes of battles,  and issuing commands (令; lìng) . Di expressed approval or disapproval over the everyday actions of humans,   and was thought to be capable of either providing aid or sending down disasters . While the Shang conducted rituals to ensure Di would not harm them, there is no evidence that they made sacrifices to Di as they did to other spirits, implying a significant distinction in how Di was perceived . The identity of Di has been the subject of debate. According to the traditional approach, the Shang conceived of a hierarchy of spirits with Di at its apex, analogous to the leading role of Zeus in Ancient Greek religion, and that of Tian in the cosmology of the Zhou dynasty (c. 1046 – 256 BC) that followed the Shang . Another approach conflates Di with the legendary Emperor Ku, the third of the Five Emperors mentioned as preceding the Shang in Sima Qian's Shiji (c. 91 BC), and who was addressed as "High Ancestor" in at least four Shang inscriptions . Some historians assert that having the highest god as their ancestor, the Shang would ensure their rule on earth . Another view is that Shang religion did not conceive of a high god as such, and that Di was a generic word applicable to all divine powers. According to Robert Eno, Di was applied to the names of some ancestors, despite the fact that these spirits were not considered comparably powerful to Di . From this, Eno infers that Di was not a name for one god in particular, but could refer to any spirit. While agreeing with Eno against the existence of a singular god, John C . Didier states instead that the Shang likely had a particularised, impersonal conception of Di as a composite of ancestor and nature powers. 
+
+## Nature spirits
+
+The Shang often noted the winds, and established a cult for them, associating them with the phoenix. The winds were thought to be controlled by four gods associated with each of the cardinal directions, and in turn with the four seasons. [c] Together, the four winds and their associated deities represented the cosmic will of Di and carried his authority to affect agriculture . Rituals were conducted to appease the wind gods, and to pray for successful harvests. Winds could also be harmful, and there are other spirits aside from wind gods that could control winds. The Shang economy depended heavily on agriculture, and the worship of nature powers that directly affected it seemed to be a vital priority. The earth power She (社) – or Tu (土) in Shang inscriptions – was associated with protection from misfortune, and potentially also with the feminine . Tu may have been related in some manner to the Tufang (土方) tribe that neighboured the Shang, and with whom the Shang maintained agricultural relations . The Shang nature cult also recognized the mountain god Yue (岳), and He (河), a god representing the Yellow River . These two were sometimes called 'high ancestors', and were also the subjects of an ancestor cult – making the distinction between nature and ancestor spirits for the Shang less clear . The Shang worshipped spirits representing the East, West and South. Some inscriptions refer to gendered spirits such as the Mother of the West (西母) and Mother of the East (東母) who received animal sacrifices . Although some identified these two spirits with the Sun and Moon, others say that they were more likely associated with directions, and were therefore earth deities. The worship of such mother-earth spirits might have originated from agricultural cults and representation of fertility goddesses. Inscriptions also concern rituals dedicated to snow, diseases, and locusts. Dance ceremonies acted as Shang prayers to the rains . When the Sun was mentioned, it was almost exclusively as a mere moving object, and rituals were very rarely dedicated to the object itself . Shang kings also worshipped the deity of the Huan River, which provided them with ritual space . 
+
+## Ancestor spirits
+
+The Shang dynasty established a complex ancestor cult. [d] Six Predynastic ancestor spirits were recognized:. In turn, the Shang dynastic line was recognised to begin with Shi Gui's child Da Yi – and ultimately ended with Di Xin, the final Shang king. [e]    Ancestor spirits appeared to exert influence over the reigning king – in one inscription, a particular ancestor was identified as having caused one of the king's nightmares . The pantheon of ancestor spirits has been described as a "generational hierarchy", with the power of its members determined by seniority . The Predynastic spirits were the most powerful, and influenced weather and the harvest . If ancestors were not appeased with the proper rituals, they could inflict what was described as a curse, potentially resulting in poor harvests and natural catastrophes . The Shang also revered female ancestor spirits, especially the consorts and mothers of mainline kings. On certain occasions, divinations determined female ancestors as being unfriendly and angry, which would thereafter result in the ancestors receiving offerings . In general, female ancestors did not receive a similar level of reverence as male ancestors, being the focus of only one-sixth of Shang rituals . This was due to the fact that the jurisdiction of women was seen as being limited to reproduction. Women attested in oracle bone inscriptions included Bi Ji (妣己), Bi Geng (妣庚), Bi Bing (妣丙), and most prominently Fu Hao, the consort of Wu Ding, who was referred to by the posthumous names Mother Xin (母辛) and Ancestress Xin (妣辛) . Several spirits were addressed by the Shang as ancestors, but whose identity has not been fully apprehended. These include former lords (先公; xiāngōng) like Wang Hai (王亥) and Nao (獶), whose names were written with pictographic characters. Other spirits revered alongside ancestors include Mo Xi and Yi Yin – who apparently commanded rains and assured good harvests  – as well as his apparent consort Yi Shi . Some of these beings later reappeared within classic works of Chinese literature, where they are presented as historical figures . For example, traditional Chinese historiography described Wang Hai as a trader who was an uncle of Shang Jia, and was murdered by a greedy tribal chief in present-day Henan . 
+
+## Cosmology
+
+The Shang believed in the divinity of an area surrounding the orbital pole, with the shape of a square associated with four stars that surrounded the pole during the period contemporaneous with Shang civilisation. [f] In oracle bone script, the square pictograph denoted the modern stem ding; this possibly originated from oral expressions, and was related to Shang lineal descent. Inscriptions indicate the square as indicating many possible things, including the subject of a given cult, the space for a ritual, or the ritual itself . A visualisation of the orbital pole referred to as the taotie appears on Shang ritual bronzes. [g] Taotie typically represents spirits assuming the forms of various animals, similar to the traditions of the earlier Yangshao and Liangzhu cultures . Several interpretations as to the specific meaning taotie held for the Shang have been offered . Some speculate that the taotie motif was purely decorative. However, most of the evidence is generally held out as encompassing a clear religious dimension;  as taotie appears on ritual vessels and ceremonial axes, it was unlikely to have been carved merely for decoration . The faces forming the taotie patterns—specifically, the nasal ridges surrounded by dots—bear a strong resemblance to the ecliptic pole and adjacent stars that were a focus of Shang cosmology. Didier states that the similarities indicate that spirits of great importance to the Shang were being depicted. The Shang believed that the being of Di consisted of two components. One of these, Shangdi, was a manifestation of ancestors through the polar square. In other words, this upper component was housed by the squared northern pole. Also in Shang beliefs, indicated by oracle bones, this squared polar area on the sky, containing the god's cosmic divinity, was composed of mainline ancestral spirits through the generic name Shangdi, representing Di's will to act favourably towards humans. Already in oracle bone script, there are two frequent characters depicting Shangdi; one features the squared shape, and the other has parallel lines, which in turn was associated with heavenly divinity and the square itself . Conversely, the Shang believed that Shangdi, as Di's superior component, possessed a negative counterpart associated with 'earth'. Many character variants depict the earthly counterpart of Shangdi named Xiadi (下帝), composed of non-ancestor deities like cloud spirits, rain spirits and the Earth Power . As such, Di was believed to be both Shangdi (heavenly and positive) and Xiadi (earthly and negative), with the latter still able to influence earthly matters of import to the Shang, despite endeavours to make Shangdi dominate Di . The Shang sometimes referred to these two components in bronze inscriptions via the binome Shangxiadi (上下帝) . 
+
+## Other beliefs
+
+The Shang recognised five special subordinates under Di, called the 'five adjutants' (五臣; wǔchén), which transmitted messages to the human world about Di and may have been associated with each of the five classical planets. The characters used in the names of several ancestral and semi-ancestral spirits, such as Wang Hai and Kui, incorporate a bird symbol that was seemingly sacred to the Shang. This may be related to the founding myth of the Shang attested much later in the classic texts of traditional Chinese historiography – the myth itself tells that the Shang progenitor Xie was born after his mother stepped on a mysterious dark bird's footprint. Some argue that this was a bird totem, a symbol in Shang perception, and some others attempted to trace the origins of this particular religious image . However, these names might also represent beasts rather than feathered animals . 
+
+# Practices
+
+Shang ritual was based on an ancestral hierarchy. The king was able to convene directly with his most recent ancestors, who could themselves provide access to more senior spirits – who in turn passed the king's requests to Di. Prominent Shang practices included divinations, liturgical sacrifices, prayers, and funerals . There was also an "archery ritual" that Shang kings often conducted on the Huan River, demonstrated by an inscribed bronze turtle rewarded to a scribe named Zuoce Ban. Oracle bones also reveal spiritual rituals such as holocaust, ale libation, exorcism, and dance rituals . 
+
+## Divination
+
+The Shang practised divination to communicate indirectly with spirits. Divination typically took place in temples, but also could be conducted outside of ritual centres . Materials primarily included scapulae or turtle plastrons, to which the staff applied heat after cleaning and preparing . [h] The heat produced cracks on the bones, which were interpreted as a response and given to scribes who wrote the interpretation on the bones . The oldest examples of inscriptions have been radiocarbon dated to c. 1250 BC, and represent the Shang state religion . [i]   Typically, an inscription includes a preface, the charge, and occasionally prognostication along with verification . [j]    It is common for multiple pairs of the same charge to appear on a single bone, in which case the date records help establish their sequence . Signs of proto-divination with trigrams and hexagrams also appear on inscriptions . Through the oracle bones, the Shang communicated with spirits about warfare, agriculture, well-being, sacrifices, and weather, using the calendar for arranging days. [k] [l] For example, there are certain divinations about outside attacks, although none of them appeared during Yinxu Period V when the Shang had established control over a small, stable area . Additionally, divinations were carried out to determine suitable policies for public works and royal commissions, such as walling cities and  commanding civil officers . It has been recognised that some divinations were not made on the king's behalf. Rather, members of the aristocracy created divinations themselves; there are four groups of these so-called 'non-king divinations'   made during the early and middle periods of Wu Ding's reign:  one group comprises 500 inscriptions excavated at the Huayuanzhuang East site that were originally commissioned by a Shang prince,  [m] and reflect a distinct writing style from that of the royal divinations . Recurring topics include the construction of temples on the prince's estate, his relations with Wu Ding and the royal family, and matters of war . 
+
+## Liturgical sacrifices
+
+The Shang religion included a typical sacrificial system in which violence was ritualised to obtain divine appeasement. By the 11th century BC, the king had to perform sacrifices to ancestors every day, with many objects for that purpose . The demand for such sacrificial materials spurred technological innovations for late Shang society . Non-living sacrificial offerings were mainly bones, stones and bronze. Some of the bone products were shaped into hairpins or arrowheads, and there are instances of ivory found in elite tombs. Stone objects such as jade were moulded into decorative ritual objects, such as those discovered in the Tomb of Fu Hao . Offering ceremonies involved bronze vessels with short inscriptions, such as the ding (鼎), of which access seemed to be exclusively granted to the king and heirs partaking in rituals . There were also accepted minor materials like ceramics, the designs on which were inherited from earlier cultures . Certain species of game animal were sacrificed, both to the ancestral and supernatural sections of the pantheon. There were four types of animal sacrifice corresponding to two criteria, which are completeness and location . Canines were usually sacrificed in a flexible manner, with intentions ranging from their serving as food for ancestors to serving as their postmortem attendants . It was also common for the Shang to sacrifice sheep, cattle, and pigs – which were offered to the River, Earth and Mountain powers respectively with the wood-burning ritual . The Shang also sacrificed millet, ale, and grains alongside the animals . The Shang also practised large-scale human sacrifice,  which evidently formed an important part of their religious practice and burial traditions . At least 14,197 human victims were mentioned in inscriptions, although 1,145 inscriptions do not mention exact figures . Victims were often enemy prisoners, such as the Qiang (羌) who were either captured or sent as gifts by the Shang's neighbours . While some prisoners were spared, many, including women, were killed, and their remains sacrificed to Shang spirits . A single ritual sacrifice could involve hundreds or thousands of victims . Different methods were used to kill victims depending on which spirit they were being offered to: drowning was used for sacrifices to the River Power, being buried alive for the Earth Power, being cut into pieces for the wind spirits, and being burned to death for sky spirits . 
+
+### Sacrificial terminology
+
+Inscriptions contain a rich number of words related to sacrifice. The lexicon includes terms such as 'animal sacrifice' (犧牲; xīshēng), 'human sacrifice' (人牲; rénshēng), 'females' (女; nǚ), 'dependent women' (妻; qī), and 'servants' (妾; qiè), all of which referred to objects of sacrifice. The Shang also sacrificed xiaochen, who otherwise served as minor royal officers receiving tax revenues. Some oracle characters denote terms for general sacrificial methods. Some are dou (豆), which refers to methods for the sacrificial killing of humans in bronze vessels, shan (刪) denoting single human sacrifice, or shi (氏) referring to ritualised offering at temples. 
+
+### Cycle of sacrifice
+
+In the Chu diviner-group inscriptions, the sacrificial schedule evolved into a liturgical calendar for the first time. Researchers have established the calendar system from a series of inscriptions during the reign of the last three kings . The cycle consisted of five sacrificial rituals in sequence: ji (祭), zai (洅), xie (劦), yong (肜), and yi (翌). At the beginning of each sacrificial round, a ceremony honouring all recipients called gongdian was held, and in every weekend, priests would make an inscription announcing the sacrifices for the next day. Some academics argue that ji was the opening ritual . The schedule comprised alternating 36- and 37-week periods, with weeks being 10 days in length. The five sacrifices were scheduled to take place in every week of the year except for one, which was dedicated to preparations for the next offering cycle. Therefore, a full cycle approximated a solar year, and was sometimes used as a term for a year itself . This calendar terminology was occasionally employed in more secular contexts, like in this excerpt from a bronze inscription: . Shang kings sometimes conducted additional, irregular sacrifices to ancestors who caused them misfortune. Due to the fall of the Shang, the last two kings did not receive sacrifices . 
+
+## Shamanism
+
+Many oracle bone inscriptions suggest that the Shang often communicated with the spiritual world through a 'hosting' (賓; bīn) ritual. The hosting ritual may be considered non-shamanic, as it never involved ecstatic communion or commingling within the king's body;  however, interpreters including Kwang-chih Chang state that this is not a satisfactory interpretation, and that the Shang dynasty's religion must have embraced shamanism . According to Chang et al., the king himself acted as a shaman to connect with the spirits . The oracle bone script features an ancient form of the character for wu (巫). While the role of wu in Shang religion is not fully understood,  they were seemingly a profession that made use of prayer and astrology to act as a medium between humans and spirits . Wu were worshipped after death alongside other Shang spirits. It is uncertain whether the wu of the Shang were shamans per se, or if they used other means to communicate with spirits . Evidence suggests that non-Shang peoples could reasonably serve as wu; sinologist Victor H. Mair supported the view that the occupation was indirectly connected to that of the magus, priests in ancient Mesopotamia who communicated with spirits via ritual and the manipulative arts, rather than through shamanic techniques such as trance and mediation. [n] David Keightley also disagreed with the interpretation of wu in the Shang context as meaning 'shaman' . More recent investigation has demonstrated a lack of convincing evidence for shamanism in the Shang religion. As such, the arguments of Chang et al. for a shamanic theory ultimately relied on data from later Zhou religious practice that was being conflated with that of Shang. Furthermore, their theory seemingly did not account for the methods by which the Shang perpetuated their rule – i.e. discerning the High God, a figure that is not addressed by the theory's proponents. 
+
+## Funerary practices
+
+The largest burial area for Shang elites was the Royal Cemetery, located in what is now Xibeigang, Anyang. The cemetery was split into two zones, apparently to suit Wu Ding's political purposes. There are nine tombs for kings, with seven in the cemetery's western zone . Fu Hao's tomb was not in the cemetery, but located 150 m (490 ft) from the western palace complex . The cemetery structure was likely designed to align with the celestial northern pole. Over time, the tombs have been looted of most of their contents; as a result, identification of individual tombs with particular kings is uncertain . A royal funeral could involve tombs being constructed while the king was still alive; alternatively, his body could be temporarily preserved following his death while they were built. The coffin and furnishings were prepared elsewhere, and then carried to the tomb. The king's coffin would be buried in a wooden chamber in the central shaft, surrounded with animals, servants, and bronze objects, such as vessels and weapons. The chamber was then sealed, and the tomb refilled with earth as additional rituals were performed . Several tombs also served for the purpose of rites, and were topped by ancestral shrines. A foundation near the royal tombs may have been an offering hall, but its purpose is still debated by scholars . Smaller tombs have been discovered across Anyang, though mainly concentrated to the west of the palace complex. They are probably reserved for minor elites, and bear design similarities to royal tombs . There is a family grave of one diviner whose name appeared in several bronze inscriptions . Outside of the capital, the Subutun site (modern Shandong) of features a four-ramped tomb which was the only one of that type discovered outside the capital, and may house either a local rival or a favourite of the Shang king . Another site at Tianhu features a mix of Late Shang and indigenous elements, and served as the cemetery of a Shang lineage related to a consort of Wu Ding . Non-elite burials outside of the capital area often lacked grave goods . 
+
+## Posthumous naming
+
+Shang kings also worshipped their ancestors, both those preceding them in the dynastic line, as well as the earlier Predynastic Shang. Ancestors were given posthumous names including Heavenly Stems that were used in the Chinese calendar system:   at this time, weeks were 10 days in length, and each weekday was associated with one of the ten Stems, creating a cycle of names in a fixed order . Stems were assigned to ancestors according to this order, with jia (甲) first, then yi (乙), bing (丙), ding (丁), wu (戊), ji (己), geng (庚), xin (辛), ren (壬), and gui (癸). The sole exception to this convention is Wang Hai (王亥), an enigmatic proto-ancestor whose name instead incorporates the 12th Earthly Branch (亥) – with the Earthly Branches being another cycle of 12 signs used alongside the Heavenly Stems by the calendar – instead of one of the ten Stems . It seems that the process of assigning day-names to the dead involved divination, which would allow deterministic elements and human manipulation . There is no comprehensive explanation as to why the calendar was used for naming ancestors. David Nivison has speculated seemingly inherent patterns in the naming tradition, such as naming after first day of inaugural year, restraint from naming gui for dynastic spirits, and avoiding the same name as the previous king. Shang queen consorts were also given Stem names, but not according to the rules for kings . Ancestral spirits tended to receive sacrifices on the weekday of their stem-name – for example: out of 90 dates taken from a sample, Zu Yi received sacrifices on the yi day 53 times. Posthumous names of some kings might be related to Shang cosmology, especially name with stems jia, ding and yi, which were probably projections of the celestial square. As such, the spirits that were referred to using them became perceived as powerful gods whose will significantly affected the living realm. As there were more kings than stems, the Shang added epithet-like prefixes to their names. Some prefixes indicate the specific familial relationship between the addressed ancestor and the reigning ruler; the characters are often used for a much broader range of meanings than their modern equivalents: . Other prefixes applied to Shang names include Da (大; 'greater') and Xiao (小; 'smaller'). There are three kings – Jian Jia, Qiang Jia and Yang Jia – whose prefixes are of uncertain meaning. 
+
+## Temples and altars
+
+The Shang's centre of ritual within Yin lay on a hill separated by the Huan River, and was refurbished throughout the course of the late Shang state. The site's condition is such that the original layout of where buildings stood cannot be fully discerned. Nevertheless, modern studies agree on some points: the complex's innermost central area,  called Yi (乙), was the primary locus for ritual sacrifices, while smaller ritual buildings were situated to the south. In inscriptions, temples (宗; zōng) are generally described as including elevated halls (堂; táng), courtyards (庭; tíng) and gates (門; mén) . It is possible that the Shang character for 'temple' visually indicated the presence of spirit tablets within the structure, though no unequivocal evidence for the existence of these tablets has been attested . Names that the Shang used to refer specifically to ritual buildings may also be related to the celestial square, given the character shapes typically incorporate the celestial square . The Yi complex, the primary locus for ritual practice, was kept deliberately separate from the site's residential buildings. The complex had a large entrance with matching towers, which indirectly connected with a central bridge, which in turn led to a reception hall with six stairways. Behind it lay a pair of colonnaded halls with nine rooms, together with a large platform on which the ritual focus, an open-air pyramidal altar with a higher altitude than any other parts, was located. The southern buildings seemed to be smaller projections of the Yi design, with a ratio of one to ten. The Shang also constructed columned halls without walls on top of royal burials, such as the temple of Fu Hao, which was built upon her tomb. Access to religious buildings was exclusively granted to the royal family and ritual groups. Character shapes suggest that the king routinely prayed in the temples, assuming a kneeling posture while holding ritual objects in his hands. Inscriptions indicate that the Shang also announced to spirits with written ritual reports in temples . Outdoor altars, not housed within roof structures, seemed to be reserved for only two purposes . These include serving as the beng (祊) altar, where the Shang performed sacrifices and worshipped spirits of nature, and serving as the earthen altar for the Earth Power. The five cyclical sacrifices were often performed to ancestors at the buildings topping their tombs, which the Shang often referred to. 
+
+## Royal practitioners
+
+The Shang notion of practitioners centred around the king, who acted as the highest intermediary between the human and spiritual realms; he was considered a 'thearch'. He was assisted by religious groups, divided into specialised teams, despite not being bureaucratic as conventionally described . It seems likely that religious positions played a central role in the Shang government . The assisting groups typically included diviners (多卜; duōbǔ), scribes (史; shǐ), dancers (舞; wǔ), liturgists (祝; zhù), and the shamans. There were about 120 attested diviners in total, many of whose names are found on oracle bones . Dancing as a profession is sometimes associated with that of the shamans . Shang astronomers observed Mars and comets . Wu Ding's consort Fu Hao apparently also played a role in religious matters: for example, an inscription records a sacrifice she hosted which involved the offering of 500 Qiang prisoners . The religious professions recognised by the Shang may have been acquired through forms of schooling. It is generally believed that the Shang had institutions of some kind for religious teaching . Texts written by Wu Ding's scribes contain the word 'learn' (學; xué), which in context could imply a course of ritual education. In addition, some attested inscriptions appear to have been used for teaching – described by Guo Moruo as possibly being example inscriptions used by teachers. However, the hypothesis that these inscriptions served as practice work for students has been questioned, and alternative theories have been proposed. 
+
+## Regional traditions
+
+The Shang state directly controlled the area immediately surrounding the capital at Yin. Greater swaths of territory were administered by other members of the royal family, with the nature and extent of Shang control over these lands being difficult to fully discern and varying over time. The Shang also culturally influenced regions beyond their dominion; there is some evidence to indicate external practice of the Shang religion . At a site located in modern-day Zhengzhou, 200 km (120 mi) south of Yinxu, four pieces of oracle bone were discovered with short inscriptions possibly dating to the reign of Wu Ding. Some turtle plastrons were unearthed in Daxinzhuang (occupied c. 1300 – c. 1100 BC, in modern Jinan, Shandong), containing some divinatory inscriptions which bear similarities to Wu Ding's diviner groups . Hundreds of bones with inscriptions have been unearthed from the site of Zhouyuan, the homeland of the Zhou dynasty – probably produced during the reigns of the last two kings of Shang and the early years of the Western Zhou, with the writing being of a distinct form and calligraphic style . These inscriptions mention Zhou worship of Shang ancestors, especially the kings nearest to their time . However, scholars still disagree about the nature of these divinations . Ritual bronzes discovered beyond Shang territory, such as those collected from Hanzhong, Shaanxi, exhibit characteristics of both Shang and local culture . The prince associated with the Huayuanzhuang East oracle bones probably settled in Rong (戎), a conquered land that was annexed into the Shang state. [o]  He ordered an ancestral temple with spirit tablets to be built, made sacrifices with both local and imported materials, and authorised relatives to participate in common rituals . This prince even acted as the diviner in 26 divinations, a practice different from Wu Ding . However, he rarely worshipped the predynastic and nature powers . Some of Wu Ding's divinations refer to Zi (子), a territory sometimes sanctioned by the Shang to perform sacrifices . The details of sacrificial practice conducted by non-royals are unclear, as such sacrifices are rarely mentioned in inscriptions. However, other sites have also yielded materials that indicate Shang religious influence . At the Shang site of Guandimiao (occupied c. 1250 – c. 1100 BC, in modern Xingyang, Henan), tombs nearly identical to those at Yinxu have been excavated. The region that was traditionally called Dapeng probably practised human sacrifice . 
+
+# Political influence
+
+The Shang state relied on allies who lacked a stable relationship with the royal clan. As a result, the king is thought to have incorporated the allies' deities into the Shang religion to gain their support and influence them. One such deity was probably Kui, a mysterious cult recipient who later featured as a personage in several Chinese classics . In addition, worship of the Sun might have been a way for the king to hold sway over other lineages, since offerings to the Sun concerned everyone . Akin to how male ancestors were prioritised in Shang worship, men were considered to be more important than women in Shang political affairs. It was strongly preferred for newborns to be boys: the intervention of ancestors was thought to play a role in determining a child's gender, though inscriptions indicate that the date of birth was also considered a factor . 
+
+# History
+
+## Prehistoric precursors
+
+Before the emergence of organised states in China, the area was inhabited by various tribal confederations, many of which shared a common belief in the spiritual world that integrated elements reminiscent of shamanism. Academics such as Kwang-chih Chang propose the existence of shamanic practices in these Neolithic cultures' tradition, but their theory is not supported by any clear evidence. The spirits were thought to be powerful; therefore, Neolithic Chinese peoples engaged in communication with them through a variety of methods – including prayers, grave goods, and animal sacrifice . Neolithic cultures in many regions of China practised divination with bones, namely scapulae from cattle, sheep, pigs, and deer . Shang cosmology may have its origin in earlier prehistoric cultures, of which some produced artefacts bearing the AZ motif – the likely ancestor of the Shang's visual taotie designs. The AZ pattern is likely a Neolithic projection of the same celestial pole that the Shang observed . A connection possibly exists between the AZ motif and the Shang tradition of ancestor worship, since the motif itself may have represented Neolithic ancestral spirits, or at least a spiritual object of worship that offered protection to humans . A rectangular design from the northern Qijia culture (c. 2200 – c. 1600 BC) may also be the origin for the motif found on Shang ritual bronzes . According to traditional Chinese historiography, the tradition of venerating deities was already ongoing during the Xia dynasty (c. 2070 – c. 1600 BC) that directly preceded the Shang. For example, the Xia's second sovereign Qi was described in multiple texts as a spirit-medium who communicated with Shangdi and performed sacrifices to the deceased . The Book of Documents also mentions Shangdi receiving annual sacrifices from Emperor Shun – one of the legendary Three Sovereigns and Five Emperors whose reign predated even the Xia . Although these periods are often considered mythical, their corresponding site of Erlitou (c. 2100 – c. 1500 BC) offers evidence of religious activities making use of bronze that were later adopted and developed by the Shang dynasty, such as the use of scapulae for divination . 
+
+## Early and Late Shang
+
+Shang religious practice was not confined to the capital Yin. However, there is little evidence of religious writing prior to the Late Shang period (c. 1300 – c. 1050 BC). Oracle bones before the Late Shang period are not of the same ordered style as Late Shang materials . A large amount of such bones appear in pre–Late Shang sites, suggesting the prevalence of divination, although it was also likely to be practised by the non-royal people together with those elites. Some Late Shang kings made religious reforms, such as one unspecified king, whose reforms were documented in the Book of Documents, and Zu Jia, who was indicated by oracle bones to have initiated reforms. The reforms of Zu Jia was a thorough ritual schedule that Edward Shaughnessy described as "rigidly conservative" and a "reflection on the great constriction of the Shang kingdom" . In the 20th century, sinologists also noticed a deviation from old diviner styles accepted by the last reigns that was a product of the reforms . By the final years of the Shang, the nature of Shang religious activities had changed. The high god Di and nature spirits frequently appeared in divinations during Wu Ding's reign, but were rarely mentioned during the last reigns when ancestors became dominant. These later divinations tended to be optimistic and were not likely to request actions from ancestors, which probably shows that the Shang changed their beliefs about ancestral powers and the ability of the living to influence these spirits . At the same time, worship of ancestors became more systematised, and a new sacrificial system may have been employed . The Shang also switched their worship from certain ancestor-like spirits such as Huang Yin – whose cult was prevalent during the reign of Wu Ding – to focus instead on Yi Yin by the reign of Wu Yi . 
+
+## Continuation by the Zhou dynasty
+
+In 1046 BC, the Shang under King Di Xin collapsed, and were replaced by the Zhou dynasty following the Zhou victory in the Battle of Muye. To ensure their own legitimacy, the Zhou then co-opted many of the Shang's traditions,  and invoked descriptions of Shang religious practice in order to explain their downfall and justify their replacement . The  historiography written by the Zhou denounces each of the final Shang kings, not only for purported licentiousness and drunkenness, but also for their ignorance of ancestor worship. [p] . The Shang liturgical calendar was also adopted by the Zhou, although it is uncertain whether the Zhou court reset the day count following their establishment. [q]  There still exist distinctions between the Shang and Zhou's use of the cycle, such as si (祀), the Shang word meaning 'year', being replaced by the Zhou word nian (年) . Towards the end of the Western Zhou, the last term of the 60-cycle, dinghai (丁亥), became frequently used. This calendar was revised through the regime's eight centuries of existence, and the diversification of its use took place during the Warring States period (c. 475 – 221 BC) when cultural distinctions became more apparent. The sexagenary cycle central to the calendar remained the exclusive means of day counting throughout the entire Zhou period, but it was not extended to the naming of years. A new system of posthumous names for dead relatives was devised, although some early Zhou people still used the old tradition, including exceptional Zhou kings . During the Western Zhou (c. 1046 – 771 BC), the notion of Di and Shangdi, as seen in classical texts, was integrated with that of Tian. Di was seen as the one who supported the existence of a dynasty, and the fall of the Shang to Zhou forces was regarded as a consequence of their neglect of Di . Di was supported by a court filled by Zhou ancestors . For example, during King Wu of Zhou's reign (r. 1050–1043 BC), Zhou liturgists made an inscription on the Tian Wang gui tureen about King Wen of Zhou (r. 1100–1050 BC) assisting Di . [r]   Di and Tian were sometimes used interchangeably in inscriptions, such as in the one attested on the Fu gui tureen . However, distinctions still exist between the two notions: while Tian was seen as the universal order and the source of calamities, Di was always known as a protecting force of the royal clan . [s] . The early Zhou retained their prior Predynastic tradition of inscribing inquiries to Shang ancestor deities such as Di Yi on oracle bones – owing to their former recognition of Shang suzerainty, and reflecting Di Yi's connection to the Zhou royal family as the in-law of King Wen. Some early Western Zhou tombs near modern Beijing were constructed in accordance with Shang burial customs, suggesting that these could have been tombs for later members of the Shang line following their usurpation by the Zhou . Some mass human sacrifices as practised by the Shang were performed under the Zhou, though far less frequently. The practice of divination using oracle bones gradually ceased; instead, the Zhou cultivated their own divination practices, a tradition emblematised by the I Ching and its commentaries . Compared to the Shang, the Zhou royal family  did not document their divinations as extensively. During later dynasties, the populace practised distinct traditions, owing in large part  to the influences from Confucianism, Taoism, and other currents that flourished during the Zhou period . However, there exist parallels between the traditions of ritual sacrifice observed by the Shang and Zhou. 
+
+## Legacy
+
+Elements of the Shang high god Di persist in Shangdi, a deity that is still worshipped throughout the countries of the Sinosphere. The word Shangdi (上帝) is sometimes used to refer to the Christian God or the Jade Emperor. [t] . Traditional festivals that make use of the sexagenary cycle are observed in countries such as China and Vietnam. [u] The lunar calendar names the years, months, days, and hours according to the ten cyclical Heavenly Stems and twelve cyclical Earthly Branches. The legacy of the particular significance afforded to males by the Shang can be seen in contemporary Chinese culture, with families expecting sons more than daughters. Bronze vessels produced during the Shang are considered an important constituent of the cultural heritage of ancient Chinese civilisation.. 
+
+# Relation to traditional accounts
+
+## Zhou dynasty (c. 1046 – 256 BC)
+
+One of the Chinese classics written during the Zhou dynasty (c. 1046 – 256 BC), the Book of Documents, contains moral discourses on Shang traditions, including the belief that the Shang ancestor Tang would send down calamities on unworthy men. The text also includes an oblique description of Shang pyromancy, with a reference to Pan Geng lauding those who did not "presumptuously oppose the decision of the tortoise". However, Zhou writers generally focused on criticising the lavish lifestyle and ignorance of the final Shang kings, and do not initially mention either the Shang's practice of human sacrifice or their recognition of female deities . 
+
+## Han dynasty (202 BC – 220 AD)
+
+The Han dynasty (202 BC – 220 AD) historian Sima Qian, writing a millennium after the Shang's fall, wrote about their religion. Sima claimed that the Shang were marked by their utmost devotion to divination and sacrifices, and had decayed from the mark of piety into a state of superstition, which Burton Watson considered substantiated claims that resonate with evidence collected from modern archaeology. He went on to describe the practices of the Shang dynasty, praise religious kings, and detail the negative impacts of offending the gods committed by Wu Yi and Di Xin . Sima's posthumous names in terms of both stem and prefix for late Shang kings largely match those given by the Shang inscriptions . However, his descriptions of the Shang religion is not without flaw, as it was coloured with characteristics of the Han dynasty during which Sima lived . By the time of the Han, the perception of Di had been significantly altered. While the character retained its meaning as 'High Deity', it was used mainly as a prefix or suffix to add to another word for deifying its meaning. The Han-era Huainanzi, a compilation of debates led by imperial prince Liu An, describes Di as stretching out "over the four weft-cords of Heaven" and lying on a polar referential star similar to the Shang dynasty, the star Kochab (Beta Ursa Minoris). Han texts also identify Di with 'the Great One' (太一; Tàiyī), who was believed to have been worshipped by the early Zhou . 
+
+# References
+
+# References
+
+[14] [ERROR retrieving ref link]
+[24] [ERROR retrieving ref link]
+[48] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[70] [ERROR retrieving ref link]
+[93] [ERROR retrieving ref link]
+[99] [ERROR retrieving ref link]
+[130] [ERROR retrieving ref link]
+[134] [ERROR retrieving ref link]
+[137] [ERROR retrieving ref link]
+[146] [ERROR retrieving ref link]
+[148] [ERROR retrieving ref link]
+[156] [ERROR retrieving ref link]
+[209] [ERROR retrieving ref link]
+[276] [ERROR retrieving ref link]
+[319] [ERROR retrieving ref link]
+[321] [ERROR retrieving ref link]
+[328] [ERROR retrieving ref link]
+[334] [ERROR retrieving ref link]
+[339] [ERROR retrieving ref link]
+[341] [ERROR retrieving ref link]
+[1] [ERROR retrieving ref link]
+[2] [ERROR retrieving ref link]
+[3] [ERROR retrieving ref link]
+[4] [ERROR retrieving ref link]
+[5] [ERROR retrieving ref link]
+[6] [ERROR retrieving ref link]
+[7] [ERROR retrieving ref link]
+[8] [ERROR retrieving ref link]
+[9] [ERROR retrieving ref link]
+[10] [ERROR retrieving ref link]
+[11] [ERROR retrieving ref link]
+[12] [ERROR retrieving ref link]
+[13] [ERROR retrieving ref link]
+[15] [ERROR retrieving ref link]
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[19] [ERROR retrieving ref link]
+[20] [ERROR retrieving ref link]
+[21] [ERROR retrieving ref link]
+[22] [ERROR retrieving ref link]
+[23] [ERROR retrieving ref link]
+[25] [ERROR retrieving ref link]
+[26] [ERROR retrieving ref link]
+[27] [ERROR retrieving ref link]
+[28] [ERROR retrieving ref link]
+[29] [ERROR retrieving ref link]
+[30] [ERROR retrieving ref link]
+[31] [ERROR retrieving ref link]
+[32] [ERROR retrieving ref link]
+[33] [ERROR retrieving ref link]
+[34] [ERROR retrieving ref link]
+[35] [ERROR retrieving ref link]
+[36] [ERROR retrieving ref link]
+[37] [ERROR retrieving ref link]
+[38] [ERROR retrieving ref link]
+[39] [ERROR retrieving ref link]
+[40] [ERROR retrieving ref link]
+[41] [ERROR retrieving ref link]
+[42] [ERROR retrieving ref link]
+[43] [ERROR retrieving ref link]
+[44] [ERROR retrieving ref link]
+[45] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[47] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[52] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[54] [ERROR retrieving ref link]
+[55] [ERROR retrieving ref link]
+[56] [ERROR retrieving ref link]
+[57] [ERROR retrieving ref link]
+[58] [ERROR retrieving ref link]
+[59] [ERROR retrieving ref link]
+[60] [ERROR retrieving ref link]
+[61] [ERROR retrieving ref link]
+[62] [ERROR retrieving ref link]
+[63] [ERROR retrieving ref link]
+[64] [ERROR retrieving ref link]
+[65] [ERROR retrieving ref link]
+[66] [ERROR retrieving ref link]
+[68] [ERROR retrieving ref link]
+[69] [ERROR retrieving ref link]
+[71] [ERROR retrieving ref link]
+[72] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[74] [ERROR retrieving ref link]
+[75] [ERROR retrieving ref link]
+[76] [ERROR retrieving ref link]
+[77] [ERROR retrieving ref link]
+[78] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[80] [ERROR retrieving ref link]
+[81] [ERROR retrieving ref link]
+[82] [ERROR retrieving ref link]
+[83] [ERROR retrieving ref link]
+[84] [ERROR retrieving ref link]
+[85] [ERROR retrieving ref link]
+[86] [ERROR retrieving ref link]
+[87] [ERROR retrieving ref link]
+[88] [ERROR retrieving ref link]
+[89] [ERROR retrieving ref link]
+[90] [ERROR retrieving ref link]
+[91] [ERROR retrieving ref link]
+[92] [ERROR retrieving ref link]
+[94] [ERROR retrieving ref link]
+[95] [ERROR retrieving ref link]
+[96] [ERROR retrieving ref link]
+[97] [ERROR retrieving ref link]
+[98] [ERROR retrieving ref link]
+[100] [ERROR retrieving ref link]
+[101] [ERROR retrieving ref link]
+[102] [ERROR retrieving ref link]
+[103] [ERROR retrieving ref link]
+[104] [ERROR retrieving ref link]
+[105] [ERROR retrieving ref link]
+[106] [ERROR retrieving ref link]
+[107] [ERROR retrieving ref link]
+[108] [ERROR retrieving ref link]
+[109] [ERROR retrieving ref link]
+[110] [ERROR retrieving ref link]
+[111] [ERROR retrieving ref link]
+[112] [ERROR retrieving ref link]
+[113] [ERROR retrieving ref link]
+[114] [ERROR retrieving ref link]
+[115] [ERROR retrieving ref link]
+[116] [ERROR retrieving ref link]
+[117] [ERROR retrieving ref link]
+[118] [ERROR retrieving ref link]
+[119] [ERROR retrieving ref link]
+[120] [ERROR retrieving ref link]
+[121] [ERROR retrieving ref link]
+[122] [ERROR retrieving ref link]
+[123] [ERROR retrieving ref link]
+[124] [ERROR retrieving ref link]
+[125] [ERROR retrieving ref link]
+[126] [ERROR retrieving ref link]
+[127] [ERROR retrieving ref link]
+[128] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[131] [ERROR retrieving ref link]
+[132] [ERROR retrieving ref link]
+[133] [ERROR retrieving ref link]
+[135] [ERROR retrieving ref link]
+[136] [ERROR retrieving ref link]
+[138] [ERROR retrieving ref link]
+[139] [ERROR retrieving ref link]
+[140] [ERROR retrieving ref link]
+[141] [ERROR retrieving ref link]
+[142] [ERROR retrieving ref link]
+[143] [ERROR retrieving ref link]
+[144] [ERROR retrieving ref link]
+[145] [ERROR retrieving ref link]
+[147] [ERROR retrieving ref link]
+[149] [ERROR retrieving ref link]
+[150] [ERROR retrieving ref link]
+[151] [ERROR retrieving ref link]
+[152] [ERROR retrieving ref link]
+[153] [ERROR retrieving ref link]
+[154] [ERROR retrieving ref link]
+[155] [ERROR retrieving ref link]
+[157] [ERROR retrieving ref link]
+[158] [ERROR retrieving ref link]
+[159] [ERROR retrieving ref link]
+[160] [ERROR retrieving ref link]
+[161] [ERROR retrieving ref link]
+[162] [ERROR retrieving ref link]
+[163] [ERROR retrieving ref link]
+[164] [ERROR retrieving ref link]
+[165] [ERROR retrieving ref link]
+[166] [ERROR retrieving ref link]
+[167] [ERROR retrieving ref link]
+[168] [ERROR retrieving ref link]
+[169] [ERROR retrieving ref link]
+[170] [ERROR retrieving ref link]
+[171] [ERROR retrieving ref link]
+[172] [ERROR retrieving ref link]
+[173] [ERROR retrieving ref link]
+[174] [ERROR retrieving ref link]
+[175] [ERROR retrieving ref link]
+[176] [ERROR retrieving ref link]
+[177] [ERROR retrieving ref link]
+[178] [ERROR retrieving ref link]
+[179] [ERROR retrieving ref link]
+[180] [ERROR retrieving ref link]
+[181] [ERROR retrieving ref link]
+[182] [ERROR retrieving ref link]
+[183] [ERROR retrieving ref link]
+[184] [ERROR retrieving ref link]
+[185] [ERROR retrieving ref link]
+[186] [ERROR retrieving ref link]
+[187] [ERROR retrieving ref link]
+[188] [ERROR retrieving ref link]
+[189] [ERROR retrieving ref link]
+[190] [ERROR retrieving ref link]
+[191] [ERROR retrieving ref link]
+[192] [ERROR retrieving ref link]
+[193] [ERROR retrieving ref link]
+[194] [ERROR retrieving ref link]
+[195] [ERROR retrieving ref link]
+[196] [ERROR retrieving ref link]
+[197] [ERROR retrieving ref link]
+[198] [ERROR retrieving ref link]
+[199] [ERROR retrieving ref link]
+[200] [ERROR retrieving ref link]
+[201] [ERROR retrieving ref link]
+[202] [ERROR retrieving ref link]
+[203] [ERROR retrieving ref link]
+[204] [ERROR retrieving ref link]
+[205] [ERROR retrieving ref link]
+[206] [ERROR retrieving ref link]
+[207] [ERROR retrieving ref link]
+[208] [ERROR retrieving ref link]
+[210] [ERROR retrieving ref link]
+[211] [ERROR retrieving ref link]
+[212] [ERROR retrieving ref link]
+[213] [ERROR retrieving ref link]
+[214] [ERROR retrieving ref link]
+[215] [ERROR retrieving ref link]
+[216] [ERROR retrieving ref link]
+[217] [ERROR retrieving ref link]
+[218] [ERROR retrieving ref link]
+[219] [ERROR retrieving ref link]
+[220] [ERROR retrieving ref link]
+[221] [ERROR retrieving ref link]
+[222] [ERROR retrieving ref link]
+[223] [ERROR retrieving ref link]
+[224] [ERROR retrieving ref link]
+[225] [ERROR retrieving ref link]
+[226] [ERROR retrieving ref link]
+[227] [ERROR retrieving ref link]
+[228] [ERROR retrieving ref link]
+[229] [ERROR retrieving ref link]
+[230] [ERROR retrieving ref link]
+[231] [ERROR retrieving ref link]
+[232] [ERROR retrieving ref link]
+[233] [ERROR retrieving ref link]
+[234] [ERROR retrieving ref link]
+[235] [ERROR retrieving ref link]
+[236] [ERROR retrieving ref link]
+[237] [ERROR retrieving ref link]
+[238] [ERROR retrieving ref link]
+[239] [ERROR retrieving ref link]
+[240] [ERROR retrieving ref link]
+[241] [ERROR retrieving ref link]
+[242] [ERROR retrieving ref link]
+[243] [ERROR retrieving ref link]
+[244] [ERROR retrieving ref link]
+[245] [ERROR retrieving ref link]
+[246] [ERROR retrieving ref link]
+[247] [ERROR retrieving ref link]
+[248] [ERROR retrieving ref link]
+[249] [ERROR retrieving ref link]
+[250] [ERROR retrieving ref link]
+[251] [ERROR retrieving ref link]
+[252] [ERROR retrieving ref link]
+[253] [ERROR retrieving ref link]
+[254] [ERROR retrieving ref link]
+[255] [ERROR retrieving ref link]
+[256] [ERROR retrieving ref link]
+[257] [ERROR retrieving ref link]
+[258] [ERROR retrieving ref link]
+[259] [ERROR retrieving ref link]
+[260] [ERROR retrieving ref link]
+[261] [ERROR retrieving ref link]
+[262] [ERROR retrieving ref link]
+[263] [ERROR retrieving ref link]
+[264] [ERROR retrieving ref link]
+[265] [ERROR retrieving ref link]
+[266] [ERROR retrieving ref link]
+[267] [ERROR retrieving ref link]
+[268] [ERROR retrieving ref link]
+[269] [ERROR retrieving ref link]
+[270] [ERROR retrieving ref link]
+[271] [ERROR retrieving ref link]
+[272] [ERROR retrieving ref link]
+[273] [ERROR retrieving ref link]
+[274] [ERROR retrieving ref link]
+[275] [ERROR retrieving ref link]
+[277] [ERROR retrieving ref link]
+[278] [ERROR retrieving ref link]
+[279] [ERROR retrieving ref link]
+[280] [ERROR retrieving ref link]
+[281] [ERROR retrieving ref link]
+[282] [ERROR retrieving ref link]
+[283] [ERROR retrieving ref link]
+[284] [ERROR retrieving ref link]
+[285] [ERROR retrieving ref link]
+[286] [ERROR retrieving ref link]
+[287] [ERROR retrieving ref link]
+[288] [ERROR retrieving ref link]
+[289] [ERROR retrieving ref link]
+[290] [ERROR retrieving ref link]
+[291] [ERROR retrieving ref link]
+[292] [ERROR retrieving ref link]
+[293] [ERROR retrieving ref link]
+[294] [ERROR retrieving ref link]
+[295] [ERROR retrieving ref link]
+[296] [ERROR retrieving ref link]
+[297] [ERROR retrieving ref link]
+[298] [ERROR retrieving ref link]
+[299] [ERROR retrieving ref link]
+[300] [ERROR retrieving ref link]
+[301] [ERROR retrieving ref link]
+[302] [ERROR retrieving ref link]
+[303] [ERROR retrieving ref link]
+[304] [ERROR retrieving ref link]
+[305] [ERROR retrieving ref link]
+[306] [ERROR retrieving ref link]
+[307] [ERROR retrieving ref link]
+[308] [ERROR retrieving ref link]
+[309] [ERROR retrieving ref link]
+[310] [ERROR retrieving ref link]
+[311] [ERROR retrieving ref link]
+[312] [ERROR retrieving ref link]
+[313] [ERROR retrieving ref link]
+[314] [ERROR retrieving ref link]
+[315] [ERROR retrieving ref link]
+[316] [ERROR retrieving ref link]
+[317] [ERROR retrieving ref link]
+[318] [ERROR retrieving ref link]
+[320] [ERROR retrieving ref link]
+[322] [ERROR retrieving ref link]
+[323] [ERROR retrieving ref link]
+[324] [ERROR retrieving ref link]
+[325] [ERROR retrieving ref link]
+[326] [ERROR retrieving ref link]
+[327] [ERROR retrieving ref link]
+[329] [ERROR retrieving ref link]
+[330] [ERROR retrieving ref link]
+[331] [ERROR retrieving ref link]
+[332] [ERROR retrieving ref link]
+[333] [ERROR retrieving ref link]
+[335] [ERROR retrieving ref link]
+[336] [ERROR retrieving ref link]
+[337] [ERROR retrieving ref link]
+[338] [ERROR retrieving ref link]
+[340] [ERROR retrieving ref link]
+[342] [ERROR retrieving ref link]
+[343] [ERROR retrieving ref link]
+[344] [ERROR retrieving ref link]
+[345] [ERROR retrieving ref link]
+[346] [ERROR retrieving ref link]
+[347] [ERROR retrieving ref link]
+[348] [ERROR retrieving ref link]
+[349] [ERROR retrieving ref link]
+[350] [ERROR retrieving ref link]
+[351] [ERROR retrieving ref link]

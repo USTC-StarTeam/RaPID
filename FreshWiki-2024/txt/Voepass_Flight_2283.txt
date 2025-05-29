@@ -1,0 +1,85 @@
+Voepass_Flight_2283
+
+Voepass Flight 2283 was a scheduled domestic Brazilian passenger flight from Cascavel to Guarulhos. On 9 August 2024, the ATR 72-500 serving the flight crashed in Vinhedo, São Paulo State. The aircraft was flying at an altitude of 17,000 ft (5,200 m) prior to stalling and entering a flat spin with a rapid descent at around 13:21 BRT.
+All 62 people on board died. The crash was the deadliest aviation accident in Brazil since TAM Airlines Flight 3054 in July 2007. The Brazilian Aeronautical Accidents Investigation and Prevention Center (CENIPA) has launched an investigation into the accident. In the initial aftermath of the accident, aviation experts speculated that ice buildup could have been a factor. Both flight recorders were recovered and analyzed by CENIPA, who issued a preliminary report confirming the pilots faced difficulties with icing buildup and de-icing attempts.
+
+# Background
+
+## Aircraft
+
+The aircraft involved, registered as PS-VPB, was a 14-year-old twin-engine turboprop ATR 72-500 with serial number 908, powered by two Pratt & Whitney Canada PW127M engines. It was acquired by Voepass in September 2022 from Indonesian carrier Pelita Air Service [1] [2] [3] [4]. 
+
+## Crew and passengers
+
+In command was Captain Danilo Santos Romano, aged 35, and his co-pilot was First Officer Humberto Alencar e Silva, aged 61. The flight attendants were Débora Soper Ávila, aged 28,  and Rubia Silva de Lima, aged 41 [6] [7]. All passengers and crew were Brazilian [6]. Three of the passengers had dual citizenship with Venezuela, and one with Portugal. Twenty-seven of the passengers were residents of Cascavel [8] [9] [10]. The victims included eight doctors, including six oncologists who were traveling to a cancer conference in São Paulo,  four professors from Western Paraná State University, two staff members of the Federal University of Technology – Paraná, and two children [12]. At least 10 ticketed passengers failed to board the flight because they were waiting at the wrong gate [13] [14]. 
+
+# Accident
+
+The aircraft was traveling from Cascavel, Paraná, to the city of Guarulhos, São Paulo. In the area of the accident, there was an active SIGMET advisory for severe icing from 12,000 to 21,000 feet (3,700 to 6,400 m) [15]. Meteorological reports at the time of the accident indicated that areas of turbulence, thunderstorms, and icing were present in areas surrounding the accident [1] [2] [16]. The Brazilian Air Force said that the flight did not declare an emergency [17]. According to Flightradar24, the aircraft was cruising at 17,000 feet (5,200 m) when, at 13:21 local time, the aircraft experienced a brief loss of altitude and then briefly gained altitude. Shortly thereafter, the aircraft entered what appeared to be a flat spin   and a steep and terminal descent [17] [19] [20]. The last data transmission and loss of radar contact occurred at 13:22, before the accident. ADS-B data indicated that the aircraft had reached a maximum vertical descent rate of 24,000 feet per minute (120 m/s). Firefighters reported that the plane crashed in Vinhedo in the state of São Paulo,  76 kilometres (47 mi) northwest of the city of São Paulo [22]. The plane crashed near a condominium in the Capela neighborhood [23]. Despite earlier reports of several houses being hit by the plane,  it crashed in the front yard of a house in a gated community, and nobody on the ground was killed or injured [24] [15]. Videos of the aircraft before it crashed showed it in a downward flat spin, in a slight nose-down orientation, and were widely shared on social media [25]. Brazilian television news channel GloboNews broadcast aerial footage from around the area of the accident site, showing fire and smoke rising from the aircraft's wreckage [15] [23]. All 62 people on board the aircraft, 58 passengers and 4  crew, were killed, along with a dog brought on board by the Venezuelan passengers. Most of the bodies found in the accident site were charred, making the identification of the victims difficult [28] [29]. An eyewitness reported seeing three bodies ejected from the plane and falling into a backyard;  this was later refuted by firefighters, who stated that no bodies had been ejected and all were found in their seats [30] [31]. 
+
+# Aftermath
+
+President Luiz Inácio Lula da Silva was attending the launch of the frigate Tamandaré when he received news of the accident, and requested a moment of silence for those on board.. Later that evening, he declared three days of national mourning in response to the accident. The governor of São Paulo, Tarcísio de Freitas, and the governor of Paraná, Ratinho Júnior, announced that they would return from an event in Espírito Santo [22]. It was the first fatal accident in Brazilian commercial aviation since Noar Linhas Aéreas Flight 4896 in 2011, and the first involving Voepass since its establishment in 1995 [32]. The crash was the deadliest in Brazil since TAM Airlines Flight 3054 in July 2007 [33] [34]. The mayor of Cascavel, Leonaldo Paranhos, offered the use of a conference center for a collective wake for the victims, while football player Marcos attended the funeral of Captain Romano in São Paulo on 12 August, having been regarded as one of the latter's heroes. The Brazilian Air Force transported the remains of several victims to their respective communities [35]. José Luiz Felício Filho, the president of Voepass, released a statement on Instagram expressing his condolences to the families and friends of passengers and crew members who died on Flight 2283. On social media, Leonardo Ferreira, a cancer researcher, was widely named as one of the passengers. The Brazilian College of Radiology and Imaging Diagnosis published an obituary and conspiracy theories spread about how big pharma had engineered his supposed death. Ferreira confirmed he was not dead; nobody of that name was on the aircraft's passenger list. 
+
+# Investigation
+
+The Brazilian Aeronautical Accidents Investigation and Prevention Center (CENIPA) has launched an investigation into the accident. Investigators from the French Bureau of Enquiry and Analysis for Civil Aviation Safety (BEA) and Canadian Transportation Safety Board (TSB) also joined the investigation, representing the country where the aircraft and engines, the ATR 72 and the Pratt & Whitney Canada PW127M, were manufactured respectively. CENIPA head Marcelo Moreno said on the day of the accident that both flight recorders—the cockpit voice recorder (CVR) and the flight data recorder (FDR)—had been recovered and were in CENIPA's possession [1]. The bodies of the victims were taken to the central Instituto Médico Legal facility in São Paulo for processing [38] [39]. By 11 August, local emergency services reported that all bodies had been removed from the accident site and the wreckage had been handed over to CENIPA for further investigation [24]. On the same day, CENIPA announced that the data from the FDR had been downloaded and was being analyzed. In the initial aftermath of the accident, aviation experts speculated that ice buildup could have been a factor. The accident has been compared to American Eagle Flight 4184, also involving an ATR 72, in which the pilots lost control after the aircraft encountered severe icing conditions [40]. ATR had since improved the de-icing systems used on its aircraft [8] [41]. The aircraft used for Flight 2283 had a system of rubber tubes on the wings that could inflate and deflate to break up ice. On 15 August, Brazilian media reported that the accident occurred just one minute after the plane began a steep descent. According to Jornal Nacional, the pilots had indicated that the plane required "more power,"  although it was later confirmed by the Brazilian Air Force that no Brazilian media had access to the black box [43]. On 27 August, the Brazilian Congress created a committee to investigate the accident, which was to be formed by Voepass executives and representatives from ATR. 
+
+## Preliminary report
+
+On 6 September, CENIPA released the preliminary report containing the data collected on the accident. Before the press conference, the victims' families were informed about the findings by the authorities [46] [47] [48]. According to the report, the aircraft lost lift and went into a "flat spin". The aircraft's CVR revealed that the pilots had become aware that ice was accumulating and that there was a failure in the de-icing system. Analysis of the FDR also showed that the aircraft's de-icing system turned on and off several times [49]. The agency stressed that the aircraft had not declared an emergency [49] [50]. The Brazilian Air Force said that the final report would be released as soon as possible. In parallel with CENIPA's final report, the National Institute of Criminalistics of the Federal Police of Brazil will produce an Aeronautical Accident Report [47]. 
+
+# References
+
+[1] https://avherald.com/h?article=51c316ef&opt=0
+[2] https://www.flightglobal.com/safety/voepass-atr-72-crashes-near-sao-paulo/159530.article
+[3] https://www.bbc.com/news/articles/c07e9x0d4p2o
+[4] https://sistemas.anac.gov.br/aeronaves/cons_rab_resposta_en.asp?textMarca=PSVPB
+[5] https://revistapilotoribeirao.com.br/voepass-recebeu-na-tarde-de-hoje-seu-mais-novo-atr72-500/
+[6] https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2024/08/09/comissaria-acidente-aviao-voepass-vinhedo-sp.ghtml
+[7] https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/08/09/comissaria-aviao-voepass-vinhedo-rs.ghtml
+[8] https://www.nytimes.com/2024/08/10/world/americas/brazil-plane-crash-investigation.html
+[9] https://www.euronews.com/2024/08/10/48-year-old-portuguese-among-the-fatalities-of-the-plane-that-crashed-in-brazil
+[10] https://g1.globo.com/sp/campinas-regiao/noticia/2024/08/10/corpo-de-cachorro-e-encontrado-aos-pes-de-familia-venezuelana-que-morreu-em-tragedia-aerea-em-vinhedo.ghtml
+[11] https://apnews.com/article/brazil-plane-crash-cascavel-victims-684a33953f8325e471dba90584a3badf
+[12] https://www.estadao.com.br/sao-paulo/aviao-vinhedo-cascavel-sao-paulo-medicos-nprm/
+[13] https://apnews.com/article/brazil-plane-crash-victims-families-sao-paolo-c92b1f4cb8fd27feaa073fd2553fcbcb
+[14] https://www.poder360.com.br/brasil/saiba-quem-sao-algumas-das-vitimas-do-voo-da-voepass/
+[15] https://edition.cnn.com/2024/08/09/americas/brazil-plane-crash-intl-latam/index.html
+[16] https://www.nytimes.com/2024/08/10/world/americas/brazil-plane-crash.html
+[17] https://www.flightradar24.com/blog/voepass-atr72-crashes-near-sao-paulo/
+[18] https://g1.globo.com/sp/campinas-regiao/noticia/2024/08/09/aviao-que-caiu-em-vinhedo-nao-reportou-emergencia-diz-fab.ghtml
+[19] https://www.pbs.org/newshour/world/french-experts-join-investigation-into-brazil-airliner-crash
+[20] https://abcnews.go.com/International/wireStory/passenger-plane-crashes-brazils-sao-paulo-state-unclear-112718008
+[21] https://www.independent.co.uk/news/world/americas/plane-crash-brazil-news-sao-paulo-latest-b2594162.html
+[22] https://apnews.com/article/brazil-plane-crash-sao-paulo-394427322513643f4eaf517e4ac4c85e
+[23] https://www.theguardian.com/world/article/2024/aug/09/plane-crash-brazil-sao-paulo
+[24] https://g1.globo.com/sp/campinas-regiao/ao-vivo/aviao-cai-em-vinhedo.ghtml
+[25] https://g1.globo.com/sp/campinas-regiao/noticia/2024/08/09/queda-de-aviao-com-61-mortos-em-vinhedo-o-que-se-sabe-e-falta-saber-sobre-a-maior-tragedia-aerea-desde-2007.ghtml
+[26] https://www.nytimes.com/2024/08/09/world/americas/brazil-plane-crash.html
+[27] https://www.nbcnews.com/news/us-news/passenger-plane-crashes-brazil-carrying-50-people-rcna166002
+[28] https://apnews.com/article/brazil-airplane-crash-deadly-voepass-sao-paulo-5c5a3371b5e899b745c1cb6e46950230
+[29] https://www.bbc.com/news/articles/cvg4mjx0124o
+[30] https://www.otempo.com.br/brasil/2024/8/9/-corpos-estao-carbonizados---diz-secretario-de-seguranca-de-sp-a
+[31] https://www1.folha.uol.com.br/cotidiano/2024/08/jovem-diz-que-viu-corpos-espalhados-e-que-ajudou-idosos-em-quintal-onde-aviao-caiu.shtml
+[32] https://g1.globo.com/sp/campinas-regiao/noticia/2024/08/09/acidente-aviao-vinhedo.ghtml
+[33] https://www.cnnbrasil.com.br/nacional/aviacao-comercial-regular-brasileira-nao-registrava-acidentes-desde-2007/
+[34] https://www.poder360.com.br/brasil/acidente-da-voepass-e-o-maior-da-aviacao-comercial-desde-2007/
+[35] https://apnews.com/article/brazil-air-crash-pilot-burial-579ba05dcd9671c22e1ed9637055e951
+[36] https://www.instagram.com/p/C-qcC9xyE6U/
+[37] https://www.reuters.com/fact-check/cancer-researcher-leonardo-ferreira-misidentified-victim-brazil-plane-crash-2024-08-14/
+[38] https://www.poder360.com.br/brasil/aviao-da-voepass-cai-no-interior-de-sp/
+[39] https://www.flightglobal.com/safety/flight-recorders-retrieved-from-crashed-voepass-atr-72-500/159531.article
+[40] https://g1.globo.com/sp/campinas-regiao/noticia/2024/08/09/hipotese-de-acumulo-de-gelo-em-asa-de-aviao-que-caiu-em-vinhedo-e-explicada-por-especialistas-entenda.ghtml
+[41] https://oglobo.globo.com/brasil/sao-paulo/noticia/2024/08/10/voo-com-a-mesma-aeronave-que-caiu-em-sp-perdeu-o-controle-em-1994-nos-eua-em-rota-com-condicoes-severas-de-gelo.ghtml
+[42] https://www.deccanherald.com/world/explained-what-caused-a-polane-to-fall-from-the-sky-in-brazil-3145995
+[43] https://news.sky.com/story/brazil-planes-black-box-recording-reveals-co-pilots-comment-before-crash-local-media-says-13197490
+[44] https://www.bandab.com.br/nacional/fab-nega-globo-caixa-preta/amp/
+[45] https://www.reuters.com/world/americas/brazilian-congress-install-committee-voepass-crash-investigation-2024-08-27/
+[46] https://g1.globo.com/sp/campinas-regiao/noticia/2024/09/06/cenipa-apresenta-relatorio-preliminar-sobre-causa-da-queda-do-aviao-em-vinhedo.ghtml
+[47] https://g1.globo.com/sp/campinas-regiao/noticia/2024/09/06/cenipa-divulga-nesta-sexta-relatorio-preliminar-sobre-causa-de-queda-de-aviao-com-62-mortes-em-vinhedo.ghtml?utm_source=facebook&utm_medium=social&utm_campaign=g1&fbclid=IwY2xjawFIEMJleHRuA2FlbQIxMQABHVu_3j_A58TjzbCQKk8OEFNGSxE5m7qICLwlo-kJqFlGcUEqHeVFkgbVkA_aem_9B-yd74P1f30vanJjcYhvA
+[48] https://g1.globo.com/sp/campinas-regiao/ao-vivo/cenipa-divulga-relatorio-preliminar-da-queda-do-aviao-da-voepass-em-vinhedo.ghtml
+[49] https://apnews.com/article/brazil-voepass-plane-crash-causes-sao-paulo-ice-deicing-f0fccb7e88c1f962e6b36998ed1b2770
+[50] https://dedalo.sti.fab.mil.br/ocorrencia/85259
+[51] https://dedalo.sti.fab.mil.br/en/85259
+[52] https://www.band.uol.com.br/noticias/acidente-da-voepass-sistema-de-degelo-e-controlador-de-temperatura-tiveram-falhas-diz-cenipa-202409061719

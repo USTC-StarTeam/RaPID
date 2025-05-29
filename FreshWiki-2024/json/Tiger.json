@@ -1,0 +1,2606 @@
+{
+  "title": "Tiger",
+  "url": "https://en.wikipedia.org/wiki/Tiger",
+  "summary": "The tiger (Panthera tigris) is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes. It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, mainland Asian tigers and the island tigers of the Sunda Islands.\nThroughout the tiger's range, it inhabits mainly forests, from coniferous and temperate broadleaf and mixed forests in the Russian Far East and Northeast China to tropical and subtropical moist broadleaf forests on the Indian subcontinent and Southeast Asia. The tiger is an apex predator and preys mainly on ungulates, which it takes by ambush. It lives a mostly solitary life and occupies home ranges, defending these from individuals of the same sex. The range of a male tiger overlaps with that of multiple females with whom he mates. Females give birth to usually two or three cubs that stay with their mother for about two years. When becoming independent, they leave their mother's home range and establish their own.\nSince the early 20th century, tiger populations have lost at least 93% of their historic range and are locally extinct in West and Central Asia, in large areas of China and on the islands of Java and Bali. Today, the tiger's range is severely fragmented. It is listed as Endangered on the IUCN Red List of Threatened Species, as its range is thought to have declined by 53% to 68% since the late 1990s. Major threats to tigers are habitat destruction and fragmentation due to deforestation, poaching for fur and the illegal trade of body parts for medicinal purposes. Tigers are also victims of human\u2013wildlife conflict as they attack and prey on livestock in areas where natural prey is scarce. The tiger is legally protected in all range countries. National conservation measures consist of action plans, anti-poaching patrols and schemes for monitoring tiger populations. In several range countries, wildlife corridors have been established and tiger reintroduction is planned.\nThe tiger is among the most popular of the world's charismatic megafauna. It has been kept in captivity since ancient times and has been trained to perform in circuses and other entertainment shows. The tiger featured prominently in the ancient mythology and folklore of cultures throughout its historic range and has continued to appear in culture worldwide.",
+  "content": [
+    {
+      "section_title": "Etymology",
+      "section_content": [
+        {
+          "sentence": "The Old English tigras derives from Old French tigre, from Latin tigris, which was a borrowing from tigris (Ancient Greek: \u03c4\u03af\u03b3\u03c1\u03b9\u03c2)",
+          "refs": []
+        },
+        {
+          "sentence": "Since ancient times, the word tigris has been suggested to originate from the Armenian or Persian word for 'arrow', which may also be the origin of the name for the river Tigris",
+          "refs": [
+            "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dti%2Fgris"
+          ]
+        },
+        {
+          "sentence": "However, today, the names are thought to be homonyms, and the connection between the tiger and the river is doubted",
+          "refs": [
+            "https://archive.org/details/onlatinlanguage01varruoft/page/96/mode/2up",
+            "https://doi.org/10.1086%2F693884"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Taxonomy",
+      "section_content": [
+        {
+          "sentence": "In 1758, Carl Linnaeus described the tiger in his work Systema Naturae and gave it the scientific name Felis tigris, as the genus Felis was being used for all cats at the time",
+          "refs": []
+        },
+        {
+          "sentence": "His scientific description was based on descriptions by earlier naturalists such as Conrad Gessner and Ulisse Aldrovandi",
+          "refs": []
+        },
+        {
+          "sentence": "In 1929, Reginald Innes Pocock placed the species in the genus Panthera using the scientific name Panthera tigris",
+          "refs": [
+            "https://archive.org/stream/mobot31753000798865#page/41/mode/2up"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Subspecies",
+          "section_content": [
+            {
+              "sentence": "Nine recent tiger subspecies have been proposed between the early 19th and early 21st centuries, namely the Bengal, Malayan, Indochinese, South China, Siberian, Caspian, Javan, Bali and Sumatran tigers",
+              "refs": []
+            },
+            {
+              "sentence": "The validity of several tiger subspecies was questioned in 1999 as most putative subspecies were distinguished on the basis of fur length and colouration, striping patterns and body size of specimens in natural history museum collections that are not necessarily representative for the entire population",
+              "refs": [
+                "http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=14000259",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640610"
+              ]
+            },
+            {
+              "sentence": "It was proposed to recognise only two tiger subspecies as valid, namely P",
+              "refs": []
+            },
+            {
+              "sentence": "t",
+              "refs": []
+            },
+            {
+              "sentence": "tigris in mainland Asia and the smaller P",
+              "refs": []
+            },
+            {
+              "sentence": "t",
+              "refs": []
+            },
+            {
+              "sentence": "sondaica in the Greater Sunda Islands",
+              "refs": []
+            },
+            {
+              "sentence": "This two-subspecies proposal was reaffirmed in 2015 through a comprehensive analysis of morphological, ecological and mitochondrial DNA (mtDNA) traits of all putative tiger subspecies",
+              "refs": []
+            },
+            {
+              "sentence": "In 2017, the Cat Classification Task Force of the IUCN Cat Specialist Group revised felid taxonomy in accordance with the 2015 two-subspecies proposal and recognised only P",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640610"
+              ]
+            },
+            {
+              "sentence": "t",
+              "refs": []
+            },
+            {
+              "sentence": "tigris and P",
+              "refs": []
+            },
+            {
+              "sentence": "t",
+              "refs": []
+            },
+            {
+              "sentence": "sondaica",
+              "refs": []
+            },
+            {
+              "sentence": "Results of a 2018 whole-genome sequencing study of 32 samples from the six living putative subspecies\u2014the Bengal, Malayan, Indochinese, South China, Siberian and Sumatran tiger\u2014found them to be distinct and separate clades",
+              "refs": [
+                "https://repository.si.edu/bitstream/handle/10088/32616/A_revised_Felidae_Taxonomy_CatNews.pdf?sequence=1&isAllowed=y#page=66"
+              ]
+            },
+            {
+              "sentence": "These results were corroborated in 2021 and 2023",
+              "refs": [
+                "https://doi.org/10.1016%2Fj.cub.2018.09.019"
+              ]
+            },
+            {
+              "sentence": "The Cat Specialist Group states that \"Given the varied interpretations of data, the  [subspecific] taxonomy of this species is currently under review by the IUCN SSC Cat Specialist Group.\"",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136513",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10111772",
+                "http://www.catsg.org/index.php?id=124"
+              ]
+            },
+            {
+              "sentence": "The following tables are based on the classification of the tiger as of 2005,  and also reflect the classification recognised by the Cat Classification Task Force in 2017",
+              "refs": [
+                "http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=14000259"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Evolution",
+          "section_content": [
+            {
+              "sentence": "The tiger shares the genus Panthera with the lion, leopard, jaguar and snow leopard",
+              "refs": []
+            },
+            {
+              "sentence": "Results of genetic analyses indicate that the tiger and snow leopard are sister species whose lineages split from each other between 2.70 and 3.70 million years ago",
+              "refs": []
+            },
+            {
+              "sentence": "The tiger's whole genome sequencing shows repeated sequences that parallel those in other cat genomes",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2010MolPE..56...64D"
+              ]
+            },
+            {
+              "sentence": "The fossil species Panthera palaeosinensis of early Pleistocene northern China was described as a possible tiger ancestor when it was discovered in 1924, but modern cladistics places it as basal to modern Panthera",
+              "refs": []
+            },
+            {
+              "sentence": "Panthera zdanskyi lived around the same time and place, and was suggested to be a sister species of the modern tiger when it was examined in 2014",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189913",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3843846"
+              ]
+            },
+            {
+              "sentence": "However, as of 2023, at least two subsequent studies considered P",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189913"
+              ]
+            },
+            {
+              "sentence": "zdanskyi likely to be a synonym of P",
+              "refs": []
+            },
+            {
+              "sentence": "palaeosinensis, noting that its proposed differences from that species fell within the range of individual variation",
+              "refs": []
+            },
+            {
+              "sentence": "The earliest appearance of the modern tiger species in the fossil record are jaw fragments from Lantion in China that are dated to the early Pleistocene",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2023PdPe..103..465H",
+                "https://ui.adsabs.harvard.edu/abs/2023HBio...35..293J"
+              ]
+            },
+            {
+              "sentence": "Middle- to late-Pleistocene tiger fossils have been found throughout China, Sumatra and Java",
+              "refs": []
+            },
+            {
+              "sentence": "Prehistoric subspecies include Panthera tigris trinilensis and P",
+              "refs": []
+            },
+            {
+              "sentence": "t",
+              "refs": []
+            },
+            {
+              "sentence": "soloensis of Java and Sumatra and P",
+              "refs": []
+            },
+            {
+              "sentence": "t",
+              "refs": []
+            },
+            {
+              "sentence": "acutidens of China; late Pleistocene and early Holocene fossils of tigers have also been found in Borneo and Palawan, Philippines",
+              "refs": []
+            },
+            {
+              "sentence": "Fossil specimens of tigers have also been reported from the Middle-Late Pleistocene of Japan",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Results of a phylogeographic study indicate that all living tigers have a common ancestor that lived between 108,000 and 72,000 years ago",
+              "refs": [
+                "https://www.gmnh.pref.gunma.jp/wp-content/uploads/bulletin23_1.pdf"
+              ]
+            },
+            {
+              "sentence": "Genetic studies suggest that the tiger population contracted around 115,000 years ago due to glaciation",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC534810"
+              ]
+            },
+            {
+              "sentence": "Modern tiger populations originated from a refugium in Indochina and spread across Asia after the Last Glacial Maximum",
+              "refs": []
+            },
+            {
+              "sentence": "As they colonised northeastern China, the ancestors of the South China tiger intermixed with a relict tiger population",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Hybrids",
+          "section_content": [
+            {
+              "sentence": "Tigers can interbreed with other Panthera cats and have done so in captivity",
+              "refs": []
+            },
+            {
+              "sentence": "The liger is the offspring of a female tiger and a male lion and the tigon the offspring of a male tiger and a female lion",
+              "refs": []
+            },
+            {
+              "sentence": "The lion sire passes on a growth-promoting gene, but the corresponding growth-inhibiting gene from the female tiger is absent, so that ligers grow far larger than either parent species",
+              "refs": [
+                "https://doi.org/10.2478%2Faoas-2020-0082"
+              ]
+            },
+            {
+              "sentence": "By contrast, the male tiger does not pass on a growth-promoting gene while the lioness passes on a growth inhibiting gene; hence, tigons are around the same size as their parents",
+              "refs": []
+            },
+            {
+              "sentence": "Since they often develop life-threatening birth defects and can easily become obese, breeding these hybrids is regarded as unethical",
+              "refs": [
+                "https://learn.genetics.utah.edu/content/epigenetics/imprinting/"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Characteristics",
+      "section_content": [
+        {
+          "sentence": "The tiger has a typical felid morphology, with a muscular body, shortened legs, strong forelimbs with wide front paws, a large head and a tail that is about half the length of the rest of its body",
+          "refs": []
+        },
+        {
+          "sentence": "It has five digits, including a dewclaw, on the front feet and four on the back, all of which have retractile claws that are compact and curved, and can reach 10\u00a0cm (3.9\u00a0in) long",
+          "refs": [
+            "https://doi.org/10.2307%2F3504004",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "The ears are rounded and the eyes have a round pupil",
+          "refs": [
+            "https://doi.org/10.2307%2F3504004",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "The snout ends in a triangular, pink tip with small black dots, the number of which increase with age",
+          "refs": [
+            "https://doi.org/10.2307%2F3504004"
+          ]
+        },
+        {
+          "sentence": "The tiger's skull is robust, with a constricted front region, proportionally small, elliptical orbits, long nasal bones and a lengthened cranium with a large sagittal crest",
+          "refs": [
+            "https://doi.org/10.1111%2F1749-4877.12817"
+          ]
+        },
+        {
+          "sentence": "It resembles a lion's skull, but differs from it in the concave or flattened underside of the lower jaw and in its longer nasals",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "https://doi.org/10.2307%2F3504004"
+          ]
+        },
+        {
+          "sentence": "The tiger has 30 fairly robust teeth and its somewhat curved canines are the longest in the cat family at 6.4\u20137.6\u00a0cm (2.5\u20133.0\u00a0in)",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "The tiger has a head-body length of 1.4\u20132.8\u00a0m (4\u00a0ft 7\u00a0in\u00a0\u2013 9\u00a0ft 2\u00a0in) with a 0.6\u20131.1\u00a0m (2\u00a0ft 0\u00a0in\u00a0\u2013 3\u00a0ft 7\u00a0in) tail and stands 0.8\u20131.1\u00a0m (2\u00a0ft 7\u00a0in\u00a0\u2013 3\u00a0ft 7\u00a0in) at the shoulder",
+          "refs": []
+        },
+        {
+          "sentence": "The Siberian and Bengal tigers are the largest",
+          "refs": [
+            "https://web.archive.org/web/20240505145513/https://books.google.com/books?id=T37sFCl43E8C&pg=PA825#v=onepage&q&f=false#v=onepage&q&f=false"
+          ]
+        },
+        {
+          "sentence": "Male Bengal tigers weigh 200\u2013260\u00a0kg (440\u2013570\u00a0lb), and females weigh 100\u2013160\u00a0kg (220\u2013350\u00a0lb); island tigers are the smallest, likely due to insular dwarfism",
+          "refs": [
+            "https://doi.org/10.2307%2F3504004"
+          ]
+        },
+        {
+          "sentence": "Male Sumatran tigers weigh 100\u2013140\u00a0kg (220\u2013310\u00a0lb), and females weigh 75\u2013110\u00a0kg (165\u2013243\u00a0lb)",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "The tiger is popularly thought to be the largest living felid species; but since tigers of the different subspecies and populations vary greatly in size and weight, the tiger's average size may be less than the lion's, while the largest tigers are bigger than their lion counterparts",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Coat",
+          "section_content": [
+            {
+              "sentence": "The tiger's coat usually has short hairs, reaching up to 35\u00a0mm (1.4\u00a0in), though the hairs of the northern-living Siberian tiger can reach 105\u00a0mm (4.1\u00a0in)",
+              "refs": []
+            },
+            {
+              "sentence": "Belly hairs tend to be longer than back hairs",
+              "refs": []
+            },
+            {
+              "sentence": "The density of their fur is usually thin, though the Siberian tiger develops a particularly thick winter coat",
+              "refs": []
+            },
+            {
+              "sentence": "The tiger has lines of fur around the face and long whiskers, especially in males",
+              "refs": []
+            },
+            {
+              "sentence": "It has an orange colouration that varies from yellowish to reddish",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "White fur covers the underside, from head to tail, along with the inner surface of the legs and parts of the face",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "On the back of the ears, it has a prominent white spot, which is surrounded by black",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The tiger is marked with distinctive black or dark brown stripes, which are uniquely patterned in each individual",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "The stripes are mostly vertical, but those on the limbs and forehead are horizontal",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "They are more concentrated towards the backside and those on the trunk may reach under the belly",
+              "refs": []
+            },
+            {
+              "sentence": "The tips of stripes are generally sharp and some may split up or split and fuse again",
+              "refs": []
+            },
+            {
+              "sentence": "Tail stripes are thick bands and a black tip marks the end",
+              "refs": []
+            },
+            {
+              "sentence": "The tiger is one of only a few striped cat species",
+              "refs": []
+            },
+            {
+              "sentence": "Stripes are advantageous for camouflage in vegetation with vertical patterns of light and shade, such as trees, reeds and tall grass",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3061134"
+              ]
+            },
+            {
+              "sentence": "This is supported by a Fourier analysis study showing that the striping patterns line up with their environment",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://doi.org/10.1641%2F0006-3568%282005%29055%5B0125%3ATASOCI%5D2.0.CO%3B2"
+              ]
+            },
+            {
+              "sentence": "The orange colour may also aid in concealment, as the tiger's prey is colour blind and possibly perceives the tiger as green and blended in with the vegetation",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1095-8312.1987.tb00442.x"
+              ]
+            }
+          ],
+          "subsections": [
+            {
+              "section_title": "Colour variations",
+              "section_content": [
+                {
+                  "sentence": "The three colour variants of Bengal tigers \u2013 nearly stripeless snow-white, white and golden \u2013 are now virtually non-existent in the wild due to the reduction of wild tiger populations but continue in captive populations",
+                  "refs": []
+                },
+                {
+                  "sentence": "The white tiger has a white background colour with sepia-brown stripes",
+                  "refs": []
+                },
+                {
+                  "sentence": "The golden tiger is pale golden with reddish-brown stripes",
+                  "refs": []
+                },
+                {
+                  "sentence": "The snow-white tiger is a morph with extremely faint stripes and a pale sepia-brown ringed tail",
+                  "refs": []
+                },
+                {
+                  "sentence": "White and golden morphs are the result of an autosomal recessive trait with a white locus and a wideband locus, respectively",
+                  "refs": []
+                },
+                {
+                  "sentence": "The snow-white variation is caused by polygenes with both white and wideband loci",
+                  "refs": []
+                },
+                {
+                  "sentence": "The breeding of white tigers is controversial, as they have no use for conservation",
+                  "refs": [
+                    "https://www.luo-lab.org/publications/Xu17-CellRes-GoldenTiger.pdf"
+                  ]
+                },
+                {
+                  "sentence": "Only 0.001% of wild tigers have the genes for this colour morph and the overrepresentation of white tigers in captivity is the result of inbreeding",
+                  "refs": []
+                },
+                {
+                  "sentence": "Hence, their continued breeding will risk both inbreeding depression and loss of genetic variability in captive tigers",
+                  "refs": []
+                },
+                {
+                  "sentence": "Pseudo-melanistic tigers with thick, merged stripes have been recorded in Simlipal National Park and three Indian zoos; a population genetic analysis of Indian tiger samples revealed that this phenotype is caused by a mutation of a transmembrane aminopeptidase gene",
+                  "refs": []
+                },
+                {
+                  "sentence": "Around 37% of the Simlipal tiger population has this feature, which has been linked to genetic isolation",
+                  "refs": []
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Distribution and habitat",
+      "section_content": [
+        {
+          "sentence": "The tiger historically ranged from eastern Turkey, northern Iran and Afghanistan to Central Asia and from northern Pakistan through the Indian subcontinent and Indochina to southeastern Siberia, Sumatra, Java and Bali",
+          "refs": []
+        },
+        {
+          "sentence": "As of 2022, it inhabits less than 7% of its historical distribution and has a scattered range in the Indian subcontinent, the Indochinese Peninsula, Sumatra, northeastern China and the Russian Far East",
+          "refs": [
+            "https://doi.org/10.2307%2F3504004"
+          ]
+        },
+        {
+          "sentence": "As of 2020, India had the largest extent of global tiger habitat with 300,508\u00a0km2 (116,027\u00a0sq\u00a0mi), followed by Russia with 195,819\u00a0km2 (75,606\u00a0sq\u00a0mi)",
+          "refs": [
+            "https://www.iucnredlist.org/species/15955/214862019"
+          ]
+        },
+        {
+          "sentence": "The tiger mainly lives in forest habitats and is highly adaptable",
+          "refs": []
+        },
+        {
+          "sentence": "Records in Central Asia indicate that it primarily inhabited Tugay riverine forests and hilly and lowland forests in the Caucasus",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "In the Amur-Ussuri region of Russia and China, it inhabits Korean pine and temperate broadleaf and mixed forests; riparian forests serve as dispersal corridors, providing food and water for both tigers and ungulates",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "On the Indian subcontinent, it inhabits mainly tropical and subtropical moist broadleaf forests, temperate broadleaf and mixed forests, tropical moist evergreen forests, tropical dry forests, alluvial plains and the mangrove forests of the Sundarbans",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "In the Eastern Himalayas, it was documented in temperate forest up to an elevation of 4,200\u00a0m (13,800\u00a0ft) in Bhutan, of 3,630\u00a0m (11,910\u00a0ft) in the Mishmi Hills and of 3,139\u00a0m (10,299\u00a0ft) in M\u00eadog County, southeastern Tibet",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "In Thailand, it lives in deciduous and evergreen forests",
+          "refs": [
+            "[ERROR retrieving ref link]",
+            "https://doi.org/10.11609%2Fjott.4381.10.13.12833-12836",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10415778"
+          ]
+        },
+        {
+          "sentence": "In Sumatra, it inhabits lowland peat swamp forests and rugged montane forests",
+          "refs": [
+            "https://doi.org/10.1017%2FS0030605307414107"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Population density",
+          "section_content": [
+            {
+              "sentence": "Camera trapping during 2010\u20132015 in the deciduous and subtropical pine forest of Jim Corbett National Park, northern India revealed a stable tiger population density of 12\u201317 individuals per 100\u00a0km2 (39\u00a0sq\u00a0mi) in an area of 521\u00a0km2 (201\u00a0sq\u00a0mi)",
+              "refs": []
+            },
+            {
+              "sentence": "In northern Myanmar, the population density in a sampled area of roughly 3,250\u00a0km2 (1,250\u00a0sq\u00a0mi) in a mosaic of tropical broadleaf forest and grassland was estimated to be 0.21\u20130.44 tigers per 100\u00a0km2 (39\u00a0sq\u00a0mi) as of 2009",
+              "refs": [
+                "https://doi.org/10.1111%2F1365-2664.13410"
+              ]
+            },
+            {
+              "sentence": "Population density in mixed deciduous and semi-evergreen forests of Thailand's Huai Kha Khaeng Wildlife Sanctuary was estimated at 2.01 tigers per 100\u00a0km2 (39\u00a0sq\u00a0mi); during the 1970s and 1980s, logging and poaching had occurred in the adjacent Mae Wong and Khlong Lan National Parks, where population density was much lower, estimated at only 0.359 tigers per 100\u00a0km2 (39\u00a0sq\u00a0mi) as of 2016",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2009PopEc..51..115L"
+              ]
+            },
+            {
+              "sentence": "Population density in dipterocarp and montane forests in northern Malaysia was estimated at 1.47\u20132.43 adult tigers per 100\u00a0km2 (39\u00a0sq\u00a0mi) in Royal Belum State Park, but 0.3\u20130.92 adult tigers per 100\u00a0km2 (39\u00a0sq\u00a0mi) in the unprotected selectively logged Temengor Forest Reserve",
+              "refs": [
+                "https://doi.org/10.1111%2Fcsp2.560"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Behaviour and ecology",
+      "section_content": [
+        {
+          "sentence": "Camera trap data show that tigers in Chitwan National Park avoided locations frequented by people and were more active at night than during day",
+          "refs": []
+        },
+        {
+          "sentence": "In Sundarbans National Park, six radio-collared tigers were most active from dawn to early morning and reached their zenith around 7:00 o'clock in the morning",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3458348"
+          ]
+        },
+        {
+          "sentence": "A three-year-long camera trap survey in Shuklaphanta National Park revealed that tigers were most active from dusk until midnight",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822765"
+          ]
+        },
+        {
+          "sentence": "In northeastern China, tigers were crepuscular and active at night with activity peaking at dawn and dusk; they were largely active at the same time as their prey",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2019Ecosc..26....1P"
+          ]
+        },
+        {
+          "sentence": "The tiger is a powerful swimmer and easily transverses rivers as wide as 8\u00a0km (5.0\u00a0mi); it immerses in water, particularly on hot days",
+          "refs": []
+        },
+        {
+          "sentence": "In general, it is less capable of climbing trees than many other cats due to its size, but cubs under 16 months old may routinely do so",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "An adult was recorded climbing 10\u00a0m (33\u00a0ft) up a smooth pipal tree",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "section_title": "Social spacing",
+          "section_content": [
+            {
+              "sentence": "Adult tigers lead largely solitary lives within home ranges or territories, the size of which mainly depends on prey abundance, geographic area and sex of the individual",
+              "refs": []
+            },
+            {
+              "sentence": "Males and females defend their home ranges from those of the same sex and the home range of a male encompasses that of multiple females",
+              "refs": []
+            },
+            {
+              "sentence": "Two females in the Sundarbans had home ranges of 10.6 and 14.1\u00a0km2 (4.1 and 5.4\u00a0sq\u00a0mi)",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In Panna Tiger Reserve, the home ranges of five reintroduced females varied from 53\u201367\u00a0km2 (20\u201326\u00a0sq\u00a0mi) in winter to 55\u201360\u00a0km2 (21\u201323\u00a0sq\u00a0mi) in summer and to 46\u201394\u00a0km2 (18\u201336\u00a0sq\u00a0mi) during the monsoon; three males had 84\u2013147\u00a0km2 (32\u201357\u00a0sq\u00a0mi) large home ranges in winter, 82\u201398\u00a0km2 (32\u201338\u00a0sq\u00a0mi) in summer and 81\u2013118\u00a0km2 (31\u201346\u00a0sq\u00a0mi) during monsoon seasons",
+              "refs": [
+                "https://doi.org/10.1017%2FS0030605310001456"
+              ]
+            },
+            {
+              "sentence": "In Sikhote-Alin Biosphere Reserve, 14 females had home ranges 248\u2013520\u00a0km2 (96\u2013201\u00a0sq\u00a0mi) and five resident males of 847\u20131,923\u00a0km2 (327\u2013742\u00a0sq\u00a0mi) that overlapped with those of up to five females",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2016EJWR...62..537S"
+              ]
+            },
+            {
+              "sentence": "When tigresses in the same reserve had cubs of up to four months of age, they reduced their home ranges to stay near their young and steadily enlarged them until their offspring were 13\u201318 months old",
+              "refs": [
+                "https://doi.org/10.1644%2F09-mamm-a-293.1"
+              ]
+            },
+            {
+              "sentence": "The tiger is a long-ranging species and individuals disperse over distances of up to 650\u00a0km (400\u00a0mi) to reach tiger populations in other areas",
+              "refs": []
+            },
+            {
+              "sentence": "Young tigresses establish their first home ranges close to their mothers' while males migrate further than their female counterparts",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819329"
+              ]
+            },
+            {
+              "sentence": "Four radio-collared females in Chitwan dispersed between 0 and 43.2\u00a0km (0.0 and 26.8\u00a0mi) and 10 males between 9.5 and 65.7\u00a0km (5.9 and 40.8\u00a0mi)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A subadult male lives as a transient in another male's home range until he is older and strong enough to challenge the resident male",
+              "refs": [
+                "https://doi.org/10.1163%2F156853993X00560"
+              ]
+            },
+            {
+              "sentence": "Tigers mark their home ranges by spraying urine on vegetation and rocks, clawing or scent rubbing trees and marking trails with faeces, anal gland secretions and ground scrapings",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Scent markings also allow an individual to pick up information on another's identity",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=586948b8396932dd13d9e5a880e77cb7618a273f",
+                "https://doi.org/10.1016%2F0003-3472%2889%2990001-8",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Unclaimed home ranges, particularly those that belonged to a deceased individual, can be taken over in days or weeks",
+              "refs": []
+            },
+            {
+              "sentence": "Male tigers are generally less tolerant of other males within their home ranges than females are of other females",
+              "refs": []
+            },
+            {
+              "sentence": "Disputes are usually solved by intimidation rather than fighting",
+              "refs": []
+            },
+            {
+              "sentence": "Once dominance has been established, a male may tolerate a subordinate within his range, as long as they do not come near him",
+              "refs": []
+            },
+            {
+              "sentence": "The most serious disputes tend to occur between two males competing for a female in oestrus",
+              "refs": []
+            },
+            {
+              "sentence": "Though tigers mostly live alone, relationships between individuals can be complex",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Tigers are particularly social at kills and a male tiger will sometimes share a carcass with the females and cubs within this home range and unlike male lions, will allow them to feed on the kill before he is finished with it",
+              "refs": []
+            },
+            {
+              "sentence": "However, a female is more tense when encountering another female at a kill",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Communication",
+          "section_content": [
+            {
+              "sentence": "During friendly encounters and bonding, tigers rub against each other's bodies",
+              "refs": []
+            },
+            {
+              "sentence": "Facial expressions include the \"defence threat\", which involves a wrinkled face, bared teeth, pulled-back ears and widened pupils",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Both males and females show a flehmen response, a characteristic curled-lip grimace, when smelling urine markings",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "Males also use the flehmen to detect the markings made by tigresses in oestrus",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers will move their ears around to display the white spots, particularly during aggressive encounters and between mothers and cubs",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "They also use their tails to signal their mood",
+              "refs": [
+                "https://books.google.com/books?id=IF8nDwAAQBAJ&pg=PA320"
+              ]
+            },
+            {
+              "sentence": "To show cordiality, the tail sticks up and sways slowly, while an apprehensive tiger lowers its tail or wags it side-to-side",
+              "refs": []
+            },
+            {
+              "sentence": "When calm, the tail hangs low",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers are normally silent but can produce numerous vocalisations",
+              "refs": []
+            },
+            {
+              "sentence": "They roar to signal their presence to other individuals over long distances",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "This vocalisation is forced through an open mouth as it closes and can be heard 3\u00a0km (1.9\u00a0mi) away",
+              "refs": []
+            },
+            {
+              "sentence": "They roar multiple times in a row and others respond in kind",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers also roar during mating and a mother will roar to call her cubs to her",
+              "refs": []
+            },
+            {
+              "sentence": "When tense, tigers moan, a sound similar to a roar but softer and made when the mouth is at least partially closed",
+              "refs": []
+            },
+            {
+              "sentence": "Moaning can be heard 400\u00a0m (1,300\u00a0ft) away",
+              "refs": []
+            },
+            {
+              "sentence": "Aggressive encounters involve growling, snarling and hissing",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "An explosive \"coughing roar\" or \"coughing snarl\" is emitted through an open mouth and exposed teeth",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In friendlier situations, tigers prusten, a soft, low-frequency snorting sound similar to purring in smaller cats",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]",
+                "https://books.google.com/books?id=IF8nDwAAQBAJ&pg=PA320"
+              ]
+            },
+            {
+              "sentence": "Tiger mothers communicate with their cubs by grunting, while cubs call back with miaows",
+              "refs": [
+                "https://doi.org/10.1023%2FA%3A1020620121416"
+              ]
+            },
+            {
+              "sentence": "When startled, they \"woof\"",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "They produce a deer-like \"pok\" sound for unknown reasons, but most often at kills",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Hunting and diet",
+          "section_content": [
+            {
+              "sentence": "The tiger is a carnivore and an apex predator feeding mainly on large and medium-sized ungulates, with a preference for sambar deer, Manchurian wapiti, barasingha, gaur and wild boar",
+              "refs": []
+            },
+            {
+              "sentence": "Abundance and body weight of prey species are assumed to be the main criteria for the tiger's prey selection, both inside and outside protected areas",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1469-7998.2011.00871.x",
+                "https://doi.org/10.1111%2F1749-4877.12461",
+                "https://ui.adsabs.harvard.edu/abs/2023FWebs..3400268V"
+              ]
+            },
+            {
+              "sentence": "It also preys opportunistically on smaller species like monkeys, peafowl and other ground-based birds, porcupines and fish",
+              "refs": [
+                "https://doi.org/10.1093%2Fjmammal%2Fgyad069"
+              ]
+            },
+            {
+              "sentence": "Occasional attacks on Asian elephants and Indian rhinoceroses have also been reported",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "More often, tigers take the more vulnerable calves",
+              "refs": [
+                "http://repository.ias.ac.in/89489/1/50p.pdf"
+              ]
+            },
+            {
+              "sentence": "They sometimes prey on livestock and dogs in close proximity to settlements",
+              "refs": [
+                "http://erepo.usiu.ac.ke/bitstream/handle/11732/758/Estimation%20of%20tiger%20densities%20in%20India%20using%20photographic%20captures%20and%20recaptures.pdf?sequence=4&isAllowed=y"
+              ]
+            },
+            {
+              "sentence": "Tigers occasionally consume vegetation, fruit and minerals for dietary fibre and supplements",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "Tigers learn to hunt from their mothers, though the ability to hunt may be partially inborn",
+              "refs": []
+            },
+            {
+              "sentence": "Depending on the size of the prey, they typically kill weekly though mothers must kill more often",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2015BCons.192...57F"
+              ]
+            },
+            {
+              "sentence": "Families hunt together when cubs are old enough",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "They search for prey using vision and hearing",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A tiger will also wait at a watering hole for prey to come by, particularly during hot summer days",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It is an ambush predator and when approaching potential prey, it crouches with the head lowered and hides in foliage",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "It switches between creeping forward and staying still",
+              "refs": []
+            },
+            {
+              "sentence": "A tiger may even doze off and can stay in the same spot for as long as a day, waiting for prey and launch an attack when the prey is close enough,  usually within 30\u00a0m (98\u00a0ft)",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "If the prey spots it before then, the cat does not pursue further",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A tiger can sprint 56\u00a0km/h (35\u00a0mph) and leap 10\u00a0m (33\u00a0ft);   it is not a long-distance runner and gives up a chase if prey outpaces it over a certain distance",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The tiger attacks from behind or at the sides and tries to knock the target off balance",
+              "refs": []
+            },
+            {
+              "sentence": "It latches onto prey with its forelimbs, twisting and turning during the struggle and tries to pull it to the ground",
+              "refs": []
+            },
+            {
+              "sentence": "The tiger generally applies a bite to the throat until its victim dies of strangulation",
+              "refs": []
+            },
+            {
+              "sentence": "It has an average bite force at the canine tips of 1234.3 newtons",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Holding onto the throat puts the cat out of reach of horns, antlers, tusks and hooves",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1095-8312.2007.00819.x"
+              ]
+            },
+            {
+              "sentence": "Tigers are adaptable killers and may use other methods, including ripping the throat or breaking the neck",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Large prey may be disabled by a bite to the back of the hock, severing the tendon",
+              "refs": []
+            },
+            {
+              "sentence": "Swipes from the large paws are capable of stunning or breaking the skull of a water buffalo",
+              "refs": []
+            },
+            {
+              "sentence": "They kill small prey with a bite to the back of the neck or head",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Estimates of the success rate for hunting tigers range from a low of 5% to a high of 50%",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "They are sometimes killed or injured by large or dangerous prey like gaur, buffalo and boar",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers typically move kills to a private, usually vegetated spot no further than 183\u00a0m (600\u00a0ft), though they have been recorded dragging them 549\u00a0m (1,801\u00a0ft)",
+              "refs": []
+            },
+            {
+              "sentence": "They are strong enough to drag the carcass of a fully grown buffalo for some distance",
+              "refs": []
+            },
+            {
+              "sentence": "They rest for a while before eating and can consume as much as 50\u00a0kg (110\u00a0lb) of meat in one session, but feed on a carcass for several days, leaving little for scavengers",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Competitors",
+          "section_content": [
+            {
+              "sentence": "In much of their range, tigers share habitat with leopards and dholes",
+              "refs": []
+            },
+            {
+              "sentence": "They typically dominate both of them, though with dholes it depends on their pack size",
+              "refs": []
+            },
+            {
+              "sentence": "Interactions between the three predators involve chasing, stealing kills and direct killing",
+              "refs": []
+            },
+            {
+              "sentence": "Large dhole packs may kill tigers",
+              "refs": [
+                "https://doi.org/10.1111%2Fbrv.12998"
+              ]
+            },
+            {
+              "sentence": "Tigers, leopards and dholes coexist by hunting different sized prey",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In Nagarhole National Park, the average weight for tiger kills was found to be 91.5\u00a0kg (202\u00a0lb), compared to 37.6\u00a0kg (83\u00a0lb) for leopards and 43.4\u00a0kg (96\u00a0lb) for dholes",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1469-7998.2000.tb01076.x"
+              ]
+            },
+            {
+              "sentence": "In Kui Buri National Park, following a reduction in prey numbers, tigers continued to kill favoured prey while leopards and dholes increased their consumption of small prey",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/1995JAnEc..64..439K"
+              ]
+            },
+            {
+              "sentence": "Both leopards and dholes can live successfully in tiger habitat when there is abundant food and vegetation cover",
+              "refs": []
+            },
+            {
+              "sentence": "Otherwise, they appear to be less common where tigers are numerous",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1469-7998.2000.tb01076.x",
+                "https://ui.adsabs.harvard.edu/abs/2010EcoR...25..875O"
+              ]
+            },
+            {
+              "sentence": "The recovery of the tiger population in Rajaji National Park during the 2000s led to a reduction in leopard population densities",
+              "refs": []
+            },
+            {
+              "sentence": "Similarly, at two sites in central India the size of dhole packs was negatively correlated with tiger densities",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1365-2664.2011.01981.x"
+              ]
+            },
+            {
+              "sentence": "Leopard and dhole distribution in Kui Buri correlated with both prey access and tiger scarcity",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8093734"
+              ]
+            },
+            {
+              "sentence": "In Jigme Dorji National Park, tigers were found to inhabit the deeper parts of forests while the smaller predators were pushed closer to the fringes",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2013BCons.163...68S"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Reproduction and life cycle",
+          "section_content": [
+            {
+              "sentence": "The tiger generally mates all year round, particularly between November and April",
+              "refs": []
+            },
+            {
+              "sentence": "A tigress is in oestrus for three to six days at a time, separated by three to nine week intervals",
+              "refs": []
+            },
+            {
+              "sentence": "A resident male mates with all the females within his home range, who signal their receptiveness by roaring and marking",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "Younger, transient males are also attracted, leading to a fight in which the more dominant, resident male drives the usurper off",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "During courtship, the male is cautious with the female as he waits for her to show signs she is ready to mate",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1748-1090.1967.tb00354.x",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "She signals to him by positioning herself in lordosis with her tail to the side",
+              "refs": []
+            },
+            {
+              "sentence": "Copulation typically lasts no more than 20 seconds, with the male biting the female by the scruff of her neck",
+              "refs": []
+            },
+            {
+              "sentence": "After it is finished, the male quickly pulls away as the female may turn and slap him",
+              "refs": []
+            },
+            {
+              "sentence": "Tiger pairs may stay together for up to four days and mate multiple times",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Gestation lasts around or over three months",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A tigress gives birth in a secluded location, be it in dense vegetation, in a cave or under a rocky shelter",
+              "refs": []
+            },
+            {
+              "sentence": "Litters consist of as many as seven cubs, but two or three are more typical",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Newborn cubs weigh 785\u20131,610\u00a0g (27.7\u201356.8\u00a0oz) and are blind and altricial",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1748-1090.1967.tb00354.x",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The mother licks and cleans her cubs, suckles them and viciously defends them from any potential threat",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Cubs open their eyes at the age of three to 14 days and their vision becomes clear after a few more weeks",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1748-1090.1967.tb00354.x"
+              ]
+            },
+            {
+              "sentence": "They can leave the denning site after two months and around the same time they start eating meat",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The mother only leaves them alone to hunt and even then she does not travel far",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1748-1090.1967.tb00354.x",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "When she suspects an area is no longer safe, she moves her cubs to a new spot, transporting them one by one by grabbing them by the scruff of the neck with her mouth",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A tigress in Sikhote-Alin Biosphere Reserve maximised the time spent with her cubs by reducing her home range, killing larger prey and returning to her den more rapidly than without cubs; when the cubs started to eat meat, she took them to kill sites, thereby optimising their protection and access to food",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In the same reserve, one of 21 cubs died in over eight years of monitoring and mortality did not differ between male and female juveniles",
+              "refs": [
+                "https://doi.org/10.1007%2Fs13364-019-00466-x"
+              ]
+            },
+            {
+              "sentence": "Tiger monitoring over six years in Ranthambore Tiger Reserve indicated an average annual survival rate of around 85 percent for 74 male and female cubs; survival rate increased to 97 percent for both males and female juveniles of one to two years of age",
+              "refs": [
+                "https://doi.org/10.1111%2F1749-4877.12147"
+              ]
+            },
+            {
+              "sentence": "Causes of cub mortality include predators, floods, fires, death of the mother and fatal injuries",
+              "refs": [
+                "https://doi.org/10.1186%2Fs40850-017-0025-y"
+              ]
+            },
+            {
+              "sentence": "After around two months, the cubs are able to follow their mother",
+              "refs": []
+            },
+            {
+              "sentence": "They still hide in vegetation when she goes hunting",
+              "refs": []
+            },
+            {
+              "sentence": "Young bond through play fighting and practice stalking",
+              "refs": []
+            },
+            {
+              "sentence": "A hierarchy develops in the litter, with the biggest cub, often a male, being the most dominant and the first to eat its fill at a kill",
+              "refs": []
+            },
+            {
+              "sentence": "Around the age of six months, cubs are fully weaned and have more freedom to explore their environment",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Between eight and ten months, they accompany their mother on hunts",
+              "refs": []
+            },
+            {
+              "sentence": "A cub can make a kill as early as 11 months and reach independence as a juvenile of 18 to 24 months of age; males become independent earlier than females",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Radio-collared tigers in Chitwan started leaving their natal areas at the age of 19 months",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://doi.org/10.1186%2Fs40850-017-0025-y"
+              ]
+            },
+            {
+              "sentence": "Young females are sexually mature at three to four years, whereas males are at four to five years",
+              "refs": [
+                "https://doi.org/10.1163%2F156853993X00560"
+              ]
+            },
+            {
+              "sentence": "Generation length of the tiger is about 7\u201310 years",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "Wild Bengal tigers live 12\u201315 years",
+              "refs": [
+                "https://doi.org/10.3897%2Fnatureconservation.5.5734"
+              ]
+            },
+            {
+              "sentence": "Data from the International Tiger Studbook 1938\u20132018 indicate that captive tigers lived up to 19 years",
+              "refs": [
+                "https://doi.org/10.61186%2FJAD.2023.5.3.5"
+              ]
+            },
+            {
+              "sentence": "The father does not play a role in raising the young, but he encounters and interacts with them",
+              "refs": []
+            },
+            {
+              "sentence": "The resident male appears to visit the female\u2013cub families within his home range",
+              "refs": []
+            },
+            {
+              "sentence": "They socialise and even share kills",
+              "refs": []
+            },
+            {
+              "sentence": "One male was recorded looking after cubs whose mother had died",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "By defending his home range, the male protects the females and cubs from other males",
+              "refs": [
+                "https://www.bbc.com/news/world-south-asia-13598386"
+              ]
+            },
+            {
+              "sentence": "When a new male takes over, dependent cubs are at risk of infanticide as the male attempts to sire his own young with the females",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "A seven-year long study in Chitwan National Park revealed that 12 of 56 detected cubs and juveniles were killed by new males taking over home ranges",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Health and diseases",
+          "section_content": [
+            {
+              "sentence": "Tigers are recorded as hosts for various parasites including tapeworms like Diphyllobothrium erinacei, Taenia pisiformis in India and nematodes like Toxocara species in India and Physaloptera preputialis, Dirofilaria ursi and Uiteinarta species in Siberia",
+              "refs": []
+            },
+            {
+              "sentence": "Canine distemper is known to occur in Siberian tigers",
+              "refs": [
+                "https://doi.org/10.2307%2F3504004"
+              ]
+            },
+            {
+              "sentence": "A morbillivirus infection was the likely cause of death of a tigress in the Russian Far East that was also tested positive for feline panleukopenia and feline coronavirus",
+              "refs": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747579"
+              ]
+            },
+            {
+              "sentence": "Blood samples from 11 adult tigers in Nepal showed antibodies for canine parvovirus-2, feline herpesvirus, feline coronavirus, leptospirosis and Toxoplasma gondii",
+              "refs": [
+                "https://doi.org/10.7589%2F0090-3558-46.4.1252"
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "Threats",
+      "section_content": [
+        {
+          "sentence": "The tiger has been listed as Endangered on the IUCN Red List since 1986 and the global tiger population is thought to have continuously declined from an estimated population of 5,000\u20138,262 tigers in the late 1990s to 3,726\u20135,578 individuals estimated as of 2022",
+          "refs": []
+        },
+        {
+          "sentence": "During 2001\u20132020, landscapes where tigers live declined from 1,025,488\u00a0km2 (395,943\u00a0sq\u00a0mi) to 911,901\u00a0km2 (352,087\u00a0sq\u00a0mi)",
+          "refs": [
+            "https://www.iucnredlist.org/species/15955/214862019"
+          ]
+        },
+        {
+          "sentence": "Habitat destruction, habitat fragmentation and poaching for fur and body parts are the major threats that contributed to the decrease of tiger populations in all range countries",
+          "refs": [
+            "https://doi.org/10.3389%2Ffcosc.2023.1191280"
+          ]
+        },
+        {
+          "sentence": "Protected areas in central India are highly fragmented due to linear infrastructure like roads, railway lines, transmission lines, irrigation channels and mining activities in their vicinity",
+          "refs": []
+        },
+        {
+          "sentence": "In the Tanintharyi Region of southern Myanmar, deforestation coupled with mining activities and high hunting pressure threatens the tiger population",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545158"
+          ]
+        },
+        {
+          "sentence": "In Thailand, nine of 15 protected areas hosting tigers are isolated and fragmented, offering a low probability for dispersal between them; four of these have not harboured tigers since about 2013",
+          "refs": [
+            "https://doi.org/10.1017%2FS0030605316001393"
+          ]
+        },
+        {
+          "sentence": "In Peninsular Malaysia, 8,315.7\u00a0km2 (3,210.7\u00a0sq\u00a0mi) of tiger habitat was cleared during 1988\u20132012, most of it for industrial plantations",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.gecco.2021.e01718"
+          ]
+        },
+        {
+          "sentence": "Large-scale land acquisitions of about 23,000\u00a0km2 (8,900\u00a0sq\u00a0mi) for commercial agriculture and timber extraction in Cambodia contributed to the fragmentation of potential tiger habitat, especially in the Eastern Plains",
+          "refs": [
+            "https://doi.org/10.3390%2Frs9070747"
+          ]
+        },
+        {
+          "sentence": "Inbreeding depression coupled with habitat destruction, insufficient prey resources and poaching is a threat to the small and isolated tiger population in the Changbai Mountains along the China\u2013Russia border",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.envsci.2018.12.031"
+          ]
+        },
+        {
+          "sentence": "In China, tigers became the target of large-scale 'anti-pest' campaigns in the early 1950s, where suitable habitats were fragmented following deforestation and resettlement of people to rural areas, who hunted tigers and prey species",
+          "refs": [
+            "https://doi.org/10.1111%2F1749-4877.12712"
+          ]
+        },
+        {
+          "sentence": "Though tiger hunting was prohibited in 1977, the population continued to decline and is considered extinct in South China since 2001",
+          "refs": []
+        },
+        {
+          "sentence": "Tiger populations in India have been targeted by poachers since the 1990s and were extirpated in two tiger reserves in 2005 and 2009",
+          "refs": []
+        },
+        {
+          "sentence": "Between March 2017 and January 2020, 630 activities of hunters using snares, drift nets, hunting platforms and hunting dogs were discovered in a reserve forest of about 1,000\u00a0km2 (390\u00a0sq\u00a0mi) in southern Myanmar",
+          "refs": [
+            "https://doi.org/10.1002%2Fpan3.10177"
+          ]
+        },
+        {
+          "sentence": "Nam Et-Phou Louey National Park was considered the last important site for the tiger in Laos, but it has not been recorded there at least since 2013; this population likely fell victim to indiscriminate snaring",
+          "refs": [
+            "https://doi.org/10.1017%2FS0030605321001654"
+          ]
+        },
+        {
+          "sentence": "Anti-poaching units in Sumatra's Kerinci Seblat landscape removed 362 tiger snare traps and seized 91 tiger skins during 2005\u20132016; annual poaching rates increased with rising skin prices",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.gecco.2019.e00766"
+          ]
+        },
+        {
+          "sentence": "Poaching is also the main threat to the tiger population in far eastern Russia, where logging roads facilitate access for poachers and people harvesting forest products that are important for prey species to survive in winter",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2018BCons.219..105L"
+          ]
+        },
+        {
+          "sentence": "Body parts of 207 tigers were detected during 21 surveys in 1991\u20132014 in two wildlife markets in Myanmar catering to customers in Thailand and China",
+          "refs": []
+        },
+        {
+          "sentence": "During the years 2000\u20132022, at least 3,377 tigers were confiscated in 2,205 seizures in 28 countries; seizures encompassed 665 live and 654 dead individuals, 1,313 whole tiger skins, 16,214 body parts like bones, teeth, paws, claws, whiskers and 1.1\u00a0t (1.1 long tons; 1.2 short tons) of meat; 759 seizures in India encompassed body parts of 893 tigers; and 403 seizures in Thailand involved mostly captive-bred tigers",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.biocon.2014.10.031"
+          ]
+        },
+        {
+          "sentence": "Seizures in Nepal between January 2011 and December 2015 obtained 585 pieces of tiger body parts and two whole carcasses in 19 districts",
+          "refs": [
+            "https://www.traffic.org/site/assets/files/19714/skin_and_bones_tiger_trafficking_analysis_from_january_2000_to_june_2022_r7.pdf"
+          ]
+        },
+        {
+          "sentence": "Seizure data from India during 2001\u20132021 indicate that tiger skins were the most often traded body parts, followed by claws, bones and teeth; trafficking routes mainly passed through the states of Maharashtra, Karnataka, Tamil Nadu and Assam",
+          "refs": [
+            "https://doi.org/10.1111%2Fcsp2.247"
+          ]
+        },
+        {
+          "sentence": "A total of 292 illegal tiger parts were confiscated at US ports of entry from personal baggage, air cargo and mail between 2003 and 2012",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9005341"
+          ]
+        },
+        {
+          "sentence": "Demand for tiger parts for use in traditional Chinese medicine has also been cited as a major threat to tiger populations",
+          "refs": []
+        },
+        {
+          "sentence": "Interviews with local people in the Bangladeshi Sundarbans revealed that they kill tigers for local consumption and trade of skins, bones and meat, in retaliation for attacks by tigers and for excitement",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Tiger body parts like skins, bones, teeth and hair are consumed locally by wealthy Bangladeshis and are illegally trafficked from Bangladesh to 15 countries including India, China, Malaysia, Korea, Vietnam, Cambodia, Japan and the United Kingdom via land borders, airports and seaports",
+          "refs": [
+            "https://doi.org/10.1017%2FS0030605316000491"
+          ]
+        },
+        {
+          "sentence": "Tiger bone glue is the prevailing tiger product purchased for medicinal purposes in Hanoi and Ho Chi Minh City",
+          "refs": [
+            "https://doi.org/10.1111%2Fcsp2.12952"
+          ]
+        },
+        {
+          "sentence": "\"Tiger farm\" facilities in China and Southeast Asia breed tigers for their parts, but these appear to make the threat to wild populations worse by increasing the demand for tiger products",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.gecco.2020.e00960"
+          ]
+        },
+        {
+          "sentence": "Local people killing tigers in retaliation for attacking and preying on livestock is a threat in several tiger range countries, as this consequence of human\u2013wildlife conflict also contributes to the decline of the population",
+          "refs": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Conservation",
+      "section_content": [
+        {
+          "sentence": "Internationally, the tiger is protected under CITES Appendix I, banning trade of live tigers and their body parts",
+          "refs": []
+        },
+        {
+          "sentence": "In Russia, hunting the tiger has been banned since 1952",
+          "refs": [
+            "https://www.iucnredlist.org/species/15955/214862019"
+          ]
+        },
+        {
+          "sentence": "In Bhutan, it has been protected since 1969 and enlisted as totally protected since 1995",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Since 1972, it has been afforded the highest protection level under India's Wild Life (Protection) Act, 1972",
+          "refs": [
+            "https://doi.org/10.13140%2FRG.2.2.14890.70089"
+          ]
+        },
+        {
+          "sentence": "In Nepal and Bangladesh, it has been protected since 1973",
+          "refs": [
+            "ISBN: 99933-673-4-6"
+          ]
+        },
+        {
+          "sentence": "Since 1976, it has been totally protected under Malaysia's Protection of Wild Life Act,  and the country's Wildlife Conservation Act enacted in 2010 increased punishments for wildlife-related crimes",
+          "refs": [
+            "ISBN: 99933-673-4-6",
+            "https://doi.org/10.1111%2Fcsp2.12952",
+            "https://conservewildcats.org/wp-content/uploads/sites/5/WildCats/ProjectReports/Malaysia/MYCATFinalreport2006-07.pdf"
+          ]
+        },
+        {
+          "sentence": "In Indonesia, it has been protected since 1990",
+          "refs": [
+            "https://globaltigerforum.org/global-tiger-recovery-program-2-0-2023-34/"
+          ]
+        },
+        {
+          "sentence": "In China, the trade in tiger body parts was banned in 1993",
+          "refs": [
+            "https://globaltigerforum.org/wp-content/uploads/2017/04/indonesia.pdf"
+          ]
+        },
+        {
+          "sentence": "The Thai Wildlife Preservation and Protection Act was enacted in 2019 to combat poaching and trading of body parts",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.polgeo.2012.06.003"
+          ]
+        },
+        {
+          "sentence": "In 1973, the National Tiger Conservation Authority and Project Tiger were founded in India to gain public support for tiger conservation",
+          "refs": []
+        },
+        {
+          "sentence": "Since then, 53 tiger reserves covering an area of 75,796\u00a0km2 (29,265\u00a0sq\u00a0mi) have been established in the country up to 2022",
+          "refs": [
+            "https://doi.org/10.1002%2Fpan3.10177"
+          ]
+        },
+        {
+          "sentence": "Myanmar's national tiger conservation strategy developed in 2003 comprises management tasks such as restoration of degraded habitats, increasing the extent of protected areas and wildlife corridors, protecting tiger prey species, thwarting tiger killing and illegal trade of its body parts and promoting public awareness through wildlife education programmes",
+          "refs": [
+            "https://wii.gov.in/images//images/documents/publications/statu_tiger_copredators-2022.pdf"
+          ]
+        },
+        {
+          "sentence": "Bhutan's first Tiger Action Plan implemented during 2006\u20132015 revolved around habitat conservation, human\u2013wildlife conflict management, education and awareness; the second Action Plan aimed at increasing the country's tiger population by 20% until 2023 compared to 2015",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2006EnMan..37...30L"
+          ]
+        },
+        {
+          "sentence": "In 2009, the Bangladesh Tiger Action Plan was initiated to stabilise the country's tiger population, maintain habitat and a sufficient prey base, improve law enforcement and foster cooperation between governmental agencies responsible for tiger conservation",
+          "refs": [
+            "https://doi.org/10.13140%2FRG.2.2.14890.70089"
+          ]
+        },
+        {
+          "sentence": "The Thailand Tiger Action Plan ratified in 2010 envisioned increasing the country's tiger populations by 50% in the Western Forest Complex and Dong Phayayen\u2013Khao Yai Forest Complex and reestablish populations in three potential landscapes until 2022",
+          "refs": [
+            "https://doi.org/10.1016%2Fj.gecco.2018.e00382"
+          ]
+        },
+        {
+          "sentence": "The Indonesian National Tiger Recovery Program ratified in 2010 aimed at increasing the Sumatran tiger population by 2022",
+          "refs": [
+            "https://www.researchgate.net/publication/303881962"
+          ]
+        },
+        {
+          "sentence": "The third strategic and action plan for the conservation of the Sumatran tiger for the years 2020\u20132030 revolves around strengthening management of small tiger population units of less than 20 mature individuals and connectivity between 13 forest patches in North Sumatra and West Sumatra provinces",
+          "refs": [
+            "[ERROR retrieving ref link]"
+          ]
+        },
+        {
+          "sentence": "Increases in anti-poaching patrol efforts in four Russian protected areas during 2011\u20132014 contributed to reducing poaching, stabilising the tiger population and improving protection of ungulate populations",
+          "refs": []
+        },
+        {
+          "sentence": "Poaching and trafficking were declared to be moderate and serious crimes in 2019",
+          "refs": [
+            "https://doi.org/10.1111%2F1749-4877.12168"
+          ]
+        },
+        {
+          "sentence": "Anti-poaching operations were also established in Nepal in 2010, with increased cooperation and intelligence sharing between agencies",
+          "refs": [
+            "https://globaltigerforum.org/global-tiger-recovery-program-2-0-2023-34/"
+          ]
+        },
+        {
+          "sentence": "These policies have led to many years of \"zero poaching\" and the country's tiger population has doubled in a decade",
+          "refs": []
+        },
+        {
+          "sentence": "Anti-poaching patrols in the 1,200\u00a0km2 (460\u00a0sq\u00a0mi) large core area of Taman Negara lead to a decrease of poaching frequency from 34 detected incidents in 2015\u20132016 to 20 incidents during 2018\u20132019; the arrest of seven poaching teams and removal of snares facilitated the survival of three resident female tigers and at least 11 cubs",
+          "refs": [
+            "https://globaltigerforum.org/global-tiger-recovery-program-2-0-2023-34/"
+          ]
+        },
+        {
+          "sentence": "Army and police officers are deployed for patrolling together with staff of protected areas in Malaysia",
+          "refs": [
+            "https://doi.org/10.3389%2Ffcosc.2023.1213552"
+          ]
+        },
+        {
+          "sentence": "Wildlife corridors are important conservation measures as they facilitate tiger populations to connect between protected areas; tigers use at least nine corridors that were established in the Terai Arc Landscape and Sivalik Hills in both Nepal and India",
+          "refs": []
+        },
+        {
+          "sentence": "Corridors in forested areas with low human encroachment are highly suitable",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10227491"
+          ]
+        },
+        {
+          "sentence": "In West Sumatra, 12 wildlife corridors were identified as high priority for mitigating human\u2013wildlife conflicts",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2020BCons.25208848H",
+            "https://ui.adsabs.harvard.edu/abs/2024EMdAs..29..405R"
+          ]
+        },
+        {
+          "sentence": "In 2019, China and Russia signed a memorandum of understanding for transboundary cooperation between two protected areas, Northeast China Tiger and Leopard National Park and Land of the Leopard National Park, that includes the creation of wildlife corridors and bilateral monitoring and patrolling along the Sino-Russian border",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2023JNatC..7626501R"
+          ]
+        },
+        {
+          "sentence": "Rescued and rehabilitated problem tigers and orphaned tiger cubs have been released into the wild and monitored in India, Sumatra and Russia",
+          "refs": []
+        },
+        {
+          "sentence": "In Kazakhstan, habitat restoration and reintroduction of prey species in Ile-Balkash Nature Reserve have progressed and tiger reintroduction is planned for 2025",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2016EJWR...62..537S",
+            "http://ajcb.in/journals/full_papers/4_AJCB-VOL1-ISSUE1-Priatna%20et%20al.pdf",
+            "https://ui.adsabs.harvard.edu/abs/2021BioBu..48.1401R"
+          ]
+        },
+        {
+          "sentence": "Reintroduction of tigers is considered possible in eastern Cambodia, once management of protected areas is improved and forest loss stabilized",
+          "refs": [
+            "https://doi.org/10.3389%2Ffcosc.2023.1124340"
+          ]
+        },
+        {
+          "sentence": "South China tigers are kept and bred in Chinese zoos, with plans to reintroduce their offspring into remote protected areas",
+          "refs": [
+            "https://ui.adsabs.harvard.edu/abs/2017BiCon..26.2383G"
+          ]
+        },
+        {
+          "sentence": "Coordinated breeding programs among zoos have led to enough genetic diversity in tigers to act as \"insurance against extinction in the wild\"",
+          "refs": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10111772",
+            "https://ui.adsabs.harvard.edu/abs/2015BCons.192...57F"
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "section_title": "Relationship with humans",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Hunting",
+          "section_content": [
+            {
+              "sentence": "Tigers have been hunted by humans for millennia, as indicated by a painting on the Bhimbetka rock shelters in India that is dated to 5,000\u20136,000 years ago",
+              "refs": []
+            },
+            {
+              "sentence": "They were hunted throughout their range in Asia, chased on horseback, elephant-back or even with sled dogs and killed with spears and later firearms",
+              "refs": []
+            },
+            {
+              "sentence": "Such hunts were conducted both by native governments and empires like the Mughal Empire, as well as European colonists",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers were often hunted as trophies and because of their perceived danger",
+              "refs": []
+            },
+            {
+              "sentence": "An estimated 80,000 tigers were killed between 1875 and 1925",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Attacks",
+          "section_content": [
+            {
+              "sentence": "In most areas, tigers avoid humans, but attacks are a risk wherever people coexist with them",
+              "refs": []
+            },
+            {
+              "sentence": "Dangerous encounters are more likely to occur in edge habitats between wild and agricultural areas",
+              "refs": [
+                "[ERROR retrieving ref link]",
+                "https://doi.org/10.1111%2Fj.1749-4877.2010.00218.x"
+              ]
+            },
+            {
+              "sentence": "Most attacks on humans are defensive, including protection of young; however, tigers do sometimes see people as prey",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Man-eating tigers tend to be old and disabled",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1749-4877.2010.00218.x"
+              ]
+            },
+            {
+              "sentence": "Tigers driven from their home ranges are also at risk of turning to man-eating",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "At the beginning of the 20th century, the Champawat Tiger was responsible for over 430 human deaths in Nepal and India before she was shot by Jim Corbett",
+              "refs": []
+            },
+            {
+              "sentence": "This tigress suffered from broken teeth and was unable to kill normal prey",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Modern authors speculate that sustaining on meagre human flesh forced the cat to kill more and more",
+              "refs": []
+            },
+            {
+              "sentence": "Tiger attacks were particularly high in Singapore during the mid-19th century, when plantations expanded into the tiger's habitat",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In the 1840s, the number of deaths in the area ranged from 200 to 300 annually",
+              "refs": [
+                "https://doi.org/10.3197%2F096734016X14661540219393"
+              ]
+            },
+            {
+              "sentence": "Tiger attacks in the Sundarbans caused 1,396 human deaths in the period 1935\u20132006 according to official records of the Bangladesh Forest Department",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Victims of these attacks are local villagers who enter the tiger's domain to collect resources like wood and honey",
+              "refs": [
+                "https://doi.org/10.2461%2Fwbp.2013.9.6"
+              ]
+            },
+            {
+              "sentence": "Fishermen have been particularly common targets",
+              "refs": []
+            },
+            {
+              "sentence": "Methods to counter tiger attacks have included face masks worn backwards, protective clothes, sticks and carefully stationed electric dummies",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Captivity",
+          "section_content": [
+            {
+              "sentence": "Tigers have been kept in captivity since ancient times",
+              "refs": []
+            },
+            {
+              "sentence": "In ancient Rome, tigers were displayed in amphitheatres; they were slaughtered in venatio hunts and used to kill criminals",
+              "refs": []
+            },
+            {
+              "sentence": "The Mongol ruler Kublai Khan is reported to have kept tigers in the 13th century",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Starting in the Middle Ages, tigers were being kept in European menageries",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers and other exotic animals were mainly used for the entertainment of elites but from the 19th century onward, they were exhibited more to the public",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Tigers were particularly big attractions and their captive population soared",
+              "refs": []
+            },
+            {
+              "sentence": "In 2020, there were over 8,000 captive tigers in Asia, over 5,000 in the US and no less than 850 in Europe",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "There are more tigers in captivity than in the wild",
+              "refs": [
+                "https://tigers.panda.org/?916741/EU-tigers-trade-WWF-report"
+              ]
+            },
+            {
+              "sentence": "Captive tigers may display stereotypical behaviours such as pacing or inactivity",
+              "refs": [
+                "https://ui.adsabs.harvard.edu/abs/2008CBio...18..592L"
+              ]
+            },
+            {
+              "sentence": "Modern zoos are able to reduce such behaviours with exhibits designed so the animals can move between separate but connected enclosures",
+              "refs": []
+            },
+            {
+              "sentence": "Enrichment items are also important for the cat's welfare and the stimulation of its natural behaviours",
+              "refs": [
+                "https://doi.org/10.1002%2Fzoo.21746"
+              ]
+            },
+            {
+              "sentence": "Tigers have played prominent roles in circuses and other live performances",
+              "refs": []
+            },
+            {
+              "sentence": "Ringling Bros included many tiger tamers in the 20th century including Mabel Stark, who became a big draw and had a long career",
+              "refs": []
+            },
+            {
+              "sentence": "She was well known for being able to control the tigers despite being a small woman; using \"manly\" tools like whips and guns",
+              "refs": []
+            },
+            {
+              "sentence": "Another trainer was Clyde Beatty, who used chairs, whips and guns to provoke tigers and other beasts into acting fierce and allowed him to appear courageous",
+              "refs": []
+            },
+            {
+              "sentence": "He would perform with as many as 40 tigers and lions in one act",
+              "refs": []
+            },
+            {
+              "sentence": "From the 1960s onward, trainers like Gunther Gebel-Williams would use gentler methods to control their animals",
+              "refs": []
+            },
+            {
+              "sentence": "Sara Houcke was dubbed \"the Tiger Whisperer\" as she trained the cats to obey her by whispering to them",
+              "refs": []
+            },
+            {
+              "sentence": "Siegfried & Roy became famous for performing with white tigers in Las Vegas",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The act ended in 2003 when a tiger attacked Roy during a performance",
+              "refs": []
+            },
+            {
+              "sentence": "In 2009, tigers were the most traded circus animals",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The use of tigers and other animals in shows eventually declined in many countries due to pressure from animal rights groups and greater desires from the public to see them in more natural settings",
+              "refs": [
+                "https://doi.org/10.1017%2FS0962728600000270"
+              ]
+            },
+            {
+              "sentence": "Several countries restrict or ban such acts",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers have become popular in the exotic pet trade, particularly in the United States  where only 6% of the captive tiger population in 2020 were being housed in zoos and other facilities approved by the Association of Zoos and Aquariums",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "Private collectors are thought to be ill-equipped to provide proper care for tigers, which compromises their welfare",
+              "refs": [
+                "https://www.worldwildlife.org/stories/5-things-tiger-king-doesn-t-explain-about-captive-tigers"
+              ]
+            },
+            {
+              "sentence": "They can also threaten public safety by allowing people to interact with them",
+              "refs": []
+            },
+            {
+              "sentence": "The keeping of tigers and other big cats by private people was banned in the US in 2022",
+              "refs": [
+                "https://www.worldwildlife.org/stories/5-things-tiger-king-doesn-t-explain-about-captive-tigers"
+              ]
+            },
+            {
+              "sentence": "Most countries in the European Union have banned breeding and keeping tigers outside of licensed zoos and rescue centres, but some still allow private holdings",
+              "refs": [
+                "https://www.fws.gov/press-release/2023-04/big-cat-owners-must-register-june-18#:~:text=The%20Big%20Cat%20Public%20Safety%20Act%20makes%20it%20illegal%20to,with%20big%20cats%2C%20including%20cubs"
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "section_title": "Cultural significance",
+          "section_content": [
+            {
+              "sentence": "The tiger is among the most famous of the charismatic megafauna",
+              "refs": []
+            },
+            {
+              "sentence": "Kailash Sankhala has called it \"a rare combination of courage, ferocity and brilliant colour\",  while Candy d'Sa calls it \"fierce and commanding on the outside, but noble and discerning on the inside\"",
+              "refs": [
+                "https://doi.org/10.1111%2Fj.1748-1090.1967.tb00354.x"
+              ]
+            },
+            {
+              "sentence": "In a 2004 online poll involving more than 50,000 people from 73 countries, the tiger was voted the world's favourite animal with 21% of the vote, narrowly beating the dog",
+              "refs": []
+            },
+            {
+              "sentence": "Similarly, a 2018 study found the tiger to be the most popular wild animal based on surveys, as well as appearances on websites of major zoos and posters of some animated movies",
+              "refs": [
+                "https://archive.today/20080120222416/http://findarticles.com/p/articles/mi_qn4158/is_20041206/ai_n12814678"
+              ]
+            },
+            {
+              "sentence": "While the lion represented royalty and power in Western culture, the tiger played such a role in various Asian cultures",
+              "refs": []
+            },
+            {
+              "sentence": "In ancient China, the tiger was seen as the \"king of the forest\" and symbolised the power of the emperor",
+              "refs": []
+            },
+            {
+              "sentence": "In Chinese astrology, the tiger is the third out of 12 symbols in the Chinese zodiac and controls the period between 15:00 and 17:00 o'clock in the afternoon",
+              "refs": [
+                "ISBN: 978-0826419132"
+              ]
+            },
+            {
+              "sentence": "The Year of the Tiger is thought to bring \"dramatic and extreme events\"",
+              "refs": []
+            },
+            {
+              "sentence": "The White Tiger is one of the Four Symbols of the Chinese constellations, representing the west along with the yin and the season of autumn",
+              "refs": []
+            },
+            {
+              "sentence": "It is the counterpart to the Azure Dragon, which conversely symbolises the east, yang and springtime",
+              "refs": []
+            },
+            {
+              "sentence": "The tiger is one of the animals displayed on the Pashupati seal of the Indus Valley Civilisation",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "The big cat was depicted on seals and coins during the Chola dynasty of southern India, as it was the official emblem",
+              "refs": []
+            },
+            {
+              "sentence": "Tigers have had religious and folkloric significance",
+              "refs": []
+            },
+            {
+              "sentence": "In Buddhism, the tiger, monkey and deer are the Three Senseless Creatures, with the tiger symbolising anger",
+              "refs": []
+            },
+            {
+              "sentence": "In Hinduism, the tiger is the vehicle of Durga, the goddess of feminine power and peace, whom the gods created to fight demons",
+              "refs": [
+                "ISBN: 978-1-85538-118-6"
+              ]
+            },
+            {
+              "sentence": "Similarly, in the Greco-Roman world, the tiger was depicted being ridden by the god Dionysus",
+              "refs": []
+            },
+            {
+              "sentence": "In Korean mythology, tigers are messengers of the Mountain Gods",
+              "refs": []
+            },
+            {
+              "sentence": "In both Chinese and Korean culture, tigers are seen as protectors against evil spirits and their image was used to decorate homes, tombs and articles of clothing",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "In the folklore of Malaysia and Indonesia, \"tiger shamans\" heal the sick by invoking the big cat",
+              "refs": [
+                "ISBN: 978-0826419132",
+                "[ERROR retrieving ref link]",
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "People turning into tigers and the inverse has also been widespread; in particular weretigers are people who could change into tigers and back again",
+              "refs": []
+            },
+            {
+              "sentence": "The Mnong people of Indochina believed that tigers could shapeshift into humans",
+              "refs": []
+            },
+            {
+              "sentence": "Among some indigenous peoples of Siberia, it was believed that men would seduce women by transforming into tigers",
+              "refs": [
+                "[ERROR retrieving ref link]"
+              ]
+            },
+            {
+              "sentence": "William Blake's 1794 poem \"The Tyger\" portrays the animal as the duality of beauty and ferocity",
+              "refs": []
+            },
+            {
+              "sentence": "It is the sister poem to \"The Lamb\" in Blake's Songs of Innocence and of Experience and he ponders how God could create such different creatures",
+              "refs": []
+            },
+            {
+              "sentence": "The tiger is featured in the mediaeval Chinese novel Water Margin, where the cat battles and is slain by the bandit Wu Song, while the tiger Shere Khan in Rudyard Kipling's The Jungle Book (1894) is the mortal enemy of the human protagonist Mowgli",
+              "refs": []
+            },
+            {
+              "sentence": "Friendly tame tigers have also existed in culture, notably Tigger, the Winnie-the-Pooh character and Tony the Tiger, the Kellogg's cereal mascot",
+              "refs": []
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "See also",
+      "section_content": [],
+      "subsections": []
+    },
+    {
+      "section_title": "References",
+      "section_content": [],
+      "subsections": [
+        {
+          "section_title": "Bibliography",
+          "section_content": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "section_title": "External links",
+      "section_content": [],
+      "subsections": []
+    }
+  ],
+  "references": {
+    "1": "https://www.iucnredlist.org/species/15955/214862019",
+    "2": "https://archive.org/stream/mobot31753000798865#page/41/mode/2up",
+    "3": "https://archive.org/details/checklistofpalae00elle/page/318/mode/2up",
+    "4": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dti%2Fgris",
+    "5": "https://archive.org/details/onlatinlanguage01varruoft/page/96/mode/2up",
+    "6": "https://doi.org/10.1086%2F693884",
+    "7": "https://archive.org/details/journalofbomb33341929bomb/page/n133",
+    "8": "https://archive.org/stream/PocockMammalia1/pocock1#page/n247/mode/2up",
+    "9": "http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=14000259",
+    "10": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640610",
+    "11": "[ERROR retrieving ref link]",
+    "12": "https://repository.si.edu/bitstream/handle/10088/32616/A_revised_Felidae_Taxonomy_CatNews.pdf?sequence=1&isAllowed=y#page=66",
+    "13": "https://doi.org/10.1016%2Fj.cub.2018.09.019",
+    "14": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136513",
+    "15": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10111772",
+    "16": "http://www.catsg.org/index.php?id=124",
+    "17": "https://portals.iucn.org/library/sites/library/files/documents/1996-008.pdf#page=80",
+    "18": "https://cza.nic.in/uploads/documents/studbooks/english/Bengal%20Tiger%20Studbook%202011.pdf",
+    "19": "https://ui.adsabs.harvard.edu/abs/2010MamBi..75...45M",
+    "20": "https://bibliothek.bbaw.de/digitalisierte-sammlungen/akademieschriften/ansicht-akademieschriften?tx_bbaw_academicpublicationshow%5Baction%5D=show&tx_bbaw_academicpublicationshow%5Bcontroller%5D=AcademicPublication%5CVolume&tx_bbaw_academicpublicationshow%5Bpage%5D=195&tx_bbaw_academicpublicationshow%5Bvolume%5D=85&cHash=f015ec3f9a13240a9559ebdcb88aafa4",
+    "21": "[ERROR retrieving ref link]",
+    "22": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2624500",
+    "23": "[ERROR retrieving ref link]",
+    "24": "https://archive.org/details/faunajaponicasi00sieb/page/43",
+    "25": "[ERROR retrieving ref link]",
+    "26": "https://archive.org/details/zoologischeranze28deut/page/596",
+    "27": "https://ui.adsabs.harvard.edu/abs/2023NatEE...7.1914S",
+    "28": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326283",
+    "29": "https://doi.org/10.1515%2Fmamm.1968.32.1.104",
+    "30": "http://www.dl.edi-info.ir/A%20taxonomic%20revision%20of%20the%20tigers%20of%20Southeast%20Asia.pdf",
+    "31": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC534810",
+    "32": "https://archive.org/stream/annalsmagazineof8101912lond#page/324/mode/2up",
+    "33": "ISBN: 978-3-89432-759-0",
+    "34": "[ERROR retrieving ref link]",
+    "35": "https://archive.org/details/journalofbomb33341929bomb/page/n185",
+    "36": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691742",
+    "37": "https://ui.adsabs.harvard.edu/abs/2010MolPE..56...64D",
+    "38": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3778509",
+    "39": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189913",
+    "40": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3843846",
+    "41": "https://ui.adsabs.harvard.edu/abs/2023PdPe..103..465H",
+    "42": "https://ui.adsabs.harvard.edu/abs/2023HBio...35..293J",
+    "43": "[ERROR retrieving ref link]",
+    "44": "https://www.gmnh.pref.gunma.jp/wp-content/uploads/bulletin23_1.pdf",
+    "45": "https://doi.org/10.2478%2Faoas-2020-0082",
+    "46": "https://learn.genetics.utah.edu/content/epigenetics/imprinting/",
+    "47": "https://doi.org/10.2307%2F3504004",
+    "48": "[ERROR retrieving ref link]",
+    "49": "[ERROR retrieving ref link]",
+    "50": "https://doi.org/10.1111%2F1749-4877.12817",
+    "51": "[ERROR retrieving ref link]",
+    "52": "[ERROR retrieving ref link]",
+    "53": "https://web.archive.org/web/20240505145513/https://books.google.com/books?id=T37sFCl43E8C&pg=PA825#v=onepage&q&f=false#v=onepage&q&f=false",
+    "54": "[ERROR retrieving ref link]",
+    "55": "[ERROR retrieving ref link]",
+    "56": "[ERROR retrieving ref link]",
+    "57": "[ERROR retrieving ref link]",
+    "58": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3061134",
+    "59": "https://doi.org/10.1641%2F0006-3568%282005%29055%5B0125%3ATASOCI%5D2.0.CO%3B2",
+    "60": "https://doi.org/10.1111%2Fj.1095-8312.1987.tb00442.x",
+    "61": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544896",
+    "62": "https://www.luo-lab.org/publications/Xu17-CellRes-GoldenTiger.pdf",
+    "63": "https://www.currentscience.ac.in/Volumes/99/07/0894.pdf",
+    "64": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8488692",
+    "65": "https://doi.org/10.3389%2Ffcosc.2023.1191280",
+    "66": "[ERROR retrieving ref link]",
+    "67": "[ERROR retrieving ref link]",
+    "68": "[ERROR retrieving ref link]",
+    "69": "[ERROR retrieving ref link]",
+    "70": "https://doi.org/10.11609%2Fjott.4381.10.13.12833-12836",
+    "71": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10415778",
+    "72": "https://doi.org/10.1017%2FS0030605307414107",
+    "73": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206793",
+    "74": "https://doi.org/10.1111%2F1365-2664.13410",
+    "75": "https://ui.adsabs.harvard.edu/abs/2009PopEc..51..115L",
+    "76": "https://doi.org/10.1111%2Fcsp2.560",
+    "77": "https://ui.adsabs.harvard.edu/abs/2015BCons.184...18R",
+    "78": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3458348",
+    "79": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822765",
+    "80": "https://ui.adsabs.harvard.edu/abs/2019Ecosc..26....1P",
+    "81": "https://doi.org/10.1111%2Fjzo.12622",
+    "82": "[ERROR retrieving ref link]",
+    "83": "https://doi.org/10.1017%2FS0030605310001456",
+    "84": "https://ui.adsabs.harvard.edu/abs/2016EJWR...62..537S",
+    "85": "https://doi.org/10.1644%2F09-mamm-a-293.1",
+    "86": "https://doi.org/10.1007%2Fs13364-020-00547-2",
+    "87": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819329",
+    "88": "[ERROR retrieving ref link]",
+    "89": "https://doi.org/10.1163%2F156853993X00560",
+    "90": "[ERROR retrieving ref link]",
+    "91": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=586948b8396932dd13d9e5a880e77cb7618a273f",
+    "92": "https://doi.org/10.1016%2F0003-3472%2889%2990001-8",
+    "93": "[ERROR retrieving ref link]",
+    "94": "[ERROR retrieving ref link]",
+    "95": "[ERROR retrieving ref link]",
+    "96": "[ERROR retrieving ref link]",
+    "97": "[ERROR retrieving ref link]",
+    "98": "[ERROR retrieving ref link]",
+    "99": "https://books.google.com/books?id=IF8nDwAAQBAJ&pg=PA320",
+    "100": "[ERROR retrieving ref link]",
+    "101": "[ERROR retrieving ref link]",
+    "102": "[ERROR retrieving ref link]",
+    "103": "[ERROR retrieving ref link]",
+    "104": "[ERROR retrieving ref link]",
+    "105": "https://doi.org/10.1023%2FA%3A1020620121416",
+    "106": "[ERROR retrieving ref link]",
+    "107": "[ERROR retrieving ref link]",
+    "108": "[ERROR retrieving ref link]",
+    "109": "https://doi.org/10.1111%2Fj.1469-7998.2011.00871.x",
+    "110": "https://doi.org/10.1111%2F1749-4877.12461",
+    "111": "https://ui.adsabs.harvard.edu/abs/2023FWebs..3400268V",
+    "112": "https://doi.org/10.1093%2Fjmammal%2Fgyad069",
+    "113": "http://repository.ias.ac.in/89489/1/50p.pdf",
+    "114": "http://erepo.usiu.ac.ke/bitstream/handle/11732/758/Estimation%20of%20tiger%20densities%20in%20India%20using%20photographic%20captures%20and%20recaptures.pdf?sequence=4&isAllowed=y",
+    "115": "https://www.amazon.com/dp/B0007DU2IU",
+    "116": "https://ui.adsabs.harvard.edu/abs/2015BCons.192...57F",
+    "117": "[ERROR retrieving ref link]",
+    "118": "[ERROR retrieving ref link]",
+    "119": "[ERROR retrieving ref link]",
+    "120": "[ERROR retrieving ref link]",
+    "121": "[ERROR retrieving ref link]",
+    "122": "[ERROR retrieving ref link]",
+    "123": "[ERROR retrieving ref link]",
+    "124": "[ERROR retrieving ref link]",
+    "125": "[ERROR retrieving ref link]",
+    "126": "[ERROR retrieving ref link]",
+    "127": "https://doi.org/10.1111%2Fj.1095-8312.2007.00819.x",
+    "128": "[ERROR retrieving ref link]",
+    "129": "[ERROR retrieving ref link]",
+    "130": "[ERROR retrieving ref link]",
+    "131": "[ERROR retrieving ref link]",
+    "132": "https://doi.org/10.1111%2Fbrv.12998",
+    "133": "[ERROR retrieving ref link]",
+    "134": "https://doi.org/10.1111%2Fj.1469-7998.2000.tb01076.x",
+    "135": "https://ui.adsabs.harvard.edu/abs/1995JAnEc..64..439K",
+    "136": "https://ui.adsabs.harvard.edu/abs/2010EcoR...25..875O",
+    "137": "https://doi.org/10.1111%2Fj.1365-2664.2011.01981.x",
+    "138": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8093734",
+    "139": "https://ui.adsabs.harvard.edu/abs/2013BCons.163...68S",
+    "140": "https://doi.org/10.1016%2Fj.biocon.2018.01.015",
+    "141": "[ERROR retrieving ref link]",
+    "142": "[ERROR retrieving ref link]",
+    "143": "https://doi.org/10.1111%2Fj.1748-1090.1967.tb00354.x",
+    "144": "[ERROR retrieving ref link]",
+    "145": "[ERROR retrieving ref link]",
+    "146": "[ERROR retrieving ref link]",
+    "147": "[ERROR retrieving ref link]",
+    "148": "[ERROR retrieving ref link]",
+    "149": "https://doi.org/10.1007%2Fs13364-019-00466-x",
+    "150": "https://doi.org/10.1111%2F1749-4877.12147",
+    "151": "https://doi.org/10.1186%2Fs40850-017-0025-y",
+    "152": "[ERROR retrieving ref link]",
+    "153": "https://doi.org/10.1644%2F07-MAMM-A-415.1",
+    "154": "[ERROR retrieving ref link]",
+    "155": "[ERROR retrieving ref link]",
+    "156": "https://doi.org/10.3897%2Fnatureconservation.5.5734",
+    "157": "https://doi.org/10.61186%2FJAD.2023.5.3.5",
+    "158": "https://findresearcher.sdu.dk/ws/files/182491417/zoo.21610.pdf",
+    "159": "[ERROR retrieving ref link]",
+    "160": "[ERROR retrieving ref link]",
+    "161": "https://www.bbc.com/news/world-south-asia-13598386",
+    "162": "[ERROR retrieving ref link]",
+    "163": "[ERROR retrieving ref link]",
+    "164": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747579",
+    "165": "https://doi.org/10.7589%2F0090-3558-46.4.1252",
+    "166": "https://doi.org/10.7589%2FJWD-D-20-00046",
+    "167": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545158",
+    "168": "https://doi.org/10.1017%2FS0030605316001393",
+    "169": "https://doi.org/10.1016%2Fj.gecco.2021.e01718",
+    "170": "https://doi.org/10.3390%2Frs9070747",
+    "171": "https://doi.org/10.1016%2Fj.envsci.2018.12.031",
+    "172": "https://doi.org/10.1111%2F1749-4877.12712",
+    "173": "https://doi.org/10.1017%2FS0030605304000079",
+    "174": "https://www.iucnredlist.org/species/15965/5334628",
+    "175": "https://doi.org/10.1002%2Fpan3.10177",
+    "176": "https://doi.org/10.1017%2FS0030605321001654",
+    "177": "https://doi.org/10.1016%2Fj.gecco.2019.e00766",
+    "178": "https://ui.adsabs.harvard.edu/abs/2018BCons.219..105L",
+    "179": "https://doi.org/10.1017%2FS0030605316001617",
+    "180": "https://doi.org/10.1016%2Fj.biocon.2014.10.031",
+    "181": "https://www.traffic.org/site/assets/files/19714/skin_and_bones_tiger_trafficking_analysis_from_january_2000_to_june_2022_r7.pdf",
+    "182": "https://doi.org/10.1111%2Fcsp2.247",
+    "183": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9005341",
+    "184": "https://doi.org/10.1111%2Fcsp2.622",
+    "185": "[ERROR retrieving ref link]",
+    "186": "https://doi.org/10.1017%2FS0030605316000491",
+    "187": "https://doi.org/10.1111%2Fcsp2.12952",
+    "188": "https://doi.org/10.1016%2Fj.gecco.2020.e00960",
+    "189": "https://www.worldwildlife.org/stories/5-things-tiger-king-doesn-t-explain-about-captive-tigers",
+    "190": "https://ui.adsabs.harvard.edu/abs/2015EJWR...61..255S",
+    "191": "https://doi.org/10.4137%2FEHI.S24",
+    "192": "https://doi.org/10.1017%2FS0030605316001587",
+    "193": "https://ui.adsabs.harvard.edu/abs/2020AnCon..23..741L",
+    "194": "https://doi.org/10.1017%2FS0030605322000667",
+    "195": "https://wii.gov.in/images//images/documents/publications/statu_tiger_copredators-2022.pdf",
+    "196": "https://globaltigerforum.org/global-tiger-recovery-program-2-0-2023-34/",
+    "197": "https://dnpwc.gov.np/media/files/Status_of_Tigers_Ic2ylSC.pdf",
+    "198": "[ERROR retrieving ref link]",
+    "199": "https://www.observerbd.com/news.php?id=482816",
+    "200": "[ERROR retrieving ref link]",
+    "201": "https://doi.org/10.13140%2FRG.2.2.14890.70089",
+    "202": "ISBN: 99933-673-4-6",
+    "203": "https://conservewildcats.org/wp-content/uploads/sites/5/WildCats/ProjectReports/Malaysia/MYCATFinalreport2006-07.pdf",
+    "204": "https://globaltigerforum.org/wp-content/uploads/2017/04/indonesia.pdf",
+    "205": "https://doi.org/10.1016%2Fj.polgeo.2012.06.003",
+    "206": "https://web.archive.org/web/20231111015312/https://www.iucn.org/story/202208/future-panthera-tigris-thailand-and-globally",
+    "207": "https://ui.adsabs.harvard.edu/abs/2006EnMan..37...30L",
+    "208": "https://doi.org/10.1016%2Fj.gecco.2018.e00382",
+    "209": "https://www.researchgate.net/publication/303881962",
+    "210": "[ERROR retrieving ref link]",
+    "211": "https://udspace.udel.edu/server/api/core/bitstreams/db24ae3d-1681-4d30-9773-4abb62cd861d/content",
+    "212": "https://doi.org/10.1111%2F1749-4877.12168",
+    "213": "https://doi.org/10.3389%2Ffcosc.2023.1213552",
+    "214": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10227491",
+    "215": "https://ui.adsabs.harvard.edu/abs/2020BCons.25208848H",
+    "216": "https://ui.adsabs.harvard.edu/abs/2024EMdAs..29..405R",
+    "217": "https://ui.adsabs.harvard.edu/abs/2023JNatC..7626501R",
+    "218": "https://repository.unescap.org/bitstream/handle/20.500.12870/6674/ESCAP-2023-RP-Transboundary-cooperation-conservation-Amur-tigers-Amur-leopards-Snow-leopards-ENEA.pdf",
+    "219": "http://ajcb.in/journals/full_papers/4_AJCB-VOL1-ISSUE1-Priatna%20et%20al.pdf",
+    "220": "https://ui.adsabs.harvard.edu/abs/2021BioBu..48.1401R",
+    "221": "https://doi.org/10.3389%2Ffcosc.2023.1124340",
+    "222": "https://ui.adsabs.harvard.edu/abs/2017BiCon..26.2383G",
+    "223": "https://ui.adsabs.harvard.edu/abs/2008CBio...18..592L",
+    "224": "[ERROR retrieving ref link]",
+    "225": "ISBN: 0195677285",
+    "226": "[ERROR retrieving ref link]",
+    "227": "[ERROR retrieving ref link]",
+    "228": "https://doi.org/10.1111%2Fj.1749-4877.2010.00218.x",
+    "229": "[ERROR retrieving ref link]",
+    "230": "[ERROR retrieving ref link]",
+    "231": "[ERROR retrieving ref link]",
+    "232": "https://doi.org/10.3197%2F096734016X14661540219393",
+    "233": "[ERROR retrieving ref link]",
+    "234": "https://doi.org/10.2461%2Fwbp.2013.9.6",
+    "235": "[ERROR retrieving ref link]",
+    "236": "[ERROR retrieving ref link]",
+    "237": "[ERROR retrieving ref link]",
+    "238": "[ERROR retrieving ref link]",
+    "239": "https://tigers.panda.org/?916741/EU-tigers-trade-WWF-report",
+    "240": "https://doi.org/10.1002%2Fzoo.21746",
+    "241": "https://doi.org/10.1002%2Fzoo.21361",
+    "242": "[ERROR retrieving ref link]",
+    "243": "[ERROR retrieving ref link]",
+    "244": "https://doi.org/10.1017%2FS0962728600000270",
+    "245": "[ERROR retrieving ref link]",
+    "246": "[ERROR retrieving ref link]",
+    "247": "https://www.fws.gov/press-release/2023-04/big-cat-owners-must-register-june-18#:~:text=The%20Big%20Cat%20Public%20Safety%20Act%20makes%20it%20illegal%20to,with%20big%20cats%2C%20including%20cubs",
+    "248": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52023XC0418(01)#:~:text=While%20most%20EU%20Member%20States,and%20travelling%20exhibitions%20(9)",
+    "249": "https://archive.today/20080120222416/http://findarticles.com/p/articles/mi_qn4158/is_20041206/ai_n12814678",
+    "250": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6037359",
+    "251": "ISBN: 978-0826419132",
+    "252": "[ERROR retrieving ref link]",
+    "253": "[ERROR retrieving ref link]",
+    "254": "ISBN: 978-1-85538-118-6",
+    "255": "[ERROR retrieving ref link]",
+    "256": "[ERROR retrieving ref link]",
+    "257": "[ERROR retrieving ref link]",
+    "258": "[ERROR retrieving ref link]"
+  },
+  "flair_entities": [
+    "thailand tiger action plan",
+    "lantion",
+    "iucn red list of threatened species",
+    "united kingdom",
+    "association of zoos and aquariums",
+    "mtdna",
+    "ancient greek",
+    "sumatran",
+    "candy d'sa",
+    "azure dragon",
+    "simlipal",
+    "year of the tiger",
+    "nam et-phou louey national park",
+    "kerinci seblat",
+    "rajaji national park",
+    "sumatra",
+    "asia",
+    "cat specialist group",
+    "late-pleistocene",
+    "greater sunda islands",
+    "european union",
+    "borneo",
+    "jim corbett",
+    "protection of wild life act",
+    "javan",
+    "mongol",
+    "wu song",
+    "panna tiger reserve",
+    "tiger action plan",
+    "palawan",
+    "southeast asia",
+    "felis",
+    "temengor forest reserve",
+    "indonesian national tiger recovery program",
+    "western",
+    "western forest complex",
+    "holocene",
+    "tamil nadu",
+    "shuklaphanta national park",
+    "peninsular malaysia",
+    "rudyard kipling",
+    "indochina",
+    "royal belum state park",
+    "bhutan",
+    "nagarhole national park",
+    "south china",
+    "malayan",
+    "russia",
+    "cubs",
+    "water margin",
+    "tigers",
+    "three senseless creatures",
+    "greco-roman",
+    "panthera",
+    "young",
+    "french",
+    "cambodia",
+    "appendix i",
+    "bangladeshis",
+    "indian",
+    "tigris",
+    "wild life",
+    "terai arc landscape",
+    "m\u00eadog county",
+    "kailash sankhala",
+    "thai wildlife preservation and protection act",
+    "laos",
+    "the tyger",
+    "leopard national park",
+    "far east",
+    "chitwan",
+    "bali",
+    "tiger whisperer",
+    "carl linnaeus",
+    "reginald innes pocock",
+    "bhimbetka",
+    "russian far east",
+    "khlong lan national parks",
+    "java",
+    "thailand",
+    "bengal",
+    "panthera zdanskyi",
+    "toxoplasma",
+    "armenian",
+    "indochinese",
+    "northeast china tiger",
+    "mountain gods",
+    "asian",
+    "us",
+    "siberia",
+    "songs of innocence and of experience",
+    "las vegas",
+    "tony the tiger",
+    "caspian",
+    "rome",
+    "philippines",
+    "chola",
+    "english",
+    "khao yai forest complex",
+    "sundarbans national park",
+    "dirofilaria",
+    "kellogg",
+    "latin",
+    "ranthambore tiger reserve",
+    "sunda islands",
+    "sundarbans",
+    "persian",
+    "north sumatra",
+    "northeast china",
+    "sara houcke",
+    "afghanistan",
+    "pashupati",
+    "chinese",
+    "european",
+    "bangladesh tiger action plan",
+    "west",
+    "action plan",
+    "pakistan",
+    "clyde beatty",
+    "sino-russian",
+    "jim corbett national park",
+    "gunther gebel-williams",
+    "mughal empire",
+    "panthera tigris",
+    "hinduism",
+    "hanoi",
+    "captivity  tigers",
+    "japan",
+    "mnong",
+    "tugay",
+    "bangladeshi sundarbans",
+    "maharashtra",
+    "durga",
+    "tibet",
+    "nepal",
+    "sivalik hills",
+    "land of the leopard national park",
+    "india",
+    "the jungle book",
+    "project tiger",
+    "turkey",
+    "amur-ussuri",
+    "middle-late pleistocene",
+    "wildlife conservation act",
+    "ho chi minh city",
+    "god",
+    "shere khan",
+    "assam",
+    "central asia",
+    "national tiger conservation authority",
+    "toxocara",
+    "indonesia",
+    "ile-balkash nature reserve",
+    "kazakhstan",
+    "russian",
+    "hunting  tigers",
+    "mae wong",
+    "international tiger studbook 1938",
+    "vietnam",
+    "bangladesh",
+    "sikhote-alin biosphere reserve",
+    "wild bengal",
+    "europe",
+    "kui buri national park",
+    "tanintharyi region",
+    "siberian",
+    "jigme dorji national park",
+    "ulisse aldrovandi",
+    "manchurian",
+    "ringling bros",
+    "tigger",
+    "roy",
+    "singapore",
+    "cat classification task force",
+    "pleistocene",
+    "conrad gessner",
+    "caucasus",
+    "mishmi hills",
+    "huai kha khaeng wildlife sanctuary",
+    "taman negara",
+    "bangladesh forest department",
+    "kui buri",
+    "mabel stark",
+    "siegfried & roy",
+    "dionysus",
+    "dong phayayen",
+    "fourier",
+    "buddhism",
+    "mowgli",
+    "systema naturae",
+    "iucn ssc cat specialist group",
+    "west sumatra",
+    "champawat tiger",
+    "karnataka",
+    "iran",
+    "uiteinarta",
+    "chitwan national park",
+    "simlipal national park",
+    "united states",
+    "malaysia",
+    "blake",
+    "iucn red list",
+    "changbai mountains",
+    "protection) act",
+    "eastern plains",
+    "china",
+    "indus valley civilisation",
+    "kublai khan",
+    "sondaica",
+    "korean",
+    "eastern himalayas",
+    "the lamb",
+    "william blake",
+    "white tiger",
+    "myanmar",
+    "dna",
+    "korea",
+    "last glacial maximum",
+    "iucn cat specialist group",
+    "winnie-the-pooh",
+    "indochinese peninsula"
+  ]
+}

@@ -1,0 +1,598 @@
+Heraclitus
+
+Heraclitus (; Ancient Greek: Ἡράκλειτος Hērákleitos; fl. c. 500 BC) was an ancient Greek pre-Socratic philosopher from the city of Ephesus, which was then part of the Persian Empire.  He exerts a wide influence on ancient and modern Western philosophy, through the works of such authors as Plato, Aristotle, Hegel, and Heidegger.
+Little is known of Heraclitus's life. He wrote a single work, only fragments of which have survived.  Even in ancient times, his paradoxical philosophy, appreciation for wordplay, and cryptic, oracular epigrams earned him the epithets "the dark" and "the obscure". He was considered arrogant and depressed, a misanthrope who was subject to melancholia. Consequently, he became known as "the weeping philosopher" in contrast to the ancient atomist philosopher Democritus, who was known as "the laughing philosopher".
+The central ideas of Heraclitus's philosophy are the unity of opposites and the concept of change. Heraclitus saw harmony and justice in strife. He viewed the world as constantly in flux, always "becoming" but never "being". He expressed this in sayings like "Everything flows" (Greek: πάντα ρει, panta rhei) and "No man ever steps in the same river twice". This insistence upon change contrasts with that of the ancient philosopher Parmenides, who believed in a reality of static "being".
+Heraclitus believed fire was the arche, the fundamental stuff of the world. In choosing an arche Heraclitus followed the Milesians before him – Thales with water, Anaximander with apeiron  (lit. boundless or infinite), and Anaximenes with air. Heraclitus also thought the logos (lit. word, discourse, or reason) gave structure to the world.
+
+# Life
+
+Heraclitus, the son of Blyson, was from the Ionian city of Ephesus, a port on the Cayster River, on the western coast of Asia Minor (modern-day Turkey). In the 6th century BC, Ephesus, like other cities in Ionia, lived under the effects of both the rise of Lydia under Croesus and his overthrow by Cyrus the Great c. 547 BC. Ephesus appears to have subsequently cultivated a close relationship with the Persian Empire; during the suppression of the Ionian revolt by Darius the Great in 494 BC, Ephesus was spared and emerged as the dominant Greek city in Ionia . Miletus, the home to the previous philosophers, was captured and sacked . The main source for the life of Heraclitus is the doxographer Diogenes Laërtius. [a] Although most of the information provided by Laertius is unreliable, and the ancient stories about Heraclitus are thought to be later fabrications based on interpretations of the preserved fragments; the anecdote that Heraclitus relinquished the hereditary title of "king" to his younger brother may at least imply that Heraclitus was from an aristocratic family in Ephesus. [note 1] Heraclitus appears to have had little sympathy for democracy or the masses . [d] [e] However, it is unclear whether he was "an unconditional partisan of the rich", or if, like the sage Solon, he was "withdrawn from competing factions". Since antiquity, Heraclitus has been labeled a solitary figure and an arrogant misanthrope. [a] The skeptic Timon of Phlius called Heraclitus a "mob-abuser" (ochloloidoros) . [a] Heraclitus considered himself self-taught. [f] He criticized fools for being "put in a flutter by every word". [g] He did not consider others incapable, but unwilling: "And though reason is common, most people live as though they had an understanding peculiar to themselves." [h] Heraclitus did not seem to like the prevailing religion of the time, criticizing the popular mystery cults, blood sacrifice, and prayer to statues. [i] [j] [k] [note 2] He also did not believe in funeral rites, saying "Corpses are more fit to be cast out than dung."  [l] He further criticized Homer, [m] [n] Hesiod, [o] Pythagoras, [p] Xenophanes, and Hecataeus . [a] [q] He endorsed the sage Bias of Priene, who is quoted as saying "Most men are bad". [r] He praised a man named Hermodorus as the best among the Ephesians, who he says should all kill themselves for exiling him. [s] [t] [note 3]. Heraclitus is traditionally considered to have flourished in the 69th Olympiad (504–501 BC),  [a] but this date may simply be based on a prior account synchronizing his life with the reign of Darius the Great . [note 4] However, this date can be considered "roughly accurate" based on a fragment that references Pythagoras, Xenophanes, and Hecataeus as older contemporaries, placing him near the end of the sixth century BC . According to Diogenes Laertius, Heraclitus died covered in dung after failing to cure himself from dropsy . This may be to parody his doctrine that for souls it is death to become water, and that a dry soul is best. [u] [v] [w] . 
+
+# On Nature
+
+Heraclitus is said to have produced a single work on papyrus, [a] which has not survived; however, over 100 fragments of this work survive in quotations by other authors. [note 5] The title is unknown,  but many later writers refer to this work, and works by other pre-Socratics, as On Nature . [a] . According to Diogenes Laërtius, Heraclitus deposited the book in the Artemision – one of the Seven Wonders of the Ancient World – as a dedication. [a] Classicist Charles Kahn states: "Down to the time of Plutarch and Clement, if not later, the little book of Heraclitus was available in its original form to any reader who chose to seek it out."  Yet, by the time of Simplicius of Cilicia, a 6th-century neoplatonic philosopher, who mentions Heraclitus 32 times but never quotes from him, Heraclitus's work was so rare that it was unavailable even to Simplicius and the other scholars at the Platonic Academy in Athens . 
+
+## Structure
+
+Diogenes Laërtius wrote that the book was divided into three parts: the universe, politics, and theology, [a] but, classicists have challenged that division. Classicist John Burnet has argued that "it is not to be supposed that this division is due to  [Heraclitus] himself; all we can infer is that the work fell naturally into these parts when the Stoic commentators took their editions of it in hand". The Stoics divided their own philosophy into three parts: ethics, logic, and physics . The Stoic Cleanthes further divided philosophy into dialectics, rhetoric, ethics, politics, physics, and theology, and philologist Karl Deichgräber has argued the last three are the same as the alleged division of Heraclitus . The philosopher Paul Schuster has argued the division came from the Pinakes . Scholar Martin Litchfield West claims that while the existing fragments do not give much of an idea of the overall structure,  the beginning of the discourse can probably be determined, [note 6] starting with the opening lines, which are quoted by Sextus Empiricus: . 
+
+## Style
+
+Heraclitus's style has been compared to a Sibyl,    who "with raving lips uttering things mirthless, unbedizened, and unperfumed, reaches over a thousand years with her voice, thanks to the god in her" . [y] [note 7] Kahn characterized the main features of Heraclitus's writing as "linguistic density", meaning that single words and phrases have multiple meanings, and "resonance", meaning that expressions evoke one another. Heraclitus used literary devices like alliteration and chiasmus . 
+
+### The Obscure
+
+Aristotle quotes part of the opening line of Heraclitus's work in the Rhetoric to outline the difficulty in punctuating Heraclitus without ambiguity; he debated whether "forever" applied to "being" or to "prove". [z] Aristotle's successor at the lyceum Theophrastus says about Heraclitus that "some parts of his work  [are] half-finished, while other parts  [made] a strange medley" . [a] Theophrastus thought an inability to finish the work showed Heraclitus was melancholic. [a]. Diogenes Laërtius relays the story that the playwright Euripides gave Socrates a copy of Heraclitus's work and asked for his opinion. Socrates replied: "The part I understand is excellent, and so too is, I dare say, the part I do not understand; but it needs a Delian diver to get to the bottom of it." . Also according to Diogenes Laërtius, Timon of Phlius called Heraclitus "the Riddler" (αἰνικτής; ainiktēs) a likely reference to an alleged similarity to Pythagorean riddles. Timon said Heraclitus wrote his book "rather unclearly" (ασαφεστερον; asaphesteron); according to Timon, this was intended to allow only the "capable" to attempt it . [a] By the time of Cicero, this epithet became in Greek "The Dark" (ὁ Σκοτεινός; ho Skoteinós) or in Latin "The Obscure" as he had spoken nimis obscurē ("too obscurely") concerning nature and had done so deliberately in order to be misunderstood. The obscurity was "probably with the idea that it is for us to seek within ourselves, as he sought for himself and found" . [f] . Heraclitus seemed to pattern his obscurity after oracles. Heraclitus did state "nature loves to hide" [aa] and "a hidden connection is stronger than an obvious one" . [ab] He also stated "The lord whose oracle is in Delphi neither speaks nor conceals, but gives a sign."  [ac]  Heraclitus is the earliest known literary reference to the Delphic maxim to know thyself . [ad] . 
+
+# Philosophy
+
+Heraclitus has been the subject of numerous interpretations. According to scholar Daniel W. Graham, Heraclitus has been seen as a "material monist or a process philosopher; a scientific cosmologist, a metaphysician and a religious thinker; an empiricist, a rationalist, a mystic; a conventional thinker and a revolutionary; a developer of logic – one who denied the law of non-contradiction; the first genuine philosopher and an anti-intellectual obscurantist". 
+
+## Unity of opposites and flux
+
+The hallmarks of Heraclitus's philosophy are the unity of opposites and change, or flux. According to Aristotle, Heraclitus was a dialetheist, or one who denies the law of noncontradiction (a law of thought or logical principle which states that something cannot be true and false at the same time) . [ae] Also according to Aristotle, Heraclitus was a materialist . Attempting to follow Aristotle's hylomorphic interpretation, scholar W . K. C. Guthrie interprets the distinction between flux and stability as one between matter and form. On this view, Heraclitus is a flux theorist because he is a materialist who believes matter always changes. There are no unchanging forms like with Plato or Aristotle . As one author puts it, "Plato took flux as the greatest warning against materialism". Several fragments seem to relate to the unity of opposites. For example: "The straight and the crooked path of the fuller's comb is one and the same"; [af] "The way up is the way down"; [ag] "Beginning and end, on a circle's circumference, are common"; [ah] and "Thou shouldst unite things whole and things not whole, that which tends to unite and that which tends to separate, the harmonious and the discordant; from all things arises the one, and from the one all things." [ai] . Over time, the opposites change into each other:   "Mortals are immortals and immortals are mortals, the one living the others' death and dying the others' life"; [aj] "As the same thing in us is living and dead, waking and sleeping, young and old . For these things having changed around are those, and those in turn having changed around are these"; [ak] and "Cold things warm up, the hot cools off, wet becomes dry, dry becomes wet." [al]. It also seems they change into each other depending on one's point of view, a case of relativism or perspectivism. Heraclitus states: "Disease makes health sweet and good; hunger, satiety; toil, rest." [am] While men drink and wash with water, fish prefer to drink saltwater, pigs prefer to wash in mud, and fowls prefer to wash in dust [54]. [an] [ao] [ap] "Oxen are happy when they find bitter vetches to eat" [aq] and "asses would rather have refuse than gold." [ar]. 
+
+### Panta rhei
+
+Diogenes Laërtius summarizes Heraclitus's philosophy as follows: "All things come into being by conflict of opposites, and the sum of things (τὰ ὅλα ta hola ('the whole')) flows like a stream." [a] Classicist Jonathan Barnes states that "Panta rhei, 'everything flows' is probably the most familiar of Heraclitus's sayings, yet few modern scholars think he said it". Barnes observes that although the exact phrase was not ascribed to Heraclitus until the 6th century by Simplicius, a similar saying expressing the same idea,  panta chorei, or "everything moves" is ascribed to Heraclitus by Plato in the Cratylus . [as]. 
+
+### You cannot step into the same river twice
+
+Since Plato, Heraclitus's theory of flux has been associated with the metaphor of a flowing river, which cannot be stepped into twice. [as] This fragment from Heraclitus's writings has survived in three different forms: . The classicist Karl Reinhardt identified the first river quote as the genuine one. The river fragments (especially the second "we both are and are not") seem to suggest not only is the river constantly changing, but we do as well, perhaps commenting on existential questions about humanity and personhood . Scholars such as Reinhardt also interpreted the metaphor as illustrating what is stable, rather than the usual interpretation of illustrating change. Classicist Karl-Martin Dietz  [de] has said: "You will not find anything, in which the river remains constant .. . Just the fact, that there is a particular river bed, that there is a source and an estuary etc. is something, that stays identical. And this is ... the concept of a river."  According to American philosopher W [60]. V. O. Quine, the river parable illustrates that the river is a process through time. One cannot step twice into the same river-stage. Professor M. M. McCabe has argued that the three statements on rivers should all be read as fragments from a discourse. McCabe suggests reading them as though they arose in succession. The three fragments "could be retained, and arranged in an argumentative sequence". In McCabe's reading of the fragments, Heraclitus can be read as a philosopher capable of sustained argument, rather than just aphorism . 
+
+### Strife is justice
+
+Heraclitus said "strife is justice" [aw] and "all things take place by strife". [ax] He called the opposites in conflict ἔρις (eris), "strife", and theorized that the apparently unitary state, δίκη (dikê), "justice", results in "the most beautiful harmony", [ax] in contrast to Anaximander, who described the same as injustice. Aristotle said Heraclitus disagreed with Homer because Homer wished that strife would leave the world, which according to Heraclitus would destroy the world; "there would be no harmony without high and low notes, and no animals without male and female, which are opposites". [ay] It may also explain why he disagreed with the Pythagorean emphasis on harmony, but not on strife. Heraclitus suggests that the world and its various parts are kept together through the tension produced by the unity of opposites, like the string of a bow or a lyre. [az] On one account, this is the earliest use of the concept of force . A quote about the bow shows his appreciation for wordplay: "The bow's name is life, but its work is death." [ba] [note 8] Each substance contains its opposite, making for a continual circular exchange of generation, destruction, and motion that results in the stability of the world . This can be illustrated by the quote "Even the kykeon separates if it is not stirred." [bb] . According to Abraham Schoener: "War is the central principle in Heraclitus' thought."  Another of Heraclitus's famous sayings highlights the idea that the unity of opposites is also a conflict of opposites: "War is father of all and king of all; and some he manifested as gods, some as men; some he made slaves, some free"; [bc] war is a creative tension that brings things into existence . Heraclitus says further "Gods and men honour those slain in war"; [bd] "Greater deaths gain greater portions"; [be] and "Every beast is tended by blows." [bf] [69]. 
+
+## Logos
+
+A core concept for Heraclitus is logos, an ancient Greek word literally meaning "word, speech, discourse, or meaning". For Heraclitus, the logos seems to designate the rational structure or ordered composition of the world. As well as the opening quote of his book, one fragment reads: "Listening not to me but to the logos, it is wise to agree (homologein) that all things are one." [bg] Another fragment reads: " [hoi polloi] .. . do not know how to listen  [to Logos] or how to speak  [the truth]."  [bh] . The word logos has a wide variety of other uses, such that Heraclitus might have a different meaning of the word for each usage in his book. Kahn has argued that Heraclitus used the word in multiple senses,  whereas Guthrie has argued that there is no evidence Heraclitus used it in a way that was significantly different from that in which it was used by contemporaneous speakers of Greek . Professor Michael Stokes interprets Heraclitus's use of logos as a public fact like a proposition or formula; like Guthrie, he views Heraclitus as a materialist, so he grants Heraclitus would not have considered these as abstract objects or immaterial things. Another possibility is the logos referred to the truth, or to the book itself . Classicist Walther Kranz translated it as "sense" [78]. Heraclitus's logos doctrine may also be the origin of the doctrine of natural law. Heraclitus stated "People ought to fight to keep their law as to defend the city walls . For all human laws get nourishment from the one divine law." [bi] "Far from arguing like the latter Sophists, that the human law, because it is a conventional law, deserves to be abandoned in favor of the law of nature, Herakleitos argued that the human law partakes of the law of nature, which is at the same time a divine law." . 
+
+## Fire
+
+The Milesians before Heraclitus had a view called material monism which conceived of certain elements as the arche – Thales with water, Anaximander with apeiron, and Anaximenes with air. Since antiquity, philosophers have concluded that Heraclitus construed of fire as the arche, the ultimate reality or the fundamental element that gave rise to the other elements. [bj] [bk] Pre-Socratic scholar Eduard Zeller has argued that Heraclitus believed that heat in general and dry exhalation in particular, rather than visible fire, was the arche . In one fragment, Heraclitus writes:. This is the oldest extant quote using kosmos, or order, to mean the world. Heraclitus seems to say fire is the one thing eternal in the universe [84]. From fire all things originate and all things return again in a process of never-ending cycles . Plato and Aristotle attribute to Heraclitus a periodic destruction of the world by a great conflagration, known as ekpyrosis, which happens every Great Year – according to Plato, every 36,000 years . Heraclitus more than once describes the transformations to and from fire:. 
+
+### Fire as symbolic
+
+However, it is also argued by many that Heraclitus never identified fire as the arche; rather, he only used fire to explain his notion of flux, as the basic stuff which changes or moves the most. Others conclude he used it as the physical form of logos . On yet another interpretation, Heraclitus is not a material monist explicating flux nor stability, but a revolutionary process philosopher who chooses fire in an attempt to say there is no arche. Fire is a symbol or metaphor for change, rather than the basic stuff which changes the most. Perspectives of this sort emphasize his statements on change such as "The way up is the way down",  [ag] as well as the quote "All things are an exchange for Fire, and Fire for all things, even as wares for gold and gold for wares", [bo] which has been understood as stating that while all can be transformed into fire, not everything comes from fire, just as not everything comes from gold . 
+
+## Cosmology
+
+While considered an ancient cosmologist,  Heraclitus did not seem as interested in astronomy, meteorology, or mathematics as his predecessors . It is surmised Heraclitus believed that the earth was flat and extended infinitely in all directions . Heraclitus held all things occur according to fate. [bk] He said "Time (Aion) is a child playing draughts, the kingly power is a child's." [b] It is disputed whether this means time and life is determined by rules like a game, by conflict like a game, or by arbitrary whims of the gods like a child plays . 
+
+### Sun
+
+Similar to his views on rivers, Heraclitus believed "the Sun is new each day."  [bp] He also said the Sun never sets . [bq]  This was "obviously inspired by scientific reflection, and no doubt seemed to him to obviate the difficulty of understanding how the sun can work its way underground from west to east during the night" . The physician Galen explains: "Heraclitus says that the sun is a burning mass, kindled at its rising, and quenched at its setting." . Heraclitus also believed that the Sun is as large as it looks,  [note 9] and said Hesiod "did not know night and day, for they are one." [bs]  However, he also explained the phenomenon of day and night by if the Sun "oversteps his measures", then "Erinyes, the ministers of Justice, will find him out" . [bt] Heraclitus further wrote the Sun is in charge of the seasons . [bu]. 
+
+### Moon
+
+On one account, Heraclitus believed the Sun and Moon were bowls containing fire, with lunar phases explained by the turning of the bowl. [bv] His study of the moon near the end of the month is contained in one of the Oxyrhynchus Papyri, a group of manuscripts found in an ancient landfill . This is the best evidence of Heraclitean astronomy . 
+
+## God
+
+Heraclitus said "thunderbolt steers all things", [bw] a rare comment on meteorology and likely a reference to Zeus as the supreme being. Even his theology proves contradictory: "One being, the only wise one, would and would not be called by the name of Zeus."  [bx] He invokes relativism with the divine too: God sees man the same way man sees children and apes;  [by] [bz] and he seems to give a theodicy, "for god all things are fair and good and just, but men suppose that some are unjust and others just" [84] [84]. [ca] [84]. In Parts of Animals, Aristotle relays this story: "Heraclitus, when the strangers who came to visit him found him warming himself at the furnace in the kitchen and hesitated to go in, reported to have bidden them not to be afraid to enter, as even in that kitchen divinities were present, so we should venture on the study of every kind of animal without distaste; for each and all will reveal to us something natural and something beautiful."  [cb] [note 10] . The phrase ἦθος ἀνθρώπῳ δαίμων (ethos anthropoi daimon) is attributed to Heraclitus. It is variously translated as "a man's character is his fate", "character is destiny", or perhaps most literally as "a man's character is his guardian divinity."    [note 11] The word ethos means "character", while daimon has various meanings, one of which being "the power controlling the destiny of individuals: hence, one's lot or fortune." . 
+
+## The Soul
+
+Heraclitus believed the soul (psyche) was complex, stating: "The limits of the soul you could not discover, though traversing every path."  [cc] Heraclitus regarded the soul as a mixture of fire and water, and believed that fire was the noble part of the soul and water the ignoble part [115]. [u] He considered mastery of one's worldly desires to be a noble pursuit that purified the soul's fire,  while drunkenness damages the soul by causing it to be moist [116]. [cd] [v] [w] Heraclitus seems to advise against anger: "It is hard to fight with anger, for what it wants it buys at the price of the soul."  [ce] . Heraclitus associates being awake with comprehension;  as Sextus Empiricus explains "It is by drawing in this divine reason in respiration that we become endowed with mind and in sleep we become forgetful, but in waking we regain our senses . For in sleep the passages of perception are shut, and hence the mind ... the only thing preserved is the connection through breathing."  [cf] Heraclitus stated: "If all things should become smoke, then perception would be by the nostrils" . [cg]. Heraclitus compares the soul to a spider and the body to the web. [ch] Heraclitus believed the soul is what unifies the body and also what grants linguistic understanding, departing from Homer's conception of it as merely the breath of life. Heraclitus ridicules Homer's conception of souls in the afterlife as shades by saying "Souls smell in Hades" [120]. [ci] [note 12] His own views on the afterlife remain unclear,  but Heraclitus did state: "There await men after they are dead things which they do not expect or imagine." [cj] . The Aristotelian tradition is responsible for a great part of the transmission of Heraclitus's physical conception of the soul. Aristotle wrote in De Anima: "Heraclitus too says that the first principle—the 'warm exhalation' of which, according to him, everything else is composed—is soul; further, that this exhalation is most incorporeal and in ceaseless flux" . [ck]. 
+
+## Foreign influence
+
+Heraclitus's originality and placement near the beginning of Greek philosophy has resulted in several writers looking for possible influence from the surrounding nations.. 
+
+### Persia
+
+The Persian Empire had a close connection with Ephesus and Zoroastrianism was the state religion of the Persian Empire. Heraclitus's emphasis on fire has been investigated for influence from Zoroastrian fire worship and specifically the concept of Atar. While many of the doctrines of Zoroastrian fire do not match exactly with those of Heraclitus, such as the relation of fire to earth, it is still argued he may have taken some inspiration from them [122]. Zoroastrian parallels to Heraclitus are often difficult to identify specifically due to a lack of surviving Zoroastrian literature from the period and mutual influence with Greek philosophy [122]. [note 13]. 
+
+### India
+
+The interchange of other elements with fire also has parallels in Vedic literature from the same time period, such as the Upanishads. The Taittiriya Upanishad for instance states "Fire is established in water, water is established in fire" . Heraclitus may have also been influenced by a Vedic meditation known as the "Doctrine of the Five Fires."  West however stresses that these doctrines of the interchange of elements were common throughout written works on philosophy that have survived from that period; so Heraclitus's doctrine of fire can not be definitively said to have been influenced by any other particular Iranian or Indian influence, but may have been part of a mutual interchange of influence over time across the Ancient Near East . 
+
+### Egypt
+
+Philosopher Gustav Teichmüller sought to prove Heraclitus was influenced by the Egyptians,   either directly, by reading the Book of the Dead, or indirectly through the Greek mystery cults . "As the sun of Heraclitus was daily generated from water, so Horus, as Ra of the sun, daily proceeded from Lotus the water."  Paul Tannery took up Teichmüller's interpretation . They both thought Heraclitus's book was an offering to the temple to be read only by few initiates, rather than deposited in the temple to the public for safe-keeping . Edmund Pfleiderer argued that Heraclitus was influenced by the mystery cults . He interprets Heraclitus's apparent condemning of the mystery cults [i] [j] as the condemning of abuses rather than the idea itself. 
+
+# Legacy
+
+Heraclitus's writings have exerted a wide influence on Western philosophy, including the works of Plato and Aristotle, who interpreted him in terms of their own doctrines. His influence also extends into art, literature, and even medicine, as writings in the Hippocratic corpus show signs of Heraclitean themes. [cl] [cm] Heraclitus is also considered a potential source for understanding the Ancient Greek religion since the discovery of the Derveni papyrus, an Orphic poem which contains two fragments of Heraclitus. [br] [bt] . 
+
+## Ancient
+
+### Pre-Socratics
+
+It is unknown whether or not Heraclitus had any students in his lifetime. Diogenes Laertius states Heraclitus's book "won so great a fame that there arose followers of him called Heracliteans." [a] Scholars took this to mean Heraclitus had no disciples and became renowned only after his death . According to one author, "The school of disciples founded by Heraclitus flourished for long after his death" [136]. According to another, "there were no doubt other Heracliteans whose names are now lost to us" . In his dialogue Cratylus, Plato presented Cratylus as a Heraclitean and as a linguistic naturalist who believed that names must apply naturally to their objects. According to Aristotle, Cratylus went a step beyond his master's doctrine and said that one cannot step into the same river once . He took the view that nothing can be said about the ever-changing world and "ended by thinking that one need not say anything, and only moved his finger". To explain both characterizations by Plato and Aristotle, Cratylus may have thought continuous change warrants skepticism because one cannot define a thing that does not have a permanent nature . Diogenes Laertius also lists an otherwise historically obscure Antisthenes who wrote a commentary on Heraclitus . [note 14]. The Pythagorean and comic writer Epicharmus of Kos has fragments which seem to reproduce the thought of Heraclitus, and wrote a play titled Heraclitus. 
+
+#### Eleatics
+
+Parmenides of Elea, a philosopher and near-contemporary, proposed a doctrine of changelessness, in contrast to the doctrine of flux put forth by Heraclitus. He is generally agreed to either have influenced or been influenced by Heraclitus . Different philosophers have argued that either one of them may have substantially influenced each other, some taking Heraclitus to be responding to Parmenides, but more often Parmenides is seen as responding to Heraclitus . Some also argue that any direct chain of influence between the two is impossible to determine [147]. Although Heraclitus refers to older figures such as Pythagoras, [a] [q] neither Parmenides or Heraclitus refer to each other by name in any surviving fragments, so any speculation on influence must be based on interpretation . 
+
+#### Pluralists and atomists
+
+The surviving fragments of several other pre-Socratic philosophers show Heraclitean themes. Diogenes of Apollonia thought the action of one thing on another meant they were made of one substance . The pluralists may have been influenced by Heraclitus . The philosopher Anaxagoras refuses to separate the opposites in the "one cosmos". Empedocles has forces (arguably the first since Heraclitus's tension)  which are in opposition, known as Love and Hate, or more accurately, Harmony and Strife . Democritus and the atomists were also influenced by Heraclitus . The atomists and Heraclitus both believed that everything was in motion . [as] On one interpretation: "Essentially what the atomists did was try to find a middle-way between the contradictory philosophical schemes of Heraclitus and Parmenides." . 
+
+#### Sophists
+
+The sophists, including Protagoras of Abdera and Gorgias of Leontini, may also have been influenced by Heraclitus. Sophists in general seemed to share Heraclitus's conception of the logos. One tradition associated the sophists' concern with politics and preventing party strife with Heraclitus . Heraclitus and others used "measure" to mean the balance and order of nature; hence Protagoras' famous statement "man is the measure of all things". In Plato's dialogue Theaetetus, Socrates sees Protagoras's "man is the measure" doctrine and Theaetetus' hypothesis that "knowledge is perception" as justified by Heraclitean flux . Gorgias seems to have been influenced by the logos, when he argued in his work On Non-Being, possibly parodying the Eleatics, that being cannot exist or be communicated. According to one author, Gorgias "in a sense ... completes Heraclitus." . 
+
+### Classical and Hellenistic philosophy
+
+Plato knew of the teachings of Heraclitus through the Heraclitean philosopher Cratylus. Plato held that for Heraclitus knowledge is made impossible by the flux of sensible objects, and thus the need for the imperceptible Forms as objects of knowledge . Scythinus of Teos, a contemporary of Plato, wrote out Heraclitus's philosophy in verse. [cn] A four-volume work on Heraclitus was written by the academic Heraclides Ponticus, but has not survived . Plutarch also wrote a lost treatise on Heraclitus . The Neoplatonists were influenced by Heraclitus on the topic of the One; quoting Plotinus "Heraclitus, with his sense of bodily forms as things of ceaseless process and passage, knows the One as eternal and intellectual." [159]. Aristotle accused Heraclitus of denying the law of noncontradiction, and charges that he thereby failed in his reasoning. [ae] However, Aristotle's material monist and world conflagration (ekpyrosis) interpretation of Heraclitus influenced the Stoics. 
+
+#### Stoics
+
+The Stoics believed major tenets of their philosophy derived from the thought of Heraclitus; especially the logos, used to support their belief that rational law governs the universe. Scholar A . A. Long concludes the earliest Stoic fragments are "modifications of Heraclitus". According to philosopher Philip Hallie, "Heraclitus of Ephesus was the father of Stoic physics." . A four-volume work titled Interpretation of Heraclitus was written by the Stoic philosopher Cleanthes, but has not survived. [a] In surviving stoic writings, Heraclitean influence is most evident in the writings of Marcus Aurelius . Marcus Aurelius understood the Logos as "the account which governs everything" . [co] Heraclitus also states, "We should not act and speak like children of our parents", which Marcus Aurelius interpreted to mean one should not simply accept what others believe . [cp] . Many of the later Stoics interpreted the logos as the arche, as a creative fire that ran through all things;  West observes that Plato, Aristotle, Theophrastus, and Sextus Empiricus all make no mention of this doctrine, and concludes that the language and thought are "obviously Stoic" and not attributable to Heraclitus . Burnet cautions that these Stoic modifications of Heraclitus make it harder to interpret Heraclitus himself, as the Stoics ascribed their own interpretations of terms like logos and ekpyrosis to Heraclitus . 
+
+#### Cynics
+
+The Cynics were influenced by Heraclitus, such as by his condemnation of the mystery cults. [j] Heraclitus is sometimes even depicted as a cynic . The Cynics attributed several of the later Cynic epistles to his authorship. According to one source, "the Cynic affinity with Heraclitus lies not so much in his philosophy as in his cultural criticism and (idealised) lifestyle."  Heraclitus wrote: "Dogs bark at every one they do not know." [cq] Similarly, Diogenes the Cynic, when asked by Alexander why he considered himself a dog, responded that he "barks at those who give me nothing" . 
+
+#### Pyrrhonists
+
+The skeptical philosophers known as Pyrrhonists were also influenced by Heraclitus. He may be the predecessor to Pyrrho's relativistic doctrine "No More This than That ", that nothing is one way rather than another way. According to Pyrrhonist Sextus Empiricus, Aenesidemus, one of the major ancient Pyrrhonist philosophers, claimed in a now-lost work that Pyrrhonism was a way to Heraclitean philosophy because Pyrrhonist practice helps one to see how opposites appear to be the case about the same thing, leading to the Heraclitean view that opposites actually are true about the same thing . Sextus Empiricus disagreed, arguing opposites appearing to be the case about the same thing is not a dogma of the Pyrrhonists but a matter occurring to the Pyrrhonists, to the other philosophers, and to all of humanity . 
+
+### Early Christianity
+
+Heraclitus was often read by early Christian philosophers, who  following the Stoics, interpreted the logos as meaning the Christian "Word of God", such as in John 1:1: "In the beginning was the Word (logos) and the Word was God." Hippolytus of Rome, one of the early Church Fathers of the Christian Church, identified Heraclitus along with the other pre-Socratics and Academics as a source of heresy, in Heraclitus's case namely the heresy of Noetus . The Christian apologist Justin Martyr took a more positive view of Heraclitus . In his First Apology, he said both Socrates and Heraclitus were Christians before Christ: "those who lived reasonably are Christians, even though they have been thought atheists; as, among the Greeks, Socrates and Heraclitus, and men like them."  The Christian Clement of Alexandria notes Heraclitus's similarity to the Christian prophets, and is cited as a source for more Heraclitus fragments than any other author . Modern scholars such as John Burnet have viewed the relationship between Heraclitean logos and Johannine logos as fallacious, saying; "the Johannine doctrine of the logos has nothing to do with Herakleitos or with anything at all in Greek philosophy, but comes from the Hebrew Wisdom literature". When Heraclitus speaks of "God" he does not mean a single deity as an omnipotent and omniscient or God as Creator, the universe being eternal; he meant the divine as opposed to human, the immortal as opposed to the mortal, and the cyclical as opposed to the transient . Thus, it is arguably more accurate to speak of "the Divine" and not of "God". 
+
+### Weeping philosopher
+
+Heraclitus's influence also extends outside of philosophy. A motif found in art and literature is Heraclitus as the "weeping philosopher" and Democritus as the "laughing philosopher", which may have originated with the Cynic philosopher Menippus,  and generally references their reactions to the folly of mankind . For example, in Lucian of Samosata's "Philosophies for Sale", Heraclitus is auctioned off as the "weeping philosopher" and Democritus as the "laughing philosopher". [cr] The Roman poet Juvenal wrote: "Heraclitus, weep at life much more than you did while alive, for now life is more pitiable." . The Renaissance saw a revived interest in ancient philosophy and its depiction in art. A fresco on the wall of Marsilio Ficino's Platonic Academy in Florence depicted Heraclitus and Democritus. Donato Bramante painted Heraclitus and Democritus (1486) as the weeping and laughing philosopher, and may have depicted Heraclitus as Leonardo da Vinci. Heraclitus appears in painter Raphael's School of Athens (1511), in which he is represented by Michelangelo, since they shared a "sour temper and bitter scorn for all rivals" . 
+
+## Modern
+
+Modern interest in early Greek philosophy can be traced back to 1573, when French printer Henri Estienne (also known as Henricus Stephanus) collected a number of pre-Socratic fragments, including some forty of those of Heraclitus, and published them in Latin in Poesis philosophica. Renaissance skeptic Michel de Montaigne's essay On Democritus and Heraclitus, in which he sided with the laughing philosopher over the weeping philosopher, was probably written soon after . Heraclitus also influenced French poets Michel d'Ambroise and Etienne Forcadel . Huguenot minister Pierre du Moulin wrote Heraclitus, or, Meditations vpon the vanity & misery of humane life in 1609 . English playwright William Shakespeare may have known of Heraclitus through Montaigne. The Merchant of Venice (1598) features the melancholic character of Antonio, who some critics contend is modeled after Heraclitus [201]. Additionally, in one scene of the play Portia assesses her potential suitors, and says of one County Palatine: "I fear he will prove the weeping philosopher when he grows old" . Several baroque artists such as Peter Paul Rubens, Hendrik ter Brugghen, and Johannes Moreelse painted Heraclitus and Democritus. Rubens' Heraclitus and Democritus (1603) was painted for the Duke of Lerma. 
+
+### Rationalism
+
+French rationalist philosopher René Descartes read Montaigne and wrote in The Passions of the Soul that indignation can be joined by pity or derision, "So the laughter of Democritus and the tears of Heraclitus could have come from the same cause". Kahn suggests Spinoza may have been influenced by Heraclitus via the Stoics. According to one author "What Heraclitus really meant by the common was...nothing different from what by Spinoza was expressed by "sub specie aeternitatis" . According to German poet Heinrich Blücher, "If you read the whole system of Spinoza, it is nothing but the changed system of Heraclitus." . Gottfried Wilhelm Leibniz stated in The Monadology "all bodies are in a state of perpetual flux like rivers." [210]. 
+
+### British empiricism
+
+Bishop and empiricist philosopher George Berkeley claimed Sir Isaac Newton's alchemy was influenced by Heraclitus. He remarked in Siris: "In Plutarch we find it was the opinion of Heraclitus, that the death of fire was a birth to air, and the death of air a birth to water. [bm] This opinion is also maintained by Sir Isaac Newton."  Scottish skeptic David Hume seems to recapitulate Heraclitus while discussing personal identity: "Thus as the nature of a river consists in the motion and change of parts; tho' in less than four and twenty hours these be totally alter'd; this hinders not the river from continuing the same during several ages." [212]. 
+
+#### Common sense
+
+While Heraclitus seems to criticize people in general, at other times he also seems to support common sense. On Scottish common sense philosopher Thomas Reid's account, Heraclitus was one of the first to extol a common sense philosophy with such quotes as "And though reason is common, most people live as though they had an understanding peculiar to themselves;" [h] and "understanding is common to all" . [cs] [217]. 
+
+### Post-Kantianism
+
+Ever since German philosopher Immanuel Kant, philosophers have sometimes been divided into rationalists and empiricists. Heraclitus has been considered each by different scholars . For rationalism,   philosophers cite fragments like "Poor witnesses for men are the eyes and ears of those who have barbarian souls." [cf] [ct] For empiricism,  they cite fragments like "The things that can be seen, heard, and learned are what I prize the most." [cu] Gottlob Mayer has argued that the philosophical pessimism of Arthur Schopenhauer recapitulated the thought of Heraclitus [221]. The impression of Heraclitus on German idealist G. W. F. Hegel was so profound that he remarked in his Lectures on the History of Philosophy: "there is no proposition of Heraclitus which I have not adopted in my Logic."  Hegel interpreted Heraclitus as a dialetheist and as a process philosopher, seeing the flux or "becoming" in Heraclitus as a natural result of the ontology of "being" and "non-being" in Parmenides . He also doubted the world conflagration (ekpyrosis) interpretation, which had been popular since Aristotle . 
+
+#### Heraclitean studies
+
+The German theologian Friedrich Schleiermacher was one of the first to collect the fragments of Heraclitus specifically and write them out in his native tongue, the "pioneer of Heraclitean studies". Schleiermacher was also one of the first to posit Persian influence upon Heraclitus, a question taken up by succeeding scholars Friedrich Creuzer and August Gladisch [226]. The Young Hegelian and socialist Ferdinand Lassalle wrote a book on Heraclitus. "Lassalle follows Hegel in styling the doctrine of Heraclitus 'the philosophy of the logical law of the identity of contradictories."   Lassalle also thought Persian theology influenced Heraclitus [230]. Fellow Young Hegelian Karl Marx compared Lasalle's work to that of "a schoolboy"  and Vladimir Lenin accused him of "sheer plagiarism" [231]. Classical philologist Jakob Bernays also wrote a work on Heraclitus. Inspired by Bernays, the English scholar Ingram Bywater collected all fragments of Heraclitus in a critical edition, Heracliti Ephesii Reliquiae (1877) . An English translation was provided by G . T. W. Patrick in 1889. Hermann Diels wrote "Bywater's book has come to be accounted .. . as the only reliable collection of the remains of that philosopher."  Diels published the first edition of the authoritative Die Fragmente der Vorsokratiker (The Fragments of the Pre-Socratics) in 1903, later revised and expanded three times, and finally revised in two subsequent editions by Walther Kranz . Diels–Kranz is used in academia to cite pre-Socratic philosophers. In Diels–Kranz, each ancient personality and each passage is assigned a number to uniquely identify it; Heraclitus is traditionally catalogued as philosopher number 22. 
+
+### Continental
+
+The continental existentialist and classical philologist Friedrich Nietzsche preferred Heraclitus above all the other pre-Socratics. Nietzsche saw the philosophers before Plato as "pure types" and Heraclitus as the proud, lonely truth-finder . The nationalist philosopher of history Oswald Spengler wrote his (failed) dissertation on Heraclitus [237] [238]. Phenomenologist Edmund Husserl wrote that consciousness is "the realm of Heraclitean flux."  Existentialist and phenomenologist Martin Heidegger was also influenced by Heraclitus, as seen in his Introduction to Metaphysics . Heidegger believed that the thinking of Heraclitus and Parmenides was the origin of philosophy and misunderstood by Plato and Aristotle, leading all of Western philosophy astray. French philosophers Jacques Derrida and Gilles Deleuze's "differential ontology" is influenced by Heraclitus. According to Deleuze, Michel Foucault was a Heraclitean [244]. The idea that war produces order through strife is similar to Foucault's notion that power is a force dispersed through social relations . In the 1950s, a term originating with Heraclitus, "idios kosmos", meaning "private world" as distinguished from the "common world" (koinos kosmos) was adopted by phenomenological and existential psychologists, such as Ludwig Binswanger and Rollo May, to refer to the experience of people with delusions. It was an important part of novelist Philip K [249]. Dick's views on schizophrenia. Those thinkers have relied on Heraclitus's statement that "The waking have one common world, but the sleeping turn aside each into a world of his own." [cv] . The Irish author and classicist Oscar Wilde was influenced by art critic Walter Pater, a friend of Bywater's whose "pre-Socratic hero" was Heraclitus. Harold Bloom noted that "Pater praises Plato for Classic correctness, for a conservative centripetal impulse, against his  [Pater's] own Heraclitean Romanticism."  Wilde is credited with the saying "expect the unexpected", though Heraclitus said "If you do not expect the unexpected, you will not find it; for it is hard to be sought out and difficult."  [cw] . 
+
+### Analytic
+
+The British process philosopher A. N. Whitehead has been identified as a representative of the tradition of Heraclitus. In Bertrand Russell's essay Mysticism and Logic, he contends Heraclitus proves himself a metaphysician by his blending of mystical and scientific impulses [256]. 
+
+#### Wittgenstein
+
+Scholar Edward Hussey sees parallels between Heraclitus, the logos, and the early Ludwig Wittgenstein's linguistic philosophy in the Tractatus (1922). Wittgenstein was known to read Plato  and in his return to philosophy in 1929 he made several remarks resembling those of Heraclitus: "The fundamental thing expressed grammatically: What about the sentence: One cannot step into the same river twice?"  He then seemed to make a dramatic shift by 1931, saying one can step twice into the same river [259] [260]. Wittgenstein also uses a river image in On Certainty (1950) to say even the river-bed may change as foundational logical principles might: "The mythology may change back into a state of flux, the river-bed of thoughts may shift ... And the bank of that river consists partly of hard rock, subject to no alteration or only to an imperceptible one, partly of sand, which now in one place now in another gets washed away or deposited." . 
+
+#### Contradiction
+
+Aristotle's arguments for the law of non-contradiction, which he saw as refuting the position started by Heraclitus,  used to be considered authoritative, but have been in doubt ever since their criticism by Polish logician Jan Łukasiewicz, and the invention of many-valued and paraconsistent logics [265]. Some philosophers such as Graham Priest and Jc Beall follow Heraclitus in advocating true contradictions or dialetheism,  seeing it as the most natural response to the liar paradox . [note 15] Jc Beall, together with Greg Restall, is a pioneer of a widely discussed version of logical pluralism . 
+
+#### Philosophy of Religion
+
+Beall argues for a contradictory account of Jesus Christ as both man and divine. The philosopher Peter Geach was inspired by Heraclitus's comments on the river to formulate his idea of relative identity,   which he used to defend the coherence of the Trinity . 
+
+#### Philosophy of Time
+
+The British idealist J. M. E. McTaggart is best known for his paper "The Unreality of Time" (1908), in which he argues that time is unreal. What he calls the "A theory", also known as "temporal becoming", and closely related to presentism, which conceptualizes of time as tensed (i.e., having the properties of being past, present, or future), is a view which has been seen as beginning with Heraclitus. By contrast, his " "B theory", under which time is tenseless (i.e., earlier than, simultaneous to, or later than), has similarly been seen as beginning with Parmenides . 
+
+# Notes
+
+# References
+
+## Ancient sources
+
+This article uses the Diels–Kranz numbering system from Die Fragmente der Vorsokratiker (The Fragments of the Pre-Socratics) for testimony (labeled A), fragments (labeled B), and imitation (labeled C).. 
+
+# References
+
+[8] [ERROR retrieving ref link]
+[21] [ERROR retrieving ref link]
+[33] [ERROR retrieving ref link]
+[36] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[58] [ERROR retrieving ref link]
+[64] [ERROR retrieving ref link]
+[126] [ERROR retrieving ref link]
+[183] [ERROR retrieving ref link]
+[199] [ERROR retrieving ref link]
+[204] [ERROR retrieving ref link]
+[219] [ERROR retrieving ref link]
+[225] [ERROR retrieving ref link]
+[247] [ERROR retrieving ref link]
+[387] [ERROR retrieving ref link]
+[3] [ERROR retrieving ref link]
+[5] [ERROR retrieving ref link]
+[7] [ERROR retrieving ref link]
+[9] [ERROR retrieving ref link]
+[10] [ERROR retrieving ref link]
+[12] [ERROR retrieving ref link]
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[16] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[23] [ERROR retrieving ref link]
+[24] [ERROR retrieving ref link]
+[25] [ERROR retrieving ref link]
+[26] [ERROR retrieving ref link]
+[27] [ERROR retrieving ref link]
+[28] [ERROR retrieving ref link]
+[29] [ERROR retrieving ref link]
+[30] [ERROR retrieving ref link]
+[31] [ERROR retrieving ref link]
+[41] [ERROR retrieving ref link]
+[42] [ERROR retrieving ref link]
+[43] [ERROR retrieving ref link]
+[59] [ERROR retrieving ref link]
+[62] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[74] [ERROR retrieving ref link]
+[75] [ERROR retrieving ref link]
+[77] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[85] [ERROR retrieving ref link]
+[89] [ERROR retrieving ref link]
+[90] [ERROR retrieving ref link]
+[91] [ERROR retrieving ref link]
+[92] [ERROR retrieving ref link]
+[95] [ERROR retrieving ref link]
+[96] [ERROR retrieving ref link]
+[97] [ERROR retrieving ref link]
+[100] [ERROR retrieving ref link]
+[101] [ERROR retrieving ref link]
+[102] [ERROR retrieving ref link]
+[103] [ERROR retrieving ref link]
+[104] [ERROR retrieving ref link]
+[105] [ERROR retrieving ref link]
+[107] [ERROR retrieving ref link]
+[109] [ERROR retrieving ref link]
+[110] [ERROR retrieving ref link]
+[111] [ERROR retrieving ref link]
+[117] [ERROR retrieving ref link]
+[118] [ERROR retrieving ref link]
+[121] [ERROR retrieving ref link]
+[123] [ERROR retrieving ref link]
+[125] [ERROR retrieving ref link]
+[129] [ERROR retrieving ref link]
+[131] [ERROR retrieving ref link]
+[133] [ERROR retrieving ref link]
+[134] [ERROR retrieving ref link]
+[135] [ERROR retrieving ref link]
+[138] [ERROR retrieving ref link]
+[140] [ERROR retrieving ref link]
+[149] [ERROR retrieving ref link]
+[152] [ERROR retrieving ref link]
+[153] [ERROR retrieving ref link]
+[155] [ERROR retrieving ref link]
+[160] [ERROR retrieving ref link]
+[161] [ERROR retrieving ref link]
+[166] [ERROR retrieving ref link]
+[175] [ERROR retrieving ref link]
+[177] [ERROR retrieving ref link]
+[182] [ERROR retrieving ref link]
+[184] [ERROR retrieving ref link]
+[186] [ERROR retrieving ref link]
+[187] [ERROR retrieving ref link]
+[188] [ERROR retrieving ref link]
+[191] [ERROR retrieving ref link]
+[192] [ERROR retrieving ref link]
+[193] [ERROR retrieving ref link]
+[194] [ERROR retrieving ref link]
+[195] [ERROR retrieving ref link]
+[197] [ERROR retrieving ref link]
+[207] [ERROR retrieving ref link]
+[209] [ERROR retrieving ref link]
+[211] [ERROR retrieving ref link]
+[213] [ERROR retrieving ref link]
+[214] [ERROR retrieving ref link]
+[215] [ERROR retrieving ref link]
+[218] [ERROR retrieving ref link]
+[220] [ERROR retrieving ref link]
+[222] [ERROR retrieving ref link]
+[235] [ERROR retrieving ref link]
+[236] [ERROR retrieving ref link]
+[263] [ERROR retrieving ref link]
+[276] [ERROR retrieving ref link]
+[278] [ERROR retrieving ref link]
+[284] [ERROR retrieving ref link]
+[299] [ERROR retrieving ref link]
+[328] [ERROR retrieving ref link]
+[333] [ERROR retrieving ref link]
+[335] [ERROR retrieving ref link]
+[364] [ERROR retrieving ref link]
+[370] [ERROR retrieving ref link]
+[1] [ERROR retrieving ref link]
+[2] [ERROR retrieving ref link]
+[4] [ERROR retrieving ref link]
+[6] [ERROR retrieving ref link]
+[11] [ERROR retrieving ref link]
+[15] [ERROR retrieving ref link]
+[19] [ERROR retrieving ref link]
+[20] [ERROR retrieving ref link]
+[22] [ERROR retrieving ref link]
+[32] http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=hermodorus-bio-1
+[34] [ERROR retrieving ref link]
+[35] [ERROR retrieving ref link]
+[37] [ERROR retrieving ref link]
+[38] [ERROR retrieving ref link]
+[39] [ERROR retrieving ref link]
+[40] [ERROR retrieving ref link]
+[44] [ERROR retrieving ref link]
+[45] [ERROR retrieving ref link]
+[47] [ERROR retrieving ref link]
+[48] [ERROR retrieving ref link]
+[49] [ERROR retrieving ref link]
+[50] [ERROR retrieving ref link]
+[51] [ERROR retrieving ref link]
+[52] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[54] https://books.google.com/books?id=JL-cyJ6zdJwC&pg=PA51
+[55] [ERROR retrieving ref link]
+[56] [ERROR retrieving ref link]
+[57] [ERROR retrieving ref link]
+[60] https://books.google.com/books?id=G1qXOcPy-dYC&pg=PA100
+[61] [ERROR retrieving ref link]
+[63] [ERROR retrieving ref link]
+[65] [ERROR retrieving ref link]
+[66] [ERROR retrieving ref link]
+[68] [ERROR retrieving ref link]
+[69] https://books.google.com/books?id=8YiHqT6CWnUC&pg=PA193
+[70] [ERROR retrieving ref link]
+[71] [ERROR retrieving ref link]
+[72] [ERROR retrieving ref link]
+[73] [ERROR retrieving ref link]
+[76] [ERROR retrieving ref link]
+[78] https://doi.org/10.5840%2Fmonist198669320
+[80] [ERROR retrieving ref link]
+[81] [ERROR retrieving ref link]
+[82] [ERROR retrieving ref link]
+[83] https://doi.org/10.1515/rhiz-2022-0012
+[84] https://doi.org/10.1093/0199263280.003.0002
+[86] [ERROR retrieving ref link]
+[87] [ERROR retrieving ref link]
+[88] [ERROR retrieving ref link]
+[93] [ERROR retrieving ref link]
+[94] [ERROR retrieving ref link]
+[98] [ERROR retrieving ref link]
+[99] [ERROR retrieving ref link]
+[106] [ERROR retrieving ref link]
+[108] [ERROR retrieving ref link]
+[112] [ERROR retrieving ref link]
+[113] [ERROR retrieving ref link]
+[114] [ERROR retrieving ref link]
+[115] ISBN: 978-3772512735
+[116] https://doi.org/10.2307%2F2021795
+[119] [ERROR retrieving ref link]
+[120] https://doi.org/10.2307%2F268491
+[122] http://www.jstor.org/stable/4182189
+[124] [ERROR retrieving ref link]
+[127] [ERROR retrieving ref link]
+[128] [ERROR retrieving ref link]
+[130] [ERROR retrieving ref link]
+[132] [ERROR retrieving ref link]
+[136] https://doi.org/10.1080%2F15362426.2006.10557259
+[137] [ERROR retrieving ref link]
+[139] [ERROR retrieving ref link]
+[141] [ERROR retrieving ref link]
+[142] [ERROR retrieving ref link]
+[143] [ERROR retrieving ref link]
+[144] [ERROR retrieving ref link]
+[145] [ERROR retrieving ref link]
+[146] [ERROR retrieving ref link]
+[147] https://doi.org/10.2307%2F2707978
+[148] [ERROR retrieving ref link]
+[150] [ERROR retrieving ref link]
+[151] [ERROR retrieving ref link]
+[154] [ERROR retrieving ref link]
+[156] [ERROR retrieving ref link]
+[157] [ERROR retrieving ref link]
+[158] [ERROR retrieving ref link]
+[159] https://www.jstor.org/stable/4181631
+[162] [ERROR retrieving ref link]
+[163] [ERROR retrieving ref link]
+[164] [ERROR retrieving ref link]
+[165] [ERROR retrieving ref link]
+[167] [ERROR retrieving ref link]
+[168] [ERROR retrieving ref link]
+[169] [ERROR retrieving ref link]
+[170] [ERROR retrieving ref link]
+[171] [ERROR retrieving ref link]
+[172] [ERROR retrieving ref link]
+[173] [ERROR retrieving ref link]
+[174] [ERROR retrieving ref link]
+[176] [ERROR retrieving ref link]
+[178] [ERROR retrieving ref link]
+[179] [ERROR retrieving ref link]
+[180] [ERROR retrieving ref link]
+[181] [ERROR retrieving ref link]
+[185] https://books.google.com/books?id=KaWGEAAAQBAJ
+[189] [ERROR retrieving ref link]
+[190] [ERROR retrieving ref link]
+[196] [ERROR retrieving ref link]
+[198] [ERROR retrieving ref link]
+[200] https://dspace.ashoka.edu.in/bitstream/123456789/5182/1/9781472598394.pdf
+[201] https://books.google.com/books?id=5JyenUVsQC4C
+[202] https://doi.org/10.2307%2F1087545
+[203] [ERROR retrieving ref link]
+[205] http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=dai/mwn
+[206] [ERROR retrieving ref link]
+[208] [ERROR retrieving ref link]
+[210] https://doi.org/10.1163%2F1568525X-90000002
+[212] https://www.jstor.org/stable/4182822
+[216] [ERROR retrieving ref link]
+[217] https://www.jstor.org/stable/4181882
+[221] https://doi.org/10.1163/9789004443358_014
+[223] [ERROR retrieving ref link]
+[224] [ERROR retrieving ref link]
+[226] https://www.wisdomlib.org/hinduism/book/the-taittiriya-upanishad/d/doc79856.html
+[227] [ERROR retrieving ref link]
+[228] [ERROR retrieving ref link]
+[229] [ERROR retrieving ref link]
+[230] https://books.google.com/books?id=6rs7AQAAMAAJ&pg=PA33
+[231] https://energy.ceu.edu/sites/default/files/publications/tagungsband-2-dragged.pdf
+[232] [ERROR retrieving ref link]
+[233] [ERROR retrieving ref link]
+[234] [ERROR retrieving ref link]
+[237] https://academic.oup.com/book/47228/chapter-abstract/422644663?redirectedFrom=fulltext
+[238] https://doi.org/10.1515%2F9783110666106-009
+[239] [ERROR retrieving ref link]
+[240] [ERROR retrieving ref link]
+[241] [ERROR retrieving ref link]
+[242] [ERROR retrieving ref link]
+[243] https://books.google.com/books?id=o_ReAgAAQBAJ
+[244] http://www.tandfonline.com/doi/abs/10.1080/13556509.2002.10799131
+[245] [ERROR retrieving ref link]
+[246] [ERROR retrieving ref link]
+[248] https://books.google.com/books?id=zhOCAAAAIAAJ
+[249] https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DE%3Aentry+group%3D4%3Aentry%3Depicharmus-bio-1
+[250] [ERROR retrieving ref link]
+[251] [ERROR retrieving ref link]
+[252] [ERROR retrieving ref link]
+[253] [ERROR retrieving ref link]
+[254] [ERROR retrieving ref link]
+[255] [ERROR retrieving ref link]
+[256] https://books.google.com/books?id=gqKZ5Or119kC&pg=PA44
+[257] [ERROR retrieving ref link]
+[258] [ERROR retrieving ref link]
+[259] https://www.jstor.org/stable/27744617
+[260] https://www.jstor.org/stable/27903258
+[261] [ERROR retrieving ref link]
+[262] [ERROR retrieving ref link]
+[264] [ERROR retrieving ref link]
+[265] https://www.jstor.org/stable/4476006
+[266] [ERROR retrieving ref link]
+[267] [ERROR retrieving ref link]
+[268] [ERROR retrieving ref link]
+[269] [ERROR retrieving ref link]
+[270] [ERROR retrieving ref link]
+[271] [ERROR retrieving ref link]
+[272] [ERROR retrieving ref link]
+[273] [ERROR retrieving ref link]
+[274] [ERROR retrieving ref link]
+[275] [ERROR retrieving ref link]
+[277] [ERROR retrieving ref link]
+[279] [ERROR retrieving ref link]
+[280] [ERROR retrieving ref link]
+[281] [ERROR retrieving ref link]
+[282] https://books.google.com/books?id=JL-cyJ6zdJwC
+[283] https://www.jstor.org/stable/24592647
+[285] [ERROR retrieving ref link]
+[286] [ERROR retrieving ref link]
+[287] [ERROR retrieving ref link]
+[288] [ERROR retrieving ref link]
+[289] [ERROR retrieving ref link]
+[290] [ERROR retrieving ref link]
+[291] [ERROR retrieving ref link]
+[292] https://doi.org/10.1353%2Fearl.2008.0004
+[293] [ERROR retrieving ref link]
+[294] [ERROR retrieving ref link]
+[295] https://doi.org/10.1057/9781137316660_3
+[296] https://www.rijksmuseum.nl/en/collection/SK-A-2784
+[297] https://books.google.com/books?id=BMcCAAAAIAAJ
+[298] https://doi.org/10.1086%2F387759
+[300] https://books.google.com/books?id=5e3lBQAAQBAJ
+[301] [ERROR retrieving ref link]
+[302] https://doi.org/10.2307%2F1482445
+[303] [ERROR retrieving ref link]
+[304] https://www.wiley.com/en-us/Introduction+to+Presocratics%3A+A+Thematic+Approach+to+Early+Greek+Philosophy+with+Key+Readings-p-9780470655030
+[305] https://hyperessays.net/essays/on-democritus-and-heraclitus/
+[306] https://doi.org/10.1037/11798-050
+[307] https://www.jstor.org/stable/3292600
+[308] [ERROR retrieving ref link]
+[309] [ERROR retrieving ref link]
+[310] https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=uma20946
+[311] https://books.google.com/books?id=nK6Q7gBGgT4C
+[312] [ERROR retrieving ref link]
+[313] [ERROR retrieving ref link]
+[314] https://www.jstor.org/stable/23208538
+[315] [ERROR retrieving ref link]
+[316] [ERROR retrieving ref link]
+[317] [ERROR retrieving ref link]
+[318] [ERROR retrieving ref link]
+[319] https://www.bard.edu/library/pdfs/bluecher/VI.%20Heraclitus%20and%20the%20Metaphysical%20Tradition%20(1967)%20-%20Bl%C3%BCcher%20Archives%20PDF.pdf
+[320] [ERROR retrieving ref link]
+[321] [ERROR retrieving ref link]
+[322] [ERROR retrieving ref link]
+[323] [ERROR retrieving ref link]
+[324] [ERROR retrieving ref link]
+[325] [ERROR retrieving ref link]
+[326] [ERROR retrieving ref link]
+[327] [ERROR retrieving ref link]
+[329] https://plato.stanford.edu/archives/spr2023/entries/rationalism-empiricism/
+[330] [ERROR retrieving ref link]
+[331] [ERROR retrieving ref link]
+[332] https://www.jstor.org/stable/24353855
+[334] [ERROR retrieving ref link]
+[336] [ERROR retrieving ref link]
+[337] [ERROR retrieving ref link]
+[338] [ERROR retrieving ref link]
+[339] [ERROR retrieving ref link]
+[340] https://books.google.com/books?id=SZwYBwAAQBAJ&pg=PA120
+[341] [ERROR retrieving ref link]
+[342] [ERROR retrieving ref link]
+[343] [ERROR retrieving ref link]
+[344] [ERROR retrieving ref link]
+[345] [ERROR retrieving ref link]
+[346] https://books.google.com/books?id=qPe7BB1gFfAC&pg=RA2-PA95
+[347] https://books.google.com/books?id=KEYWQwAACAAJ
+[348] https://books.google.com/books?id=g_ih3ZVP2PkC&pg=PA318
+[349] [ERROR retrieving ref link]
+[350] https://doi.org/10.1515/nietzstu-2022-0030
+[351] [ERROR retrieving ref link]
+[352] https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/Reden+und+Aufsätze/Heraklit/Einleitung/1.?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+[353] [ERROR retrieving ref link]
+[354] https://ia804701.us.archive.org/30/items/CartesiamMeditations/12813080-husserl-cartesian-meditations.pdf
+[355] [ERROR retrieving ref link]
+[356] [ERROR retrieving ref link]
+[357] https://iep.utm.edu/differential-ontology/
+[358] [ERROR retrieving ref link]
+[359] [ERROR retrieving ref link]
+[360] [ERROR retrieving ref link]
+[361] [ERROR retrieving ref link]
+[362] https://archive.org/details/existencenewdime0000roll/page/81
+[363] [ERROR retrieving ref link]
+[365] [ERROR retrieving ref link]
+[366] https://doi.org/10.1093%2Foso%2F9780198789260.003.0012
+[367] [ERROR retrieving ref link]
+[368] [ERROR retrieving ref link]
+[369] https://books.google.com/books?id=0rgQaLxk4EQC&pg=PA35
+[371] https://philarchive.org/archive/SHAWPM
+[372] [ERROR retrieving ref link]
+[373] [ERROR retrieving ref link]
+[374] [ERROR retrieving ref link]
+[375] https://doi.org/10.1057%2F9781137313447_2
+[376] [ERROR retrieving ref link]
+[377] [ERROR retrieving ref link]
+[378] [ERROR retrieving ref link]
+[379] https://doi.org/10.1017%2FS0031819100048063
+[380] [ERROR retrieving ref link]
+[381] [ERROR retrieving ref link]
+[382] https://doi.org/10.26650%2Farcp2019-5109
+[383] https://plato.stanford.edu/entries/dialetheism/
+[384] https://www.jstor.org/stable/4545039
+[385] [ERROR retrieving ref link]
+[386] https://www.jstor.org/stable/20014114
+[388] https://global.oup.com/academic/product/logical-pluralism-9780199288410?cc=us&lang=en&
+[389] [ERROR retrieving ref link]
+[390] https://doi.org/10.2307%2F2183124
+[391] [ERROR retrieving ref link]
+[392] [ERROR retrieving ref link]
+[393] [ERROR retrieving ref link]
+[394] [ERROR retrieving ref link]
+[395] [ERROR retrieving ref link]
+[396] [ERROR retrieving ref link]
+[397] http://plato.stanford.edu/entries/time/#PreEteGroUniThe
+[398] https://plato.stanford.edu/entries/spacetime-bebecome
+[399] [ERROR retrieving ref link]

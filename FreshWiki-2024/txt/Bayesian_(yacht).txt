@@ -1,0 +1,95 @@
+Bayesian_(yacht)
+
+Bayesian was a 56-metre (184 ft) sailing superyacht, built as Salute by Perini Navi at Viareggio, Italy, and delivered in 2008. It had a 72-metre (237 ft) mast, one of the tallest in the world. The yacht was last refitted in 2020. It was in the legal ownership of Angela Bacares, wife of the technology entrepreneur Mike Lynch. It was at anchor off the northern coast of Sicily near Porticello on 19 August 2024, when it was struck shortly before dawn by a powerful storm and sank.
+
+# Design and construction
+
+Bayesian was a flybridge sloop designed by Ron Holland  and built by Perini Navi with a 56 m (184 ft) long aluminium hull and superstructure and a single-masted cutter rig [1]. One of the world's largest sailing yachts, it was one of a number of similar vessels from this designer and shipyard, though the only one of their ten 56-metre series that, at the initial client's request, was not a two-masted  ketch [14]. The mast of 72 m (237 ft), as measured from the design waterline (DWL), was at the time of construction the world's tallest yacht mast and continues to be the world's tallest aluminium one. The yacht had a retracting keel, allowing its draught to be reduced from 10 m (33 ft) to 4 m (13 ft). It had a traditional aft cockpit and an additional 60 m2 (650 sq ft) fully-encloseable cockpit forward [7]. The interior was outfitted in Japanese style by the French company Rémi Tessier Design. The yacht won best interior at the International Superyacht Society Awards 2008, and best sailing yacht over 45 m (148 ft) at the 2009 World Superyacht Awards [15]. 
+
+# History
+
+The yacht, allocated IMO Number 9503392, was ordered by Dutch entrepreneur Eric Albada Jelgersma  [nl] (1939–2018), but in 2005 he was paralysed in a yachting accident; on completion it was sold in 2008 to Dutch property developer John Groenewoud and named Salute. In November 2014, it was sold to Revtom Ltd., an Isle of Man company owned by Angela Bacares, wife of the technology entrepreneur Mike Lynch, and renamed Bayesian,   a reference to Bayesian inference, which was used in statistical machine learning by Lynch's company Autonomy Corporation [1] [17] [18] [1] [18]. From then, the yacht was registered in the United Kingdom, with London as port of registry [2]. It was refitted in 2016 and again in 2020 and was managed since 2022 by Camper & Nicholsons International. The yacht had been put up for sale in the spring of 2024 but was withdrawn from the market in July for the summer [1] [18] [19]. 
+
+# Sinking and aftermath
+
+## Sinking
+
+Lynch was celebrating his acquittal for fraud in his trial in San Francisco and had invited lawyers, friends and associates to join him, his wife and their daughter, to visit the Aeolian Islands, off the northern coast of Sicily. Bayesian sank shortly before daybreak  on 19 August 2024 during a storm when anchored 300 metres (980 ft) off the port of Porticello, a small fishing village about 15 km (9.3 mi) east of Palermo, Sicily [21]. Admiral Raffaele Macauda of the Palermo coastguard said there was no storm alert for that evening and the weather forecast was of isolated thunderstorms but not of any extreme weather systems [21] [22]. Karsten Borner, captain of Sir Robert Baden Powell anchored nearby said that, in the event, the wind was "violent, very violent" and thought it reached force 12 on the Beaufort scale — hurricane strength [23] [24]. He said: "It was tonnes of water coming down. I never saw that before, there was a water tornado". Although early eyewitness accounts led to reports that the yacht had been struck by a waterspout, the Italian authorities said a downburst was more likely [24]. Bayesian's captain said that the yacht tilted by 45 degrees and stayed in that position for some time, then suddenly fell completely to the right. Data from the tracking of the Automatic Identification System (AIS) showed that at 3.50 CEST Bayesian was already being buffeted by the storm and then began to drag its anchor. At 4.05 it was entirely underwater and a few seconds later its emergency position-indicating radiobeacon (EPIRB) raised the alarm, which was picked up by the satellite station managed by the Bari Coast Guard. Power had been lost by 3.56 as electrical circuits became flooded [27]. Borner said: "I have never seen a vessel of this size go down so quickly. Within a few minutes, there was nothing left." The yacht came to rest on its starboard side on the seabed at a depth of 50 metres (160 ft). 
+
+## Rescue and recovery
+
+The yacht had been carrying 10 crew and 12 passengers. The 15 survivors were rescued from their inflatable life raft by Borner and his crew. One body was recovered from the sea, while six people remained missing. Divers from the fire and rescue service immediately began searching the wreck [29] [21]. The task was challenging on account of the depth, which limited divers to eight minutes to work on the wreck. They also found access to the cabins was blocked by furniture. Six bodies were eventually recovered from the interior of the yacht on 21, 22 and 23 August [21]. The yacht was lying on its right side on the sea-floor, and the bodies of the passengers were found in cabins on the left side where, investigators suggested, they had been taking refuge [30] [31]. Post-mortem examinations revealed that four of the deceased had no water in their lungs, suggesting they had died of asphyxiation, in an air pocket, some time after the sinking [32]. 
+
+### Survivors
+
+The 15 survivors were Angela Bacares and five guests, captain James Cutfield, and eight other members of the crew. 
+
+### Dead
+
+On 25 August, a special mass and candle-lit vigil were held for the victims in Porticello and wreaths were laid on the sea. 
+
+## Speculation about causes
+
+In the immediate aftermath of the sinking, there was media speculation about how Bayesian could have sunk so quickly, especially as a nearby yacht was undamaged in the storm. The editor of Sailing Today suggested that the exceptionally tall mast might have affected the yacht's stability, while the chair of the Maritime Search and Rescue Council described the sinking as a potential black swan event [39]. A former captain of Bayesian said that ventilation ducts on the yacht were vulnerable to downflooding over 40-45 degrees of heel [39]. A naval architect interviewed by a yachting magazine opined that the low positioning of the cockpits and a heavy salon door that could slide open were also possible ingress points for downflooding [8]. Turkish TV interviewed a yacht builder who suggested that a hatch might have been open or that a door might have been open between watertight compartments, and an oceanographer who suggested that the wide beam might have contributed to the wind pinning the yacht and that the height of the mast might have prevented turtling after it capsized [40]. A photograph that was taken from the Sir Robert Baden Powell, 14 minutes before the sinking, however, shows the large door on the port side of the hull was closed [41]. Luca Mercalli, president of the Italian Meteorological Society, said that the authorities had issued a moderate weather alert, and that weather radar enabled the arrival of an intense thunderstorm to be estimated 15 to 30 minutes in advance, although it was impossible to predict the level of wind intensity. He said that record high sea surface temperatures around Sicily at the time could have increased the intensity of storms in the area. Giovanni Costantino, chief executive officer of The Italian Sea Group, which now owned the shipyard which built the yacht, defended its design, describing it as "unsinkable" and suggested the crew should, given the approaching storm, have shut doors and hatches, started the engine, lowered the keel and faced the wind [43]. He pointed to the fact that Sir Robert Baden Powell, built in 1957, had not been damaged in the storm [39]. The seafarers' union Nautilus International cautioned against blaming the crew before the full facts were known, saying it was "not only unfair but also harmful to the process of uncovering the truth and learning any lessons from this tragedy" [44]. A detailed investigation by the New York Times concluded that the design of the tall and heavy mast made the yacht especially vulnerable to capsizing and that there were many weak spots which risked rapid flooding when this happened. 
+
+## Judicial investigation and salvage
+
+The chief prosecutor of nearby Termini Imerese, Ambrogio Cartosio, initiated a judicial investigation into the sinking. On 26 August, the captain of the yacht was placed under investigation [30]. On 28 August, two British crew members were also put under investigation [46]. As Bayesian was a UK-registered vessel, the Marine Accident Investigation Branch also opened an investigation into the causes of the sinking and sent a team of four inspectors to Italy [47]. Cartosio said that there were plans to salvage Bayesian [48] [49]. Under Italian law, the owner is responsible for the cost of salvage and the yacht would then be handed to the investigating authorities. The recovery cost will be covered by insurance while total claims related to the shipwreck could reach $150m, according to initial estimates by industry experts [50]. 
+
+# Notes
+
+^a  From the site's technical data and plans section and downloadable brochure respectively. 
+
+# References
+
+[1] https://www.telegraph.co.uk/news/2024/08/20/inside-sunken-bayesian-superyacht-in-pictures/
+[2] https://www.cbsnews.com/amp/news/mike-lynch-yacht-bayesian-sicily-autonomy-what-to-know/
+[3] http://www.equasis.org/EquasisWeb/restricted/ShipInfo?fs=Search&P_IMO=9503392
+[4] https://www.perininavi.it/yacht/2008-bayesian-formerly-salute/
+[5] https://news.sky.com/story/what-we-know-about-the-superyacht-that-sank-13200005
+[6] https://www.yachtcharterfleet.com/luxury-charter-yacht-22774/bayesian.htm
+[7] https://www.ft.com/content/1db169f0-8040-4150-900e-68c9b0174b8d?sharetype=gift
+[8] https://maritime-executive.com/article/two-more-crewmembers-of-sunken-yacht-bayesian-are-under-investigation
+[9] https://www.boatinternational.com/yachts/news/latest-updates-perini-navi-sailing-yacht-sinks-incident-sicily-palermo-mike-lynch
+[10] https://www.reuters.com/world/europe/search-resumes-six-missing-after-mike-lynchs-yacht-sank-hopes-dim-2024-08-21/
+[11] https://www.theguardian.com/world/article/2024/aug/22/body-found-missing-uk-tech-entrepreneur-mike-lynch-yacht-bayesian-sicily
+[12] https://www.tgcom24.mediaset.it/cronaca/veliero-bayesian-numeri-record-nave-albero-alluminio-piu-grande-mondo_86140077-202402k.shtml
+[13] https://www.bbc.co.uk/news/live/ce38n4egqwzt
+[14] https://www.palermotoday.it/cronaca/intervista-architetto-bayesian-franco-romani-cause-naufragio.html
+[15] https://www.superyachttimes.com/yacht-news/perini-navi-launches-56-metre-cutter-salute
+[16] https://www.telegraph.co.uk/news/2024/08/20/bayesian-superyacht-sicily-sinking-missing-mike-lynch-live/
+[17] https://www.quotenet.nl/quote-500/in-memoriam/a215995/in-memoriam-wilde-eric-albada-jelgersma-1939-2018-215995/
+[18] http://www.equasis.org/EquasisWeb/restricted/ShipInfo?fs=Search&P_IMO=9503392
+[19] https://www.boatinternational.com/yachts/news/perini-navi-sloop-bayesian-begins-mallorca-refit--30625
+[20] https://www.telegraph.co.uk/news/2024/08/22/mike-lynch-considered-selling-superyacht-bayesian/
+[21] https://www.theguardian.com/world/article/2024/aug/23/ive-never-seen-a-vessel-this-size-go-down-so-quickly-why-did-the-bayesian-sink-in-60-seconds-mike-lynch
+[22] https://www.bbc.co.uk/news/articles/c0l8kj1p0ylo
+[23] https://www.lasicilia.it/cronaca/bayesian-pm-evento-repentino-e-improvviso-2240967/
+[24] https://www.ft.com/content/30b1a737-a63d-463f-ac3a-b74d058ea163
+[25] https://www.bbc.co.uk/news/articles/c87g413d2n5o
+[26] https://www.reuters.com/world/europe/crew-member-mike-lynch-yacht-tells-being-thrown-into-water-2024-08-31/
+[27] https://www.corriere.it/cronache/24_agosto_25/naufragio-bayesan-marinaio-guardia-nessun-allarme-1ff72077-a1d4-49d3-8075-f8dd2ceb7xlk.shtml
+[28] https://www.yachtingmonthly.com/news/tragic-sinking-of-superyacht-bayesian-italian-prosecutors-investigate-98886
+[29] https://www.bbc.com/news/articles/c0k4751jrm8o
+[30] https://www.independent.co.uk/news/uk/home-news/mike-lynch-bayesian-yacht-sinking-b2600059.html
+[31] https://www.theguardian.com/world/article/2024/aug/23/mike-lynch-yacht-possibility-of-manslaughter-charges-as-final-body-retrieved-sicily
+[32] https://www.bbc.co.uk/news/articles/clyl9jjnqzro
+[33] https://www.bbc.co.uk/news/articles/c4gv63vrjvvo
+[34] https://www.bbc.co.uk/news/articles/cgky36j1d3go
+[35] https://www.bbc.co.uk/news/articles/cvg343vjwklo
+[36] https://www.independent.co.uk/news/world/europe/mike-lynch-yacht-body-bayesian-dead-sicily-b2600053.html
+[37] https://www.foxnews.com/us/high-powered-attorney-missing-superyacht-tragedy-designer-wife-wrote-eerie-post-before-disappearance
+[38] https://catholicherald.co.uk/local-community-hosts-special-mass-and-vigil-for-victims-of-superyacht-sinking/
+[39] https://uk.news.yahoo.com/bayesian-yacht-theories-how-sank-111421612.html
+[40] https://www.youtube.com/watch?v=9Z7vyRh2ccs
+[41] https://www.youtube.com/watch?v=7k2d70Fkf5A
+[42] https://www.standard.co.uk/news/world/bayesian-yacht-sinking-mike-lynch-hannah-crew-itv-documentary-photos-investigation-b1185630.html
+[43] https://web.archive.org/web/20240821194111/https://www.telegraph.co.uk/news/2024/08/20/bayesian-superyacht-sicily-sinking-missing-mike-lynch-live/
+[44] https://www.theguardian.com/world/article/2024/aug/30/mike-lynch-yacht-sinking-must-be-due-to-human-error-boss-of-manufacturer-owner-says
+[45] https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html
+[46] https://www.theguardian.com/world/article/2024/aug/26/captain-mike-lynch-yacht-investigation-manslaughter-bayesian
+[47] https://news.sky.com/story/two-british-crew-members-on-bayesian-superyacht-under-investigation-13204664
+[48] https://www.gov.uk/government/publications/marine-accident-investigation-branch-current-investigations/marine-accident-investigation-branch-current-investigations
+[49] https://news.sky.com/story/how-is-the-sinking-of-mike-lynchs-bayesian-superyacht-being-investigated-13201245
+[50] https://edition.cnn.com/2024/08/26/europe/bayesian-yacht-captain-manslaughter-investigation-sicily-intl/index.html
+[51] https://www.reuters.com/world/europe/sunk-superyacht-likely-cost-insurers-least-150-million-experts-say-2024-08-29/

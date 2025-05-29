@@ -1,0 +1,590 @@
+Prosecution_of_Donald_Trump_in_New_York
+
+The People of the State of New York v. Donald J. Trump is a criminal case against Donald Trump, the 45th and 47th president of the United States. Trump was charged with 34 felony counts of falsifying business records to conceal payments made to the pornographic film actress Stormy Daniels as hush money to buy her silence over a sexual encounter between them; with costs related to the transaction included, the payments totaled $420,000. The Manhattan District Attorney (DA), Alvin Bragg, accused Trump of falsifying these business records with the intent to commit other crimes: violation of federal campaign finance limits, unlawfully influencing the 2016 U.S. presidential election, and tax fraud.
+The indictment, the first of a former U.S. president, was approved by a Manhattan grand jury on March 30, 2023. On April 3, Trump traveled from his residence in Florida to New York City, where he surrendered to the Manhattan DA's office and was arraigned the next day. Trump pleaded not guilty and stated that he would continue to campaign for the 2024 presidential election, even if convicted. The trial began on April 15, 2024. On April 30, Trump also became the first U.S. president to be held in criminal contempt of court, due to comments he made earlier in the month about individuals involved with the trial.
+The prosecution argued that Trump's 2016 campaign sought to benefit from the payment of hush money to Daniels through Trump's former lawyer Michael Cohen, who was reimbursed via a false retainer agreement. The prosecution rested on May 20, 2024, after calling 20 witnesses. The defense argued that Trump was unaware of any allegedly unlawful scheme, that Cohen was unreliable as a witness, and that the retainer agreement between them was valid. The defense rested on May 21 after calling two witnesses. Throughout proceedings, the defense also made unsuccessful requests for the case to be delayed or dismissed, for presiding judge Juan Merchan to recuse himself, and for removal to federal court.
+Trump was convicted on all counts on May 30, 2024, becoming the first U.S. president to be convicted of a felony. Following a series of delays and Trump's 2024 presidential election victory, he was sentenced with an unconditional discharge on January 10, 2025. He is expected to appeal his conviction.
+
+# Background
+
+## Stormy Daniels–Donald Trump scandal
+
+In July 2006, Stephanie Clifford, a pornographic film actress known professionally as "Stormy Daniels", met Donald Trump at a celebrity golf tournament in Nevada. At the time, Trump was the host of the reality TV series The Apprentice and was married to Melania Trump. According to Daniels, Trump invited her to his penthouse at Harrah's Lake Tahoe  where the two had sex and talked about making her a guest on The Apprentice [5]. In 2011, Daniels considered selling the story to the celebrity magazine Life & Style for US$15,000 as Trump began exploring a potential presidential bid. His lawyer, Michael Cohen, threatened to sue Life & Style when it asked the Trump Organization for comment. Daniels' agent, Gina Rodriguez, leaked the story to the gossip blog The Dirty in October. The post was taken down following complaints by Trump's lawyers, and Daniels disputed the story's veracity. Cohen acknowledged during court testimony in May 2024 that he advised for the story's removal [8]. As Trump's 2016 presidential campaign began, Rodriguez approached multiple publications—including the National Enquirer—and attempted to sell the story. Following the publication of a controversial recording of Trump and Access Hollywood host Billy Bush, the National Enquirer sought to suppress the story. Rather than paying Daniels, the National Enquirer editor-in-chief Dylan Howard negotiated a $130,000 non-disclosure agreement between Daniels and Michael Cohen. Cohen attempted to find the money as the election neared and repeatedly delayed her payment. Keith Davidson, Daniels' lawyer, canceled the deal in October 2016. Ultimately, Cohen drew the money from his home equity line of credit and sent it through a shell company incorporated in Delaware. Trump initially denied knowing about the check made out to Daniels [5] [8]. In April 2018, aboard Air Force One, he told a reporter he did not know where Cohen got the money. Glenn Kessler of The Washington Post described this statement as a lie,  as Trump had personally reimbursed Cohen for the payment [10] [11]. Rudy Giuliani, an attorney for Trump, also refuted Trump's claims in a Fox News interview, saying that Trump was aware of the payments [12] [11] [13]. Trump wrote several checks totaling $420,000 to Cohen. The checks reimbursed him for the non-disclosure agreement and covered the costs for Cohen to manipulate online polls to boost Trump's status. The $180,000 paid to Cohen was doubled to offset taxes, and $60,000 was added. These payments were made throughout 2017, during Trump's first year of presidency. The payments made to Cohen were declared as a legal expense [15]. Nine monthly checks from Trump to Cohen, dated April to December 2017, exist as evidence [16]. In January 2018, The Wall Street Journal reported on Cohen's payment to Daniels. Cohen pleaded guilty to eight criminal counts relating to the payment—as well as another payment made to Karen McDougal—in August [18]. In his admission of guilt, Cohen stated that he acted "at the direction of a candidate for federal office", implicating Trump. In December 2018, Cohen was sentenced to three years in prison [19] [20]. On May 2, 2024, The Daily Beast broke a story that Trump Organization chief financial officer Allen Weisselberg had assisted the 2016 campaign with its finance reports. 
+
+## Manhattan DA investigation and grand jury
+
+Following Cohen's August 2018 admission of guilt, Manhattan District Attorney (DA) Cyrus Vance Jr. opened an investigation against the Trump Organization and two of its executives. The office paused its inquiry when the office of the federal U.S [23]. Attorney for the Southern District of New York began a separate investigation into the payments,  but the federal inquiry concluded without charges in July 2019 [36]. [b] [25]. The Manhattan DA's office then issued a subpoena for the Trump Organization in August, seeking documents relating to the payments. Additionally, the office subpoenaed accounting firm Mazars USA, demanding eight years of Trump's corporate tax returns [27]. Trump's lawyers sued Vance to block the subpoena, citing Trump's immunity from criminal inquiries as the president of the United States . In Trump v [29]. Vance, the U.S. Supreme Court ruled 7–2 in favor of Vance, allowing the subpoena to continue. Following the 2021 New York County District Attorney election, Alvin Bragg succeeded Vance as the Manhattan DA. In early 2021, Mark Pomerantz, a Manhattan prosecutor, sought to revive the case under the theory that if Daniels had extorted Trump, the money would be criminal proceeds, and efforts to conceal its source would constitute money laundering [31]. On further examination, Pomerantz found that the money laundering statute would not apply, and colleagues were skeptical that the hush money would qualify as extortion [32]. With no path to felony charges, Pomerantz abandoned the inquiry and subsequently resigned in February 2022 [32]. In January 2023, the Manhattan DA's office impaneled a grand jury, and began presenting evidence of Trump's role in the Stormy Daniels payment [32]. Cohen met extensively with the DA's office and the grand jury,    and by March 3, Cohen had met with the DA's office 18 times    and had given his cellphones to the DA's prosecutors, who wanted evidence of communications including voice recordings of Daniels' former lawyer Keith Davidson [33] [34] [35] [36] [37] [38] [39]. Several other witnesses met with the DA's office or the grand jury in March 2023, including Kellyanne Conway,  Hope Hicks, two Trump Organization employees, two former National Enquirer executives who helped broker the hush-money deal, a lawyer for Daniels,   Daniels herself,  Trump-aligned lawyer Robert Costello (who provided testimony, including emails, in which he attempted to discredit Cohen's reliability),   and former National Enquirer publisher David Pecker [40] [41] [42] [43] [44] [45] [46]. [c] As early as that February, prosecutors confirmed that they might leverage additional charges, including insurance fraud, against Allen Weisselberg to pressure him to testify against Trump,  and in May, The New York Times reported that they were considering perjury charges against him [47] [48] [51]. In March 2023, District Attorney Alvin Bragg's office indicated that an indictment was likely. By March 9, 2023, prosecutors had offered Trump a chance to testify before the grand jury the following week, indicating that they were likely preparing to indict him . Around that time, Trump and his spokesperson began referring to both Daniels' allegation and the DA's proceedings as "extortion" [54] [55]. On March 10, 2023, Trump's lawyer Joe Tacopina asked New York City's Department of Investigation to review the criminal probe, asserting its "weaponization" [57]. On March 13, Tacopina announced that Trump would not testify [57]. Early the next morning, The Guardian reported that Trump's lawyers had argued to the DA that Trump should not be indicted on the basis that the payment did not draw from campaign funds and would have been made regardless of his candidacy [58]. In late March 2023, there was reporting around Daniels having reportedly unsuccessfully communicated in 2018 with Tacopina about possibly representing her in the scandal, for which the DA could move to disqualify the lawyer due to attorney–client privilege and because she reputedly disclosed confidential information to his firm. Additionally, it reemerged that, in 2018, Tacopina had called the hush-money payment "an illegal agreement", "a fraud", and "a potential campaign finance issue" [60] [61] [62] [63]. On March 18, 2023, Trump claimed on his social-media platform, Truth Social, that he was to be arrested on March 21 [d] [e] and that the proceedings were disinformation backed by President Joe Biden, calling for protests in anticipation of a possible indictment. Law enforcement and security agencies prepared for potential reactions to an indictment of Trump that week, especially in the areas of the Manhattan Criminal Court and Trump Tower, including by monitoring online threats [66] [67] [69]. [f] New York City Police began to increase security in preparation for the expected indictment on March 21, and a second time for the second expected indictment on March 30 [69] [71] [77]. Metal barriers were set up around Trump Tower and the district Criminal Court Building [74]. On March 24, Trump, citing his presidential prospects, insinuated that "potential death & destruction" could result from Bragg's allegedly false charge [75]. [g] [76]. Trump has called the investigation a "witch hunt", claiming political persecution. Trump proponents have referred to the case as harassment, calling it a "political hack job" [81]. The trial and accompanying political theatrics have been described as a "circus" by the media [82]. Due to multiple investigation revivals, the case earned the moniker of "zombie case" [83] [84] [85]. 
+
+# Initial proceedings
+
+## Indictment and charges
+
+The Manhattan grand jury voted to indict Trump on March 30, 2023. The indictment was filed with the New York Supreme Court (the ordinary trial court for felonies in the state of New York and not the final court of appeal for the state) the same day . The charges were under seal until published when Trump was arraigned [88]. The indictment charged Trump with 34 felony counts of falsifying business records in the first degree, in violation of New York Penal Law §175.10. Each count is related to a specific business document, each having a date ranging from February 14 through December 5, 2017: [91] [92] [93]. The allegedly falsified documents are related to Trump's payment to Stormy Daniels as hush money. The payments were listed in the business records as a legal expense payable to Michael Cohen, whereas the indictment alleges that they were actually to reimburse Cohen for the earlier, allegedly illicit, payment to Daniels. Falsifying business records in the first degree is a felony under New York state law that requires that the "intent to defraud includes an intent to commit another crime or to aid or conceal the commission thereof". This is in contrast to falsifying business records in the second degree, which is a misdemeanor that does not have that requirement. The charges neither include, nor even identify, the additional crimes, constituting a relatively unusual strategy for the DA: [93] [94] [95] [96] [93]. In later filings, Bragg listed (but still did not charge) three general types of crime that Trump allegedly intended to commit: violation of federal campaign finance limits, violation of state election laws by unlawfully influencing the 2016 election, and violation of state tax laws regarding the reimbursement. Trump could have moved to allow the jury to convict on the misdemeanor charges as a lesser included offense, but he did not [97]. Each count for which Trump was convicted could result in a prison sentence of up to four years, to be served consecutively, with a maximum sentence of 20 years. He is permitted to assume the presidency even should he be in prison [111] [93] [101] [102]. The judge may also choose to impose no prison sentence [149]. The conviction did not legally prohibit Trump from continuing his campaign in the 2024 presidential election, which he won. (Trump had stated in an April 2023 Fox News interview with Tucker Carlson that he would continue his candidacy even if convicted.) [149] [105] [106]. 
+
+## Arraignment
+
+Trump was arraigned on April 4, 2023. A law enforcement source told Reuters that police would close streets around the courthouse in advance of Trump's expected appearance. On April 3, Trump flew from Palm Beach International Airport into LaGuardia Airport on his private plane, and took his motorcade to Trump Tower, where he stayed the night [107]. Todd Blanche, a lawyer who had defended Paul Manafort during his 2016 fraud trial, had recently resigned from his law firm to aid Trump's case [108] [109]. Police increased security in and around Manhattan ahead of the arraignment; authorities said there were no credible threats of violence or organized plans of protests [110]. Eric Adams, the mayor of New York City, warned protestors to be peaceful [109]. Acting New York Supreme Court Justice Juan Merchan is presiding over the case [111]. Merchan denied a motion filed by media organizations to allow a television broadcast of the arraignment or to allow electronic devices to be used in the courtroom, but allowed five press pool still photographers [112]. Courtroom sketch artists also documented the proceedings [113] [114]. The courtroom's glass doors were covered as a security measure [115]. Upon entering the courthouse, he was put in police custody and placed under arrest. He was booked and fingerprinted, but he was not handcuffed, nor was a mug shot taken [117] [118]. Trump entered the courtroom an hour later,  pleading not guilty to 34 felony charges [119] [120] [121]. The indictment was unsealed (publicly released) shortly thereafter, charging Trump with 34 counts of falsifying business records in the first degree as part of a "conspiracy to undermine the integrity of the 2016 election" [122]. This marked the first indictment of a former U.S [123] [124]. president. At the arraignment, Merchan warned Trump not to use social media to incite violence [125] [126] [127]. Possible trial dates were discussed; prosecutors proposed January 2024, but Trump's defense team objected, saying that the trial should be set for later in 2024. Immediately after the arraignment, Trump returned to Mar-a-Lago and addressed a crowd of supporters in the evening. Trump made several false claims about topics such as his handling of government documents, District Attorney Bragg, and the Trump–Raffensperger phone call [130] [108]. 
+
+# Pre-trial proceedings
+
+During Trump's arraignment, the court set deadlines for pre-trial proceedings, including for prosecutors to provide discovery to the defense. The court set a deadline of August 8, 2023, for pre-trial motions to be filed [129]. As he had done in other cases, Trump used "attack-and-delay" tactics, targeting the prosecutors and the judge while prolonging proceedings, with the aim that the case might continue into late 2024, near the presidential election. Trump's lawyers maintained that he was unaware of any allegedly unlawful schemes that his allies or associates may have engaged in. On March 12, 2024, the defense team filed their strategy writing "President Trump lacked the requisite intent to commit the conduct charged in the Indictment because of his awareness that various lawyers were involved in the underlying conduct giving rise to the charges."  The defense counsel stated that they would not invoke the formal "advice of counsel" defense, but that Trump would "elicit evidence concerning the presence, involvement and advice of lawyers in relevant events giving rise to the charges" [134] [135]. [h] [135] [157]. 
+
+## Request for indictment dismissal
+
+On September 29, 2023, Trump's team submitted omnibus motions to dismiss the indictment and requesting clarification of the charges. On April 27, Trump's team had asked for the charges to be explained in full. It was possible that the second crime(s) would eventually be specified in a bill of particulars,  but according to a governing appeals case from c. 1980 this is not necessary [139] [140]. On May 16, the DA's office argued that it did not need to elaborate further on the basis that Trump already "has more than sufficient information to prepare his defense", while reiterating possible secondary charges [141]. [i] Trump's team was reportedly considering invoking a 2000 U.S [142] [143]. Supreme Court decision which emphasizes the importance of specifying punishable criminal charges; additionally, a 1999 decision states that "any fact ... that increases the maximum penalty for  [one] crime must be charged in an indictment ... and proved". On February 15, 2024, the court denied the motions to dismiss. However, the court did partially grant Trump's request seeking clarification of the charges [144] [146]. Trump is not only accused of falsifying business records, but doing so with the intention to commit or conceal some other crime. Holding it would be unfair to expect Trump to prepare a defense to a newly raised theory mid-trial, the court limited the prosecution to just three theories of "other crimes" that had already been identified during pre-trial procedure. 
+
+## Discovery materials and witnesses
+
+As of Trump's arraignment on April 4, 2023, it was expected that the discovery process would take several months. On April 17, 2023, the DA's office requested that Merchan obtain further information from Tacopina, including his firm's correspondence with Daniels, to determine whether their history constituted a conflict of interest. On September 1, Merchan ruled that it did not [63]. On May 4, Merchan heard arguments about the DA office's request to restrict information it turns over to Trump's lawyers from being shared with Trump himself (at least until the trial), citing his past social-media posts attacking Bragg and witnesses. The defense has argued that the government should be equally restrained from discussing information publicly and that Trump should be allowed to defend himself politically. On May 8, Merchan ruled in favor of the order, barring evidence from being shared on social media [150] [151]. The judge instructed Trump and his lawyers on their conduct on May 23, informing them that violations could incur a "wide range of sanctions" including being held in contempt of court . On May 26, prosecutors stated that they had informed Trump's lawyers that evidence in the hush-money case includes various audio recordings, including one of Trump and a witness. It was unclear if this was in reference to secretly recorded audio from September 2016 which Cohen had previously released. On August 3, federal judge Lewis A. Kaplan, who oversaw E. Jean Carroll's civil lawsuits against Trump alleging sexual assault and defamation, ruled that Carroll's lawyers could provide video of Trump being deposed to Manhattan prosecutors. On January 15, 2024, Tacopina withdrew from Trump's counsel  and Daniels said she expected to testify [159]. Later in the month, the DA was reportedly beginning to meet with witnesses ahead of the trial [160]. On March 18, the judge ruled that both Daniels and Cohen could testify, placing some restrictions on Daniels (as well as Karen McDougal). The defense had requested that the two be blocked from testifying the previous month. Additionally, the judge ruled that Trump's Access Hollywood tape could not be played during the trial but that it could be discussed. On April 22, Merchan ruled on what prosecutors may ask Trump if he testified,  following a pretrial Sandoval hearing held on April 19 [163]. On May 10, Judge Juan Merchan suggested that Allen Weisselberg could be called to testify in court after the defense objected to the prosecution's plan to show the jury a $750,000 severance agreement. Neither the defense nor the prosecution had subpoenaed Weisselberg, and there were procedural concerns about adding him to the witness list so late in the trial [167]. Furthermore, Weisselberg's testimony could be in violation of the non-disparagement clause of his severance agreement and he would likely invoke the fifth amendment [167]. 
+
+## Requests for recusal
+
+Justice Juan Merchan, who has experience with financial cases,  was randomly assigned to oversee the grand jury proceedings in Trump's case, and continued to oversee handling of the charges approved by the grand jury [170]. On May 31, 2023, Trump's lawyers filed a motion asking Judge Merchan to recuse himself from the case citing his daughter's position as partner and COO of Authentic Campaigns, a consulting firm that serviced Biden's 2020 presidential campaign. The motion additionally alleged that Merchan had encouraged former Trump Organization CFO Allen Weisselberg to cooperate with the prosecution against Trump in a previous case he had presided over, and that Merchan had made three $10–15 donations to various Democratic causes. [j] On June 20, the DA's office argued against the recusal request, citing Trump's alleged "prolific history of baselessly accusing state and federal judges around the country of bias", saying he seemed to be trying to land a more favorable judge [172] [173]. Prosecutors further argued that there was a lack of hard evidence that a particular trial result would aid Merchan directly or greatly via his daughter's Democratic work,  which a state ethics panel had similarly concluded in early May [176]. [k] The court denied the motion on August 11, 2023 [177]. On April 1, 2024, the defense asked Merchan for permission to file a motion repeating their prior request that he recuse himself for what the defense said was a conflict of interest due to his daughter's Democratic involvement. On April 1, the New York City Bar Association issued a statement of "unequivocal support" for Merchan's handling of the recusal concerns [182]. [l] On April 2, prosecutors pointed out that the court and an ethics panel had already found that the political activities of a relative are not grounds for questioning a judge's impartiality. [m] [184]. The same day, Trump posted a Fox & Friends clip in which co-host Brian Kilmeade criticized the judge's daughter, although Trump highlighted another commentator's statement. As of April 3, Trump had not deleted offending posts made prior to Merchan's expanded order;  that night, he linked to a report by far-right activist Laura Loomer criticizing Merchan's daughter and wife [187] [188]. On April 5, Trump's campaign publicized their motion for Merchan to recuse himself (dated April 3),  which asserts numerous counts of bias, and falsely cites the state Office of Court Administration (OCA) as saying Merchan's daughter deleted her X account in April 2023, around when the judge "solicited an ethics opinion regarding recusal in a letter .. [189] [184]. that the Court declined to disclose". [n] [o] [190] [177]. On April 6, Trump posted online that if arrested for violating the gag order, he would consider it a "great honor" to "become a Modern Day Nelson Mandela", the former South African president jailed for anti-apartheid activism. On April 8, Trump's team asked an appeals court to delay the trial and pause the gag order while they appeal the latter; this was denied the following day [197]. On April 10, an appeals judge denied another defense delay request which was based on Merchan having not yet ruled on the recusal motion [198]. On April 15, Merchan denied the recusal motion [200] [198]. On April 30, an appellate court denied requests for both a recusal and a stay of proceedings [201]. 
+
+## Request for removal to federal court
+
+On May 4, 2023, Trump's lawyers asked for the case to be moved to a federal court (though it would remain a state-law prosecution conducted by the Manhattan DA), arguing that it involved alleged conduct somehow "performed while in office"—despite the potential federal election-law violations not being specified and occurring prior to Trump's inauguration. [p] As proceedings continued in the New York Supreme Court,  Bragg asked for the removal request to be dismissed, arguing that Trump had failed to establish that he was an officer of the United States during his presidency,   to which the defense expounded its initial argument [151] [143] [203] [208] [205]. Even if the case had been moved to federal court, New York state law would have continued to apply [206] [151]. In a hearing on June 27, District Judge Alvin Hellerstein opined that Trump's conduct likely did not constitute presidential activity. On July 19, arguing that the matter was apparently a personal "cover-up of an embarrassing event", Hellerstein ruled that the case should remain in state court [208]. Trump appealed the decision on July 28,  but withdrew this on November 14 [209] [210]. 
+
+## Trial scheduling
+
+On May 23, 2023, Justice Merchan set the trial for March 25, 2024. Trump's team complained that he expected to have multiple trials around that time [212]. Merchan said he would discuss rescheduling to another time. At a February 15, 2024, hearing, which Trump attended,  Merchan reaffirmed the March 25 trial date [213] [214]. In early February 2024, Trump's federal election obstruction trial, originally set for early March, was postponed pending appeals, increasing the likelihood of the Manhattan criminal trial taking place as planned on March 25, 2024. On March 11, 2024, Trump's lawyers requested a delay of trial until after the federal election obstruction case on the basis that it would bolster his argument of presidential immunity, as some evidence and allegedly some acts overlapped with his time in office. Trump's team cited, from April 2018, Trump's denying knowledge of the hush-money payment to reporters and tweeting in defense of Cohen's credibility . Later on March 11, Merchan pointed out that Trump's team had missed the filing deadline and said either party would need his permission to file additional pretrial motions [219]. On March 3, the judge dismissed the request as untimely . Also on March 11, Trump asked to delay trial until after the Supreme Court decides whether he is generally immune from prosecution in the federal charges on election obstruction. Granting the motion would have delayed trial until mid-summer or later, as the Supreme Court had already scheduled those arguments for April 25  and may not rule until the end of the court's term in early July [221]. Merchan denied the motion on April 3,  saying that he doubted its "sincerity and actual purpose", given that Trump made this request only two weeks before trial [222] [223]. In March 2024, the U.S. Attorney's Office provided prosecutors with approximately 170,000 pages of documents, largely related to the 2017 federal probe of Cohen's payment to Daniels (and mostly reflecting evidence already turned over to Trump's lawyers in June 2023). Trump's lawyers sought a delay in the trial on the basis of the newly produced records; the DA's office said in court that only 300 of the documents were relevant to Trump's defense [225] [226] [227]. On March 15, 2024, the judge delayed the start of trial until mid-April [228]. On March 25, 2024, the judge set a trial date of April 15, and denied a motion by Trump's team to further delay the trial [229]. On May 23, 2024, Merchan denied Trump's request to sanction prosecutors regarding the document release, ruling that the defense was provided sufficient time to respond [228]. On March 18, Trump's team requested an additional delay on the basis that pretrial publicity and apparent anti-Trump bias in Manhattan would prohibit a fair jury from being selected in April, although only 35% in the cited poll said they were convinced Trump was guilty in the DA's case specifically. Trump's lawyers cited berating statements by Cohen, e.g. saying he served jail time because his "lying" former boss "couldn't keep his mushroom dick in his pants". On March 25, the assistant DA countered that "publicity is not likely to abate  [and] the pretrial publicity has been ... exacerbated by the defendant". On April 8, Trump's team asked the appeals court for a delay to allow an attempt to move the trial to a different county, which was denied the same day [231]. On April 8, Trump requested to postpone the trial so the court could consider a change of venue, which was denied the same day,  and so he could appeal the gag order, which was denied the next day [232]. On April 10, the appeals court denied Trump's request to postpone trial on the basis of Merchan being unqualified [233]. On April 12, Merchan denied the defendant's request to delay trial on the basis of "prejudicial" media coverage [234]. On April 15, Merchan said Trump was "required to be here" on April 25 and "not required to be at the Supreme Court" that day, when it would hear arguments on his immunity claim in the federal election case [235]. Merchan said he was not yet prepared to say whether trial would be held on May 17 to allow Trump to attend his son Barron's high-school graduation, but indicated that he probably would grant him the day off if the proceedings progressed at an expected pace [236]. Trump subsequently complained that he would "not be allowed" to attend the graduation, but on April 30 the judge said he would be able to do so [237]. On May 17, Donald and Melania Trump attended their son's graduation from Oxbridge Academy at West Palm Beach, followed by a visit to Lincoln Reagan Dinner at the 2024 annual Minnesota Republican convention in Saint Paul, Minnesota [238]. 
+
+## Gag order
+
+On May 31, 2024, the day after the trial ended, Trump told reporters he wanted to have the "nasty gag order" lifted. On June 4, Blanche filed a motion to have the gag order lifted, stating: "Now that the trial is concluded, the concerns articulated by the government and the Court do not justify restrictions on the First Amendment rights of President Trump."  On June 5, Matthew Colangelo asked that the gag order remain in place "to protect the integrity of these proceedings and the fair administration of justice at least through the sentencing hearing and the resolution of any post-trial motions" [395] [396]. Many expected Trump, had the gag order been lifted, to assail trial participants including the witnesses, jury, and court staff, as well as their families [397]. On June 18, 2024, the New York Court of Appeals said it would not hear an earlier appeal by Trump on the gag order, leaving it in place. On June 25, two days before the first 2024 U.S. presidential debate, Merchan partially lifted the gag order permitting Trump to comment on witnesses and jurors, but Trump cannot reveal the jurors' identities, nor comment about court staffers, the prosecution team or their families until after sentencing. In July 2024, Missouri Attorney General Andrew Bailey filed a lawsuit against New York State in an attempt to invoke the U.S. Supreme Court's exclusive jurisdiction to hear disputes between two states. The lawsuit sought to block Trump's gag order and sentencing until after the election, accusing New York of interfering with the election in Missouri and violating Missourians' First Amendment rights [404]. On August 5, the Supreme Court ruled against intervening [404]. On December 17, 2024, Trump excoriated Merchan on Truth Social, stating that the judge "has so little respect for the Constitution that he is keeping in place an illegal gag order on me ... just so I cannot expose his and his family's disqualifying and illegal conflicts". On January 3, 2025, in a ruling upholding the conviction, Merchan stated that Trump had "gone to great lengths to broadcast ... his lack of respect for judges, juries ... and the justice system as a whole". This prompted Trump to write online that "'Acting' Justice Merchan, who is a radical partisan, just issued another order that is knowingly unlawful," asserting that the ruling violated the constitution and compromised the executive office's integrity. 
+
+## Statute of limitations
+
+In New York, the statute of limitations is typically two years for misdemeanors and five years for felonies. Though falsifying business records is typically a misdemeanor, in New York, the charges are upgraded to a felony when used to commit or conceal another crime [272]. Trump was charged with falsifying business records in the first degree, which is a Class E felony (the least severe), whose statute of limitations is five years [272]. On March 20, 2020, in response to the COVID-19 pandemic, New York Governor Andrew M [272]. Cuomo issued Executive Order No. 202.8 tolling (pausing) the statute of limitations for "any specific time limit for the commencement, filing, or service of any legal action, notice, motion, or other process or proceeding, as prescribed by the procedural laws of the state". Merchan ruled the tolling deadline was through May 6, 2021, thus extending the deadline for the prosecution by one year and 47 days, allowing the felony prosecution to commence within 6 years and 47 days from when the crime was committed. Trump's first indictment occurred on February 14, 2017, and the indictment was filed on March 3, 2023, within days of the deadline [272]. On February 14, 2024, Merchan ruled that the tolled period was sufficient [272]. The New York statute of limitations provision, CPL§30.10, permits tolling of up to five years while the defendant is continuously outside the state. During his presidency, Trump spent the majority of his time outside New York [272]. Merchan declined to address where this provision was applicable as the tolling occasioned by the Governor's Executive Order was sufficient [272]. 
+
+# Trial
+
+The trial began on April 15, 2024, with recessed Wednesdays. Trump was required to attend every day of trial barring a court-approved absence [274]. The trial was not televised [275]. Initially, Merchan allowed photographers to stand at the front of the room for a few minutes each morning before the trial began to take photos of Trump seated [276]. Merchan withdrew this permission on May 9 after at least one photo was taken from the side of the table. There are courtroom sketch artists present to capture the milieu [277]. [q] [278]. 
+
+## Opening proceedings
+
+On April 8, 2024, the judge gave attorneys a copy of the jury selection questionnaire,  with jury selection beginning on April 15   from a pool of over 500 candidates [283] [284] [285]. The selection of twelve jurors and six alternate jurors concluded on April 19 [286]. The jury reportedly comprised seven men and five women, who mostly had white-collar careers [424] [288]. On April 22, opening statements began. Prosecutors accused Trump, Cohen, and Pecker of campaign finance violations, alleging they coordinated payments to two women and concealed them as part of a conspiracy to influence the 2016 election [290]. The defense argued that the testimony of Cohen, a convicted felon, could not be trusted; that the payments were ordinary business transactions, akin to editorial decisions made by newspapers;  and that in democracies it is normal for candidates to attempt to influence an election [291] [292]. On April 15, prosecutors asked the judge to hold Trump in contempt and fine him $3,000 for three alleged violations of the gag order against him;  prosecutors also requested to use the attacks on Cohen as evidence [293]. By the morning of April 18, prosecutors alleged that Trump incurred seven further violations of the order and requested that he be fined another $7,000 [294] [254] [295]. On April 23, Merchan heard arguments about whether Trump had violated the earlier gag order when he made social-media posts about two expected witnesses [293]. On April 30, Trump became the first U.S [296]. president ever to be held in criminal contempt of court,  on nine of the ten counts [297]. Over the next few days, he paid a $9,000 fine [298]. On May 2, a second hearing was held to consider four further violation claims [300] [301]. [r]   On May 6, Trump was found in contempt for one of those four claims (when he on April 22 commented on the jury) and was fined $1,000 [306]. [s]. 
+
+## Witnesses
+
+### Testimony of key witnesses
+
+Prosecutors called former National Enquirer publisher David Pecker to testify on April 22, 23, 25 and 26 as the trial's first witness, taking most of the first week of testimony. On April 23, Pecker testified that Cohen used to feed him negative stories about Trump's enemies, which Pecker's staff would then "embellish" and show drafts to Cohen to get his feedback before publishing them [309]. Pecker also detailed how he offered to deploy the "catch and kill" scheme, stating that he offered in 2015 to suppress negative stories about Trump and flag efforts by women attempting to sell stories about him [310]. On April 25, Pecker testified that AMI suppressed negative press about other celebrities, which was emphasized by Trump's team in their cross-examination [311]. Additionally, he stated that he did not believe Cohen was working for Trump's campaign [312]. Pecker discussed his relationship with Trump prior to the 2016 campaign, during which he suppressed other negative stories about him [313]. Pecker said his decision not to facilitate payment to Daniels (because she was a porn star) led to it being done by Cohen [312] [276] [314]. Pecker testified he acted at Trump's behest and intended to help him win the presidency, despite his own doubts regarding campaign-finance laws [312]. Keith Davidson, a former attorney for Stormy Daniels and Karen McDougal, appeared on April 30 and May 2. He testified that the Access Hollywood tape helped influence Daniels to go forward with her story. According to Davidson's testimony, he drafted the $130,000 hush-money agreement [316]. Davidson testified that he believed Trump was behind the hush-money talks [317]. However, he also acknowledged how Cohen wired the transfer and that he also had conversations with Howard as well as Daniels' manager Gina Rodriguez regarding the deal [318]. On May 3, former White House communications director Hope Hicks testified. She said a Wall Street Journal reporter asked her for comment on the alleged Trump–McDougal affair, which is how she learned that AMI had paid to catch and kill the story. She stated that she drafted a statement to respond to The Wall Street Journal, with Cohen offering feedback, but Trump overrode them by telling Hicks to say that McDougal's allegations were "totally untrue" [320]. Hicks stated that Trump sought to hide news of both scandals from Melania,   and after the story of the payment to Daniels broke in early 2018, Trump told her that Cohen had voluntarily decided to pay Daniels to protect him; Hicks opined that this seemed out of character for Cohen [321] [322] [324]. According to Hicks, the Access Hollywood tape roiled the Trump campaign [324]. Though Trump tried to minimize its significance,  the campaign felt the tape was a "crisis" [324] [325]. Stormy Daniels testified for five hours on May 7,  and for the earlier part of May 9 . She said she met Trump at a celebrity golf tournament near Lake Tahoe, Nevada, in 2006 and detailed a sexual encounter with Trump in his hotel suite after he invited her to dinner [328]. She said she felt like she blacked out during the encounter and was traumatized by the experience [329]. Daniels said Trump offered to make her a contestant on The Apprentice; she stated that he continued alluding to the idea for a time in subsequent phone conversations, in which he referred to her as "honey bunch" and asked when they could meet again [330] [329]. In accepting the hush money, Daniels stated that she was not motivated by money (although this appeared to be contradicted by a text message between her and her manager Gina Rodriguez which suggested she was willing to accept the payment) [331] [329]. She stated that she had no part in the hush-money negotiations [329]. During Daniels' testimony, Merchan sustained many defense objections [329]. He repeatedly admonished Daniels for giving answers that went beyond the scope of the question asked, and at one point interrupting Daniels' testimony, stopping her from describing the sexual position she and Trump used [329]. Merchan set confines for Daniels' later testimony and directed the prosecution to encourage her to give shorter answers [329]. Afterward, Daniels gave shorter answers and hewed closer to the question asked [329]. In its cross-examination, the defense questioned Daniels about her account of being traumatized by her encounter with Trump, suggesting that her pornographic career would have made the event unsurprising . Daniels explained that the first time she realized the meeting was intended to be sexual was upon coming out of the bathroom inside Trump's hotel, finding him stripped to his boxers; she elaborated that she was "not expecting  [this from] a man twice  [her] age". On May 13, Michael Cohen, Trump's former "fixer" and attorney (who is considered the case's star witness), began testifying. He would give 17 hours of testimony over four days [332]. On May 13, Cohen acknowledged that he, Trump and David Pecker conspired to suppress negative stories and promote positive stories about Trump during the 2016 election [333]. He said his work in this matter "was at the direction of and benefit of Mr. Trump", stating that "Everything required Mr. Trump's sign-off."  He further noted that after Pecker refused to pay for the Daniels story, he took over as funder of "catch-and-kill operations" [332] [334]. Cohen said the release of the Access Hollywood tape was viewed as a campaign liability and that Trump afterwards directed him to pay Daniels to avoid "catastrophic" damage [332]. After Trump's 2016 election victory, Weisselberg and Cohen discussed the reimbursement plan in Trump's 26th-floor office, and Weisselberg coordinated the repayments to Cohen [332] [9]. A bank statement was presented, which showed the doubling of the $180,000 reimbursement—$130,000 for Daniels plus $50,000 for money Trump owed Cohen for paying tech company Red Finch—so that Cohen would receive the full amount after paying 50% in taxes, plus a $60,000 year-end bonus, totaling $420,000 [332]. Cohen said it occurred to him that Weisselberg and Trump had planned this reimbursement scheme in advance and that Weisselberg had said in Trump's presence that the monthly payments would function in the guise of a retainer agreement. Cohen testified that he aspired to be a personal lawyer to the president but that Trump, instead of granting him this role, significantly cut his 2016 bonus [335] [336]. Cohen said his relationship with Trump was falling apart at this time. He said his work for Trump boosted his personal career, including by securing more prominent clients. Cohen also testified that he decided to stop lying for Trump following a meeting he had with his family shortly before his 2018 guilty plea [332]. Before the day concluded, Cohen began defense cross-examination. On May 16, a Trump lawyer accused Cohen of lying that on October 26, 2016, he was on the phone with Trump's personal bodyguard, Keith Schiller, and had him hand the phone to Trump, who then approved the hush-money deal [337]. The defense cited phone records as showing that a series of prank calls to Cohen had prompted him to contact Schiller for a call lasting one minute and 36 seconds, which Cohen defended as enough time to handle both matters. On May 20, during cross-examination, Cohen confirmed that around October 26, 2016, he helped Tiffany Trump regarding an extortion issue she faced [338]. Cohen made two brief calls to Donald Trump on the morning of October 26,  which he said were about Daniels [339] [340]. Cohen confirmed that he lied to Weisselberg about how much he had paid Red Finch, and that his false reimbursement request amounted to theft from the organization [341]. He said he lied in 2018 when he said that Trump had been unaware of the Daniels payment [342] [343] [344] [345]. He said he had no income between his 2018 guilty plea  and the publication of his 2020 memoir,  but that since then he had earned $4.4 million from podcasts and books [346] [347] [348]. Asked whether he has a "financial interest in the outcome of this case", Cohen said he expected to make more money if Trump was found not guilty, since "it gives me more to talk about" [349]. He acknowledged that his name recognition comes from his frequent criticism of Trump and that he was even interested in running for Congress [350] [351]. Defense cross-examination of Cohen concluded on May 20 [344]. The defense began its case on May 20, 2024, and rested its case on May 21 after calling two witnesses. Trump did not testify [333] [353]. On May 20, Robert Costello testified [354] [355]. Merchan admonished the witness for making comments on the stand objecting to rulings, staring at the judge, and rolling his eyes [356]. On May 21, Costello was cross-examined by the prosecution [357]. In a May 2018 email to Citron, Costello said it was a goal to get Cohen "on the right page without giving him the appearance that we are following instructions from Giuliani or the president" and said he believed it was "the clear and correct strategy" [358]. When asked if "the email speaks for itself" as he had asserted the day before, Costello said "Sometimes."   The defense rested its case thereafter [358] [359] [358]. 
+
+## Closing proceedings and verdict
+
+On May 28, the defense gave a three-hour closing argument including breaks. Trump lawyer Todd Blanche claimed Trump had nothing to do with checks which were written by Trump's sons, Donald Trump Jr [360]. and Eric Trump. Blanche questioned why prosecutors did not call Donald Jr [361]. and Eric as witnesses despite their signing payment checks to Cohen. Blanche also showed an email revealing that McConnery sought approval from both Donald Jr [361]. and Eric. Blanche alleged that it was Cohen's decision to make the hush-money payment and variously branded him a prolific liar [361]. Blanche sought to discredit Daniels' ambitions, noting (among other things) text messages between her manager and publicist Gina Rodriguez and Dylan Howard which showed that Howard believed Pecker would pay for her story shortly after the Access Hollywood tape was released [361]. Merchan admonished Blanche for telling the jury: "You cannot send someone to prison, you cannot convict somebody, based upon the words of Michael Cohen." Merchan said this type of comment is "highly inappropriate" and "not allowed",  as the jury is instructed not to consider how Merchan might sentence Trump [361] [362]. The same day, the prosecution gave a four-hour and 41 minute closing argument including breaks. Prosecutor Joshua Steinglass described Pecker's testimony as "utterly damning" [361]. Steinglass noted that some key parts of Daniels' story were proven true  and noted that the defense appeared to acknowledge that Trump knew about the Daniels payment as early as 2017 [361] [361]. Steinglass stated that it made sense that Cohen was interested in the outcome of the case, noting that Trump dropped him "like a hot potato" when their relationship soured [361]. Steinglass went over phone conversations between Trump and Cohen regarding the hush-money payment and showed a December 2017 check to Cohen signed via Sharpie by Donald Trump,  arguing that the latter must have known the purpose of such checks, as his "entire business philosophy was and is to be involved in everything" [366] [361]. Steinglass further stated that the payment was made to "hoodwink the American voter" [367]. At the end of closing arguments, Merchan said that jury instructions would be read on May 29 and were expected to last an hour. On May 29, the jury began deliberations [361]. On May 30 at 5:07 pm EDT, Trump was found guilty on all 34 counts,   making him the first former U.S [369] [1] [370]. president to be convicted of a felony. 
+
+# Post-trial proceedings
+
+## Prohibitory consequences
+
+Trump had turned over two of the three pistols he was licensed for to the New York Police Department (NYPD) on March 31, 2023, with a third pistol moved to Florida. Trump's New York State concealed carry license was suspended on April 1, 2023, following his indictment on criminal charges [372]. New York state law and federal law prohibit people with felony convictions from possessing firearms, and federal law even prohibits people under indictment or information for a felony (but not convicted) from possessing firearms, a violation of which can result in up to 15 years imprisonment, or life imprisonment if one is subject to the enhanced penalties imposed by the Armed Career Criminal Act [373]. As of June 5, 2024, Trump's New York firearm license was expected to be revoked after the NYPD's legal bureau completes its investigation [374] [375]. As of June 10, Trump was reportedly still in possession of the third firearm in Florida [376]. On June 10, 2024, Trump and his lawyer Todd Blanche attended his probation interview via videoconference. [t] If placed on probation, Trump cannot associate with other convicted felons [379]. On June 28, 2024, the New Jersey Division of Alcoholic Beverage Control declined to renew the liquor licenses for Trump National Golf Club in Bedminster and Colts Neck, instead issuing temporary permits. The alcohol laws of New Jersey prohibit a liquor license from being issued to "any person who has been convicted of a crime involving moral turpitude", typically involving a serious crime involving "dishonesty, fraud or depravity" [385]. Though the Trump Organization has stated that Trump is not connected with the liquor licenses, the New Jersey attorney general pointed out that Trump is the sole beneficiary of his revocable trust, which owns the licenses [385] [386] [387]. A hearing for the licenses was expected to be held on July 19, but was delayed until after Trump's sentencing [385] [388]. The U.S. Constitution does not bar individuals with criminal records from the presidency,  but the Fourteenth Amendment implies that crime beyond insurrection (as Congress could separately argue) may be cited as grounds for felony disenfranchisement (the rescinding of one's right to vote) [390]. In a 1974 case, such disenfranchisement was upheld as a state right. Felons in New York are required to surrender a DNA sample. [u] [395] [393]. 
+
+## Gag order
+
+On May 31, 2024, the day after the trial ended, Trump told reporters he wanted to have the "nasty gag order" lifted. On June 4, Blanche filed a motion to have the gag order lifted, stating: "Now that the trial is concluded, the concerns articulated by the government and the Court do not justify restrictions on the First Amendment rights of President Trump."  On June 5, Matthew Colangelo asked that the gag order remain in place "to protect the integrity of these proceedings and the fair administration of justice at least through the sentencing hearing and the resolution of any post-trial motions" [395] [396]. Many expected Trump, had the gag order been lifted, to assail trial participants including the witnesses, jury, and court staff, as well as their families [397]. On June 18, 2024, the New York Court of Appeals said it would not hear an earlier appeal by Trump on the gag order, leaving it in place. On June 25, two days before the first 2024 U.S. presidential debate, Merchan partially lifted the gag order permitting Trump to comment on witnesses and jurors, but Trump cannot reveal the jurors' identities, nor comment about court staffers, the prosecution team or their families until after sentencing. In July 2024, Missouri Attorney General Andrew Bailey filed a lawsuit against New York State in an attempt to invoke the U.S. Supreme Court's exclusive jurisdiction to hear disputes between two states. The lawsuit sought to block Trump's gag order and sentencing until after the election, accusing New York of interfering with the election in Missouri and violating Missourians' First Amendment rights [404]. On August 5, the Supreme Court ruled against intervening [404]. On December 17, 2024, Trump excoriated Merchan on Truth Social, stating that the judge "has so little respect for the Constitution that he is keeping in place an illegal gag order on me ... just so I cannot expose his and his family's disqualifying and illegal conflicts". On January 3, 2025, in a ruling upholding the conviction, Merchan stated that Trump had "gone to great lengths to broadcast ... his lack of respect for judges, juries ... and the justice system as a whole". This prompted Trump to write online that "'Acting' Justice Merchan, who is a radical partisan, just issued another order that is knowingly unlawful," asserting that the ruling violated the constitution and compromised the executive office's integrity. 
+
+## Immunity ruling
+
+District Judge Alvin Hellerstein rejected defense arguments regarding presidential immunity in July 2023, when Trump attempted to remove the case to federal court, ruling that "the matter was purely a personal item of the President." [408] [409]. On July 1, 2024, the U.S. Supreme Court ruled in Trump v. United States, supporting presidential immunity for official acts committed by the seated president. Later that day, Trump's counsel requested permission to move to dismiss the conviction on the basis that some evidence presented in the trial constituted official actions by Trump. This includes 2018 social media posts by Trump, phone records between Trump and Cohen, a government ethics disclosure referencing the hush money payment, and some of Hicks' and Westerhout's testimony [410]. Trump's motion was formally made on July 11 [411] [412] [413]. Merchan's ruling will center on whether the evidence presented constituted official actions, and whether it influenced the verdict [413]. If the conviction is overturned, prosecutors would need to convene another grand jury to issue a new indictment [411]. Merchan's ruling on immunity was initially expected by September 6, 2024. It was postponed so he could consider Trump's third recusal motion, which he denied on August 13. The immunity ruling was expected by September 16 [414]. On September 3, 2024, hours before Hellerstein rejected Trump's request to remove his case to federal court, prosecutors urged Merchan to rule swiftly on the immunity question, expressing concern that Hellerstein might pause state court proceedings [416]. On September 6, Merchan postponed the immunity ruling to November 12 [417]. On that day, Merchan agreed to a request from prosecutors to pause the case for a week while they considered how Trump's election could impact proceedings [418]. On November 19, the Manhattan DA argued that the conviction should stand because no law states that temporary presidential immunity nullifies proceedings conducted during the president's time outside of office and regarding activities deemed unofficial to that post [419] [420]. On December 16, Merchan ruled that the Supreme Court decision had no effect on Trump's conviction. Merchan stated that Trump's conduct pertains to personal acts and that any disputed evidence was "harmless in light of the overwhelming evidence of guilt". 
+
+## Requests for dismissal and federal removal
+
+In 2023, Trump attempted to remove the case to federal court, in response to which Judge Hellerstein ruled that "the matter was purely a personal item of the President." [408] [409]. On August 29, 2024, Trump's lawyers asked the federal court for the Southern District of New York to seize control of the case. On September 3, Judge Hellerstein rejected Trump's request on the basis that the payments were an unofficial act [424]. Hours later, Trump's attorneys filed a notice of appeal to the Second Circuit Court of Appeals [425] [426]. On October 14, Trump's counsel asked the Second Circuit to reconsider Hellerstein's rejection, arguing that it was based upon "profoundly flawed analysis" and continuing to assert that instead of being personally prosecuted, Trump was being politically persecuted [427]. On December 2, 2024, the defense asked for the case to be dismissed, arguing that it was invalid due to Trump's 2024 election. On December 9, the prosecution asked the court to deny the request on the bases that the trial had already concluded, the immunity question had yet to be ruled on and "President-elect immunity does not exist."   On these lines, the prosecution suggested that sentencing could take place before the presidency without an incarceratory penalty, or—more novelly—that the sentencing could be vacated, but not Trump's guilty status [428] [429] [430]. Trump's lawyers lambasted the latter suggestion as irresponsible because of its typical use for a dead defendant and in light of assassination attempts on their client [431]. On December 3, 2024, the defense suggested that the case should be dismissed on the basis of alleged "grave juror misconduct", implying that if Merchan ruled otherwise, Trump's team would pursue its appeal to the Second Circuit regarding the denied removal request. On December 5, prosecutors replied that the juror misconduct claim stemmed from "unsworn, unsupported, hearsay allegations" from a source who "has refused to endorse and has at least partially disclaimed" them [433] [434] [427]. On January 3, 2025, Merchan upheld Trump's conviction. On January 6, Trump appealed the decision [436] [437]. The next day, a New York appeals court scheduled a January 21 hearing for the defense to make its arguments [438]. 
+
+## Sentencing
+
+### Scheduling
+
+Before his conviction, officials in state and federal agencies began preparing for possible incarceration. Trump's rhetoric and lack of acknowledgement of any wrongdoing was expected to negatively impact the leniency of his sentence [440] [441]. Trump's sentencing hearing was originally scheduled for July 11, 2024. On July 1, Trump's counsel requested to delay sentencing to consider the impact of the U.S [443]. Supreme Court ruling in Trump v. United States released that day. The Manhattan DA's office agreed to the delay, but said the defense's position lacked merit [410]. On July 2, Merchan postponed the sentencing hearing to September 18 [444]. In August, Trump's team asked Merchan to again postpone the sentencing hearing until after the election,  and the Manhattan DA stated that it would defer to Merchan on this matter [446]. On August 29 (in a request to the U.S [447]. District Court for the Southern District of New York to seize control of the case), Trump's lawyers complained that a September sentencing date would amount to election interference. On September 6, Merchan postponed the sentencing hearing to November 26 [424]. At the presidential immunity hearing on November 19, the Manhattan DA's office said it would consent to postpone sentencing until Trump leaves office. Three days later, Merchan canceled the sentencing date,  but on January 3, 2025, set a new sentencing hearing for January 10,  four days after the Electoral College vote count and ten days before Trump's second inauguration is scheduled [421] [449] [450]. On January 6, Trump asked Merchan for a delay while new appeals played out. Merchan denied the request the same day, deciding that the defense's reasoning largely repeated past arguments. On January 7, the New York Supreme Court, Appellate Division denied Trump's request to postpone sentencing while he appeals Merchan's immunity ruling [438] [451]. On January 8, Trump's lawyers asked both the U.S [439]. Supreme Court and the New York Court of Appeals to stay sentencing, arguing that the case was entirely political. On January 9, the New York Court of Appeals said it would not block the sentencing,  and the Supreme Court denied Trump's request to postpone sentencing in a 5–4 decision [452] [453] [454]. Chief Justice John Roberts and Amy Coney Barrett joined the three liberal judges in denying Trump a stay. 
+
+### Hearing
+
+Merchan ruled that Trump could choose to attend his January 10 sentencing by videoconference. Stating that it would be impractical to incarcerate the president-elect, Merchan suggested that he would most likely issue an unconditional discharge, upholding charges but issuing no fine, probation, or jail time. Trump opted to attend the sentencing by videoconference [450] [436] [437]. On January 10, Merchan issued an unconditional discharge. 
+
+## Potential appeal
+
+Trump has a right to one level of appeal for the conviction itself, which he is expected to use. The appeal would be heard by the New York State Supreme Court, Appellate Division, First Department, which is the intermediate state appellate court covering Manhattan and the Bronx [457] [354]. If unsuccessful, the next step would be the New York Court of Appeals, the state's highest court, which has discretion whether to hear an appeal. 
+
+# References
+
+[4] [ERROR retrieving ref link]
+[28] [ERROR retrieving ref link]
+[53] [ERROR retrieving ref link]
+[68] [ERROR retrieving ref link]
+[70] [ERROR retrieving ref link]
+[79] [ERROR retrieving ref link]
+[87] [ERROR retrieving ref link]
+[145] [ERROR retrieving ref link]
+[152] [ERROR retrieving ref link]
+[185] [ERROR retrieving ref link]
+[191] [ERROR retrieving ref link]
+[195] [ERROR retrieving ref link]
+[199] [ERROR retrieving ref link]
+[207] [ERROR retrieving ref link]
+[211] [ERROR retrieving ref link]
+[218] [ERROR retrieving ref link]
+[299] [ERROR retrieving ref link]
+[323] [ERROR retrieving ref link]
+[327] [ERROR retrieving ref link]
+[403] [ERROR retrieving ref link]
+[415] [ERROR retrieving ref link]
+[1] https://www.nytimes.com/2024/05/30/opinion/trump-trial-guilty-felony.html
+[2] https://www.lawfaremedia.org/new-york-supreme-court-judge-allows-public-disclosure-trump-indictment
+[3] https://abcnews.go.com/Politics/trump-indictment-hinge-legal-theory/story?id=98263332
+[5] https://www.businessinsider.com/stormy-daniels-melania-trump-barron-60-minutes-interview-2018-3
+[6] https://www.nytimes.com/2023/03/19/nyregion/trump-stormy-daniels-felony-charges.html
+[7] https://www.reuters.com/world/us/who-is-stormy-daniels-what-did-she-say-happened-with-trump-2023-03-30/
+[8] https://www.bbc.com/news/world-us-canada-64920037
+[9] https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news/this-is-the-sordid-story-behind-the-hush-money-deal
+[10] https://apnews.com/live/trump-trial-updates-michael-cohen-day-16
+[11] https://www.nytimes.com/2018/04/05/us/politics/trump-stormy-daniels-hush-money.html
+[12] https://www.washingtonpost.com/politics/2018/08/23/not-just-misleading-not-merely-false-lie/
+[13] https://www.cnn.com/2021/01/16/politics/fact-check-dale-top-15-donald-trump-lies/index.html
+[14] https://www.cnn.com/2018/05/16/politics/trump-financial-disclosure-report/index.html
+[15] https://www.nytimes.com/2018/05/02/us/politics/trump-michael-cohen-stormy-daniels-giuliani.html
+[16] https://www.nytimes.com/2019/03/05/us/politics/trump-michael-cohen-checks.html
+[17] https://www.cnn.com/2023/03/31/politics/trump-indictment-what-to-know/index.html
+[18] https://www.businessinsider.com/trump-debuts-multi-tasking-defense-at-hush-money-trial-2024-4
+[19] https://www.wsj.com/articles/trump-lawyer-arranged-130-000-payment-for-adult-film-stars-silence-1515787678
+[20] https://www.cnn.com/2018/08/21/politics/michael-cohen-plea-deal-talks/
+[21] https://www.nbcnews.com/meet-the-press/meetthepressblog/michael-cohen-key-witness-trump-trial-lawyer-rcna77706
+[22] https://www.nytimes.com/2018/12/12/nyregion/michael-cohen-sentence-trump.html
+[23] https://www.thedailybeast.com/emails-reveal-top-trump-accountant-allen-weisselberg-had-secret-campaign-role
+[24] https://www.nytimes.com/2018/08/23/nyregion/trump-organization-criminal-charges-vance.html
+[25] https://www.npr.org/2023/04/02/1167665437/former-manhattan-da-cyrus-vance-calls-trump-indictment-extraordinary-event
+[26] https://www.nytimes.com/2019/07/18/nyregion/stormy-daniels-michael-cohen-documents.html
+[27] https://www.politico.com/story/2019/07/17/trump-hush-money-payments-probe-over-1418074
+[29] https://www.nytimes.com/2019/08/01/nyregion/trump-cohen-stormy-daniels-vance.html
+[30] https://www.nytimes.com/2019/09/16/nyregion/trump-tax-returns-cy-vance.html
+[31] https://www.nytimes.com/2019/09/19/nyregion/trump-tax-returns-lawsuit.html
+[32] https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html
+[33] https://thehill.com/homenews/state-watch/587857-first-black-manhattan-da-sworn-in-to-take-over-trump-case/
+[34] https://www.reuters.com/world/us/trump-hush-money-trial-stems-zombie-case-brought-back-life-2024-04-09/
+[35] https://www.nytimes.com/2023/01/30/nyregion/trump-stormy-daniels-grand-jury.html
+[36] https://www.nytimes.com/2018/08/23/nyregion/trump-organization-criminal-charges-vance.html
+[37] https://www.nytimes.com/2023/01/17/nyregion/trump-investigation-michael-cohen-stormy-daniels.html
+[38] https://www.justsecurity.org/85581/the-manhattan-das-charges-and-trumps-defenses-a-detailed-preview/
+[39] https://www.cnbc.com/2023/03/03/former-trump-lawyer-michael-cohen-expects-grand-jury-testimony.html
+[40] https://www.msnbc.com/deadline-white-house/deadline-legal-blog/michael-cohen-testifies-grand-jury-new-york-rcna74662
+[41] https://www.msnbc.com/the-reidout/watch/michael-cohen-wraps-testimony-before-manhattan-grand-jury-investigating-stormy-daniels-hush-money-payments-made-on-behalf-of-donald-trump-165377093900
+[42] https://www.cnn.com/2023/02/01/politics/michael-cohen-manhattan-district-attorney/index.html
+[43] https://www.nytimes.com/2023/03/01/nyregion/kellyanne-conway-stormy-daniels-trump-inquiry.html
+[44] https://www.nytimes.com/2023/03/06/nyregion/hope-hicks-trump-manhattan-prosecutors.html
+[45] https://www.businessinsider.com/kellyanne-conway-2nd-meet-with-manhattan-trump-hush-money-probe-2023-3
+[46] https://www.cbsnews.com/news/stormy-daniels-trump-michael-cohen-manhattan-district-attorney-investigation/
+[47] https://www.nbcnews.com/politics/donald-trump/trump-ally-attempts-undercut-michael-cohen-hush-money-probe-rcna75828
+[48] https://www.nbcnews.com/politics/donald-trump/live-blog/trump-news-ny-grand-jury-indictment-live-updates-rcna76028
+[49] https://abcnews.go.com/US/live-updates/trump-charges/?id=97888515
+[50] https://www.politico.com/news/2023/03/27/publisher-testifies-trump-grand-jury-00089091
+[51] https://www.nytimes.com/2018/04/11/us/politics/trump-national-enquirer-american-media.html
+[52] https://www.cbsnews.com/news/trump-manhattan-grand-jury-david-pecker-monday-indictment/
+[54] https://www.nytimes.com/2023/02/02/nyregion/trump-weisselberg-fraud.html
+[55] https://www.msnbc.com/rachel-maddow-show/maddowblog/allen-weisselberg-perjury-trump-organization-rcna85381
+[56] https://www.nytimes.com/2023/03/09/nyregion/trump-potential-criminal-charges-bragg.html
+[57] https://www.nytimes.com/2023/03/09/nyregion/trump-potential-criminal-charges-bragg.html
+[58] https://www.independent.co.uk/news/world/americas/us-politics/trump-indictment-president-manhattan-da-b2297785.html
+[59] https://www.msnbc.com/rachel-maddow-show/maddowblog/fearing-indictment-trump-changes-story-hush-money-mess-rcna74663
+[60] https://www.bloomberg.com/news/articles/2023-03-13/trump-lawyer-tacopina-asks-for-ny-review-of-da-office-s-probe
+[61] https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-wont-testify-grand-jury-new-york-rcna74646
+[62] https://www.theguardian.com/us-news/2023/mar/16/stormy-daniels-donald-trump-legal-team-pushes-for-end-to-hush-money-case
+[63] https://www.thedailybeast.com/trump-lawyer-joe-tacopinas-emails-to-stormy-daniels-given-to-manhattan-da-report-says
+[64] https://abovethelaw.com/2023/03/trump-lawyer-joseph-tacopina-formerly-consulted-with-stormy-daniels-whoopsie/
+[65] https://transcripts.cnn.com/show/cnnt/date/2018-03-16/segment/02
+[66] https://abcnews.go.com/US/manhattan-da-asks-judge-trump-attorneys-potential-conflict/story?id=98643960
+[67] https://www.cnbc.com/2023/03/20/live-updates-of-trump-grand-jury-expected-indictment-in-payoff-to-porn-star-stormy-daniels.html
+[69] https://www.nytimes.com/2023/03/21/us/politics/trump-pending-indictment.html
+[71] https://www.nytimes.com/2023/03/18/us/politics/trump-indictment-arrest-protests.html
+[72] https://apnews.com/article/trump-indictment-new-york-jan-6-protest-f19306253133d9dacd65667bd5b4650c
+[73] https://www.cnn.com/2023/03/18/politics/donald-trump-manhattan-da-arrest-protests/index.html
+[74] https://www.nbcnewyork.com/news/local/nyc-readying-for-possible-trump-indictment-this-week-security-preps-underway/4163355/
+[75] https://www.businessinsider.com/george-conway-donald-trump-insanity-defense-indictment-2023-3
+[76] https://www.nbcnewyork.com/investigations/nyc-security-preps-underway-for-possible-trump-indictment-as-soon-as-next-week-sources/4160387/
+[77] https://apnews.com/article/trump-indictment-new-york-jan-6-protest-f19306253133d9dacd65667bd5b4650c
+[78] https://www.reuters.com/world/us/far-right-activists-wary-trap-after-trump-calls-protests-2023-03-20/
+[80] https://www.nbcnewyork.com/investigations/nyc-ramps-up-security-again-ahead-of-possible-grand-jury-action-against-trump-police-sources-say/4178770/
+[81] https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news/these-are-the-security-measures-new-york-is-putting-in-place
+[82] https://news.yahoo.com/trump-turning-heat-raises-specter-133014762.html
+[83] https://www.independent.co.uk/news/world/americas/us-politics/trump-baseball-bat-alvin-bragg-b2307193.html
+[84] https://www.independent.co.uk/news/world/americas/us-politics/trump-laywer-attack-alvin-bragg-indictment-b2308440.html
+[85] https://www.newsweek.com/trumps-lawyer-admits-social-media-attack-alvin-bragg-ill-advised-1790358
+[86] https://www.the-independent.com/news/world/americas/us-politics/trump-photo-alvin-bragg-baseball-bat-b2309173.html
+[88] https://www.politico.com/news/magazine/2023/03/30/trump-political-witch-hunt-indictment-00089011
+[89] https://www.courthousenews.com/republicans-close-ranks-around-trump-after-felony-conviction/
+[90] https://thehill.com/opinion/campaign/4157087-as-the-trump-trials-plunge-into-political-theater-america-must-remember-the-world-is-watching/
+[91] https://www.politico.com/newsletters/politico-nightly/2024/04/15/when-the-circus-came-to-manhattan-00152351
+[92] https://www.nytimes.com/2024/04/22/us/politics/trump-trial-protests.html
+[93] https://www.ft.com/content/23e92bad-b6f5-4dc7-9336-d4e0e4659dcf
+[94] https://www.washingtonpost.com/national-security/2023/03/30/donald-trump-indictment-what-it-means/
+[95] https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-stormy-daniels-charged-b2299280.html
+[96] https://edition.cnn.com/politics/live-news/trump-new-york-court-arraignment-04-04-23/h_d7e47008ede048357837c9cab6eb2378
+[97] https://www.nytimes.com/2023/03/31/nyregion/how-indictments-work-us.html
+[98] https://www.huffpost.com/entry/donald-trump-hush-money-trial-week-5-live-updates_n_6640feebe4b0866a5b2c29ad/liveblog_664373f3e4b09724138da2fd
+[99] https://www.nysenate.gov/legislation/laws/PEN/175.10
+[100] https://www.washingtonpost.com/national-security/2023/04/04/trump-charges-34-counts-felony/
+[101] https://www.ft.com/content/db6d9c4c-bb3a-4ef6-8ff9-4ab7b736cd3c
+[102] https://www.ft.com/content/e16eddb7-afe0-46e6-b860-3e09ed20c114
+[103] https://www.nytimes.com/2023/05/07/nyregion/trump-indictment-bragg-strategy.html
+[104] https://www.washingtonpost.com/national-security/2024/04/08/falsifying-business-records-charges-trump-hush-money-case/
+[105] https://www.politico.com/news/magazine/2024/04/11/trump-alvin-bragg-trial-win-00151558
+[106] https://www.politico.com/news/2024/05/27/trump-trial-possible-outcomes-00160042
+[107] https://www.cnn.com/2024/04/13/politics/questions-trump-trial-answered-what-matters
+[108] https://news.yahoo.com/exclusive-trump-to-be-charged-tuesday-with-34-felony-counts-but-spared-handcuffs-and-mug-shot-001241750.html
+[109] https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-felony-charges-indictment-stormy-daniels-b2313564.html
+[110] https://www.nytimes.com/article/trump-investigation-conviction.html
+[111] https://www.washingtonpost.com/national-security/2023/04/04/trump-charges-34-counts-felony/
+[112] https://www.politico.com/news/2023/04/06/trump-running-for-president-prison-00090931
+[113] https://www.cbsnews.com/news/trump-wont-drop-out-if-convicted-tucker-carlson-interview/
+[114] https://www.reuters.com/legal/watershed-moment-trump-indictment-sets-us-uncertain-course-2023-03-31/
+[115] https://www.reuters.com/world/us/trump-fly-new-york-court-surrender-amid-tight-security-2023-04-03/
+[116] https://abc7ny.com/trump-indictment-nypd-security-donald-arraignment/13076721/
+[117] https://www.politico.com/news/2023/04/03/trump-todd-blanche-indictment-attorney-00090157
+[118] https://www.nytimes.com/2023/04/03/nyregion/adams-trump-nyc.html
+[119] https://www.nytimes.com/2023/03/31/nyregion/juan-merchan-trump-arraignment.html
+[120] https://www.politico.com/news/2023/04/03/electronics-courtroom-trump-arraignment-judge-00090281
+[121] https://www.cnn.com/2023/04/03/politics/trump-courtroom-camera/index.html
+[122] https://web.archive.org/web/20230405083738/https://www.businessinsider.com/courtroom-sketches-capture-former-president-donald-trumps-arraignment-2023-4
+[123] https://www.cnn.com/politics/live-news/trump-new-york-court-arraignment-04-04-23/h_e473d97ad45b18849e853759643ba7b1
+[124] https://www.cnn.com/politics/live-news/trump-new-york-court-arraignment-04-04-23/h_8144a1bbbc6006bfe56ad5ea6cb42384
+[125] https://www.cnn.com/politics/live-news/trump-new-york-court-arraignment-04-04-23/h_262b0e73555a20dcb7af91255cf61003
+[126] https://www.snopes.com/fact-check/trump-under-arrest/
+[127] https://apnews.com/article/trump-indictment-mug-shot-fact-check-2a57de9b109fa95f833c62e5509b9e45
+[128] https://www.cnn.com/politics/live-news/trump-new-york-court-arraignment-04-04-23/h_a0ef3b60d2dddbe9a8c7b2ea71012fde
+[129] https://www.nytimes.com/live/2023/04/04/nyregion/trump-arrest-arraignment/5617ad4c-cad7-5fc4-93ae-0c79d92d6d00
+[130] https://www.nytimes.com/live/2023/04/04/nyregion/trump-arrest-arraignment/trump-charges
+[131] https://www.sandiegouniontribune.com/news/nation-world/story/2023-04-04/prosecutor-calls-alleged-trump-hush-money-payments-part-of-conspiracy-to-undermine-the-integrity-of-the-2016-election
+[132] https://abcnews.go.com/US/live-updates/trump-charges/
+[133] https://apnews.com/article/trump-hush-money-new-york-indictment-election-027d0e5ac1881a4c55c6379deae75faa
+[134] https://www.theguardian.com/us-news/2023/mar/30/donald-trump-indicted-stormy-daniels-hush-money
+[135] https://www.huffpost.com/entry/trump-judge-social-media-violence_n_642c4a12e4b0c8ff04089deb
+[136] https://www.politico.com/news/2023/04/05/trump-trial-timeline-00090688
+[137] https://edition.cnn.com/politics/live-news/trump-new-york-court-arraignment-04-04-23/h_fa3c765cc85905a663d76bc81cb854fc
+[138] https://www.cnn.com/2023/04/04/politics/donald-trump-arraignment-speech-fact-check/index.html
+[139] https://web.archive.org/web/20230408123349/https://www.politico.com/news/2023/04/01/trump-indictment-trial-date-delay-00090028
+[140] https://www.nytimes.com/2023/04/01/nyregion/trump-bragg-legal-defense-strategy.html
+[141] https://thehill.com/regulation/court-battles/4683990-trumps-hush-money-jury-deliberations/damp/?nxs-test=damp
+[142] https://abcnews.go.com/US/trump-hush-money-trial-advice-counsel-defense-argue/story?id=108060277
+[143] https://www.huffpost.com/entry/trump-hush-money-advice-of-counsel_n_65f0bc2ce4b01707c6d21c6d
+[144] https://www.rollingstone.com/politics/politics-news/trump-rages-truth-social-hush-money-jury-deliberation-1235029278/
+[146] https://www.documentcloud.org/documents/24425112-20230929-djt-omnibus-motions_redacted?responsive=1&title=1
+[147] https://www.thedailybeast.com/trumps-new-ploy-to-knock-the-manhattan-das-case-down-to-misdemeanors
+[148] https://www.businessinsider.com/why-alvin-bragg-isnt-sweating-misdemeanors-trump-indictment-2023-4
+[149] https://www.nytimes.com/2023/05/07/nyregion/trump-indictment-bragg-strategy.html
+[150] https://www.yahoo.com/gma/trump-not-entitled-more-fraud-192041298.html
+[151] https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-hush-money-charges-bragg-rcna84860
+[153] https://www.nycourts.gov/LegacyPDFS/press/PDFs/People-v-DonaldTrump2-15-24Decision.pdf
+[154] https://time.com/6695304/trump-fraud-trial-hush-money/
+[155] https://www.reuters.com/world/us/judge-trumps-ny-criminal-case-rule-bid-toss-charges-2024-02-15/
+[156] https://politico.com/interactives/2023/trump-criminal-investigations-cases-tracker-list/
+[157] https://www.politico.com/news/2023/04/05/trump-trial-timeline-00090688
+[158] https://thehill.com/regulation/court-battles/4210758-judge-rules-no-conflict-in-hush-money-case-for-trump-attorney-joe-tacopina/
+[159] https://www.cnn.com/2023/05/02/politics/trump-protective-order-new-york-criminal-case/index.html
+[160] https://www.pbs.org/newshour/politics/donald-trump-seeks-to-move-new-york-criminal-case-to-federal-court
+[161] https://www.cnn.com/2023/05/08/politics/trump-social-media-criminal-case/index.html
+[162] https://www.nbcnews.com/politics/donald-trump/trump-appear-ny-criminal-case-first-time-arraignment-rcna85589
+[163] https://www.nbcnews.com/politics/donald-trump/prosecutors-say-recording-trump-witness-manhattan-da-case-rcna86517
+[164] https://www.theguardian.com/us-news/article/2024/may/02/trump-on-trial-our-friend-david
+[165] https://www.sun-sentinel.com/2024/05/02/jurors-in-trump-hush-money-trial-hear-recording-of-pivotal-call-on-plan-to-buy-affair-story/
+[166] https://www.cnn.com/2024/05/03/politics/video/secret-recording-michael-cohen-donald-trump-trial-ctm-digvid
+[167] https://www.cbsnews.com/news/trump-proseutors-new-york-criminal-case-e-jean-carroll-deposition/
+[168] https://abcnews.go.com/US/attorney-joe-tacopina-withdraws-trumps-legal-team/story?id=106384143
+[169] https://news.yahoo.com/stormy-daniels-says-shes-set-175445246.html
+[170] https://www.nytimes.com/2024/01/25/nyregion/trump-hush-money-trial-stormy-daniels.html
+[171] https://www.nbcnews.com/politics/donald-trump/michael-cohen-stormy-daniels-allowed-testify-trump-hush-money-trial-rcna143982
+[172] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-04-23-24/h_8edfdd18e715a0d5ad37a1ae9f34166f
+[173] https://www.nytimes.com/2024/04/19/nyregion/trump-trial-manhattan-sandoval-hearing.html
+[174] https://lawandcrime.com/high-profile/hard-to-think-of-something-more-probative-trump-hears-about-his-bad-acts-from-prosecutors-at-hush-money-evidence-hearing/
+[175] https://www.independent.co.uk/news/world/americas/us-politics/trump-hush-money-trial-sandoval-b2531472.html
+[176] https://www.politico.com/live-updates/2024/05/10/trump-hush-money-criminal-trial/weisselberg-in-court-00157368
+[177] https://www.cfodive.com/news/ex-trump-cfo-weisselberg-appear-hush-money-trial-severance-executivecompensation/715945/
+[178] https://www.nytimes.com/2024/05/27/nyregion/trump-trial-hush-money-weisselberg.html
+[179] https://apnews.com/article/trump-indictment-new-york-judge-merchan-arraignment-032a097661c259709a948ce0e70a872a
+[180] https://www.nbcnews.com/politics/donald-trump/know-juan-merchan-judge-trump-indictment-case-rcna77611
+[181] https://www.nytimes.com/2023/05/31/nyregion/trump-trial-judge-juan-merchan.html
+[182] https://www.cnn.com/2023/06/02/politics/juan-merchan-trump-judge-new-york-recuse/index.html
+[183] https://www.bbc.com/news/world-us-canada-65182727
+[184] https://www.nbcnewyork.com/news/national-international/donald-trump-guilty-hush-money-trial/5462620/
+[186] https://abcnews.go.com/US/da-pushes-back-trumps-effort-judge-step-criminal/story?id=100241319
+[187] https://apnews.com/article/donald-trump-hush-money-merchan-judge-23d0e6761547ae7a363a5a52b186d494
+[188] https://www.reuters.com/world/us/complaint-dismissed-against-trump-hush-money-judge-who-donated-biden-2024-05-17/
+[189] https://www.nytimes.com/2024/05/17/nyregion/trump-trial-judge-merchan-donations.html
+[190] https://cjc.ny.gov/Publications/AnnualReports/nyscjc.2024Annualreport.pdf
+[192] https://www.justsecurity.org/wp-content/uploads/2023/09/Just-Security-Hush-Money-New-York-Trump-Clearinghouse-%E2%80%94-Order-denying-Trump-motion-for-recusal-of-Justice-Juan-M.-Merchan-Aug.-11-2023.pdf
+[193] https://www.theguardian.com/us-news/2024/apr/02/trump-hush-money-trial-judge-removal-attempt
+[194] https://www.nycbar.org/press-releases/statement-in-support-of-justice-juan-merchan/
+[196] https://time.com/6964255/trump-judges-daughter-gag-order/
+[197] https://www.nycourts.gov/ipjudicialethicsopinions/23-54.htm
+[198] https://news.bloomberglaw.com/litigation/trump-motion-to-recuse-judge-in-hush-money-case-weakened
+[200] https://www.thedailybeast.com/donald-trump-posts-clip-flaming-judges-daughterhours-after-gag-order-ruling
+[201] https://www.businessinsider.com/trump-hasnt-deleted-his-attacks-on-hush-money-judges-daughter-2024-4
+[202] https://www.businessinsider.com/despite-gag-trump-posts-claims-hush-money-judges-daughter-2024-4
+[203] https://s3.documentcloud.org/documents/24534225/2024-04-03-djt-recusal-motion-brief.pdf
+[204] https://thehill.com/regulation/court-battles/4561622-trump-attacks-on-judges-daughter-based-on-fake-account-court/
+[205] https://thespectator.com/topic/donald-trump-claim-hush-money-judge-daughter-false-loren-merchan/
+[206] https://www.nytimes.com/2024/03/27/nyregion/trump-social-media-attack.html?
+[208] https://thehill.com/regulation/court-battles/4561622-trump-attacks-on-judges-daughter-based-on-fake-account-court/
+[209] https://ca.news.yahoo.com/trump-using-loophole-gag-order-195933463.html
+[210] https://www.mediaite.com/news/trump-yet-again-sources-baseless-attack-on-judges-family-member-from-far-right-conspiracy-theorist-laura-loomer/
+[212] https://www.cnbc.com/2024/04/06/trump-being-jailed-for-gag-order-violation-would-be-great-honor.html
+[213] https://www.cnbc.com/2024/04/08/trump-hush-money-judge-recusal-bid-aims-to-delay-evade-gag-order-da-.html
+[214] https://www.politico.com/news/2024/04/09/judge-denies-trump-delay-00151276?cid=apn
+[215] https://www.reuters.com/legal/trump-tries-delay-hush-money-trial-third-time-this-week-2024-04-10/
+[216] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/h_8dcbe9d56cdfc86199222d23e927321f
+[217] https://www.thedailybeast.com/appeals-court-denies-trumps-request-to-recuse-hush-money-judge-juan-merchan
+[219] https://abcnews.go.com/Politics/trump-files-move-criminal-case-federal-court/story?id=99203687
+[220] https://www.reuters.com/legal/manhattan-prosecutor-seeks-keep-trump-hush-money-case-state-court-2023-05-30/
+[221] https://reason.com/volokh/2023/05/31/new-york-district-attorney-bragg-argues-that-president-trump-was-not-an-officer-of-the-united-states/
+[222] https://www.cnn.com/2023/06/16/politics/trump-new-york-criminal-case-remove-federal-court/index.html
+[223] https://web.archive.org/web/20230512214510/https://apnews.com/article/trump-criminal-case-federal-court-ee982a5e7d5f4edef356fb2951ca5655
+[224] https://www.cnn.com/2023/06/27/politics/trump-new-york-federal-court/index.html
+[225] https://thehill.com/regulation/court-battles/4106006-judge-rejects-trumps-bid-to-move-hush-money-case-to-federal-court/
+[226] https://thehill.com/regulation/court-battles/4125720-trump-appeals-decision-keeping-hush-money-case-in-state-court/
+[227] https://abcnews.go.com/US/trump-drops-appeal-move-stormy-daniels-hush-money/story?id=104889381
+[228] https://www.huffpost.com/entry/trump-stormy-daniels-trial-date-2024_n_646d10cfe4b056fd46dd0568
+[229] https://www.huffpost.com/entry/trump-hush-money-trial-date_n_650047eae4b0370316457d02
+[230] https://edition.cnn.com/politics/live-news/trump-hearings-ny-georgia/h_6152c2982f02d8ddde8ed7ff44c6f073
+[231] https://www.huffpost.com/entry/bc-us-trump-hush-money_n_65ce2326e4b02493f3491620
+[232] https://www.washingtonpost.com/politics/2024/02/02/trump-new-york-trial-first/
+[233] https://www.nbcnews.com/politics/donald-trump/trump-appear-ny-criminal-case-first-time-arraignment-rcna85589
+[234] https://apnews.com/article/donald-trump-hush-money-new-york-immunity-supreme-court-7a5030cd4f7b6364cd1a8a599cea025d
+[235] https://www.businessinsider.com/trump-cant-claim-statements-about-stormy-daniels-were-official-acts-2024-4
+[236] https://www.cnbc.com/2024/04/03/trump-loses-late-bid-to-delay-new-york-hush-money-trial.html
+[237] https://www.washingtonpost.com/politics/2024/03/11/trump-new-york-criminal-trial-scotus-immunity/
+[238] https://www.cnn.com/2024/03/11/politics/trump-delay-hush-money-trial-supreme-court/index.html
+[239] https://nytimes.com/2024/04/03/nyregion/trump-merchan-immunity-ruling.html
+[240] https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-merchan-immunity-hush-money-trial-new-york-rcna146299
+[241] https://www.thedailybeast.com/trove-of-new-docs-throws-wrench-into-trumps-new-york-trial-timeline
+[242] https://thehill.com/regulation/court-battles/4532705-manhattan-da-delay-trumps-new-york-hush-money-trial/
+[243] https://www.huffpost.com/entry/trump-hush-money-trial-delay_n_65fc7fe2e4b07c954d551105
+[244] https://www.nbcnews.com/politics/donald-trump/missed-5-key-moments-trumps-monday-court-hush-money-case-rcna144928
+[245] https://abcnews.go.com/US/trump-seeks-longer-delay-start-new-york-hush/story?id=108159809
+[246] https://www.cbsnews.com/news/trump-hush-money-trial-judge-rejects-request-to-sanction-prosecutors/
+[247] https://www.businessinsider.com/hush-money-delay-trump-says-manhattan-already-thinks-hes-guilty-2024-3
+[248] https://www.cnn.com/2024/04/08/politics/trump-hush-money-case-gag-order-venue-appeal/index.html
+[249] https://www.huffpost.com/entry/donald-trump-hush-money-trial_n_66156d2de4b035c82d2704e8
+[250] https://www.washingtonpost.com/politics/2024/04/10/trump-new-york-criminal-trial-merchan/
+[251] https://thehill.com/regulation/court-battles/4591226-judge-rejects-trump-bid-rules-hush-money-trial-will-begin-on-monday/
+[252] https://apnews.com/live/Trump-trial-hush-money-updates-april-15
+[253] https://apnews.com/live/Trump-trial-hush-money-updates-april-15#0000018e-e21d-d37c-a59e-ee3dd2830000
+[254] https://www.thedailybeast.com/trump-allowed-to-attend-son-barrons-high-school-graduation-after-all
+[255] https://www.startribune.com/a-busy-day-ahead-for-trump-first-his-sons-graduation-in-florida-then-dinner-with-state-republicans-in-st-paul/600366672/
+[256] https://www.nbcnews.com/politics/donald-trump/trump-barred-posting-evidence-hush-money-case-social-media-rcna83444
+[257] https://apnews.com/article/trump-criminal-hush-money-video-hearing-03930ae00505487803f8338fe8840ba7
+[258] https://www.npr.org/2023/04/05/1168113684/donald-trump-lashes-out-resorting-to-old-tactics-after-arraignment-hearing
+[259] https://www.lawfaremedia.org/article/arraignment-donald-j-trump-detailed-summary
+[260] https://apnews.com/article/trump-hush-money-gag-order-new-york-criminal-case-7e627d75e81ad20e8977a9a715ad54c9
+[261] https://www.yahoo.com/news/donald-trump-juror-names-york-234329096.html
+[262] https://www.cbsnews.com/news/trump-gag-order-new-york-hush-money-case/
+[263] https://www.businessinsider.com/trump-hush-money-judge-threatens-lawyers-contempt-in-fiery-order-2024-3
+[264] https://abcnews.go.com/Politics/wireStory/donald-trump-wanted-trial-delays-hush-money-case-108169970
+[265] https://www.salon.com/2024/03/26/intimidating-the-judge-expert-says-truth-social-post-put-a-target-on-judges-daughter/
+[266] https://abcnews.go.com/US/trump-immediately-desist-targeting-judges-daughter-prosecutors/story?id=108668982
+[267] https://www.cnn.com/2024/04/06/politics/trump-judge-daughter-attacks-explainer/index.html
+[268] https://www.cnn.com/2024/03/26/politics/trump-hush-money-trial-gag-order/index.html
+[269] https://www.huffpost.com/entry/donald-trump-judge-hush-money_n_6604e378e4b0783b481cc264
+[270] https://apnews.com/article/trump-trial-new-york-gag-order-a3193356a115951052bbd92f528d1989
+[271] https://www.huffpost.com/entry/donald-trump-lashes-out-judge-daughter_n_66062c69e4b05c3d0729f18e
+[272] https://www.washingtonpost.com/politics/2024/03/29/trump-gag-order-judge-daughter-merchan/
+[273] https://www.bbc.com/news/world-us-canada-68709900
+[274] https://edition.cnn.com/2024/04/01/politics/manhattan-district-attorney-trump-judge-gag-order/index.html
+[275] https://www.forbes.com/sites/alisondurkee/2024/04/02/trump-gag-orders-heres-everything-the-ex-president-cant-say-in-the-cases-against-him-as-hush-money-judge-expands-restrictions/?sh=77827b902fbf
+[276] https://edition.cnn.com/2024/05/06/politics/merchan-trump-gag-order-contempt/index.html
+[277] https://www.huffpost.com/entry/donald-trump-hush-money-trial-week-5-live-updates_n_6640feebe4b0866a5b2c29ad/liveblog_66437fdde4b0f22a60f32a5f
+[278] https://www.al.com/news/2024/05/tuberville-trump-supporters-attend-trial-to-overcome-gag-order-at-super-bowl-for-democrats.html
+[279] https://www.usatoday.com/story/news/politics/elections/2024/05/14/trump-allies-attack-hush-money-trial-witnesses/73687068007/
+[280] https://apnews.com/article/donald-trump-court-allies-jd-vance-2666cc432e5291e8fa7dd7fba9c2ffad
+[281] https://www.forbes.com/sites/mollybohannon/2024/05/14/republicans-attend-trump-nyc-trial-and-make-attacks-trump-cant-under-gag-order/?sh=465666864683
+[282] https://archive.today/20240514054245/https://www.washingtonpost.com/politics/2024/05/13/trump-is-gagged-so-his-surrogates-say-forbidden-stuff-him/
+[283] https://www.huffpost.com/entry/donald-trump-editing-allies-claim_n_664440f4e4b09a547999e75e
+[284] https://www.france24.com/en/americas/20240515-cohen-trial-trump-defense
+[285] https://www.washingtonpost.com/politics/2024/05/21/how-trumps-latest-comments-could-again-violate-his-gag-order/
+[286] https://www.nytimes.com/2024/06/25/nyregion/trump-gag-order-hush-money-trial.html
+[287] https://www.cnn.com/2024/06/25/politics/trump-gag-order/index.html
+[288] https://www.cnn.com/2021/03/12/politics/trump-statute-of-limitations/index.html
+[289] https://www.usatoday.com/story/news/factcheck/2024/06/05/trump-case-statute-of-limitations-explained/73983592007/
+[290] https://www.washingtonpost.com/national-security/2024/04/17/questions-answers-trump-hush-money-trial/#link-38630357b118476485d3f91aef005265
+[291] https://www.bbc.com/news/world-us-canada-68309680
+[292] https://wapo.st/3Qkwp4e
+[293] https://www.washingtonpost.com/style/media/2024/05/10/photography-ban-trump-trial/
+[294] https://www.npr.org/2024/05/07/1249571508/trump-trial-courtroom-sketch-artists
+[295] https://www.bbc.com/news/articles/c6pp423575ko
+[296] https://okmagazine.com/p/stormy-daniels-courtroom-sketch-mocked-critics-artist-negative/
+[297] https://www.the-independent.com/news/world/americas/us-politics/trump-trial-courtroom-sketches-b2546309.html
+[298] https://www.rollingstone.com/politics/politics-features/trump-trial-mad-haberman-sketch-artist-1235007794/
+[300] https://www.nbcnews.com/politics/justice-department/judge-releases-jury-questionnaire-trumps-hush-money-trial-rcna146937
+[301] https://apnews.com/article/trump-hush-money-trial-jury-selection-8da8759352478be8effd3d5734aae35e
+[302] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/h_769c75779fa0ca202597a6faeefdf8b4
+[303] https://www.cbsnews.com/news/trump-trial-new-york-jury-selection/
+[304] https://www.nbcnews.com/politics/donald-trump/alternate-jurors-key-legal-arguments-tap-trump-hush-money-trial-rcna148479
+[305] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-04-18-24/h_7e6e1e40cfbdaaf342626de89729b1ab
+[306] https://www.businessinsider.com/jurors-seated-donald-trump-trial-manattan-trial-who-are-they-2024-4
+[307] https://www.huffpost.com/entry/donald-trump-hush-money-trial-live-updates_n_6622a36ae4b0167f7bf4c4a4/liveblog_66267505e4b0167f7bf5e3e8
+[308] https://thehill.com/regulation/court-battles/4613135-5-takeaways-from-opening-arguments-in-the-trump-trial/
+[309] https://apnews.com/live/trump-trial-updates-opening-statements#0000018f-06de-def7-a79f-e7dea6fd0000
+[310] https://www.washingtonpost.com/politics/2024/04/18/trump-jury-chosen-gag-order/
+[311] https://www.politico.com/news/2024/04/15/trump-hush-money-trial-day-one-00152387
+[312] https://www.huffpost.com/entry/donald-trump-hush-money-trial-live-updates_n_6619742ee4b084e936f11ad0/liveblog_6621270fe4b0d63376590d38
+[313] https://www.nbcnews.com/politics/donald-trump/judge-trump-trial-hold-hearing-gag-order-witness-testimony-resumes-rcna148854
+[314] https://slate.com/news-and-politics/2024/04/trump-criminal-contempt-of-court-historic.html
+[315] https://www.reuters.com/world/us/trump-nyc-hush-money-trial-resume-with-bankers-testimony-2024-04-30/
+[316] https://www.washingtonpost.com/politics/2024/05/03/trump-hush-money-trial-live-updates/#link-YL7SMFJKE5HRXP6T6VRQD3QO6M
+[317] https://www.nycourts.gov/LegacyPDFS/press/PDFs/D.O.motion4contempt-FINAL.pdf
+[318] https://www.washingtonpost.com/politics/2024/04/30/trump-hush-money-trial-contempt/
+[319] https://www.businessinsider.com/donald-von-shitzinpantz-has-formally-been-entered-into-the-record-2024-5
+[320] https://www.the-independent.com/news/world/americas/us-politics/trump-trial-court-record-transcript-judge-contempt-b2543428.html
+[321] https://www.newsweek.com/donald-trump-laura-ingraham-cnn-fox-news-michael-cohen-trial-1896853
+[322] https://slate.com/news-and-politics/2024/05/donald-trump-attorney-todd-blanche-von-shitzinpantz.html
+[324] https://www.washingtonpost.com/politics/2024/04/26/trump-hush-money-trial-live-updates/#link-7IDWQPICDVHDXMDMZSVONYW5MU
+[325] https://lawandcrime.com/high-profile/this-court-will-have-to-consider-a-jail-sanction-trump-hush-money-judge-threatens-incarceration-for-repeated-gag-order-violations/
+[326] https://www.boston25news.com/news/trending/trump-hush-money-trial-judge-finds-trump-contempt-again-threatens-jail-time/UKN6R7EYFJBK3B43ZSWOVWQI3I/
+[328] https://apnews.com/live/trump-trial-updates-opening-statements
+[329] https://www.huffpost.com/entry/donald-trump-hush-money-trial-live-updates_n_6622a36ae4b0167f7bf4c4a4/liveblog_6627deede4b096c7bac646f1
+[330] https://www.washingtonpost.com/politics/2024/04/23/trump-hush-money-trial-live-updates-david-pecker-testimony/
+[331] https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-25-24/index.html
+[332] https://www.washingtonpost.com/politics/2024/04/25/trump-hush-money-trial-live-updates-david-pecker-testimony/
+[333] https://www.thedailybeast.com/david-pecker-details-plot-to-kill-playboy-playmate-story-for-trump
+[334] https://www.cnbc.com/2024/05/03/trump-trial-resumes-after-infamous-cohen-phone-call-tape-is-played-for-jury-.html
+[335] https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-trial-access-hollywood-tape-rcna150210
+[336] https://www.nytimes.com/2024/04/30/nyregion/who-is-keith-davidson-trump-trial.html
+[337] https://www.nytimes.com/live/2024/04/30/nyregion/trump-hush-money-trial
+[338] https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-30-24/index.html
+[339] https://www.huffpost.com/entry/donald-trump-hush-money-trial-week-3-live-updates_n_662c149be4b0ab66ede49d55/liveblog_6635152ee4b0fc2b9529637b
+[340] https://www.yahoo.com/news/trump-trial-live-updates-day-113600375.html
+[341] https://www.cbsnews.com/news/trump-trial-new-york-witness-testimony-week-3/
+[342] https://www.telegraph.co.uk/us/politics/2024/05/03/donald-trump-hush-money-trial-latest-update-live/
+[343] https://www.reuters.com/world/us/trump-trial-hears-michael-cohen-was-despondent-he-was-denied-government-post-2024-05-03/
+[344] https://www.huffpost.com/entry/donald-trump-hush-money-trial-week-3-live-updates_n_662c149be4b0ab66ede49d55/liveblog_66350eede4b00b1eab53395c
+[345] https://www.huffpost.com/entry/donald-trump-hush-money-trial-week-3-live-updates_n_662c149be4b0ab66ede49d55/liveblog_66350e1de4b05f96b0184275
+[346] https://www.nytimes.com/2024/05/07/nyregion/trump-trial-stormy-daniels-testimony.html
+[347] https://www.usatoday.com/story/news/politics/2024/05/09/donald-trump-trial-news-hush-money-case-live-updates/73621342007/
+[348] https://www.nytimes.com/live/2024/05/07/nyregion/trump-trial-hush-money-stormy-daniels
+[349] https://www.rollingstone.com/politics/politics-news/team-trump-cross-examination-stormy-daniels-1235019070/
+[350] https://apnews.com/trump-trial-updates-day-13
+[351] https://www.nytimes.com/live/2024/05/13/nyregion/trump-trial-michael-cohen
+[352] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_6cf64694588b5d9441cb0f5719eb2aae
+[353] https://time.com/6977665/michael-cohen-directly-implicates-trump-hush-money-trial/
+[354] https://www.businessinsider.com/donald-trump-hush-money-trial-case-evidence-michael-cohen-payment-2024-5
+[355] https://www.nytimes.com/live/2024/05/06/nyregion/trump-trial-hush-money
+[356] https://www.yahoo.com/news/live/trump-trial-updates-michael-cohen-faces-cross-examination-on-second-day-of-testimony-134850537.html
+[357] https://www.thedailybeast.com/that-was-a-lie-trump-lawyer-todd-blanche-brawls-with-michael-cohen
+[358] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_70cbaa995c0230d6cbff7d0c817d6c42
+[359] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_498ec1cbae0494d245ec6749af748776
+[360] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_c4fa2e16aa57be29fff346a1bc178a25
+[361] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_ed56b88538610ace4b9c062f2a0fea80
+[362] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_8e4ae59d3c0449d325cd45ebd043a8b4
+[363] https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/index.html
+[364] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_0cafa2aa82a9ce7b24a3d23aa450bb51
+[365] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_9ce12b465f93e151c229ff2c43e9f95d
+[366] https://www.cnbc.com/2018/08/21/trumps-ex-lawyer-michael-cohen-strikes-plea-deal-nbc-news.html
+[367] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_88e29a0be22642cc0f7fe2f879e7fffa
+[368] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_cc903e9ac4fd02271c76c082ccd1e36d
+[369] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_cd12357a0b6c4496c80e339ef7750962
+[370] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_5c22f3030375e3f8de56ff390f45a18d
+[371] https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-20-24/h_386f81d4eb37d2ef992b67cb25cfa567
+[372] https://thehill.com/regulation/court-battles/4674766-trump-defense-rests-hush-money-trial/
+[373] https://www.cnn.com/2024/06/01/politics/recap-trump-hush-money-trial/index.html
+[374] https://www.npr.org/2024/05/21/1252665767/trumps-trials-hush-money
+[375] https://www.washingtonpost.com/national-security/2023/03/30/trump-ny-indictment/
+[376] https://apnews.com/article/trump-trial-hush-money-michael-cohen-363a86879b97d2367831b1392f42689d
+[377] https://www.nbcnews.com/politics/donald-trump/live-blog/trump-trial-live-updates-rcna153195
+[378] https://www.thedailybeast.com/maga-lawyer-robert-costello-gets-dismantled-by-his-own-damning-trump-emails
+[379] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-28-24/h_aaa83b5cb1a9b7ca8fbac5ed733f28ac
+[380] https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-28-24/index.html
+[381] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-28-24/h_a4f07ac368fa84106c06744791f49d1a
+[382] https://www.washingtonpost.com/politics/2024/05/28/trump-hush-money-trial-live-updates-closing-arguments/#link-VUIWQ3D4IVBTZHZ7RXYS2GBU6I
+[383] https://www.cnn.com/2024/05/28/politics/trump-hush-money-closing-arguments-takeaways/index.html
+[384] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-30-24/h_d0ac367050a5bfd23a604f5e3045ce28
+[385] https://www.theguardian.com/us-news/live/2024/may/28/trump-hush-money-trial-closing-arguments-updates
+[386] https://www.pbs.org/newshour/politics/live-updates-closing-arguments-in-trumps-hush-money-trial
+[387] https://www.reuters.com/legal/jury-trump-hush-money-trial-hear-closing-arguments-before-deliberations-2024-05-28/
+[388] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-29-24/h_899bae23b1b6fb3cc2af41db4e912584
+[389] https://www.huffpost.com/entry/trump-trial-live-updates_n_66548b01e4b0f5ad559787e0/liveblog_665909a5e4b0db5a29bc8a0a
+[390] https://apnews.com/article/trump-trial-deliberations-jury-testimony-verdict-85558c6d08efb434d05b694364470aa0
+[391] https://www.cnn.com/politics/live-news/hunter-biden-trial-06-11-24#h_ed73f86a48c5d6e99e9d7c1590d9d2cf
+[392] https://www.cnn.com/2024/06/05/politics/trump-gun-nypd-revoke/index.html
+[393] https://www.atf.gov/firearms/identify-prohibited-persons#:~:text=The%20GCA%20at%2018%20U.S.C.,or%20receive%20firearms%20or%20ammunition.
+[394] https://www.nbcnews.com/politics/donald-trump/trumps-gun-license-expected-revoked-conviction-hush-money-trial-rcna155740
+[395] https://www.cnn.com/2024/06/05/politics/trump-gun-nypd-revoke/index.html
+[396] https://www.salon.com/2024/06/12/donald-admits-he-still-has-a-gun-despite-felony-convictions/
+[397] https://newrepublic.com/post/182623/did-trump-admit-another-felony-probabation-interview
+[398] https://www.huffpost.com/entry/donald-trump-presentencing-interview_n_66677824e4b019027bc75272
+[399] https://www.nbcnews.com/politics/donald-trump/trump-probation-interview-monday-hush-money-conviction-rcna156219
+[400] https://www.theguardian.com/us-news/article/2024/jun/10/trump-probation-officials-interview-hush-money-trial
+[401] https://www.businessinsider.com/trump-special-pre-sentence-treatment-from-nyc-defense-lawyers-say-2024-6
+[402] https://www.nytimes.com/2024/06/09/nyregion/trump-probation-officer-hush-money-verdict.html
+[404] https://www.rawstory.com/trump-probation-hurdle-interacting-felons/
+[405] https://www.forbes.com/sites/zacheverson/2024/06/28/new-jersey-does-not-renew-trump-liquor-licenses-in-wake-of-felony-conviction/
+[406] https://fortune.com/2024/06/10/donald-trump-liquor-licenses-new-jersey-golf-courses-felony-convictions-moral-turpitude/
+[407] https://www.salon.com/2024/06/28/new-jersey-decides-not-to-automatically-renew-some-liquor-licenses-schedules-july-hearing/
+[408] https://www.usnews.com/news/top-news/articles/2024-06-28/new-jersey-says-trumps-convictions-might-jeopardize-his-golf-clubs-liquor-licenses
+[409] https://www.businessinsider.com/trumps-jersey-liquor-license-revocation-hearing-delayed-2024-7
+[410] https://www.bbc.com/news/articles/crgg4kv0682o
+[411] https://supreme.justia.com/cases/federal/us/418/24/
+[412] https://medium.com/the-polis/what-if-trumps-dna-sample-links-him-to-another-crime-4bd38c9c01ff
+[413] https://apnews.com/article/trump-hush-money-felon-rights-708d782fe985f2c08d7b82ef13f17dd9
+[414] https://www.forbes.com/sites/ellenmatloff/2023/04/04/trump-may-be-swabbed-for-dna-sample-upon-surrender-how-might-his-dna-be-used/
+[416] https://www.bbc.com/news/articles/c3gg51e72qgo
+[417] https://www.cbsnews.com/news/trump-gag-order-new-york-trial-hush-money/
+[418] https://www.foxnews.com/politics/manhattan-prosecutors-oppose-trump-request-lift-gag-order-urge-court-protect-integrity-case
+[419] https://www.businessinsider.com/trump-asks-judge-to-lift-gag-order-manhattan-trial-2024-6
+[420] https://sg.news.yahoo.com/convicted-trump-now-wants-gag-030517228.html
+[421] https://www.cnn.com/2024/06/18/politics/trump-gag-order-new-york-appeal/index.html
+[422] https://www.newsweek.com/judge-merchan-lifting-gag-order-may-bite-trump-prosecutor-1918263
+[423] https://www.washingtonpost.com/dc-md-va/2024/06/25/trump-merchan-gag-order/
+[424] https://www.cnn.com/2024/06/25/politics/trump-gag-order/index.html
+[425] https://thehill.com/regulation/court-battles/4791625-ny-supreme-court-block-trump-sentence/
+[426] https://www.bloomberg.com/news/articles/2024-08-05/supreme-court-rejects-gop-states-on-trump-s-new-york-conviction?embedded-checkout=true
+[427] https://newrepublic.com/maz/post/189481/trump-reaction-hush-money-judge-ruling-not-immune
+[428] https://www.thedailybeast.com/trump-rages-at-judge-juan-merchan-even-after-getting-a-slap-on-wrist/
+[429] https://www.cbsnews.com/news/trump-seeks-overturn-new-york-conviction-citing-supreme-court-immunity/
+[430] https://nymag.com/intelligencer/article/trump-throws-another-hail-mary-on-hush-money-case.html
+[431] https://www.businessinsider.com/trump-tests-limits-scotus-immunity-ruling-wants-manhattan-conviction-tossed-2024-7
+[432] https://abcnews.go.com/US/supreme-court-ruling-trumps-criminal-hush-money-case/story?id=111625803
+[433] https://thehill.com/homenews/4754512-supreme-court-immunity-trump-conviction/
+[434] https://www.washingtonpost.com/national-security/2024/07/11/trump-immunity-new-york-trial-dismiss/
+[435] https://thehill.com/regulation/court-battles/4823780-trump-hush-money-judge-recusal/
+[436] https://newsweek.com/judge-trump-hush-money-case-moves-date-presidential-immunity-ruling-1935356
+[437] https://www.bloomberg.com/news/articles/2024-08-06/trump-hush-money-judge-says-he-ll-decide-on-recusal-by-next-week
+[438] https://www.cnn.com/politics/live-news/trump-harris-election-09-03-24#h_90f8560faf3692b1a708de597714d6be
+[439] https://www.cnn.com/2024/09/06/politics/judge-delays-trumps-sentencing
+[440] https://www.msn.com/en-us/news/politics/donald-trump-s-new-york-hush-money-sentencing-in-jeopardy-as-case-deadlines-paused/ar-AA1tWXz1
+[441] https://www.huffpost.com/entry/trump-hush-money-trial-president-elect_n_672c2e0ae4b01cfbdad3b8ad
+[442] https://edition.cnn.com/2024/11/19/politics/donald-trump-new-york-hush-money/index.html
+[443] https://cnn.com/2024/12/16/politics/trump-immunity-hush-money-conviction-merchan/index.html
+[444] https://www.nytimes.com/2024/12/16/nyregion/trump-immunity-criminal-case.html
+[445] https://www.huffpost.com/entry/trump-asks-federal-court-to-intervene-hush-money-case_n_66d1a618e4b0c8d61a38a520
+[446] https://www.huffpost.com/entry/federal-judge-rejects-intervene-trump-hush-money_n_66d782dae4b0830f6e9290a8
+[447] https://abcnews.go.com/US/trump-asks-appeals-court-move-new-york-hush/story?id=114809490
+[448] https://edition.cnn.com/2024/09/04/politics/trump-hush-money-case-federal-court/index.html
+[449] https://reuters.com/legal/trump-urges-judge-dismiss-hush-money-case-due-election-victory-2024-12-03/
+[450] https://www.cbsnews.com/news/trump-hush-money-conviction-new-york-prosecutors/
+[451] https://www.documentcloud.org/documents/25451175-bragg-filing-in-trump-hush-money-case-opposing-dismissal/
+[452] https://thehill.com/regulation/court-battles/5035162-trump-hush-money-conviction-future/
+[453] https://www.cbsnews.com/news/trump-hush-money-case-lawyers-new-york-prosecutors-alternative/
+[454] https://www.cbsnews.com/news/trump-juror-misconduct-new-york-criminal-case/
+[455] https://www.nycourts.gov/LegacyPDFs/press/PDFs/Letter4.pdf
+[456] https://www.usatoday.com/story/news/politics/elections/2024/12/17/trump-alleged-juror-misconduct-hush-money-trial/76875993007/
+[457] https://www.washingtonpost.com/national-security/2025/01/03/trump-new-york-hush-money-conviction-sentence/
+[458] https://www.reuters.com/legal/trump-must-be-sentenced-hush-money-criminal-case-jan-10-judge-rules-2025-01-03/
+[459] https://www.cnn.com/2025/01/06/politics/trump-delay-hush-money-sentencing/index.html
+[460] https://www.politico.com/news/2025/01/07/trump-hush-money-sentencing-appeal-denied-00196892
+[461] https://www.cbsnews.com/news/what-happens-if-trump-is-convicted-in-new-york-trial/
+[462] https://www.yahoo.com/news/secret-gearing-jail-donald-trump-202438673.html
+[463] https://apnews.com/article/trump-hush-money-stormy-daniels-sentencing-66dbfa66613aaae29a3959e619b7593c
+[464] https://news.sky.com/story/donald-trump-trial-criminal-case-hush-money-live-stormy-daniels-court-convicted-13116372
+[465] https://www.msn.com/en-us/news/politics/trump-to-seek-overturn-of-ny-hush-money-conviction-after-immunity-ruling-nyt-says/ar-BB1phsWM?ocid=BingNewsSerp
+[466] https://www.huffpost.com/entry/trumps-hush-money-sentencing-delayed-until-september_n_66844dcae4b05d5a5eb3b07b
+[467] https://www.huffpost.com/entry/trump-delay-hush-money-sentencing_n_66be1cafe4b04090eac438c6
+[468] https://abcnews.go.com/Politics/timeline-manhattan-district-attorney-case-donald-trump/story?id=98389444
+[469] https://www.huffpost.com/entry/donald-trump-hush-money-sentencing-date-merchan_n_66db0dd8e4b0abbb7b448bd1
+[470] https://www.huffpost.com/entry/trump-hush-money-trial-sentencing-canceled_n_6740aa43e4b078cce4af16fe
+[471] https://www.huffpost.com/entry/trump-ordered-to-appear-for-sentencing-in-hush-money-trial_n_67784e3ce4b0f0fdb7b1a450
+[472] https://www.nbcnews.com/politics/donald-trump/trump-seeks-stay-sentencing-hush-money-case-rcna186373
+[473] https://edition.cnn.com/2025/01/08/politics/donald-trump-supreme-court-hush-money/index.html
+[474] https://www.politico.com/news/2025/01/08/trump-asks-supreme-court-to-block-hush-money-sentencing-00197046?cid=apn
+[475] https://www.huffpost.com/entry/new-yorks-highest-appeals-court-declines-block-trumps-sentencing-hush-money-case_n_677fe58fe4b07fd9418992b0
+[476] https://www.politico.com/news/2025/01/09/supreme-court-trump-hush-money-sentencing-decision-00197432
+[477] https://www.politico.com/news/2025/01/10/trump-unconditional-discharge-sentencing-what-that-means-00197500
+[478] https://edition.cnn.com/politics/live-news/trump-hush-money-trial-05-30-24/h_c63f839b1060bb1d9201313971f4894d
+[479] https://www.cnn.com/2024/05/30/politics/video/trial-verdict-trump-jail-time-sentencing-honig-digvid

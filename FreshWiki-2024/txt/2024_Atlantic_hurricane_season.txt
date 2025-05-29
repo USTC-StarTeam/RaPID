@@ -1,0 +1,498 @@
+2024_Atlantic_hurricane_season
+
+The 2024 Atlantic hurricane season was a very active and extremely destructive Atlantic hurricane season, producing 18 named storms, 11 hurricanes, and 5 major hurricanes; it was also the first since 2019 to feature multiple Category 5 hurricanes. Additionally, the season had the highest accumulated cyclone energy (ACE) rating since 2020, with a value of 161.6 units. The season officially began on June 1, and ended on November 30. These dates, adopted by convention, have historically described the period in each year when most subtropical or tropical cyclogenesis occurs in the Atlantic Ocean.
+The first system, Tropical Storm Alberto, developed on June 19, making it the latest first named storm since 2014. Alberto made landfall near Tampico, Tamaulipas the next day. Afterward, two storms formed in quick succession at the end of June, with the first, Hurricane Beryl, being a rare June major hurricane, the earliest Category 5 Atlantic hurricane on record, and only the second recorded in July. Next came Tropical Storm Chris, which formed on the last day of June and quickly made landfall in Veracruz. Activity then quieted down across the basin for most of July after Beryl dissipated, with no new tropical cyclones forming due to the presence of the Saharan air layer (SAL) across much of the Atlantic. In early August, Hurricane Debby developed in the Gulf of Mexico before making landfall in Florida and South Carolina. Shortly thereafter came Hurricane Ernesto, which impacted the Lesser Antilles, Puerto Rico, and Bermuda in mid-August. After an unusual lull in activity in late August and early September, Hurricane Francine formed in the Gulf, then made landfall in Louisiana.
+Activity dramatically increased in late September with several strong storms developing. Hurricane Helene developed over the western Caribbean before moving toward the Big Bend region of Florida and making landfall there on September 26 at Category 4 strength, causing catastrophic flooding and numerous fatalities over central Appalachia. Hurricane Kirk formed soon after and rapidly intensified into a Category 4 hurricane in the Eastern Atlantic before striking Europe as a post-tropical cyclone. October was also very active, with four named storms developing during the month, of which all but one were hurricanes. The strongest, Hurricane Milton, formed in the Gulf of Mexico and explosively intensified into the second Category 5 hurricane of the season; it was also the strongest tropical cyclone worldwide in 2024. Milton later made landfall near Siesta Key, Florida, on October 9, as a Category 3 hurricane. In mid-October, Tropical Storm Nadine and Hurricane Oscar formed in quick succession, with the former quickly making landfall in Belize while the latter rapidly intensified into a Category 1 hurricane, and achieved the smallest hurricane-force wind field on record in the Atlantic. It made landfall in Inagua and Cuba. In early November, Hurricane Rafael made landfall in western Cuba at Category 3 strength, and later attained sustained winds of 120 mph (195 km/h), tying 1985's Hurricane Kate as the strongest November hurricane on record in the Gulf of Mexico. In mid-November, the last system, Tropical Storm Sara, moved very slowly along the coast of Honduras, before making landfall in Belize, while producing widespread heavy rainfall resulting in severe flash flooding and mudslides across northern Central America.
+
+# Seasonal forecasts
+
+In advance of, and during, each hurricane season, several forecasts of hurricane activity are issued by national meteorological services, scientific agencies, and noted hurricane experts. These include forecasters from the United States National Oceanic and Atmospheric Administration (NOAA)'s Climate Prediction Center, Tropical Storm Risk (TSR), the United Kingdom's Met Office (UKMO), and Colorado State University (CSU). The forecasts include weekly and monthly changes in significant factors that help determine the number of tropical storms, hurricanes, and major hurricanes within a particular year. According to NOAA and CSU, the average Atlantic hurricane season between 1991 and 2020 contained roughly 14 tropical storms, 7 hurricanes, 3 major hurricanes, and an accumulated cyclone energy (ACE) index of 72–111 units. Broadly speaking, ACE is a measure of the power of a tropical or subtropical storm multiplied by the length of time it existed [3] [25]. It is only calculated for full advisories on specific tropical and subtropical systems reaching or exceeding wind speeds of 39 mph (63 km/h). NOAA typically categorizes a season as above-average, average, or below-average based on the cumulative ACE index, but the number of tropical storms, hurricanes, and major hurricanes within a hurricane season is sometimes also considered. 
+
+## Pre-season forecasts
+
+On December 11, 2023, Tropical Storm Risk (TSR) released its extended range forecast for the 2024 season, predicting an above-average season with 20 named storms, nine hurricanes and four major hurricanes. [nb 1]  They took into account ongoing warm sea-surface temperatures (SST) throughout most of the basin, specifically in the Main Development Region and in the Caribbean Sea on top of the 2023–2024 El Niño event which was predicted to weaken to a neutral phase by August 2024 [5]. TSR updated their forecast on May 30, predicting 24 named storms, 12 hurricanes, and 6 major hurricanes with an ACE of 226 units [5]. On April 4, 2024, Colorado State University (CSU) released its forecast, calling for an extremely active hurricane season, with 23 named storms, 11 hurricanes and five major hurricanes, with an ACE index of 210 units, citing the extremely warm Atlantic sea surface temperatures and the development of a La Niña by the summer [16]. On April 5, Météo-France (MFM) issued a prediction of 21 named storms and 11 hurricanes [6]. They cited warm sea surface temperatures, wind patterns, and humidity. On April 8, TSR updated their prediction, predicting 23 tropical storms, 11 hurricanes, and five major hurricanes, with an accumulated cyclone energy (ACE) index of 217 units [7]. They predicted that moderate La Niña conditions would occur in the summer and persist into fall and above average sea surface temperatures would also persist into summer. On the same day, the University of Arizona (UA) posted their forecast calling for a very active season featuring 21 named storms, 11 hurricanes, 5 major hurricanes, and an ACE index of 156 units [8]. On April 12, University of Missouri (MU) issued their prediction of 26 named storms, 11 hurricanes, and five major hurricanes [9]. On April 16, NCSU issued their prediction of 15–20 named storms, 10–12 hurricanes, and 3–4 major hurricanes [10]. On April 24, the University of Pennsylvania (UPenn) issued their prediction of a record-breaking season, predicting an unprecedented 33 (±6) named storms [11]. They cited expected moderate La Niña conditions and record-warm sea surface temperatures in the tropical Atlantic tied to large-scale warming. On May 6, the Servicio Meteorológico Nacional (SMN) issued their forecast of 20–23 tropical storms, 9–11 hurricanes, and 4–5 major hurricanes [12]. On May 22, UKMO published their forecast for the 2024 season, calling for 22 named storms, 12 hurricanes, and 4 major hurricanes, and an ACE index of 212 units [13]. One day later, NOAA published their hurricane season prediction, forecasting an above-average season of 17–25 named storms, 8–13 hurricanes, and 4–7 major hurricanes with an 85% chance of being an above-average season [14]. TSR updated their predictions on May 30 with 24 tropical storms, 12 hurricanes, and 6 major hurricanes with an ACE of 226 [15]. 
+
+## Mid-season forecasts
+
+On June 11, CSU also updated its predictions, continuing to expect an extremely active season, with 23 tropical storms, 11 hurricanes, five major hurricanes, and an ACE of 210. On June 23, UA updated its prediction with 23 named storms, 10 hurricanes, five major hurricanes, and an ACE of 231 [17]. TSR updated its predictions on July 5 with 26 tropical storms, 13 hurricanes, and six major hurricanes with an ACE of 240 [18]. On July 9, CSU updated its predictions, anticipating an even more active season, with 25 tropical storms, 12 hurricanes, six major hurricanes, and an ACE of 230 [19]. On August 8, NOAA updated its prediction of the total number of named storms slightly, while still anticipating a highly active season [20]. 
+
+# Seasonal summary
+
+## Background
+
+Officially, the 2024 Atlantic hurricane season began on June 1, and ended on November 30. In all, eighteen tropical cyclones formed, and all of them became named storms . Eleven storms became hurricanes, of which five strengthened into major hurricanes. Additionally, one potential tropical cyclone that was designated did not develop into a tropical cyclone [28]. Altogether, there were 12 landfalling systems this season.. This season's ACE index, as calculated by the Colorado State University (CSU) using data from the NHC was approximately 161.6 units. This number represents sum of the squares of the maximum sustained wind speed (knots) for all named storms while they are at least tropical storm intensity, divided by 10,000 [73]. Therefore, tropical depressions are not included.. 
+
+## Early activity
+
+Though the 2024 Atlantic hurricane season officially began on June 1, it had its slowest start since 2014. This was due to a large stationary heat dome over Central America and Mexico, as tropical cyclogenesis in June often occurs over the Gulf of Mexico and northern Caribbean Sea [30]. The season's first named storm, Tropical Storm Alberto, formed in the western Gulf of Mexico on June 19, [nb 2]  then proceeded to make landfall on the northeastern coast of Mexico the following day [31] [33]. Next came Hurricane Beryl, the earliest-forming Category 4 and Category 5 Atlantic hurricane on record in a season and the strongest June and July hurricane on record in the basin . After forming on June 28 in the main development region (MDR), the storm rapidly intensified as it approached the Windward Islands,    peaking as a Category 5 hurricane early on July 2 [35] [36] [37]. Short-lived Tropical Storm Chris developed in the southwestern Gulf of Mexico on June 30,  quickly moving ashore in Mexico the following morning [38] [39]. Beryl continued on, impacting Jamaica and landfalling on the Yucatán Peninsula and Texas [40]. After Beryl dissipated on July 11, the Atlantic basin would fall under a period of inactivity due to the Saharan air layer, which suppresses tropical activity, persisting over the open Atlantic alongside dry air typically occurring during this period of the season [41] [42] [43]. Activity resumed at the start of August, with Hurricane Debby developing in the Gulf of Mexico on August 3,   before making landfall in Florida as a Category 1 hurricane two days later [45] [46]. It then slowed down over land afterwards and dropped heavy rain and caused widespread flooding in the Southeastern United States. A few days after Debby dissipated, Hurricane Ernesto formed on August 12 in the Western Main Development Region. Ernesto caused damage to the Lesser Antilles on August 14 as a Category 1 hurricane [47]. Two days later on August 16, it peaked as a Category 2 hurricane [48]. The next day it made landfall at Bermuda as a weakening Category 1 storm [49]. 
+
+## Peak to late season
+
+Despite the unseasonably warm temperatures in the North Atlantic, the equatorial Atlantic cooled rapidly into an "Atlantic Niña" due to upwelling caused by shifts in the trade winds and the Atlantic zonal mode. The effects of an Atlantic Niña is not certain but it is contrary to the assumptions that the NOAA used in their forecast of seasonal activity. CSU associated the quietness of the Atlantic during the month of August and the period after Ernesto dissipated–despite predictions of an extremely active peak period–to tropical waves forming too far north, warm upper-level winds causing destabilization, wind shear in the East Atlantic, and factors associated with the Madden–Julian oscillation [51]. After nearly three weeks of inactivity, the longest in over fifty years at that point in the season,  Hurricane Francine formed on September 9 [53]. Tropical Storm Gordon followed suit two days later on September 11,  with Francine making landfall in Louisiana as a Category 2 system later that day [54] [55]. Four systems developed during the final week of September, starting with Hurricane Helene on September 24 [56]. The system affected the Yucatán Peninsula on September 25, before making landfall in the Big Bend region of Florida late on September 26 as a Category 4 hurricane, where it rapidly weakened into a tropical depression on September 27 [57]. Hurricane Isaac formed on September 26 and later peaked as a Category 2 hurricane [58]. On September 27, Tropical Storm Joyce formed just west of the Cabo Verde Islands [59]. Activity in September ended with the formation of Hurricane Kirk on September 29, which reached its peak intensity on October 4. [60]. Early October saw the formations of Hurricanes Leslie and Milton, which, along with Kirk, marked the first time on record that there were three simultaneously active hurricanes in the Atlantic basin after September. Milton notably underwent explosive rapid intensification within the Gulf of Mexico to become the second Category 5 hurricane of the season, making 2024 the first Atlantic hurricane season since 2019 to feature multiple Category 5 hurricanes [61] [62] [63]. It became the first Atlantic hurricane since Hurricane Wilma to reach a pressure below 900 mb (26.58 inHg) and the second-most intense tropical cyclone ever recorded over the Gulf of Mexico, only after Hurricane Rita [64]. Later in the month, two tropical cyclones formed on October 19. Tropical Storm Nadine formed early in the day near the coast of Belize, where it made landfall a few hours later, while Hurricane Oscar formed near Turks and Caicos,  becoming the smallest hurricane on record in the Atlantic basin [65]. On November 2, Tropical Storm Patty developed from a non-tropical gale low just northeast of the Azores [66] [67]. Next came Hurricane Rafael, which formed in the southwestern Caribbean [68]. It made landfall in Cuba at Category 3 strength [69]. Then, in mid-November, the final storm of the season, Tropical Storm Sara formed over the western Caribbean, before striking the Yucatán and dissipated on November 18, just under two weeks before the official end of the season [70]. Overall, seven hurricanes formed after September 25, the most on record in the basin [71]. 
+
+# Systems
+
+## Tropical Storm Alberto
+
+A Central American gyre resulted in the formation of convection over the Gulf of Tehuantepec on June 15. As the convective activity progressed northward over southeastern Mexico and exited into the Bay of Campeche, an area of low pressure gradually developed on June 17 about 105 miles (169 km) northwest of Ciudad del Carmen, Mexico. The system gradually became better organized, though still remained rather broad, developing into Tropical Storm Alberto by 12:00 UTC on June 19. Under the influence of light vertical wind shear and warm sea surface temperatures, Alberto intensified up to landfall, attaining peak winds of 50 mph (85 km/h) and a minimum central pressure of 992 mbar (29.29 inHg) by the morning of June 20. Alberto moved ashore at 09:00 UTC that day near Tampico, Mexico, and rapidly weakened over land, dissipating just nine hours later. Alberto brought heavy rainfall to the states of Coahuila, Nuevo León, and Tamaulipas in northeast Mexico. Rainfall from Alberto resulted in four deaths in Mexico, all in Nuevo León: one in Monterrey due to river flooding, one in El Carmen, and two in Allende (the latter three were indirect electrocution deaths). As of October 2024, according to AON, damages in Mexico are at USD$140 million [74] [75]. Alberto's large wind field produced tropical storm-force winds along the coastline of Texas, despite the center being located over northeastern Mexico [76]. A 3–4 feet (0.9–1 m) storm surge inundated coastal communities between Corpus Christi Bay and Galveston. Storm surge and coastal flooding damaged piers, roads, and sand dunes, as well as causing several high water rescues [73] [77]. One person drowned at Galveston due to rip currents generated by the storm [73]. Alberto brought significant rainfall to the Galveston area, leading to freshwater flooding [170]. Additionally, an EF1 tornado touched down near Bellville, causing some property damage along its 2 mi (3.2 km) long path,  and two EF0 tornadoes occurred near Rockport [79]. Damage from Alberto in Texas is estimated to be at USD$125 million [80] [81]. To the east, coastal communities in Louisiana, especially Grand Isle, also received some flooding [73]. 
+
+## Hurricane Beryl
+
+On June 25, the NHC began monitoring a tropical wave producing disorganized showers and thunderstorms just south of Cabo Verde. The following day, the wave began showing signs of organization, with modest thunderstorm activity, curved bands, and some spin development [83]. The disturbance further organized, becoming Tropical Depression Two over the central tropical Atlantic on June 28 [84]. Located south of a strong subtropical ridge, the depression moved generally westward through an unusually favorable environment for the time of year with warm sea surface temperatures (SST) and minimal wind shear, consequently beginning a period of rapid intensification [85]. The depression strengthened into Tropical Storm Beryl six hours after formation,  and the thunderstorms quickly organized into a central dense overcast, with a symmetric cloud pattern surrounded by rainbands [86]. Late on June 29, Beryl intensified into a hurricane [87]. The inner core of the thunderstorms organized into an eye,  which became clear and symmetrical [88]. Observations from the Hurricane Hunters indicated that Beryl became a major hurricane on June 30. The hurricane strengthened further into a Category 4 hurricane [89]. Beryl maintained an initial peak intensity with winds of 130 mph (215 km/h). Beryl then underwent an eyewall replacement cycle and briefly weakened to a Category 3 hurricane early on July 1,  but regained Category 4 strength six hours later once the cycle was completed [90] [91]. At 15:10 UTC the same day, Beryl made landfall in Carriacou, Grenada, with sustained winds of 150 mph (240 km/h) [92]. At 03:00 UTC the next day, Beryl further intensified into a Category 5 hurricane,  peaking a few hours later with winds of 165 mph (270 km/h), while moving to the west-northwest at about 20 mph (35 km/h) [93] [38]. Later that same day, Beryl passed south of Isla Beata, Dominican Republic, where it weakened to Category 4 strength  as a result of wind shear [94] [95]. Moving generally west-northwestward under the influence of the strong ridge to its north, Beryl's center passed very near the southern coast of Jamaica on the afternoon of July 3. It remained a Category 4 hurricane, despite continued westerly shear. At 06:00 UTC on July 4, while southeast of the Cayman Islands, Beryl weakened to Category 3 strength [43]. Beryl continued to weaken, and was downgraded to a Category 2 hurricane that afternoon [97]. Late that same day though, data from an Air Force reconnaissance team showed that Beryl had re-strengthened to a minimal Category 3 hurricane [98]. It weakened once more to Category 2 intensity, however, a few hours later [99]. At 11:00 UTC on July 5, the system made landfall just northeast of Tulum, Quintana Roo, with sustained winds of 110 mph (175 km/h) [100]. Inland, Beryl quickly weakened into a Category 1 hurricane,  and then a tropical storm a few hours later [42] [101]. The tropical storm then emerged into the Gulf of Mexico as it was steered by a mid-level ridge located over the southeastern U.S [102]. That night and into the next day, in addition to a broader inner core, Beryl was beset by an infusion of dry air and by moderate wind shear, which kept the storm from strengthening appreciably [103]. Even so, by the afternoon of July 6, its convective structure had improved some and had become more persistent [104]. At 04:00 UTC on July 8, Beryl regained hurricane intensity whilst approaching the Texas coast [105]. Shortly thereafter, Beryl made its final landfall near Matagorda, Texas with sustained winds of 80 mph (130 km/h) [106]. The system quickly weakened inland, transitioning to a post-tropical cyclone early on July 9 [41]. By the following day, the storm's remnants were moving through the Lower Peninsula of Michigan, tracking northeastward into Ontario before dissipating on July 11 [107]. On June 29, the prime minister of Saint Lucia ordered a national shutdown in anticipation of Beryl's impacts on the island nation. Caribbean Airlines postponed several flights between Barbados, Grenada, Saint Vincent and the Grenadines, and Trinidad and Tobago the next day [109]. A Caribbean Community meeting in Grenada, scheduled to run from July 3 to 5, was canceled [110]. Effects and casualties from the hurricane were widespread [111]. Beryl caused catastrophic damage on Grenada's northern islands of Carriacou and Petite Martinique and on several of Saint Vincent and the Grenadines' southern islands such as Union Island and Canouan where an estimated 95% of buildings were damaged or destroyed. In Venezuela, six people were killed and several were missing [112] [113]. Sustained damage was also recorded in the Yucatán as well, although it was generally limited to downed trees and power lines, and damage to roofs; there was also widespread flooding [114]. In the United States, the state of Texas experienced severe flooding and wind damage, with reports of at least 22 dead in the Greater Houston area [115]. Additionally, the outer bands of the hurricane produced a prolific three-day tornado outbreak, with 68 tornadoes confirmed in Texas, Louisiana, Arkansas, Mississippi, Indiana, Kentucky, New York, and Ontario [116] [117]. A total of 71 fatalities have been confirmed, and preliminary damage estimates are more than US$6.86 billion [118] [119]. According to Gallagher Re, total losses are estimated at US$7.74 billion as of October 2024 [120] [121] [122]. 
+
+## Tropical Storm Chris
+
+On June 24, the NHC began monitoring a tropical wave east-southeast of the Windward Islands producing disorganized showers and thunderstorms. The disturbance moved generally westward across the Caribbean for several days,  before traversing the Yucatán Peninsula and emerging in the Bay of Campeche early on June 30 [124] [125]. There, an area of low pressure formed, which quickly became better organized [126]. Tropical Depression Three formed later that day,  and strengthened into Tropical Storm Chris six hours later [127]. Shortly thereafter, the system made landfall in the municipality of Vega de Alatorre, Veracruz, at peak intensity [39]. Chris rapidly weakened over the rough terrain of Mexico, dissipating early on July 1 [40]. Chris generated heavy rains in the states of Chiapas, Hidalgo, Morelos, San Luis Potosí, and Veracruz, causing flooding, overflowing rivers, and mudslides. Consequently, local authorities in Veracruz closed schools in 41 municipalities and opened 9 temporary shelters, which housed 86 people [129]. Flooding also damaged numerous homes, including almost 2,000 in Huiloapan alone [40] [129]. In Hidalgo, flooding forced the evacuation of around 200 families in Yahualica [129]. More than 20,000 people were affected by flooding in Xochiatipan, which inundated homes and a clinic. An elderly man was killed in San Salvador after he was buried by a mudslide. In addition, four police officers in Tepetlán, Veracruz, were killed after being swept away by an overflowing stream while surveying storm damage [130]. The government of Veracruz made payouts totaling MXN$143.987 million (USD$7.06 million) to repair the damage caused by the storm, while the government of Tamaulipas spent MXN$800 million-1 billion (USD$39.2-48.9 million) to repair the damage caused by the storm [131]. 
+
+## Hurricane Debby
+
+On July 26, the NHC started tracking a tropical wave with the potential for development into a tropical cyclone. As it moved westward, the NHC noted that the tropical wave was becoming well-defined,  designating it Potential Tropical Cyclone Four on August 2 [134] [135]. That night, the system developed a closed circulation just off the southern coast of Cuba, causing the NHC to upgrade it into a tropical depression [136]. Tropical Depression Four entered the Gulf of Mexico where it further intensified into Tropical Storm Debby later on August 3 [45]. In the Gulf of Mexico, it intensified from tropical storm to hurricane status late on August 4, before making landfall in Florida [46]. On August 5, Debby made its first landfall near Steinhatchee, Florida [137]. On August 8, Debby made a second landfall in South Carolina, approximately 20 miles (32 km) northeast of Charleston [138]. Steadily weakening once inland, later that day, Debby weakened into a tropical depression [139]. Early the next day, Debby became a post-tropical cyclone [140]. The remnants of Debby moved into Canada on August 10 [141]. Rainfall impacted nations across the Caribbean, especially Cuba and Puerto Rico. States of emergency were declared for the states of Florida, Georgia, and North and South Carolina ahead of the storm [143] [144] [145]. Heavy rains fell as a result of the storm moving slowly, with accumulations peaking near 20 in (510 mm) of rain near Sarasota, Florida. Altogether, 10 fatalities have been attributed to the storm. Preliminary damage reports are estimated to be near US$12.3 billion. Rain also severely impacted Quebec, with Debby causing the heaviest one-day rain in the 380-year history of Montreal  and becoming the most costly climate event in Quebec history, with more than CAD $2.5 billion in insured damages [146] [147]. According to Gallagher Re, total losses are estimated to be at US$7 billion as of October 2024 [148]. 
+
+## Hurricane Ernesto
+
+On August 8, the NHC noted that an area of low pressure could form in the central or tropical Atlantic. Later that day, they began tracking a tropical wave southwest of Cabo Verde [149]. Shower activity associated with the wave began increasing two days later,  later showing signs of organization on August 11 [150] [151]. As a result, later that day, the disturbance developed into a low-pressure area [152]. As the system was expected to impact the Leeward Islands, it was designated Potential Tropical Cyclone Five soon after [153]. The next day, the system organized enough to become a tropical storm, being named Ernesto [154]. Ernesto would intensify as it moved through the Lesser Antilles, impacting the Virgin Islands and Puerto Rico [47]. Generally favorable environment conditions allowed Ernesto to intensify further, becoming a hurricane on August 14 [155]. Although it continued to be disrupted by dry air intrusion, the storm intensified further, peaking as a Category 2 hurricane a day later [48]. Following this, Ernesto would weaken due to wind shear before making landfall in Bermuda at 08:30 UTC on August 17 as a Category 1 hurricane [49]. After making landfall, Ernesto would then weaken further into a tropical storm due to dry air later that day [50]. However, at 21:00 UTC the next day, Ernesto re-intensified into a Category 1 hurricane as environmental conditions began to improve around Ernesto [156]. After a brief period of re-intensification throughout August 19, re-strengthening to sustained winds of 90 mph (145 km/h),  Ernesto began to weaken once again due to colder sea surface temperatures and environmental conditions becoming unfavorable, as it brushed the coast of Newfoundland [157] [158]. As Ernesto continued to quickly move northeastwards during the middle of August 20, Ernesto would become post-tropical as the NHC ceased issuing further advisories on the system [159]. Several main roads on the island of Guadeloupe were closed due to the storm. Wind gusts on the island of Culebra reached 86 mph (138 km/h),  where downed trees blocked roads and roofs were blown off [161] [162]. More than 45,000 customers lost power in the Virgin Islands  as a result of hurricane force wind gusts [155]. The entirety of Saint Croix and Saint Thomas lost electricity. Over 728,000 households in Puerto Rico lost power, around half of the island [162]. An additional 235,000 households suffered water outages. In Bermuda, power outages were recorded as well [163]. In South Carolina, two people died due to rip currents caused by Ernesto [164]. In North Carolina, one person was found dead also due to rough sea conditions caused by Ernesto [165]. In New York City, with swells predicted to reach 6 ft (1.8 m), mayor Eric Adams ordered all beaches in Brooklyn and Queens to close [166]. According to Aon, total losses were estimated to be at US$520 million [167]. 
+
+## Hurricane Francine
+
+On August 26, the NHC noted that a low-pressure area could form in the Central Tropical Atlantic. Two days later, they began tracking a tropical wave producing disorganized showers [169]. Initially, showers from the wave were a bit more concentrated along its axis,  becoming more organized by August 31 [170] [171]. However, an unconducive environment for development caused the wave to become disorganized [172]. Several days later, on September 7, the wave crossed into the Bay of Campeche,  becoming a low-pressure area the next day [173] [174]. Due to the system's imminent threat to land, it was designated Potential Tropical Cyclone Six at 21:00 UTC on September 8 [175]. Higher wind gusts in the system were enhanced by a barrier jet near the Sierra Madre Oriental [176]. Early the next day, the disturbance organized into Tropical Storm Francine [176]. As the system meandered in the gulf, its track trended east due to a high pressure system in Florida [54]. Francine's core continued to organize, becoming a hurricane 03:00 UTC September 11 [177]. As Francine continued to move northeastwards, steady rapid intensification occurred [178]. Despite a continuous increase in wind shear, Francine would strengthen into a Category 2 hurricane just south of Louisiana, achieving peak intensity of 100 mph (155 km/h) [179]. At that intensity, Francine made landfall in Terrebonne Parish, Louisiana at 22:00 UTC on September 11 [180]. Rapid weakening began after the hurricane made landfall, and at 03:00 UTC on September 12, Francine weakened into a tropical storm and then a tropical depression at 06:00 UTC and finally after another three hours remained as a remnant low for one day [181]. Flooding occurred along much of the Northeast Gulf of Mexico. Oil and natural gas production in the Gulf of Mexico was also disrupted [183] [184] [185] [186]. No fatalities were reported as a result of Francine [187]. According to NOAA, losses are at US$1.3 billion as of January 2025 [188]. 
+
+## Tropical Storm Gordon
+
+A tropical wave emerged into the Atlantic from the west coast of Africa on September 9. Heavy rains and gusty winds impacted the Cabo Verde Islands as the wave passed through on the next day. Being in a favorable environment for development,  showers and thunderstorms quickly began showing signs of organization in the disturbance, with a tropical depression developed around 12:00 UTC on September 11 approximately 230 mi (370 km) west of the islands [190] [191]. Slow further intensification occurred, with the depression not becoming Tropical Storm Gordon until about 48 hours later. The center of the system remained to the west of its deep convection, and persistent wind shear prevented Gordon from significantly strengthening [190]. Early on September 14, Gordon peaked with winds of 45 mph (75 km/h) and a minimum pressure of 1,004 mbar (29.6 inHg) [192]. Gordon weakened back to a tropical depression late on September 15 and dissipated on September 17 about 840 mi (1,350 km) east of the Leeward Islands. The NHC continued to monitor the system for potential redevelopment until September 21, though strong wind shear kept any convection away from the center of circulation [190]. 
+
+## Hurricane Helene
+
+On September 17, the NHC noted that tropical cyclogenesis could occur somewhere in the northwestern Caribbean Sea in less than a week. Several days later, on September 22, they began tracking a broad low-pressure area located in the western Caribbean [194]. As it traversed an environment conducive for development,  showers and thunderstorms associated with the disturbance began to consolidate [195] [196]. Due to the system's imminent threat to land, it was designated Potential Tropical Cyclone Nine at 15:00 UTC on September 23 [197]. The system would acquire tropical characteristics over the next twenty-four hours, and was upgraded to Tropical Storm Helene at 15:00 UTC on September 24 [198]. The system continued strengthening, and by the next day, NHC upgraded the system to a hurricane. On September 26, Helene made landfall just east of the mouth of Florida's Aucilla River at peak intensity. Helene quickly weakened as it moved quickly inland before degenerating into a post-tropical cyclone over Tennessee on September 27 [199]. The system then stalled over the state before dissipating on September 29.. In advance of Helene's expected landfall, the governors of Florida and Georgia declared states of emergency due to the significant impacts expected, including very high storm surge along the coast and hurricane-force gusts as far inland as Atlanta. Hurricane warnings also extended further inland due to Helene's fast motion. The storm also caused catastrophic rainfall-triggered flooding, particularly in western North Carolina and eastern Tennessee, and spawned numerous tornadoes. As of November 14, a total of about 246 deaths have been attributed to Helene, making it the second-deadliest hurricane to strike the continental United States in fifty years, after Katrina in 2005 and the deadliest overall since Maria in 2017. Governor Cooper stated that Helene caused at least $53 billion in damages and recovery needs in western North Carolina [200]. 
+
+## Hurricane Isaac
+
+On September 24, a non-tropical low formed along a frontal boundary over the north Atlantic. The low detached from the frontal boundary and acquired organized convection, transitioning into a tropical storm late on September 25 about 590 mi (955 km) northeast of Bermuda. Operationally, the NHC began issuing advisories early on September 26, naming the storm Isaac [202]. While moving generally eastward, the storm steadily became better organized, and became a Category 1 hurricane on September 27 [60]. Isaac continued to strengthen into the next day, as it turned toward the northeast, intensifying to a Category 2 hurricane [203]. This was its peak intensity, with maximum sustained winds of 105 mph (165 km/h) and a minimum barometric pressure of 963 mbar (28.44 inHg). Isaac's intensification then leveled off under the influence of increasingly unfavorable sea surface temperatures, wind shear, and dry air,  weakening back to a tropical storm late on September 29 [202] [204]. Isaac also began an extratropical transition, which it completed early on September 30 approximately 315 mi (505 km) north-northwest of the Azores. There were no land-based reports of high winds associated with Isaac,  though swells from the system reportedly reached Bermuda's coast [202]. In preparation for Isaac's potential approach, the Portuguese Institute of the Sea and Atmosphere (IPMA) put the Azores under a yellow warning [205]. The remnants of Isaac merged with another extratropical low, then brought heavy rain to the Iberian Peninsula [206]. 
+
+## Tropical Storm Joyce
+
+On September 22, a tropical wave moved off the coast of West Africa. After passing through the Cabo Verde Islands on September 24, thunderstorm activity increased as the wave moved to the west-northwest. The low became condensed and deepened, forming into a tropical depression 06:00 UTC September 27 about 1,170 nautical miles east of the Leeward Islands. Joyce reached its peak intensity at 18:00 UTC with winds of 50 mph (80 km/h) and a minimum pressure of 1001 millibars as calculated by a mix of the Knaff-Zehr-Courtney model and Dvorak wind-pressure relationship. By September 28, Joyce began to weaken as southerly wind shear displaced convection away from its center,  weakening to a tropical depression the next day [208] [209]. Joyce degenerated into a remnant low by September 30 [210]. 
+
+## Hurricane Kirk
+
+On September 28, the NHC began monitoring a broad area of low pressure producing limited shower activity west of Cabo Verde. As showers and thunderstorms associated with the disturbance became better organized,  satellite imagery on September 29 revealed that the disturbance's circulation was becoming better defined [212] [213]. As a result, later that day, it developed into Tropical Depression Twelve [214]. The next day it developed into Tropical Storm Kirk [243]. Amidst "quite conducive" environmental conditions, Kirk strengthened at a quick pace, with the National Hurricane Center noting a partial eyewall by early on September 30 [216]. Around the afternoon of October 1, the NHC reported that Kirk became a hurricane. After fluctuating in intensity following that rapid intensification period, Kirk reached Category 4 intensity by late on October 3 [217]. The system reached its peak the following morning, with Category 4 winds of 145 mph (230 km/h), far to the east-northeast of the northern Leeward Islands [218]. Kirk weakened as it moved north into colder waters, before accelerating to the northeast and undergoing extratropical transition, which it completed on the morning of October 7 [219]. The extratropical cyclone then passed north of the Azores, before moving towards the west coast of France and western Europe [220]. Kirk brought high surf to the East Coast of the United States. Numerous downed trees were reported in Portugal and Spain [222]. Portugal reported over 1,300 incidents. The hardest hit city was Porto, where numerous cars were damaged and railroads were disrupted. At the height of the storm, more than 300,000 households lost power. Strong winds from Kirk severely impacted Portugal's apple production, with over 65% of the crops suffering damage [223]. Losses from this are estimated to be in the "tens of millions of euros" (USD$10.9 million). Strong winds from Kirk also impacted Portugal's chestnut production, with around 40-50% of crops suffering damage [224]. Losses are valued at €20-30 million (USD$20.9-31.3 million). In Spain, 70.1 mm (2.76 in) of rain fell in 12 hours and gusts up to 129 km/h (80 mph) and 205 km/h (127 mph) were reported [225]. In Galicia, mudslides were reported, prompting road closures [226]. Agricultural losses in Spain are estimated to be at €69 million (USD$71.9 million). In France, over 64,000 people lost power, and many roads were closed due to floodwaters [227]. In Sete, a strong swell capsized three boats, killing one person and injuring another. Kirk caused widespread flooding in France with 72–74 mm (2.8–2.9 in) of rain of Noirmoutier and 71 mm (2.8 in) of rain in Paris [228]. Gusts up to 113 km/h (70 mph) and 139 km/h (86 mph) were reported in Villard-de-Lans. As of January 2025, losses are at USD$110 million according to AON [229]. 
+
+## Hurricane Leslie
+
+On September 29, the NHC began monitoring a tropical wave producing limited shower activity near the coast of West Africa. The next day, a broad area of low pressure formed along wave south of the Cabo Verde Islands amid conditions conducive for additional development [231]. The system became gradually better organized as a broad closed circulation developed on October 2, resulting in the formation of Tropical Depression Thirteen [232]. Late that same day, the system strengthened, becoming Tropical Storm Leslie, while moving slowly to the west within a moderate wind shear environment due to the outflow from Hurricane Kirk to its northwest [61]. On October 5, Leslie intensified and became a Category 1 hurricane, before weakening back to a tropical storm on the morning of October 8 [243]. Leslie would restrengthen into a hurricane later that night after moving over warmer waters, becoming a Category 2 hurricane early on October 10 [234] [235]. At 09:00 UTC the next day, Leslie weakened to a tropical storm as northerly wind shear displaced most of the storm's convective activity to the south of the center, leaving the center exposed. Leslie then turned northeastward and accelerated in front of an approaching trough before degenerating into a trough itself on October 12 [236]. After the remnant low merged with another extratropical low, named Irina,  that system brought significant flooding to France and Italy [237] [238]. 
+
+## Hurricane Milton
+
+On September 26, the NHC began monitoring the Caribbean Sea for possible tropical development. Three days later, a broad area of low pressure formed over the western Caribbean, producing disorganized showers and thunderstorms;  however, it degenerated into an open trough two days later [240] [241]. As this broad trough began interacting with a stationary front and the remains of Tropical Depression Eleven-E in the eastern Pacific,  a new low-pressure area developed in the Gulf of Mexico on October 4 [242] [243]. Showers and thunderstorms associated with this disturbance became better organized,  causing the NHC to upgrade it into Tropical Depression Fourteen the next day [244] [245]. Further development happened, and a few hours later, satellite wind data indicated the depression strengthened into Tropical Storm Milton [62]. Milton was able to rapidly intensify due to being in a very favorable environment, and became a Category 1 hurricane on the afternoon of October 6 [246]. Milton continued to strengthen overnight and into the morning, reaching Category 4 status on the morning of October 7, then reaching Category 5 intensity by 16:00 UTC that day. Milton continued to strengthen further during the afternoon, reaching winds of 180 mph (285 km/h) at 18:00 UTC the same day [64]. The next day, it weakened to a high-end Category 4 hurricane due to an eyewall replacement cycle; however, upon the cycle's completion, it quickly restrengthened back to Category 5 intensity [247]. However, the next day, it weakened to a Category 4 hurricane, then further weakening to Category 3 intensity as strong southwesterly wind shear of 35–40 mph (56–65 km/h) overtook the hurricane. At 00:30 UTC on October 10, Milton made landfall near Siesta Key, Florida, as a Category 3 hurricane with 120 mph (195 km/h) winds [248]. Milton weakened as it moved over land and re-entered the Atlantic as a Category 1 hurricane, merging with a nearby frontal boundary. By October 10, it had transitioned into an extratropical low. It gradually lost strength, passing near Bermuda on October 11, before dissipating within the frontal zone on October 12. Yucatán was affected by storm surge and heavy rainfall,   but was not directly hit [250]. Campeche and Celestún were flooded and Celestún had to be evacuated as result. Overall, Celestún and Sisal were the most affected municipalities in the nation [251] [252]. Western Cuba received flooding and strong winds from Milton [253]. Milton spawned a large tornado outbreak in Florida [254] [255] [256]. Venice, Florida, experienced sustained winds of 92 miles per hour (148 km/h) [257]. The Tampa Bay Times building and Tropicana Field were damaged as a result of Milton [258]. The Bahamas saw minor effects from Milton [259] [260]. 
+
+## Tropical Storm Nadine
+
+On October 15, a broad area of low pressure formed in the southwestern Caribbean Sea east of Central America  associated with the Central American Gyre [262]. The disturbance moved slowly northwestward over the following couple of days, remaining offshore [263]. Then, on October 17 and 18, the low gradually became better defined, and the showers and thunderstorms associated with it become better organized [264]. Consequently, the system was designed Potential Tropical Cyclone Fifteen on the afternoon of October 18 [265] [266]. Tropical Storm Watches were issued at that time, from Belize City north to the Belize–Mexico border, and from there north to Tulum, Quintana Roo. The system quickly developed a closed circulation, and was designated as Tropical Storm Nadine early the next day, while about 120 mi (190 km) east of Belize City [267]. The storm made landfall near Belize City around 16:00 UTC that same day, at peak intensity, with 60 mph (95 km/h) sustained winds [268]. Eight hours later, the storm weakened to a tropical depression while over northern Guatemala [65]. Then, on the morning of October 20, the system degenerated into a remnant low while traversing Southern Mexico [269]. Nadine's remnants ultimately entered the Pacific basin, where they facilitated the development of a trough of low pressure in the Gulf of Tehuantepec,  which led to the formation of Hurricane Kristy on October 21 [270] [271]. Nadine produced rainfall totals of up to 2 in (51 mm) in Belize. In Quintana Roo, about 3.5 in (90 mm) of rain was recorded, and several houses were flooded in Chetumal [273]. Floods, power outages and uprooted trees were also reported in Campeche, with strong waves stranding about 300 coastal vessels. In Quintana Roo, MXN$11 million (USD$546,000) was spent to repair the damage caused by the storm [274]. In Chiapas, floods damaged 14 houses in Rayón, and 2 in Rincón Chamula San Pedro [275]. A landslide also blocked a section of Federal Highway 190. Heavy rains also damaged 15 houses and caused flooding and landslides in Tacotalpa, Tabasco [276]. There were three deaths in Chiapas as a result of the storm [277]. Two people died inside a house in the municipality of Tila, which was hit during a landslide; and in San Juan Chamula, a man drowned when his vehicle was swept away by flood waters. There were also two fatalities in Veracruz: one after his house was overtaken by a mudslide in Sierra de Zongolica, and another in Santiago Tuxtla as a result of an electrocution; a man also went missing after being swept away by flooding [278]. In Veracruz, MXN$19 million (USD$942,000) was spent to repair the damage caused by the storm [279]. 
+
+## Hurricane Oscar
+
+On October 10, a tropical wave producing disorganized showers and thunderstorms being monitored by the NHC moved off of the west coast of Africa. Later that day, a broad low pressure area producing near gale winds formed along the wave [281]. After moving over Cape Verde the following day,  the disturbance moved westward within an unfavorable environment for development, causing its activity to diminish greatly [282] [283]. The disturbance remained disorganized as it passed to the north of Puerto Rico on October 18, though strong convection persisted around an emerging mid-level center of circulation [284]. The disturbance developed a closed circulation the next morning, and was designated Tropical Storm Oscar [65]. A Hurricane Hunters flight found that Oscar was much stronger than originally estimated, and at 18:00 UTC on October 19, Oscar was upgraded to a Category 1 hurricane with sustained winds of 80 mph (130 km/h) [285]. At 21:50 UTC on October 20, Oscar made landfall as a Category 1 hurricane at Baracoa, located in the Cuban province of Guantánamo [286]. In the Bahamas, numerous residents had to evacuate after their homes were damaged. In Cuba, 6.5-foot (2.0 m) swells hit Baracoa, damaging walls and roofs of numerous structures. At least eight people died from the storm [288]. As of January 2025, damages are estimated to be at USD$50 million according to AON [289] [290] [291]. 
+
+## Tropical Storm Patty
+
+On October 31, a storm-force non-tropical low located about 550 mi (890 km) west of the western Azores began producing showers and thunderstorms near its center. It moved to the northeast for around a day, losing its frontal characteristics and upper-level support, weakening in the process [292]. On November 1, despite SSTs around 20 to 22 °C (68 to 72 °F), convection and bands formed around the center due to an unstable environment. The storm had attained hybrid charateristics of a subtropical storm. Upon formation, Patty had winds of 50 mph (80 km/h). Patty continued eastward and organized further, attaining a peak strength of 55 mph (89 km/h) at 12:00 UTC November 2 as estimated by ASCAT-B. The storm then began moving eastsoutheast and began weakening in the mid-latitude flow [293]. On November 3, Patty's forward speed slowed. It also developed fully into a tropical cyclone that day. Patty continued to weaken and opened into a trough by 12:00 UTC November 4. São Miguel and Santa Maria experienced tropical storm force winds. On São Miguel, there was flooding reported along various roadways and in a few homes [293]. The flooding caused a landslide in the municipality of Ribeira Grande. However, overall damage was minor, with no reports of anyone being displaced by the storm. 
+
+## Hurricane Rafael
+
+On October 26, the NHC began monitoring the southwestern Caribbean in anticipation of tropical development. Several days later, on November 1, a broad area of low pressure began developing over the southwestern Caribbean,  associated with a Central American gyre [296] [297]. The disturbance began showing signs of organization on November 3, causing the NHC to designate it Potential Tropical Cyclone Eighteen that afternoon [298]. Further development occurred, and after data from hurricane hunters, satellite imagery, and surface observations revealed that the disturbance developed a well-defined center and produced organized deep convection, it was upgraded to Tropical Depression Eighteen on the morning of November 4 [299] [300]. The depression continued to strengthen, and became Tropical Storm Rafael that afternoon [301]. The storm tracked northwestward along the southwestern side of a ridge over the western Atlantic on November 5,  and passed to the west of Jamaica [302] [303]. That afternoon it developed an inner wind core,  and strengthened into a hurricane early on November 6 [304] [303]. Later that day, at 21:15 UTC, Rafael made landfall just east of Playa Majana, in the Cuban province of Artemisa, with sustained winds of 115 mph (185 km/h) [305]. A few hours later, the system entered the Gulf of Mexico, as a weaker Category 2 hurricane [306]. It then proceeded to turn west-northwestward and re-intensify, becoming a major hurricane once again early on November 8 with peak winds of 120 mph (195 km/h) [307]. That afternoon, however, the system turned westward and began losing strength and organization, due to increasing westerly wind shear and dry air intrusion [308]. This trend continued, and Rafael was downgraded to a tropical storm late that same day [309]. In Panama, numerous residents had to evacuate their homes after their houses were damaged, leaving a total of more than 210 displaced. At least four people died as a result of the storm and two remain missing [311]. Preliminary damage estimates in Panama are at least USD$110 million [312] [313]. Agricultural losses in Costa Rica totaled to at least ₡500 million (USD$985,000) [314]. In Colombia, over 192,000 people were affected by the flooding [377]. The government spent 700 billion pesos (USD$160.8 million) to help those affected by the storm. In Cuba, more than 283,000 people evacuated ahead of the storm, including 98,300 from Havana [316]. Rafael's winds caused an island-wide power-grid failure [2]. In western Cuba, 30 cm (12 in) of rain was reported resulting in flooding and landslides [317] [318]. Government officials reported that areas in and around Artemisa sustained the worst damage from Rafael [319]. Preliminary damage estimates in Cuba are in the billions of pesos (USD$41.7 million) [320] [321]. Preliminary damage estimates in Jamaica range from J$500 million to J$1 billion [322]. 
+
+## Tropical Storm Sara
+
+On November 11, an area of low-pressure associated with a tropical wave formed south of Hispaniola over the central Caribbean Sea. The system moved generally westward toward Central America into the next day, and the NHC noted the high possibility of further organization due to favorable environmental conditions [324]. Though its low-level circulation remained broad and elongated on the afternoon of November 13, the disturbance was deemed likely by the NHC to soon be bringing tropical storm or hurricane conditions to Central America, and so was designated Potential Tropical Cyclone Nineteen [325]. Then, early on November 14, the system developed into a tropical cyclone about 280 mi (450 km) east of Guanaja, Honduras, and was upgraded to Tropical Depression Nineteen [326]. Later that day, Air Force Reserve reconnaissance aircraft found maximum sustained winds of around 40 mph (65 km/h), prompting the NHC to name the depression Tropical Storm Sara [327]. Late that same day, data from an Air Force Hurricane Hunter passed over Sara's northern semicircle indicated that the storm had moved just inland or very near the northeastern coast of Honduras,  striking about 105 mi (165 km) west-northwest of Cabo Gracias a Dios [328] [329]. On November 15, Sara paralleled the northern coast of Honduras, its center remaining just offshore, between the Bay Islands and the mainland [330]. Then, later that day, the storm became stationary and remained so into the next morning [331]. Sara moved inland over Belize on the morning of November 17,  and shortly thereafter weakened to a tropical depression [332] [333]. It degenerated into a trough early the next day, southwest of Campeche, Campeche [334]. Its remnants proceeded then to emerge over the Gulf of Mexico. The precursor disturbance of Sara caused flooding in the Dominican Republic, resulting in the evacuation of 1,767 people, isolating 54 communities, destroying two homes and damaging 487 more. Two fishermen were left missing and were later found dead near Sabana de la Mar. In Honduras, a man in the department of Yoro drowned [337]. Damage estimates in Honduras are at 2.468 billlion lempiras (USD$97.4 million) [332]. According to Gallagher Re, as of January 2025, damages for Sara are at USD$100 million [338]. 
+
+## Other system
+
+On September 11, the NHC noted an area with the potential of tropical cyclone development off the U.S. East Coast. A non-tropical area of low pressure formed on September 14 [340]. The following day, an Air Force Hurricane Hunter aircraft found that the system possessed a broad low-level circulation center, and was generating deep convection over and around the center [341]. It also found that the system was in the process of separating from its frontal characteristics. Due to the increasing likelihood of the system gaining tropical characteristics, and its proximity to coastal South Carolina, the NHC designated the system Potential Tropical Cyclone Eight at 21:00 UTC on September 15. A Tropical Storm Warning was issued at that time, extending from Edisto Beach, South Carolina, to Ocracoke Inlet, North Carolina [342]. Schools were closed in preparation for the storm [343]. The system did not attain tropical characteristics as it approached northeastern South Carolina the following afternoon, and its sustained winds fell below tropical storm force [344]. Consequently, the Tropical Storm Warnings for the Carolinas were discontinued with the final NHC advisory at 21:00 UTC on September 16. The storm brought heavy rain to the Carolinas, especially at Carolina Beach, North Carolina, where rainfall totals reached 20.81 in (529 mm), and caused significant flooding in Brunswick County, North Carolina,   where a brief curfew was imposed [345] [346] [347]. In Sunny Point, North Carolina, winds gusted to 77 mph (124 km/h) [348]. Two tornadoes touched down during the storm [349]. Several coastal roads, such as NC 12, were flooded with high tide [350] [351]. One person died after attempting to drive through floodwaters [352]. According to AON, total losses are estimated to be at $130 million as of January 2025 [353]. 
+
+# Storm names
+
+The following list of names was used for named storms that formed in the North Atlantic in 2024. This is the same list used in the 2018 season, with the exceptions of Francine and Milton, which replaced Florence and Michael respectively [354]. Both new names were used for the first time this season, as was Sara, which replaced Sandy after 2012 [355]. Names retired, if any, will be announced by the World Meteorological Organization in the spring of 2025; any names not retired from this season will therefore be used again in the 2030 season. [71]. 
+
+# Season effects
+
+This is a table of all of the storms that formed in the 2024 Atlantic hurricane season. It includes their name, duration, peak classification and intensities, areas affected, damage, and death totals. Deaths in parentheses are additional and indirect (an example of an indirect death would be a traffic accident), but were still related to that storm. Damage and deaths include totals while the storm was extratropical, a wave, or a low, and all of the damage figures are in 2024 USD.. 
+
+# References
+
+[27] [ERROR retrieving ref link]
+[34] [ERROR retrieving ref link]
+[376] [ERROR retrieving ref link]
+[1] https://yaleclimateconnections.org/2024/11/category-5-super-typhoon-man-yi-hits-the-philippines/
+[2] https://www.nbcnews.com/weather/hurricanes/hurricane-rafael-moves-gulf-mexico-rare-major-november-storm-cuba-reco-rcna179273
+[3] https://www.cpc.ncep.noaa.gov/products/outlooks/Background.html
+[4] http://tropical.atmos.colostate.edu/Realtime/index.php?arch&loc=northatlantic
+[5] https://www.tropicalstormrisk.com/docs/TSRATLForecastDecember2024.pdf
+[6] https://tropical.colostate.edu/Forecast/2024-04.pdf
+[7] https://meteofrance.mq/fr/actualites/bulletin-technique-des-previsions-dactivite-cyclonique-de-la-saison-2024
+[8] https://www.tropicalstormrisk.com/docs/TSRATLForecastApril2024.pdf
+[9] https://has.arizona.edu/news/2024-hurricane-forecast-xubin-zeng-and-kyle-davis
+[10] https://weather.missouri.edu/gcc/UniversityofMissouri2024TropicalForecast.pdf
+[11] https://news.ncsu.edu/2024/04/nc-state-researchers-predict-active-hurricane-season/
+[12] https://penntoday.upenn.edu/news/2024-tropical-cyclone-prediction
+[13] https://smn.conagua.gob.mx/es/ciclones-tropicales/temporada-ciclones-tropicales-2024
+[14] https://metoffice.gov.uk/research/weather/tropical-cyclones/seasonal/northatlantic2024
+[15] https://www.noaa.gov/news-release/noaa-predicts-above-normal-2024-atlantic-hurricane-season
+[16] https://www.tropicalstormrisk.com/docs/TSRATLForecastPreSeason2024.pdf
+[17] https://tropical.colostate.edu/Forecast/2024-06.pdf
+[18] https://has.arizona.edu/news/2024-hurricane-forecast-update-xubin-zeng-and-kyle-davis
+[19] http://www.tropicalstormrisk.com/docs/TSRATLForecastJuly2024.pdf
+[20] https://tropical.colostate.edu/Forecast/2024-07.pdf
+[21] https://www.tropicalstormrisk.com/docs/TSRATLForecastAugust2024.pdf
+[22] https://tropical.colostate.edu/Forecast/2024-08.pdf
+[23] https://www.noaa.gov/news-release/highly-active-hurricane-season-likely-to-continue-in-atlantic
+[24] https://doi.org/10.1016%2Fj.tcrr.2019.10.003
+[25] https://yaleclimateconnections.org/2024/04/forecasters-predict-an-extremely-active-2024-atlantic-hurricane-season/
+[26] https://www.nhc.noaa.gov/aboutsshws.php
+[28] https://www.aoml.noaa.gov/hrd-faq/#hurricane-season
+[29] https://yaleclimateconnections.org/2024/11/tropical-storm-sara-forms-in-the-western-caribbean-threatens-honduras/
+[30] http://tropical.atmos.colostate.edu/Realtime/
+[31] https://yaleclimateconnections.org/2024/06/tropical-storm-warnings-up-for-texas-and-mexico-for-potential-tropical-cyclone-1/
+[32] https://www.foxweather.com/weather-news/atlantic-hurricane-season-slowest-start-2014
+[33] https://www.wsbtv.com/weather/tropical-storm-alberto-first-named-storm-2024-season-forms-gulf-mexico/I2H5KRT3ABE47NMJG46CM3L43Y/
+[35] https://www.nhc.noaa.gov/archive/2024/al01/al012024.discus.008.shtml?
+[36] https://www.nhc.noaa.gov/archive/2024/al01/al012024.public_a.011.shtml?
+[37] https://www.forbes.com/sites/maryroeloffs/2024/06/30/hurricane-beryl-rapidly-intensifies-into-category-4-heres-the-latest-forecast/
+[38] https://apnews.com/article/tropical-system-beryl-caribbean-0a61043f36a9439f8037147d60e3c9e3
+[39] https://yaleclimateconnections.org/2024/06/leeward-islands-bracing-for-potential-hurricane-hit-on-monday/
+[40] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.014.shtml?
+[41] https://www.nhc.noaa.gov/archive/2024/al03/al032024.discus.002.shtml?
+[42] https://mexiconewsdaily.com/news/tropical-storm-chris-makes-landfall-in-veracruz/
+[43] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public.039.shtml?
+[44] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.07051104.shtml?
+[45] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.021.shtml?
+[46] https://www.wapt.com/article/the-tropics-turned-eerily-quiet-after-hurricane-beryl-why/61624756
+[47] https://www.nhc.noaa.gov/archive/2024/al04/al042024.discus.003.shtml?
+[48] https://www.nhc.noaa.gov/archive/2024/al04/al042024.discus.005.shtml?
+[49] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.005.shtml?
+[50] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.012.shtml?
+[51] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.018.shtml?
+[52] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.023.shtml?
+[53] https://www.climate.gov/news-features/event-tracker/atlantic-nina-verge-developing-heres-why-we-should-pay-attention
+[54] https://tropical.colostate.edu/Forecast/2024_0903_seasondiscussion.pdf
+[55] https://www.bbc.com/weather/articles/c4gd13l35qpo
+[56] https://www.nhc.noaa.gov/archive/2024/al06/al062024.discus.004.shtml?
+[57] https://www.nhc.noaa.gov/archive/2024/al07/al072024.discus.001.shtml?
+[58] https://www.accuweather.com/en/hurricane/hurricane-francine-makes-landfall-in-southern-louisiana-as-a-category-2-storm/1689883
+[59] https://www.nhc.noaa.gov/archive/2024/al09/al092024.discus.005.shtml?
+[60] https://riviera-maya-news.com/helene-leaves-cancun-behind-and-more-than-120000-without-power/2024.html
+[61] https://www.nhc.noaa.gov/archive/2024/al10/al102024.public.010.shtml?
+[62] https://www.nhc.noaa.gov/archive/2024/al10/al102024.public.001.shtml?
+[63] https://www.nhc.noaa.gov/archive/2024/al13/al132024.discus.001.shtml?
+[64] https://www.nhc.noaa.gov/archive/2024/al14/al142024.discus.001.shtml?
+[65] https://earthobservatory.nasa.gov/images/153426/three-storms-churn-in-an-active-atlantic
+[66] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10071558.shtml?
+[67] https://yaleclimateconnections.org/2024/10/a-caribbean-rainmaker-could-become-a-tropical-storm-just-before-sliding-inland/
+[68] https://michaelrlowry.substack.com/p/october-surprise-oscar-rapidly-forms
+[69] https://www.fox13seattle.com/news/hurricane-oscar-path-cuba-bahamas
+[70] https://www.nhc.noaa.gov/archive/2024/al17/al172024.discus.001.shtml?
+[71] https://apnews.com/article/tropical-storm-rafael-caribbean-jamaica-cuba-florida-51616234e364f9b0f754d0632408274e
+[72] https://www.usatoday.com/story/news/nation/2024/11/06/hurricane-rafael-strength-landfall-forecast/76087763007/
+[73] https://yaleclimateconnections.org/2024/11/tropical-storm-sara-forms-in-the-western-caribbean-threatens-honduras/
+[74] https://www.noaa.gov/news-release/atlantic-hurricane-season-races-to-finish-within-range-of-predicted-number-of-named-storms
+[75] https://www.nhc.noaa.gov/data/tcr/AL012024_Alberto.pdf
+[76] https://www.eluniversal.com.mx/estados/alberto-ha-dejado-4-fallecidos-evacuaciones-y-desbordamientos-en-zona-metropolitana-de-nuevo-leon/
+[77] https://www.usnews.com/news/world/articles/2024-06-20/tropical-storm-alberto-moves-inland-in-mexicos-coast-after-three-fatalities
+[78] https://assets.aon.com/-/media/files/aon/reports/2024/aon-q3-2024-global-catastrophe-recap.pdf
+[79] https://abc13.com/post/coastal-storm-impacts-galveston-surfside-beach-among-texas/14975414/
+[80] https://www.weather.gov/media/hgx/TropicalEventSummary/PSHHGX_2024AL01_Alberto_ImpactNarratives.pdf
+[81] https://www.click2houston.com/weather/2024/06/21/ef-1-tornado-confirmed-west-of-houston-amid-tropical-storm-alberto/
+[82] https://www.kiiitv.com/article/news/local/national-hurricane-center-confident-tornado-hit-rockport-fulton/503-e0a98e5e-8d28-4c8a-a882-c7ca536d6c71
+[83] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSCRP&e=202406202146
+[84] https://www.wdsu.com/article/louisiana-flooding-tropical-storm-alberto/61174613
+[85] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202406252345&basin=atl&fdays=7
+[86] https://yaleclimateconnections.org/2024/06/an-early-start-to-the-atlantics-cabo-verde-season/
+[87] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.001.shtml?
+[88] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.002.shtml?
+[89] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.004.shtml?
+[90] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.006.shtml?
+[91] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.007.shtml?
+[92] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.06301536.shtml?
+[93] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.010.shtml?
+[94] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.011.shtml?
+[95] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.07011512.shtml?
+[96] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.015.shtml?
+[97] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.016.shtml?
+[98] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.017.shtml?
+[99] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.022.shtml?
+[100] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.024.shtml?
+[101] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.026.shtml?
+[102] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.027.shtml?
+[103] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.028.shtml?
+[104] https://www.nhc.noaa.gov/archive/2024/al02/al022024.public_a.028.shtml?
+[105] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.030.shtml?
+[106] https://yaleclimateconnections.org/2024/07/tropical-storm-beryl-slowly-reorganizing-over-the-gulf-or-mexico/
+[107] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.033.shtml?
+[108] https://www.nhc.noaa.gov/archive/2024/al02/al022024.update.07080654.shtml?
+[109] https://www.nhc.noaa.gov/archive/2024/al02/al022024.discus.044.shtml?
+[110] https://www.clickondetroit.com/weather/2024/07/10/beryl-weather-effect-in-michigan-34-counties-under-flood-watch-8-under-flood-advisory/
+[111] https://stluciatimes.com/164556/2024/06/pm-announces-national-shutdown-from-830-pm-on-sunday/
+[112] https://caribbean.loopnews.com/content/cal-announces-flight-cancellations-due-severe-weather-0
+[113] https://amp.miamiherald.com/news/nation-world/world/americas/haiti/article289645604.html
+[114] https://abcnews.go.com/International/wireStory/hurricane-beryl-takes-aim-southeastern-caribbean-powerful-category-111570432
+[115] https://apnews.com/article/hurricane-beryl-caribbean-mexico-caymans-04eda74885bbe45ae3630e2ca713ef92
+[116] https://www.sheppnews.com.au/world/hurricane-beryl-lashes-jamaica-as-toll-rises-to-10-3/
+[117] https://ici.radio-canada.ca/nouvelle/2086000/ouragan-beryl-touche-peninsule-yucatan-mexique
+[118] https://www.fox26houston.com/news/beryl-death-toll-houston-fallen-trees-flooding-fire
+[119] https://www.cnn.com/2024/07/11/weather/texas-heat-beryl-power-outage-thursday/index.html
+[120] https://weather.com/storms/tornado/news/2024-07-13-hurricane-beryl-most-us-tornadoes-since-2005
+[121] https://www.uwo.ca/ntp/blog/2024/two_ef0_tornadoes_in_london_on_on_july_10.html
+[122] https://www.insurancejournal.com/news/national/2024/07/08/782779.htm
+[123] https://www.bloomberg.com/opinion/articles/2024-07-09/hurricane-beryl-makes-a-mockery-of-texas-climate-deniers
+[124] https://abc13.com/post/hurricane-beryl-death-toll-harris-county-texas-carbon-monoxide-ladder-fall/15235101/
+[125] https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2024/october/gallagherre-natrual-catastrophe-and-climate-report-q3-2024.pdf
+[126] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202406241754&basin=atl&fdays=7
+[127] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202406290836&basin=atl&fdays=7
+[128] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?
+[129] https://www.nhc.noaa.gov/archive/2024/al03/al032024.discus.001.shtml?
+[130] https://www.nhc.noaa.gov/archive/2024/al03/al032024.discus.004.shtml?
+[131] https://reliefweb.int/report/grenada/latin-america-caribbean-2024-atlantic-hurricane-season-snapshot-1-2-july-2024
+[132] https://www.expreso.com.mx/amp/noticias/mexico/tormenta-tropical-chris-deja-un-muerto-y-multiples-danos/211540
+[133] https://www.elimparcial.com/mexico/2024/07/04/mueren-cuatro-policias-arrastrados-por-un-rio-tras-paso-de-la-tormenta-tropical-chris-en-veracruz/
+[134] https://da21w.e-veracruz.mx/nota/2024-11-08/politica/asf-da-plazo-cuitlahuac-para-aclarar-dano-patrimonial
+[135] http://boletin.org.mx/Noticia/chris-amaina-pero-beryl-ya-es-huracan-5
+[136] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202407261732&basin=atl&fdays=7
+[137] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408011737&basin=atl&fdays=7
+[138] https://www.nhc.noaa.gov/archive/2024/al04/al042024.discus.001.shtml?
+[139] https://www.nhc.noaa.gov/archive/2024/al04/al042024.public.011.shtml?
+[140] https://www.nhc.noaa.gov/archive/2024/al04/al042024.update.08051056.shtml?
+[141] https://www.nhc.noaa.gov/archive/2024/al04/al042024.public_a.023.shtml?
+[142] https://www.nhc.noaa.gov/archive/2024/al04/al042024.public.026.shtml?
+[143] https://www.nhc.noaa.gov/archive/2024/al04/al042024.public.028.shtml?
+[144] https://apnews.com/article/hurricane-tropical-storm-debby-flooding-a369f782a8e6fa18fdb7f722ade4b3c6
+[145] https://amp.marca.com/en/lifestyle/us-news/2024/08/02/66acc3ba268e3ee3418b4597.html
+[146] https://www.elnuevodia.com/noticias/el-tiempo/notas/meteorologia-emite-aviso-y-advertencia-de-inundaciones-para-29-municipios-ante-paso-de-onda-tropical/
+[147] https://en.cibercuba.com/noticias/2024-08-04-u1-e208933-s27061-nid286284-tormenta-tropical-debby-deja-lluvias-intensas
+[148] https://www.artemis.bm/news/hurricane-debby-private-public-market-insured-loss-seen-below-2bn-gallagher-re/
+[149] https://www.cbc.ca/news/canada/montreal/rain-tropical-storm-debby-southern-quebec-1.7291210
+[150] https://www.lapresse.ca/actualites/2024-09-13/vestiges-de-l-ouragan-debby/l-evenement-climatique-le-plus-couteux-de-l-histoire-du-quebec.php
+[151] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408080852&basin=atl&fdays=7
+[152] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408082032&basin=atl&fdays=7
+[153] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408100237&basin=atl&fdays=7
+[154] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408110537&basin=atl&fdays=7
+[155] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408111122&basin=atl&fdays=7
+[156] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.001.shtml?
+[157] https://weather.com/storms/hurricane/news/2024-08-13-ernesto-puerto-rico-tropical-storm
+[158] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.026.shtml?
+[159] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.029.shtml?
+[160] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.032.shtml?
+[161] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.034.shtml?
+[162] https://www.nhc.noaa.gov/archive/2024/al05/al052024.discus.036.shtml?
+[163] https://www.theguardian.com/world/article/2024/aug/13/tropical-storm-ernesto-caribbean-puerto-rico
+[164] https://www.usatoday.com/story/news/nation/2024/08/14/ernesto-storm-hurricane-watch-forecast-updates/74789806007/
+[165] https://archive.today/20240814221053/https://abcnews.go.com/amp/US/ernesto-near-hurricane-force-winds-tropical-storm/story?id=112824561
+[166] https://www.ksat.com/news/world/2024/08/17/hurricane-ernesto-makes-landfall-on-bermuda-as-a-category-1-storm/
+[167] https://www.tcpalm.com/story/weather/hurricanes/2024/08/17/hurricane-ernesto-bermuda-florida-rip-currents/74830029007/
+[168] https://www.usatoday.com/story/news/nation/2024/08/18/tropical-storm-ernesto-swells-atlantic-beaches/74848999007/
+[169] https://www.nbcnewyork.com/news/local/nyc-beaches-closed-for-rip-current-6-foot-swell-threat-brought-on-by-tropical-storm-ernesto/5713419/?amp=1
+[170] https://assets.aon.com/-/media/files/aon/reports/2024/aon-q3-2024-global-catastrophe-recap.pdf
+[171] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408262343&basin=atl&fdays=7
+[172] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408281733&basin=atl&fdays=7
+[173] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408292341&basin=atl&fdays=7
+[174] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202408312340&basin=atl&fdays=7
+[175] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409020530&basin=atl&fdays=7
+[176] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409071153&basin=atl&fdays=7
+[177] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409080524&basin=atl&fdays=7
+[178] https://www.nhc.noaa.gov/archive/2024/al06/al062024.discus.001.shtml?
+[179] https://www.click2houston.com/weather/2024/09/10/how-a-high-in-florida-is-helping-pull-francine-away-from-texas/
+[180] https://www.nhc.noaa.gov/archive/2024/al06/al062024.discus.010.shtml?
+[181] https://www.nhc.noaa.gov/archive/2024/al06/al062024.discus.011.shtml?
+[182] https://www.nhc.noaa.gov/archive/2024/al06/al062024.discus.013.shtml?
+[183] https://www.nhc.noaa.gov/archive/2024/al06/al062024.update.09112157.shtml?
+[184] https://www.nhc.noaa.gov/archive/2024/al06/al062024.discus.014.shtml?
+[185] https://www.axios.com/local/new-orleans/2024/09/11/live-updates-hurricane-francine-louisiana-track-path
+[186] https://www.wdsu.com/article/st-tammany-parish-river-levels-hurricane-francine/62192818
+[187] https://weather.com/storms/hurricane/news/2024-09-09-tropical-storm-francine-louisiana-texas-gulf-hurricane
+[188] https://www.eluniversal.com.mx/estados/francine-deja-inundaciones-en-colonias-de-matamoros/
+[189] https://www.northjersey.com/story/news/2024/09/12/hurricane-francine-made-us-landfall-impacts-northeast-gas-oil-prices/75187262007/
+[190] https://lailluminator.com/2024/09/12/deaths-francine/
+[191] https://www.ncei.noaa.gov/access/billions/events
+[192] https://www.nhc.noaa.gov/data/tcr/AL072024_Gordon.pdf
+[193] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409110855&basin=atl&fdays=7
+[194] https://www.nhc.noaa.gov/archive/2024/al07/al072024.discus.018.shtml?
+[195] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409211748&basin=atlc&fdays=7
+[196] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409172324&basin=atl&fdays=7
+[197] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409221151&basin=atl&fdays=7
+[198] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409222322&basin=atl&fdays=7
+[199] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409231132&basin=atl&fdays=7
+[200] https://www.nhc.noaa.gov/archive/2024/al09/al092024.discus.001.shtml?
+[201] https://www.nhc.noaa.gov/archive/2024/al09/al092024.update.09270318.shtml?
+[202] https://www.cnn.com/weather/live-news/hurricane-helene-damage-north-carolina-10-01-24?t=1727817913695
+[203] https://www.pbs.org/newshour/nation/north-carolina-calculates-at-least-53-billion-price-tag-for-hurricane-helene-damages#:~:text=(AP)%20%E2%80%94%20The%20catastrophic%20flooding,Roy%20Cooper%27s%20administration%20said%20Wednesday
+[204] https://www.nhc.noaa.gov/data/tcr/AL102024_Isaac.pdf
+[205] https://www.nhc.noaa.gov/archive/2024/al10/al102024.discus.006.shtml?
+[206] https://www.nhc.noaa.gov/archive/2024/al10/al102024.discus.016.shtml?
+[207] https://www.alabamawx.com/?p=270685
+[208] https://www.portugaltoday.news/article/hurricane-isaac-intensifies-category-2-approaching-the-azores#google_vignette
+[209] https://www.netweather.tv/weather-forecasts/news/12664-a-flurry-of-hurricane-activity-as-ex-kirk-eyes-the-uk-next-week
+[210] https://www.nhc.noaa.gov/data/tcr/AL112024_Joyce.pdf
+[211] https://www.nhc.noaa.gov/archive/2024/al11/al112024.discus.006.shtml?
+[212] https://www.nhc.noaa.gov/archive/2024/al11/al112024.discus.011.shtml?
+[213] https://www.nhc.noaa.gov/archive/2024/al11/al112024.discus.015.shtml
+[214] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409280254&basin=atl&fdays=7
+[215] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409291438&basin=atl&fdays=7
+[216] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409291804&basin=atl&fdays=7
+[217] https://www.nhc.noaa.gov/archive/2024/al12/al122024.discus.001.shtml?
+[218] https://www.nhc.noaa.gov/archive/2024/al12/al122024.update.09301333.shtml?
+[219] https://www.nhc.noaa.gov/archive/2024/al12/al122024.public.014.shtml?
+[220] https://www.nhc.noaa.gov/archive/2024/al12/al122024.public.018.shtml?
+[221] https://yaleclimateconnections.org/2024/10/watching-the-gulf-of-mexico-for-tropical-storm-formation/
+[222] https://www.nhc.noaa.gov/archive/2024/al12/al122024.discus.033.shtml?
+[223] https://today.rtl.lu/news/luxembourg/a/2238639.html
+[224] https://www.wpbf.com/article/florida-tracking-kirk-central-atlantic-hurricane/62446067
+[225] https://www.barrons.com/news/storm-kirk-tears-through-spain-portugal-heads-for-france-880acc4a
+[226] https://www.tridge.com/insights/storm-kirk-devastates-northern-portugals-apple-harvest-slashing-production-by-30
+[227] https://radiorenascer.com/entrevistas-quebra-producao-castanha-outubro-2024-valpacos/
+[228] https://www.aa.com.tr/en/europe/storm-kirk-brings-hurricane-force-winds-to-spain-red-alert-in-cantabria/3356901
+[229] https://www.agronewscastillayleon.com/perdidas-galicia-kirk-slg/#google_vignette
+[230] https://homenewshere.com/national/news/article_566ce274-226b-5b87-bd47-219e450c7db7.html
+[231] https://www.lemonde.fr/en/environment/article/2024/10/11/hurricane-kirk-record-rainfall-for-autumn-exacerbated-by-climate-change_6729011_114.html
+[232] https://assets.aon.com/-/media/files/aon/reports/2025/2025-climate-catastrophe-insight.pdf?utm_source=pr&utm_medium=press-release&utm_campaign=b_0_re__ins_rin_rein-ana_global_r0&utm_content=r_stl-wcc_re
+[233] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409291438&basin=atl&fdays=7
+[234] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410010234&basin=atl&fdays=7
+[235] https://www.nhc.noaa.gov/archive/2024/al13/al132024.discus.003.shtml?
+[236] https://www.nhc.noaa.gov/archive/2024/al13/al132024.discus.011.shtml
+[237] https://www.nhc.noaa.gov/archive/2024/al13/al132024.public.024.shtml?
+[238] https://www.nhc.noaa.gov/archive/2024/al13/al132024.discus.034.shtml?
+[239] https://www.nhc.noaa.gov/archive/2024/al13/al132024.discus.041.shtml?
+[240] https://img.clients.aonunited.com/Web/Aon5/%7Bab7a464f-8cb7-44d4-9942-5b7269d79553%7D_20241018-1-cat-alert.pdf?utm_source=slipcase&utm_medium=affiliate&utm_campaign=slipcase
+[241] https://www.connexionfrance.com/news/photos-french-towns-submerged-by-storm-leslie-alerts-in-place-for-river-flooding/684466
+[242] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409262052&basin=atl&fdays=7
+[243] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409291438&basin=atl&fdays=7
+[244] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410012055&basin=atl&fdays=7
+[245] https://yaleclimateconnections.org/2024/10/watching-the-gulf-of-mexico-for-tropical-storm-formation/
+[246] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410050238&basin=atl&fdays=7
+[247] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410051141&basin=atl&fdays=7
+[248] https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10051725.shtml?
+[249] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public_a.010.shtml?
+[250] https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/091456.shtml?
+[251] https://www.nhc.noaa.gov/text/refresh/MIATCUAT4+shtml/100030.shtml
+[252] https://www.informador.mx/mexico/Huracanes-Sin-tocar-tierra-Milton-deja-estragos-en-costas-de-Yucatan-como-categoria-cuatro-20241008-0030.html
+[253] https://tribunacampeche.com/07/lluvias-generadas-por-milton-inundan-calles-en-la-capital-campechana/695593/
+[254] https://www.aztecayucatan.com/noticias/huracan-milton-evacuan-de-emergencia-en-celestun-por-creciente-del-mar
+[255] https://www.theyucatantimes.com/2024/10/no-casualties-reported-as-milton-hits-celestun-and-sisal
+[256] https://en.cibercuba.com/noticias/2024-10-08-u1-e199894-s27061-nid289811-occidente-cubano-alerta-huracan-milton-esperan
+[257] https://havanatimes.org/news/hurricane-milton-to-make-landfall-in-florida-tonight/
+[258] https://onecaribbeantelevision.com/news/hurricane-milton-brings-flooding-to-cuba/
+[259] https://www.nbc-2.com/article/hurricane-milton-tornado-warnings-florida/62561396
+[260] https://www.nhc.noaa.gov/archive/2024/al14/al142024.public.020.shtml?
+[261] https://www.nytimes.com/2024/10/10/us/tropicana-field-milton-tampa-bay.html
+[262] https://www.tampabay.com/hurricane/2024/10/10/crane-collapses-into-times-office-building-amid-thrashing-milton-winds/
+[263] https://www.thenassauguardian.com/news/no-major-damage-reported-on-northern-islands-after-milton-officials-say/article_54dfc580-873f-11ef-93f4-93157cf2289c.html
+[264] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410151740&basin=atl&fdays=7
+[265] https://yaleclimateconnections.org/2024/10/its-too-soon-to-put-the-atlantic-hurricane-season-to-bed/
+[266] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410170503&basin=atl&fdays=7
+[267] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410172316&basin=atl&fdays=7
+[268] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410181153&basin=atl&fdays=7
+[269] https://www.nhc.noaa.gov/archive/2024/al15/al152024.public.001.shtml?
+[270] https://www.nhc.noaa.gov/archive/2024/al15/al152024.public_a.002.shtml?
+[271] https://www.nhc.noaa.gov/archive/2024/al15/al152024.public_a.005.shtml?
+[272] https://www.nhc.noaa.gov/archive/2024/al15/al152024.discus.008.shtml?
+[273] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410201727&basin=epac&fdays=7
+[274] https://www.foxweather.com/weather-news/tracking-kristy-ex-nadine-eastern-pacific
+[275] https://www.reuters.com/business/environment/tropical-storm-nadine-sweeps-across-belize-dumps-rains-mexicos-yucatan-2024-10-19/
+[276] https://www.nmas.com.mx/nacional/clima/nadine-causa-afectaciones-en-quintana-roo-y-campeche/
+[277] https://quintanaroohoy.com/quintanaroo/invertiran-11-mdp-en-carretera-para-bienestar-de-comunidades-del-sur-de-quintana-roo/
+[278] https://vanguardia.com.mx/noticias/mexico/desbordamientos-y-viviendas-inundadas-dejan-las-lluvias-en-chiapas-LN13693769
+[279] https://www.elheraldodetabasco.com.mx/local/municipios/tacotalpa-entre-deslaves-derrumbes-e-inundaciones-por-lluvias-12734737.html
+[280] https://www.infobae.com/mexico/2024/10/20/nadine-deja-tres-muertos-inundaciones-y-graves-danos-tras-su-paso-por-chiapas/?
+[281] https://www.infobae.com/america/agencias/2024/10/21/dos-muertos-en-el-oriente-de-mexico-tras-un-temporal-por-el-ciclon-nadine-y-un-frente-frio/
+[282] https://e-veracruz.mx/nota/2024-10-22/municipios/nadine-devasto-3-mil-viviendas-en-coatzacoalcos
+[283] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410101731&basin=atl&fdays=7
+[284] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410110232&basin=atl&fdays=7
+[285] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410110838&basin=atl&fdays=7
+[286] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410140504&basin=atl&fdays=7
+[287] https://www.nhc.noaa.gov/archive/2024/al16/al162024.discus.001.shtml?
+[288] https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/DDHHMM.shtml
+[289] https://www.nhc.noaa.gov/archive/2024/al16/al162024.update.10202150.shtml?
+[290] https://www.pbs.org/newshour/amp/world/tropical-storm-oscar-dumps-heavy-rain-on-eastern-cuba-as-it-heads-toward-the-bahamas
+[291] https://www.theguardian.com/world/2024/nov/06/cuba-braces-for-hurricane-rafael-after-blackouts-and-hurricane-deaths-last-month
+[292] https://www.wdrb.com/news/national/oscar-leaves-at-least-6-dead-in-cuba-as-a-massive-blackout-halts-activities-and/article_eca48f44-d13a-59a1-9679-888dc1aed6be.html#:~:text=Hurricane%20Oscar%20made%20landfall%20Sunday,Santos%20Su%C3%A1rez%20and%20central%20Havana.
+[293] https://www.cibercuba.com/noticias/2024-10-22-u1-e135253-s27061-nid290635-ascienden-siete-fallecidos-guantanamo-tras-paso
+[294] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410311734&basin=atl&fdays=7
+[295] https://www.nhc.noaa.gov/data/tcr/AL172024_Patty.pdf
+[296] https://www.acorianooriental.pt/noticia/mau-tempo-causa-seis-ocorrencias-nos-acores-365150
+[297] https://www.jn.pt/4284981756/casas-inundadas-em-sao-miguel-a-passagem-da-tempestade-patty/
+[298] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202410262323&basin=atl&fdays=7
+[299] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202411012325&basin=atl&fdays=7
+[300] https://yaleclimateconnections.org/2024/11/a-november-tropical-storm-in-the-caribbean-is-now-likely/
+[301] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.001.shtml?
+[302] https://www.foxweather.com/weather-news/tropical-cyclone-18-tropical-storm-rafael
+[303] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.004.shtml?
+[304] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.005.shtml?
+[305] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.009.shtml?
+[306] https://www.pbs.org/newshour/world/tropical-storm-rafael-passes-jamaica-as-cuba-prepares-for-another-hurricane-hit
+[307] https://www.nhc.noaa.gov/archive/2024/al18/al182024.update.11060020.shtml?
+[308] https://www.nhc.noaa.gov/archive/2024/al18/al182024.update.11062114.shtml?
+[309] https://cnn.com/2024/11/06/weather/hurricane-rafael-path-forecast-climate
+[310] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.019.shtml?
+[311] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.022.shtml?
+[312] https://www.nhc.noaa.gov/archive/2024/al18/al182024.discus.023.shtml?
+[313] https://www.telemundo52.com/noticias/mundo/panama-reportan-muertos-desaparecidos-fuertes-lluvias-inundaciones/2703553/
+[314] https://forbes.com.mx/lluvias-intensas-provocan-cuatro-muertes-en-panama/
+[315] https://www.noticiasrcn.com/internacional/panama-en-emergencia-por-lluvias-intensas-cuatro-personas-fallecieron-y-dos-estan-desaparecidas-768713
+[316] https://ensegundos.com.pa/2024/11/21/estiman-en-mas-de-110-millones-los-danos-dejados-por-la-tormenta-rafael-en-panama/
+[317] https://observador.cr/lluvias-de-los-ultimos-dias-dejan-perdidas-de-al-menos-500-millones-para-el-sector-agropecuario/
+[318] https://www.infobae.com/colombia/2024/11/08/alcalde-de-la-guajira-tiene-secuestrados-mas-de-200-mil-millones-denuncio-el-director-de-la-ungrd/
+[319] https://www.reuters.com/world/americas/cuba-left-without-electricity-after-hit-hurricane-rafael-2024-11-07/
+[320] https://apnews.com/article/rafael-hurricane-storm-cuba-mexico-texas-fc83c4db8e13b9da1a3fa7ec5b6f3319
+[321] https://www.lanacion.com.ar/estados-unidos/hacia-donde-se-dirige-el-huracan-rafael-que-pasa-cerca-de-florida-convertido-en-categoria-2-nid07112024/
+[322] https://www.granma.cu/cuba/2024-11-07/cuba-no-reporta-muertos-tras-paso-de-huracan-rafael
+[323] https://www.cbsnews.com/news/hurricane-rafael-forecast-path-maps-expected-landfall-cuba/
+[324] https://www.eleconomista.cu/apuntes-economicos/el-huracan-rafael-costos-mas-alla-del-desastre/
+[325] https://jamaica.loopnews.com/content/preliminary-damage-estimates-after-ts-rafael-500m-1-billion
+[326] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?basin=atl&fdays=7&current_issuance=202411111731
+[327] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=two_atl_7d0.png&basin=atl&fdays=7
+[328] https://www.nhc.noaa.gov/archive/2024/al19/al192024.discus.001.shtml?
+[329] https://www.wfla.com/weather/tracking-the-tropics/tropical-depression-nineteen-forms-in-the-caribbean-expected-to-become-tropical-storm-today/
+[330] https://www.nhc.noaa.gov/archive/2024/al19/al192024.public_a.004.shtml?
+[331] https://www.nhc.noaa.gov/archive/2024/al19/al192024.discus.006.shtml?
+[332] https://apnews.com/article/tropical-storm-sara-1285618560ac8706a6b7735d7656bf15
+[333] https://www.nhc.noaa.gov/archive/2024/al19/al192024.discus.009.shtml?
+[334] https://www.eluniversal.com.mx/mundo/un-muerto-y-mas-de-47-mil-personas-afectadas-por-tormenta-sara-en-honduras-seguiran-lluvias-y-oleaje-alto/
+[335] https://www.nhc.noaa.gov/archive/2024/al19/al192024.public.016.shtml?
+[336] https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/171735.shtml?
+[337] https://www.nhc.noaa.gov/archive/2024/al19/al192024.discus.019.shtml?
+[338] https://www.heraldtribune.com/story/weather/hurricane/2024/11/18/tropical-storm-sara-florida-impacts-cold-front-rain-wind-tornadoes/76399384007/
+[339] https://eldia.com.do/lluvias-dejan-mas-de-50-comunidades-incomunicadas/
+[340] https://ansabrasil.com.br/americalatina/noticia/latinoamerica/2024/11/29/perdidas-2.468-millones-lempiras-tormenta-sara_b711953b-dc45-4eb5-889f-dded191769ec.html#:~:text=2024,%2015:35-,La%20tormenta%20tropical%20Sara%20dej%C3%B3%20p%C3%A9rdidas%20econ%C3%B3micas%20por%20valor%20de,pa%C3%ADs,%20seg%C3%BAn%20datos%20del%20gobierno.
+[341] https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2025/natural-catastrophe-and-climate-report-2025.pdf
+[342] https://www.nhc.noaa.gov/archive/xgtwo/gtwo_archive.php?current_issuance=202409111155&basin=atl&fdays=7
+[343] https://www.foxweather.com/weather-news/invest-95l-tropical-storm-helene-southeast-coast
+[344] https://www.nhc.noaa.gov/archive/2024/al08/al082024.discus.001.shtml?
+[345] https://www.nhc.noaa.gov/archive/2024/al08/al082024.public.001.shtml?
+[346] https://weather.com/storms/hurricane/news/2024-09-16-ptc8-tropical-storm-helene-south-carolina-school-city-closure
+[347] https://www.nhc.noaa.gov/archive/2024/al08/al082024.discus.005.shtml?
+[348] https://www.starnewsonline.com/story/news/local/2024/09/17/drivers-near-wilmington-nc-stranded-on-roads-due-to-massive-flooding/75261007007/
+[349] https://www.weather.gov/ilm/2024PTC8
+[350] https://www.wral.com/amp/21627081/
+[351] https://www.foxweather.com/weather-news/tracking-tropical-cyclone-eight-helene-storm
+[352] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSILM&e=202409172003
+[353] https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSMHX&e=202409171952
+[354] https://islandfreepress.org/outer-banks-news/potential-tropical-cyclone-8-forms-overwash-reported-with-sundays-high-tide/
+[355] https://www.usatoday.com/story/news/nation/2024/09/19/north-carolina-flooding-death/75289504007/
+[356] https://www.fox13news.com/news/hurricane-names-2024-heres-why-the-list-may-look-familiar
+[357] https://www.noaa.gov/media-release/florence-and-michael-retired-by-world-meteorological-organization
+[358] https://www.eleconomista.com.mx/politica/Estiman-perdidas-en-NL-por-Alberto-en-1000-millones-de-pesos-20240625-0006.html
+[359] https://www.bloomberg.com/news/articles/2024-07-05/beryl-rakes-mexico-s-yucatan-with-hurricane-winds-and-heavy-rain
+[360] https://www.msn.com/en-us/news/crime/3-people-killed-in-harris-county-during-beryl/ar-BB1pCwkF
+[361] https://www.ncei.noaa.gov/access/billions/events/US/1980-2024?disasters
+[362] https://apnews.com/video/hurricanes-and-typhoons-storms-weather-mexico-e879c91c48ea4b6fbc001b0ed1d985e3
+[363] https://www.cnn.com/2024/09/27/us/video/aerial-footage-helene-damage-florida-digvid
+[364] https://www.wxii12.com/article/helene-deadliest-tropical-storm-north-carolina-history/62670417
+[365] https://ncnewsline.com/2024/10/23/helene-damages-in-north-carolina-total-53-billion-cooper-says-as-he-requests-new-state-relief/
+[366] https://www.augustachronicle.com/story/news/state/2024/10/11/georgia-farmers-lost-an-estimated-6-46-billion-due-to-hurricane-helene/75617469007/
+[367] https://www.nytimes.com/2024/10/05/us/hurricane-helene-damage-deaths.html
+[368] https://www.nmas.com.mx/estados/paso-del-huracan-milton-reporte-muertos-estados-de-mexico/
+[369] https://www.nmas.com.mx/noticieros/programas/en-punto/videos/milton-pescador-yucatan-muere-esperando-ayuda-otros-cuatro-son-salvados/
+[370] https://www.yucatan.com.mx/yucatan/2024/10/10/muere-naufrago-en-yucatan-barco-peyucsa-12-marina-no-lo-rescato-esto-dice-la-familia.html
+[371] https://www.tampabay.com/hurricane/2024/10/10/least-16-people-dead-hurricane-miltons-aftermath/
+[372] https://www.nbcnews.com/weather/hurricanes/manasota-key-utterly-devastated-hurricane-milton-made-landfall-nearby-rcna175215
+[373] https://www.palmbeachpost.com/story/news/2024/10/16/hurricane-milton-deaths-florida/75698772007/
+[374] https://www.businessinsider.com/hurricane-milton-insurance-fitch-50-billion-losses-2024-10
+[375] https://www.washingtonpost.com/climate-environment/interactive/2024/billion-dollar-disasters-climate-change-economy/#
+[377] https://www.noticiasrcn.com/internacional/panama-en-emergencia-por-lluvias-intensas-cuatro-personas-fallecieron-y-dos-estan-desaparecidas-768713
+[378] https://caracol.com.co/2024/11/04/rafael-se-convierte-en-tormenta-tropical-con-vientos-de-70kmh/

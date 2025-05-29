@@ -1,0 +1,172 @@
+Candidates_Tournament_2024
+
+The 2024 Candidates Tournament was an eight-player chess tournament, held to determine the challenger for the World Chess Championship 2024. The tournament took place at The Great Hall in Toronto, Canada, from April 3–22, 2024. The event was held alongside the Women's Candidates Tournament. The event was won by Gukesh Dommaraju, which made him the youngest ever winner of a Candidates Tournament, and the youngest ever World Chess Championship challenger. Following the event Gukesh went on to become the youngest World Champion by defeating Ding Liren in the 14th round of Classical Chess.
+As with every Candidates tournament since 2013, it was a double round-robin tournament. The winner of the tournament earned the right to play the World Chess Championship 2024 against the current World Chess Champion Ding Liren.
+
+# Qualification
+
+The qualifiers for the Candidates Tournament were: [29] [10] [11]. 
+
+## Withdrawal of Magnus Carlsen
+
+Despite qualifying for the Candidates Tournament by winning the 2023 FIDE World Cup,   former World Champion Magnus Carlsen decided not to compete in Toronto [15] [28]. He had previously stated his disinclination after reaching the semifinals of the World Cup, stating that "under the current format there is absolutely no chance" he will play the Candidates . In January 2024, after official confirmation of the candidates list, Magnus Carlsen formally confirmed his decision to decline FIDE's invitation to play in the Candidates Tournament by stating "I would say the main reason is that I don't enjoy it . It's as simple as that."  As a result, Nijat Abasov, who finished fourth at the World Cup, qualified to the Candidates Tournament 2024 as Carlsen's replacement [19]. 
+
+## FIDE and Grand Chess Tour agreement
+
+In April 2022, before announcing all the qualification methods, FIDE announced that the top two finishers in the 2023 Grand Chess Tour would qualify to the 2024 Candidates Tournament. FIDE promised that more details would follow, but later announced qualification paths excluding the Grand Chess Tour, without providing an explanation for the change. However, the Grand Chess Tour tournaments counted toward the qualifying path of the FIDE Circuit [22] [23]. 
+
+## FIDE Rating qualifier
+
+The highest rated player in the January 2024 rating list who has not yet qualified for the Candidates or World Championship, and has participated in at least four FIDE Circuit classical events, qualified for the Candidates. The rating qualifier turned out to be hotly contested. After a poor showing in the 2023 Sinquefield Cup, rating spot front-runner Alireza Firouzja lost nearly thirteen rating points, putting him behind Wesley So in the live ratings. In an attempt to surpass So, the Chartres Chess Club organized three two-game matches between Firouzja and grandmasters Alexandre Dgebuadze (52 years old, rated 2439), Andrei Shchekachev (51 years old, rated 2506), and Sergey Fedorchuk (42 years old, rated 2546). These matches, held in Chartres, France, were collectively referred to as "Alireza Firouzja's Race to Candidates". Firouzja needed to win all six games (or win the first five and not play the sixth) to overtake So in the live ratings. He indeed won the first five games after some controversy (such as Shchekachev resigning in a position that turned out to be equal in game 3), but decided to play the sixth game anyway. In what was effectively a must-win game, Firouzja overpushed and landed in a bad endgame, but with both players in time trouble, Fedorchuk accepted Firouzja's draw offer. The 5.5/6 result still left Firouzja behind So in the live rating list. The last-minute nature of the event as well as the hand-selecting of opponents drew criticism, including from So, who revealed he turned down similar opportunities because he disagreed with the morality of such events. Shortly after these matches were announced, FIDE affirmed that it had the right to not rate any specific event, and the United States Chess Federation called on FIDE to not rate Firouzja's games. FIDE's response drew criticism from many, including Ian Nepomniachtchi, who pointed out that Ding Liren had also played last-minute games to qualify for the Candidates Tournament 2022, to no reaction from FIDE. On December 25, FIDE announced new rules, effective immediately, requiring events with at least one player rated over 2700 (or at least one woman player rated over 2500) to be registered at least one month in advance; however, the rule would not be applied retroactively for Alireza Firouzja's Race to Candidates tournament. This requirement could be waived with the approval of the FIDE president or QC Chairman. That same day, Alireza Firouzja's matches (as well as another match in Chartres in which Firouzja did not play) were removed from FIDE's website. Having fallen short, Firouzja withdrew from the World Rapid and Blitz championship to participate in the Open de Rouen tournament,  which was a minor Swiss-system tournament with a top prize of €700 [30]. Firouzja won all 7 games, including a win against former world championship challenger Gata Kamsky. This gained Firouzja enough rating to surpass So on the January 2024 rating list even if the Chartres event was not rated, which turned out to be the case. Firouzja was officially confirmed as the rating qualifier on the January ratings list [31]. 
+
+# Organization
+
+The tournament was an eight-player, double round-robin tournament, meaning there were 14 rounds with each player facing each of the others twice: once with the white pieces and once with the black pieces. The tournament winner would qualify to play Ding Liren for the World Championship in 2024.. Players from the same federation were required to play each other in the first rounds of each half  to discourage collusion [7]. The players affected in the 2024 Candidates are R Praggnanandhaa, Vidit Gujrathi and Gukesh Dommaraju from India, and Fabiano Caruana and Hikaru Nakamura from the United States. The former three all faced one another in rounds 1–3 and 8–10, while the latter two faced each other in rounds 1 and 8.. FIDE announced pairings for the tournament in March 2024. The arbitration team for the event were Chief Arbiter Aris Marghetis (CAN) and Deputy Chief arbiters Carolina Solis Munoz (CRC) and Andrew Howie (SCO) [36]. Anna Burtasova served as the Press Officer [37]. 
+
+## Regulations
+
+The time control was 120 minutes for the first 40 moves, then 30 minutes for the rest of the game, plus a 30-second increment per move starting from move 41. Players got 1 point for a win, ½ point for a draw and 0 points for a loss. Tiebreaks for the first place would have been addressed as follows: [7]. Ties for places other than first were broken by, in order: (1) Sonneborn–Berger score; (2) total number of wins; (3) head-to-head score among tied players; (4) drawing of lots.. The prize money is €48,000 for first place, €36,000 for second place, and €24,000 for third place (with players on the same number of points sharing prize money, irrespective of tie-breaks), plus €3,500 per half-point for every player, for a total prize pool of €500,000. 
+
+## Schedule
+
+All rounds are scheduled to start at 14:30 EDT local time (18:30 UTC). 
+
+# Results
+
+## Standings
+
+Tie-breakers for first place: (1) results in tie-break games for first place;. Tie-breakers for non-first place:  (1) results in tie-break games for first place, if any; (2) Sonneborn–Berger score (SB); (3) total number of wins; (4) head-to-head score among tied players; (5) drawing of lots. Note: Numbers in the crosstable in a white background indicate the result playing the respective opponent with the white pieces (black pieces if on a black background). This does not give information which of the two games was played in the first half of the tournament, and which in the second.. 
+
+## Points by round
+
+This table shows the total number of wins minus the total number of losses each player has after each round. '=' indicates the player has won and lost the same number of games after that round. Green backgrounds indicate the player(s) with the highest score after each round. Red backgrounds indicate player(s) who could no longer win the tournament after each round. [g]. 
+
+## Summary
+
+A poll before the tournament of Chessbase readers found Caruana a substantial favorite. Former world champions Viswanathan Anand and Magnus Carlsen echoed this opinion, albeit also thinking that Nakamura should likewise be counted among the favorites, with Nepomniachtchi and Firouzja also in contention. Round one resulted in all draws, albeit with some fighting chess,  before the tournament burst into life in round 2 [43]. Vidit used his preparation to surprise and ultimately defeat Nakamura, while Praggnanandhaa outprepared Gukesh, but overestimated his position and ended up losing. Caruana outplayed Abasov in a positional domination, and Nepomniachtchi–Firouzja was a back-and-forth affair that Nepomniachtchi eventually won. In round 3, Abasov and Nakamura agreed to an uneventful draw, while Gukesh was able to put Nepomniachtchi under pressure, but could not convert [44]. Praggnanandhaa, on the other hand, launched the highly adventurous Ruy Lopez Jaenisch Gambit Deferred, catching Vidit by surprise. He managed to navigate the resulting complex and double-edged position better than Vidit, earning the only win in the round. Round 4 saw more fighting chess, but only one decisive game: Nepomniachtchi defeated Vidit in a Berlin endgame, propelling him into the sole lead . In round 5, Praggnanandhaa and Vidit got strong positions against Nepomniachtchi and Caruana respectively, to come very close to winning, but both Nepomniachtchi and Caruana managed to survive. Meanwhile, both Abasov and Firouzja made crucial mistakes in the endgame to lose. The results meant Gukesh joined Nepomniachtchi in the lead. Both Abasov and Firouzja lost again in round 6, albeit in contrasting fashions [49] [50]. Praggnanandhaa outplayed Abasov after a tense middlegame, while Firouzja played 13...Qxf2? (diagram) to quickly land in a losing position. GM Daniel King suggested afterwards that Firouzja might be "on tilt". In round 7, Firouzja once again landed in a difficult position, but this time found the right moves to pose problems, and Gukesh made a mistake under time pressure to give Firouzja the win [51]. The other games ended drawn, which meant Nepomniachtchi finished the first half as the sole leader. The second half of the tournament began with a major shakeup in the standings. Tail-ender Abasov held a draw with Black against Nepomniachtchi, while Gukesh came back from his heartbreaking 7th round loss by defeating Vidit Gujrathi in spectacular fashion. This meant Gukesh joined Nepomniachtchi in first place. Meanwhile, Nakamura beat Caruana to join Praggnanandhaa in third place. In round 9, Vidit defeated Nakamura while the other games ended drawn [53]. Among them, the tensest was Firouzja–Nepomniachtchi. Firouzja came close to winning, but Nepomniachtchi defended tenaciously to draw. Nakamura bounced back immediately in the next round with a win against Abasov after getting into a bad position, while Caruana also won against Firouzja [54]. The top-of-the-table clash in round 10 between Gukesh and Nepomniachtchi ended in a draw, leaving the two still in the lead, with Caruana, Nakamura and Praggnanandhaa half a point behind. In round 11, Nakamura defeated Praggnanandhaa, while Nepomniachtchi defeated Vidit in a complicated game where both sides had chances [55]. Gukesh–Caruana ended in a draw, leaving Nepomniachtchi once again in sole lead. In round 12, Nepomniachtchi drew his game, Nakamura won his third game in a row, and Gukesh and Caruana also won. This put Nepomniachtchi, Nakamura and Gukesh in a three-way tie for first, Caruana half a point behind, and no other player able to win the tournament. A critical round 13 saw Gukesh defeat Firouzja and Caruana defeat Praggnanandhaa, while Nepomniachtchi and Nakamura drew [58]. This gave Gukesh a half-point lead over his three rivals going into the final round. The final round saw Nakamura as white against Gukesh and Caruana white against Nepomniachtchi, with Nakamura, Caruana and Nepomniachtchi all needing to win [59]. Gukesh and Nakamura's game ended in a fighting draw, with neither player ever having a decisive advantage. The game between Caruana and Nepomniachtchi was far more dramatic. Caruana played some exemplary chess to gain a winning advantage, but Nepomniachtchi defended stubbornly, constantly posing problems. A very complicated endgame resulted in which the engine evaluation oscillated back and forth, but Caruana made the last inaccuracy, and Nepomniachtchi successfully held the draw. With the draw, Gukesh won the tournament and the right to play for the title against Ding Liren later in 2024.. 
+
+# References
+
+[13] [ERROR retrieving ref link]
+[14] [ERROR retrieving ref link]
+[17] [ERROR retrieving ref link]
+[18] [ERROR retrieving ref link]
+[45] [ERROR retrieving ref link]
+[46] [ERROR retrieving ref link]
+[48] [ERROR retrieving ref link]
+[67] [ERROR retrieving ref link]
+[1] https://www.fide.com/news/2843
+[2] https://www.fide.com/news/2300
+[3] https://en.chessbase.com/post/toronto-to-host-candidates-tournaments-2024
+[4] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-14
+[5] https://www.aljazeera.com/sports/2024/4/22/gukesh-dommaraju-candidates-chess-2024-india-world-title-ding-liren
+[6] https://wcc.fide.com
+[7] https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2024.pdf
+[8] https://www.chess.com/news/view/ding-reveals-reasons-for-absence-expects-2024-comeback
+[9] https://www.fide.com/news/2138
+[10] https://www.chess.com/news/view/fide-announces-2024-candidates-tournament-qualification-paths
+[11] https://web.archive.org/web/20240203131944/https://candidates2024.fide.com/players
+[12] https://www.chess.com/news/view/2022-fide-council-ukraine-belarus-russia
+[15] https://www.chess.com/news/view/new-fide-clarifications-on-candidates-draws-reactions
+[16] https://wcc.fide.com/fide_circuit.phtml
+[19] https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1
+[20] https://www.aljazeera.com/news/2023/8/24/chess-magnus-carlsen-beats-indias-praggnanandhaa-to-win-fide-world-cup
+[21] https://www.chess.com/news/view/carlsen-on-his-future-personal-life-motivation-and-more
+[22] https://twitter.com/chess24com/status/1691838854259511390
+[23] https://www.chess.com/news/view/magnus-carlsen-confirms-yet-again-he-will-decline-candidates
+[24] https://handbook.fide.com/files/handbook/FIDE_Candidates_Tournament_2024_Qualification_Paths.pdf
+[25] https://www.fide.com/news/2839
+[26] https://www.fide.com/news/1717
+[27] https://chess24.com/en/read/news/fide-announce-new-candidates-qualification
+[28] https://wcc.fide.com/fide_circuit.phtml
+[29] https://www.fide.com/news/2138
+[30] https://wcc.fide.com/cycle2023_2024.phtml
+[31] https://www.chess.com/news/view/firouzja-wesley-so-candidates
+[32] https://www.fide.com/news/2818
+[33] https://x.com/MChoiz/status/1739257296180453752
+[34] https://x.com/FIDE_chess/status/1738478953763848529
+[35] https://www.chess.com/news/view/firouzja-wesley-so-candidates-rouen
+[36] https://en.chessbase.com/post/fide-rating-january-2024
+[37] https://edition.cnn.com/2023/08/24/sport/magnus-carlsen-chess-world-cup-rameshbabu-praggnanandhaa-spt-intl/index.html
+[38] https://www.fide.com/news/2606
+[39] https://web.archive.org/web/20231125032538/https://www.chess.com/news/view/2023-fide-grand-swiss-vidit-wins
+[40] https://candidates2024.fide.com/pairings
+[41] https://candidates2024.fide.com/principals
+[42] https://candidates2024.fide.com/principals
+[43] https://www.espn.in/chess/story/_/id/39858735/fide-candidates-2024-format-schedule-favourites-all-need-know
+[44] https://candidates2024.fide.com/schedule
+[47] https://candidates2024.fide.com/
+[49] https://en.chessbase.com/post/candidates-who-will-win
+[50] https://en.chessbase.com/post/candidates-tournament-2024-open-1
+[51] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-2
+[52] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-3
+[53] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-4
+[54] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-6
+[55] https://en.chessbase.com/post/candidates-tournament-2024-open-6
+[56] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-5
+[57] https://en.chessbase.com/post/candidates-tournament-2024-open-5
+[58] https://www.youtube.com/watch?v=U8KmXJJOipU
+[59] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-7
+[60] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-8
+[61] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-9
+[62] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-10
+[63] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-11
+[64] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-14
+[65] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-12
+[66] https://www.chess.com/news/view/2024-fide-candidates-tournament-round-13
+[68] https://www.chessgames.com/perl/chessgame?gid=2686994
+[69] https://www.chessgames.com/perl/chessgame?gid=2686996
+[70] https://www.chessgames.com/perl/chessgame?gid=2686998
+[71] https://www.chessgames.com/perl/chessgame?gid=2686997
+[72] https://www.chessgames.com/perl/chessgame?gid=2687377
+[73] https://www.chessgames.com/perl/chessgame?gid=2687378
+[74] https://www.chessgames.com/perl/chessgame?gid=2687379
+[75] https://www.chessgames.com/perl/chessgame?gid=2687344
+[76] https://www.chessgames.com/perl/chessgame?gid=2687524
+[77] https://www.chessgames.com/perl/chessgame?gid=2687689
+[78] https://www.chessgames.com/perl/chessgame?gid=2687688
+[79] https://www.chessgames.com/perl/chessgame?gid=2687690
+[80] https://www.chessgames.com/perl/chessgame?gid=2688222
+[81] https://www.chessgames.com/perl/chessgame?gid=2688223
+[82] https://www.chessgames.com/perl/chessgame?gid=2688220
+[83] https://www.chessgames.com/perl/chessgame?gid=2688224
+[84] https://www.chessgames.com/perl/chessgame?gid=2690079
+[85] https://www.chessgames.com/perl/chessgame?gid=2690137
+[86] https://www.chessgames.com/perl/chessgame?gid=2690130
+[87] https://www.chessgames.com/perl/chessgame?gid=2690131
+[88] https://www.chessgames.com/perl/chessgame?gid=2690234
+[89] https://www.chessgames.com/perl/chessgame?gid=2690242
+[90] https://www.chessgames.com/perl/chessgame?gid=2690243
+[91] https://www.chessgames.com/perl/chessgame?gid=2690240
+[92] https://www.chessgames.com/perl/chessgame?gid=2690299
+[93] https://www.chessgames.com/perl/chessgame?gid=2690294
+[94] https://www.chessgames.com/perl/chessgame?gid=2690301
+[95] https://www.chessgames.com/perl/chessgame?gid=2690300
+[96] https://www.chessgames.com/perl/chessgame?gid=2690629
+[97] https://www.chessgames.com/perl/chessgame?gid=2690626
+[98] https://www.chessgames.com/perl/chessgame?gid=2690630
+[99] https://www.chessgames.com/perl/chessgame?gid=2690628
+[100] https://www.chessgames.com/perl/chessgame?gid=2691598
+[101] https://www.chessgames.com/perl/chessgame?gid=2691587&view=1
+[102] https://www.chessgames.com/perl/chessgame?gid=2691597
+[103] https://www.chessgames.com/perl/chessgame?gid=2691600
+[104] https://www.chessgames.com/perl/chessgame?gid=2692010&view=1
+[105] https://www.chessgames.com/perl/chessgame?gid=2692015
+[106] https://www.chessgames.com/perl/chessgame?gid=2692004&view=1
+[107] https://www.chessgames.com/perl/chessgame?gid=2692013&view=1
+[108] https://www.chessgames.com/perl/chessgame?gid=2692822
+[109] https://www.chessgames.com/perl/chessgame?gid=2692826&view=1
+[110] https://www.chessgames.com/perl/chessgame?gid=2692817
+[111] https://www.chessgames.com/perl/chessgame?gid=2692820
+[112] https://www.chessgames.com/perl/chessgame?gid=2693492
+[113] https://www.chessgames.com/perl/chessgame?gid=2693493
+[114] https://www.chessgames.com/perl/chessgame?gid=2693491&view=1
+[115] https://www.chessgames.com/perl/chessgame?gid=2693488
+[116] https://www.chessgames.com/perl/chessgame?gid=2694350
+[117] https://www.chessgames.com/perl/chessgame?gid=2694379&view=1
+[118] https://www.chessgames.com/perl/chessgame?gid=2694378
+[119] https://www.chessgames.com/perl/chessgame?gid=2694381
+[120] https://www.chessgames.com/perl/chessgame?gid=2694750
+[121] https://www.chessgames.com/perl/chessgame?gid=2694745
+[122] https://www.chessgames.com/perl/chessgame?gid=2694751
+[123] https://www.chessgames.com/perl/chessgame?gid=2694742&view=1
