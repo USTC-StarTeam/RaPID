@@ -119,6 +119,15 @@ Use the ACL paper's evaluation setup with the downloaded wiki dump and the Fresh
 
 ## 10. Experimental Highlights
 
+![RaPID article-quality results](docs/assets/rapid-article-quality-results.png)
+
+![RaPID outline, writing-plan, and human-evaluation results](docs/assets/rapid-outline-human-results.png)
+
+![RaPID pipeline efficiency results](docs/assets/rapid-efficiency-results.png)
+
+The tables above cover article quality, outline quality, writing-plan ablation, human preference, and pipeline efficiency, giving the project page enough evidence beyond the summary metrics.
+
+
 The paper evaluates RaPID on FreshWiki-2024, a benchmark built from 100 Wikipedia topics updated in 2024.
 
 | Evaluation slice | Reported result | Takeaway |
@@ -156,7 +165,8 @@ If you use this code in your research, please cite:
 
 ## 13. Contact
 
-- First author: Hongchao Gu.
+- First author: Hongchao Gu (`hcgu@mail.ustc.edu.cn`).
+- Corresponding authors: Hao Wang (`wanghao3@ustc.edu.cn`), Yong Liu (`liu.yong6@huawei.com`), and Enhong Chen (`cheneh@ustc.edu.cn`).
 - Repository questions: please open a GitHub issue in this repository.
 
 ## 14. Acknowledgments
