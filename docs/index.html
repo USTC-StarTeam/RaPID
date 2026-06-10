@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RaPID</title>
+  <style>
+    :root { --ink: #111827; --muted: #536173; --line: #d8e0ec; --accent: #7c3aed; --soft: #f5f3ff; }
+    * { box-sizing: border-box; }
+    html, body { overflow-x: hidden; }
+    body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: var(--ink); background: #f8fafc; line-height: 1.62; }
+    main { max-width: 1120px; margin: 0 auto; padding: 48px 22px 72px; }
+    header { border-bottom: 1px solid var(--line); padding-bottom: 22px; }
+    .eyebrow { color: var(--accent); font-weight: 700; letter-spacing: .04em; text-transform: uppercase; font-size: 13px; }
+    h1 { margin: 8px 0 12px; font-size: clamp(34px, 6vw, 64px); line-height: 1.02; letter-spacing: 0; }
+    h2 { margin-top: 42px; padding-top: 8px; border-top: 1px solid var(--line); font-size: 27px; }
+    p, h1, h2, .paper, .button { overflow-wrap: anywhere; }
+    p { max-width: 920px; }
+    a { color: #6d28d9; }
+    .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+    .button { display: inline-flex; align-items: center; min-height: 38px; padding: 8px 13px; border-radius: 8px; border: 1px solid #c4b5fd; background: white; color: #6d28d9; text-decoration: none; font-weight: 700; }
+    .paper { display: block; max-width: 100%; width: 100%; white-space: normal; word-break: break-word; font-size: 18px; background: var(--soft); border-left: 4px solid var(--accent); padding: 16px 18px; }
+    img { max-width: 100%; height: auto; border: 1px solid var(--line); border-radius: 8px; background: white; }
+    pre { overflow-x: auto; background: #111827; color: #f8fafc; padding: 16px; border-radius: 8px; }
+    code { font-family: Consolas, Menlo, monospace; }
+    @media (max-width: 640px) {
+      main { padding: 34px 18px 56px; }
+      .links { display: grid; grid-template-columns: minmax(0, 1fr); }
+      .button { justify-content: center; min-width: 0; padding: 7px 8px; font-size: 15px; }
+      .paper { font-size: 14px; line-height: 1.55; padding: 14px 12px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="eyebrow">ACL Findings 2025 · Retrieval-Augmented Generation</div>
+      <h1>RaPID</h1>
+      <p>Efficient retrieval-augmented long text generation with writing planning and information discovery.</p>
+      <div class="links">
+        <a class="button" href="https://aclanthology.org/2025.findings-acl.859/">Paper</a>
+        <a class="button" href="https://aclanthology.org/2025.findings-acl.859.pdf">PDF</a>
+        <a class="button" href="https://arxiv.org/abs/2503.00751">arXiv</a>
+        <a class="button" href="https://github.com/USTC-StarTeam/RaPID">Code</a>
+      </div>
+    </header>
+
+    <section>
+      <h2>1. Paper</h2>
+      <p class="paper">Hongchao Gu, Dexun Li, Kuicai Dong, Hao Zhang, Hang Lv, Hao Wang, Defu Lian, Yong Liu, and Enhong Chen. <strong>RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery</strong>. In <em>Findings of ACL 2025</em>, pages 16742-16763, Vienna, Austria, 2025.</p>
+      <p>RaPID combines retrieval-grounded outlines, attribute-constrained search, and plan-guided article generation for efficient long-form writing.</p>
+    </section>
+
+    <section>
+      <h2>2. Method At A Glance</h2>
+      <img src="assets/method-overview.png" alt="RaPID method overview">
+    </section>
+
+    <section>
+      <h2>3. Quick Start</h2>
+      <pre><code>conda create -n rapid python=3.10
+conda activate rapid
+pip install -r requirements.txt
+python example.py --retriever google --output-dir ./results --max-thread-num 3 \
+  --do-clarify --do-research --do-generate-outline --do-generate-article \
+  --do-topo-generation --do-polish-article --interface console</code></pre>
+    </section>
+
+    <section>
+      <h2>4. Citation</h2>
+      <pre><code>@inproceedings{gu-etal-2025-rapid,
+  title={{RAPID}: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery},
+  author={Gu, Hongchao and Li, Dexun and Dong, Kuicai and Zhang, Hao and Lv, Hang and Wang, Hao and Lian, Defu and Liu, Yong and Chen, Enhong},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={16742--16763},
+  year={2025},
+  doi={10.18653/v1/2025.findings-acl.859}
+}</code></pre>
+    </section>
+  </main>
+</body>
+</html>
