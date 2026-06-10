@@ -119,9 +119,16 @@ Use the ACL paper's evaluation setup with the downloaded wiki dump and the Fresh
 
 ## 10. Experimental Highlights
 
-- The paper focuses on efficient retrieval-augmented long text generation.
-- Attribute-constrained search improves information discovery without turning generation into a slow multi-agent discussion.
-- Plan-guided writing keeps long-form articles structurally coherent.
+The paper evaluates RaPID on FreshWiki-2024, a benchmark built from 100 Wikipedia topics updated in 2024.
+
+| Evaluation slice | Reported result | Takeaway |
+| --- | --- | --- |
+| Article quality | With GPT-4o, RaPID reports **F1@300 73.57** and **Info Diversity 0.650**; with Qwen-Max, **F1@300 77.98** and **Info Diversity 0.650**; with DeepSeek-v3, **F1@300 73.62** and **Info Diversity 0.670**. | RaPID improves factual-density and information-diversity metrics across backbones. |
+| Outline quality | Outline F1 reaches **10.86** with Qwen-Max, **16.07** with DeepSeek-v3, and **17.52** with GPT-4o. | Retrieval-augmented outline generation improves topic coverage before article writing. |
+| Human evaluation | Human annotators preferred RaPID over STORM in **27** paired comparisons versus **13** for STORM. | The automatic gains are reflected in human preference. |
+| Pipeline efficiency | RaPID uses **31.04 API calls** and **127.19s** per article on average, compared with STORM's **88.06 calls / 163.22s** and Co-STORM's **70.30 calls / 154.14s**. | Attribute-constrained search reduces pre-writing cost without switching to slow multi-agent discussion. |
+
+**Conclusion:** RaPID's result story is a quality-efficiency tradeoff: better outline/article quality than simple RAG baselines while using fewer calls and less time than heavier STORM-style pipelines.
 
 ## 11. Notes For Maintainers
 
