@@ -5,78 +5,222 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>RaPID</title>
   <style>
-    :root { --ink: #111827; --muted: #536173; --line: #d8e0ec; --accent: #7c3aed; --soft: #f5f3ff; }
+    :root {
+      --ink: #172033;
+      --muted: #53657a;
+      --line: #d8e0ea;
+      --paper: #ffffff;
+      --soft: #f3f6fa;
+      --blue: #2454d6;
+      --green: #087443;
+      --gold: #9f6700;
+    }
     * { box-sizing: border-box; }
-    html, body { overflow-x: hidden; }
-    body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: var(--ink); background: #f8fafc; line-height: 1.62; }
-    main { max-width: 1120px; margin: 0 auto; padding: 48px 22px 72px; }
-    header { border-bottom: 1px solid var(--line); padding-bottom: 22px; }
-    .eyebrow { color: var(--accent); font-weight: 700; letter-spacing: .04em; text-transform: uppercase; font-size: 13px; }
-    h1 { margin: 8px 0 12px; font-size: clamp(34px, 6vw, 64px); line-height: 1.02; letter-spacing: 0; }
-    h2 { margin-top: 42px; padding-top: 8px; border-top: 1px solid var(--line); font-size: 27px; }
-    p, h1, h2, .paper, .button { overflow-wrap: anywhere; }
-    p { max-width: 920px; }
-    a { color: #6d28d9; }
-    .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
-    .button { display: inline-flex; align-items: center; min-height: 38px; padding: 8px 13px; border-radius: 8px; border: 1px solid #c4b5fd; background: white; color: #6d28d9; text-decoration: none; font-weight: 700; }
-    .paper { display: block; max-width: 100%; width: 100%; white-space: normal; word-break: break-word; font-size: 18px; background: var(--soft); border-left: 4px solid var(--accent); padding: 16px 18px; }
-    img { max-width: 100%; height: auto; border: 1px solid var(--line); border-radius: 8px; background: white; }
-    pre { overflow-x: auto; background: #111827; color: #f8fafc; padding: 16px; border-radius: 8px; }
-    code { font-family: Consolas, Menlo, monospace; }
-    @media (max-width: 640px) {
-      main { padding: 34px 18px 56px; }
-      .links { display: grid; grid-template-columns: minmax(0, 1fr); }
-      .button { justify-content: center; min-width: 0; padding: 7px 8px; font-size: 15px; }
-      .paper { font-size: 14px; line-height: 1.55; padding: 14px 12px; }
+    html, body { margin: 0; overflow-x: hidden; }
+    body {
+      color: var(--ink);
+      background: linear-gradient(180deg, #ffffff 0, #f6f8fb 360px, #eef2f7 100%);
+      font-family: Inter, "Segoe UI", Arial, sans-serif;
+      line-height: 1.62;
+    }
+    a { color: var(--blue); font-weight: 700; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { width: 100%; max-width: 1120px; margin: 0 auto; padding: 0 18px; }
+    .site-header { background: #fff; border-bottom: 1px solid var(--line); }
+    nav { min-height: 60px; display: flex; align-items: center; justify-content: space-between; gap: 18px; font-size: 14px; }
+    nav .brand { color: var(--ink); font-weight: 900; }
+    nav .nav-links { display: flex; flex-wrap: wrap; gap: 14px; }
+    .hero { padding: 48px 0 34px; }
+    .eyebrow { margin: 0 0 10px; color: var(--green); font-size: 13px; font-weight: 900; text-transform: uppercase; letter-spacing: .06em; }
+    h1 { margin: 0; max-width: 980px; font-size: clamp(32px, 5vw, 56px); line-height: 1.06; letter-spacing: 0; overflow-wrap: anywhere; word-break: break-word; }
+    .subtitle { max-width: 860px; margin: 18px 0 0; color: var(--muted); font-size: 18px; }
+    .quick-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+    .button {
+      display: inline-flex; align-items: center; justify-content: center;
+      min-height: 38px; border: 1px solid #b9c5d8; border-radius: 6px;
+      padding: 0 13px; background: var(--paper); color: #263650; font-size: 14px;
+    }
+    main.wrap { padding: 34px 18px 64px; }
+    .toc {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      padding: 14px; margin: 0 0 26px; border: 1px solid var(--line); border-radius: 8px; background: rgba(255,255,255,.78);
+    }
+    .toc a { font-size: 13px; padding: 6px 8px; border-radius: 6px; background: #eef3fb; color: #26405f; }
+    .content {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 32px;
+      box-shadow: 0 18px 44px rgba(15, 23, 42, .06);
+    }
+    h2 { margin: 42px 0 14px; padding-top: 4px; border-top: 1px solid var(--line); font-size: 30px; line-height: 1.22; letter-spacing: 0; }
+    h2:first-child { margin-top: 0; border-top: 0; }
+    h3 { margin: 28px 0 10px; font-size: 22px; line-height: 1.25; letter-spacing: 0; }
+    p, li, td, th, .nav-links a, .toc a, .button { overflow-wrap: anywhere; word-break: break-word; }
+    p { margin: 0 0 16px; }
+    ul, ol { padding-left: 24px; }
+    li { margin: 6px 0; }
+    img { max-width: 100%; height: auto; border-radius: 6px; }
+    p > img:only-child { display: block; margin: 18px auto; border: 1px solid var(--line); box-shadow: 0 12px 30px rgba(15, 23, 42, .08); }
+    pre { max-width: 100%; overflow-x: auto; white-space: pre; margin: 16px 0; padding: 16px; border-radius: 8px; background: #111827; color: #e5e7eb; line-height: 1.5; }
+    code { font-family: "Cascadia Mono", Consolas, monospace; font-size: .92em; }
+    :not(pre) > code { padding: .12em .35em; border-radius: 4px; background: #eef2f7; color: #17304f; }
+    table { display: block; width: 100%; max-width: 100%; overflow-x: auto; border-collapse: collapse; margin: 16px 0; }
+    th, td { padding: 9px 10px; border: 1px solid var(--line); vertical-align: top; }
+    th { background: #f4f7fb; text-align: left; }
+    blockquote { margin: 18px 0; padding: 10px 16px; border-left: 4px solid var(--blue); background: #f4f7fb; color: #334155; }
+    footer { padding: 28px 0 44px; color: var(--muted); font-size: 14px; }
+    @media (max-width: 760px) {
+      .wrap { padding: 0 12px; }
+      nav { align-items: flex-start; flex-direction: column; padding: 14px 0; }
+      nav .nav-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; width: 100%; }
+      nav .nav-links a { min-width: 0; padding: 6px 8px; border-radius: 6px; background: #eef3fb; font-size: 13px; line-height: 1.25; }
+      .hero { padding: 34px 0 26px; }
+      h1 { max-width: 100%; font-size: 30px; }
+      .subtitle { font-size: 16px; }
+      .quick-links { display: grid; grid-template-columns: minmax(0, 1fr); }
+      .button { min-width: 0; width: 100%; padding: 7px 8px; }
+      .content { padding: 22px 16px; }
+      main.wrap { padding: 28px 12px 56px; }
+      h2 { font-size: 25px; }
+      h3 { font-size: 20px; }
+      pre { white-space: pre-wrap; word-break: break-word; }
     }
   </style>
 </head>
 <body>
-  <main>
-    <header>
-      <div class="eyebrow">ACL Findings 2025 · Retrieval-Augmented Generation</div>
-      <h1>RaPID</h1>
-      <p>Efficient retrieval-augmented long text generation with writing planning and information discovery.</p>
-      <div class="links">
-        <a class="button" href="https://aclanthology.org/2025.findings-acl.859/">Paper</a>
-        <a class="button" href="https://aclanthology.org/2025.findings-acl.859.pdf">PDF</a>
-        <a class="button" href="https://arxiv.org/abs/2503.00751">arXiv</a>
-        <a class="button" href="https://github.com/USTC-StarTeam/RaPID">Code</a>
+  <header class="site-header">
+    <nav class="wrap">
+      <a class="brand" href="https://github.com/USTC-StarTeam/RaPID">USTC-StarTeam/RaPID</a>
+      <div class="nav-links"><a href="#1-paper">1. Paper</a><a href="#2-highlights">2. Highlights</a><a href="#3-method-at-a-glance">3. Method At A Glance</a><a href="#4-repository-structure">4. Repository Structure</a><a href="#5-installation">5. Installation</a><a href="#6-data">6. Data</a><a href="#7-quick-start">7. Quick Start</a><a href="#8-reproducing-results">8. Reproducing Results</a><a href="#9-configuration-notes">9. Configuration Notes</a><a href="#10-experimental-highlights">10. Experimental Highlights</a><a href="#11-notes-for-maintainers">11. Notes For Maintainers</a><a href="#12-citation">12. Citation</a><a href="#13-contact">13. Contact</a><a href="#14-acknowledgments">14. Acknowledgments</a></div>
+    </nav>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Academic Project Page</p>
+        <h1>RaPID</h1>
+        <p class="subtitle">RaPID is an efficient framework for generating knowledge-intensive long texts such as wiki-style articles. It combines retrieval-augmented outline generation, attribute-constrained information discovery, and plan-guided article generation to reduce hallucination, improve coherence, and lower latency.</p>
+        <div class="quick-links"><a class="button" href="https://aclanthology.org/2025.findings-acl.859/">Paper</a><a class="button" href="https://aclanthology.org/2025.findings-acl.859.pdf">PDF</a><a class="button" href="https://arxiv.org/abs/2503.00751">arXiv</a><a class="button" href="https://ustc-starteam.github.io/RaPID/">Project Page</a><a class="button" href="#12-citation">Citation</a><a class="button" href="https://github.com/USTC-StarTeam/RaPID">GitHub Repo</a></div>
       </div>
-    </header>
-
-    <section>
-      <h2>1. Paper</h2>
-      <p class="paper">Hongchao Gu, Dexun Li, Kuicai Dong, Hao Zhang, Hang Lv, Hao Wang, Defu Lian, Yong Liu, and Enhong Chen. <strong>RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery</strong>. In <em>Findings of ACL 2025</em>, pages 16742-16763, Vienna, Austria, 2025.</p>
-      <p>RaPID combines retrieval-grounded outlines, attribute-constrained search, and plan-guided article generation for efficient long-form writing.</p>
     </section>
-
-    <section>
-      <h2>2. Method At A Glance</h2>
-      <img src="assets/method-overview.png" alt="RaPID method overview">
-    </section>
-
-    <section>
-      <h2>3. Quick Start</h2>
-      <pre><code>conda create -n rapid python=3.10
+  </header>
+  <main class="wrap">
+    <div class="toc"><a href="#1-paper">1. Paper</a><a href="#2-highlights">2. Highlights</a><a href="#3-method-at-a-glance">3. Method At A Glance</a><a href="#4-repository-structure">4. Repository Structure</a><a href="#5-installation">5. Installation</a><a href="#6-data">6. Data</a><a href="#7-quick-start">7. Quick Start</a><a href="#8-reproducing-results">8. Reproducing Results</a><a href="#9-configuration-notes">9. Configuration Notes</a><a href="#10-experimental-highlights">10. Experimental Highlights</a><a href="#11-notes-for-maintainers">11. Notes For Maintainers</a><a href="#12-citation">12. Citation</a><a href="#13-contact">13. Contact</a><a href="#14-acknowledgments">14. Acknowledgments</a></div>
+    <article class="content">
+<p>Official implementation for <strong>RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery</strong>.</p>
+<p><a href="https://aclanthology.org/2025.findings-acl.859/"><img src="https://img.shields.io/badge/ACL%20Findings-2025-blue" alt="ACL Findings 2025"></a>
+<a href="https://arxiv.org/abs/2503.00751"><img src="https://img.shields.io/badge/arXiv-2503.00751-b31b1b.svg" alt="arXiv"></a>
+<a href="https://ustc-starteam.github.io/RaPID/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a></p>
+<h2 id="1-paper">1. Paper</h2>
+<p>Hongchao Gu, Dexun Li, Kuicai Dong, Hao Zhang, Hang Lv, Hao Wang, Defu Lian, Yong Liu, and Enhong Chen. <strong>RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery</strong>. In <em>Findings of the Association for Computational Linguistics: ACL 2025</em>, pages 16742-16763, Vienna, Austria, 2025.</p>
+<p><a href="https://aclanthology.org/2025.findings-acl.859/">Paper</a> / <a href="https://aclanthology.org/2025.findings-acl.859.pdf">PDF</a> / <a href="https://arxiv.org/abs/2503.00751">arXiv</a> / <a href="https://ustc-starteam.github.io/RaPID/">Project Page</a> / <a href="#12-citation">Citation</a></p>
+<p>RaPID is an efficient framework for generating knowledge-intensive long texts such as wiki-style articles. It combines retrieval-augmented outline generation, attribute-constrained information discovery, and plan-guided article generation to reduce hallucination, improve coherence, and lower latency.</p>
+<h2 id="2-highlights">2. Highlights</h2>
+<ul>
+<li>Generates long-form, knowledge-intensive articles with retrieval support.</li>
+<li>Uses a writing plan to maintain global structure and thematic coherence.</li>
+<li>Adds attribute-constrained search for efficient information discovery.</li>
+<li>Supports console and batch-style file interfaces.</li>
+<li>Provides data resources through Google Drive for the wiki dump and encoded retrieval files.</li>
+</ul>
+<h2 id="3-method-at-a-glance">3. Method At A Glance</h2>
+<p><img src="assets/method-overview.png" alt="RaPID method overview"></p>
+<p>RaPID first drafts a retrieval-grounded outline, then discovers missing information through attribute-constrained search, and finally generates and polishes the article under the writing plan.</p>
+<h2 id="4-repository-structure">4. Repository Structure</h2>
+<pre><code class="language-text">.
+├── example.py               # Console and batch entry point
+├── requirements.txt
+├── src/                     # RaPID pipeline modules
+├── FreshWiki-2024/          # FreshWiki benchmark data in the repository
+├── secrets.toml             # Local API-key config, should not be committed
+└── docs/                    # GitHub Pages project page</code></pre>
+<h2 id="5-installation">5. Installation</h2>
+<pre><code class="language-bash">conda create -n rapid python=3.10
 conda activate rapid
-pip install -r requirements.txt
-python example.py --retriever google --output-dir ./results --max-thread-num 3 \
-  --do-clarify --do-research --do-generate-outline --do-generate-article \
-  --do-topo-generation --do-polish-article --interface console</code></pre>
-    </section>
-
-    <section>
-      <h2>4. Citation</h2>
-      <pre><code>@inproceedings{gu-etal-2025-rapid,
+pip install -r requirements.txt</code></pre>
+<h2 id="6-data">6. Data</h2>
+<p>Download the data files from <a href="https://drive.google.com/drive/folders/1GNWE0ZEPijFpdjuPOfWLjWwEcQYq3Kz2">Google Drive</a>.</p>
+<p>Expected directory layout:</p>
+<pre><code class="language-text">wiki_dump/
+├── encode/
+│   └── merged_encoded_vectors.pkl
+├── original/
+│   └── combined.jsonl
+└── titles.csv</code></pre>
+<p>The repository also includes <code>FreshWiki-2024/</code> data files for batch-style experiments.</p>
+<h2 id="7-quick-start">7. Quick Start</h2>
+<p>Create a local <code>secrets.toml</code>:</p>
+<pre><code class="language-toml">OPENAI_API_KEY = &quot;your-llm-api-key&quot;
+GOOGLE_API_KEY = &quot;your-search-api-key&quot;
+GOOGLE_CX = &quot;your-search-engine-id&quot;</code></pre>
+<p>Console example:</p>
+<pre><code class="language-bash">python example.py --retriever google \
+  --output-dir ./results \
+  --max-thread-num 3 \
+  --do-clarify \
+  --do-research \
+  --do-generate-outline \
+  --do-generate-article \
+  --do-topo-generation \
+  --do-polish-article \
+  --interface console</code></pre>
+<p>Batch example:</p>
+<pre><code class="language-bash">python example.py --retriever google \
+  --output-dir ./results \
+  --max-thread-num 3 \
+  --do-clarify \
+  --do-research \
+  --do-generate-outline \
+  --do-generate-article \
+  --do-topo-generation \
+  --do-polish-article \
+  --interface file \
+  --input-dir ./FreshWiki-2024/final.csv</code></pre>
+<h2 id="8-reproducing-results">8. Reproducing Results</h2>
+<p>Use the ACL paper's evaluation setup with the downloaded wiki dump and the FreshWiki-2024 input file. The command flags above expose the main generation stages so each step can be enabled or disabled during ablations.</p>
+<h2 id="9-configuration-notes">9. Configuration Notes</h2>
+<ul>
+<li>Keep API keys in <code>secrets.toml</code> and do not commit private credentials.</li>
+<li><code>--retriever google</code> uses Google search credentials from <code>secrets.toml</code>.</li>
+<li><code>--max-thread-num</code> controls concurrent generation/retrieval threads.</li>
+<li><code>--interface console</code> is interactive; <code>--interface file</code> consumes the input file.</li>
+</ul>
+<h2 id="10-experimental-highlights">10. Experimental Highlights</h2>
+<ul>
+<li>The paper focuses on efficient retrieval-augmented long text generation.</li>
+<li>Attribute-constrained search improves information discovery without turning generation into a slow multi-agent discussion.</li>
+<li>Plan-guided writing keeps long-form articles structurally coherent.</li>
+</ul>
+<h2 id="11-notes-for-maintainers">11. Notes For Maintainers</h2>
+<ul>
+<li>Keep <code>FreshWiki-2024/</code> paths in the README aligned with the actual repository paths.</li>
+<li>The repository includes <code>secrets.toml</code>; verify that committed values are examples only before future releases.</li>
+<li>When adding new retrievers, document the required keys in <code>secrets.toml</code>.</li>
+</ul>
+<h2 id="12-citation">12. Citation</h2>
+<p>If you use this code in your research, please cite:</p>
+<pre><code class="language-bibtex">@inproceedings{gu-etal-2025-rapid,
   title={{RAPID}: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery},
   author={Gu, Hongchao and Li, Dexun and Dong, Kuicai and Zhang, Hao and Lv, Hang and Wang, Hao and Lian, Defu and Liu, Yong and Chen, Enhong},
   booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
   pages={16742--16763},
   year={2025},
+  address={Vienna, Austria},
+  publisher={Association for Computational Linguistics},
+  url={https://aclanthology.org/2025.findings-acl.859/},
   doi={10.18653/v1/2025.findings-acl.859}
 }</code></pre>
-    </section>
+<h2 id="13-contact">13. Contact</h2>
+<ul>
+<li>First author: Hongchao Gu.</li>
+<li>Repository questions: please open a GitHub issue in this repository.</li>
+</ul>
+<h2 id="14-acknowledgments">14. Acknowledgments</h2>
+<p>This codebase is primarily based on the original <a href="https://github.com/stanford-oval/storm">STORM</a> implementation. We thank the STORM authors for their valuable contributions.</p>
+
+    </article>
   </main>
+  <footer>
+    <div class="wrap">This project page mirrors the public-facing README content for quick paper, code, result, citation, and contact access.</div>
+  </footer>
 </body>
 </html>
