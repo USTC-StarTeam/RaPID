@@ -185,11 +185,38 @@ GOOGLE_CX = &quot;your-search-engine-id&quot;</code></pre>
 <li><code>--interface console</code> is interactive; <code>--interface file</code> consumes the input file.</li>
 </ul>
 <h2 id="10-experimental-highlights">10. Experimental Highlights</h2>
-<ul>
-<li>The paper focuses on efficient retrieval-augmented long text generation.</li>
-<li>Attribute-constrained search improves information discovery without turning generation into a slow multi-agent discussion.</li>
-<li>Plan-guided writing keeps long-form articles structurally coherent.</li>
-</ul>
+<p>The paper evaluates RaPID on FreshWiki-2024, a benchmark built from 100 Wikipedia topics updated in 2024.</p>
+<table>
+<thead><tr>
+<th>Evaluation slice</th>
+<th>Reported result</th>
+<th>Takeaway</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Article quality</td>
+<td>With GPT-4o, RaPID reports <strong>F1@300 73.57</strong> and <strong>Info Diversity 0.650</strong>; with Qwen-Max, <strong>F1@300 77.98</strong> and <strong>Info Diversity 0.650</strong>; with DeepSeek-v3, <strong>F1@300 73.62</strong> and <strong>Info Diversity 0.670</strong>.</td>
+<td>RaPID improves factual-density and information-diversity metrics across backbones.</td>
+</tr>
+<tr>
+<td>Outline quality</td>
+<td>Outline F1 reaches <strong>10.86</strong> with Qwen-Max, <strong>16.07</strong> with DeepSeek-v3, and <strong>17.52</strong> with GPT-4o.</td>
+<td>Retrieval-augmented outline generation improves topic coverage before article writing.</td>
+</tr>
+<tr>
+<td>Human evaluation</td>
+<td>Human annotators preferred RaPID over STORM in <strong>27</strong> paired comparisons versus <strong>13</strong> for STORM.</td>
+<td>The automatic gains are reflected in human preference.</td>
+</tr>
+<tr>
+<td>Pipeline efficiency</td>
+<td>RaPID uses <strong>31.04 API calls</strong> and <strong>127.19s</strong> per article on average, compared with STORM's <strong>88.06 calls / 163.22s</strong> and Co-STORM's <strong>70.30 calls / 154.14s</strong>.</td>
+<td>Attribute-constrained search reduces pre-writing cost without switching to slow multi-agent discussion.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Conclusion:</strong> RaPID's result story is a quality-efficiency tradeoff: better outline/article quality than simple RAG baselines while using fewer calls and less time than heavier STORM-style pipelines.</p>
 <h2 id="11-notes-for-maintainers">11. Notes For Maintainers</h2>
 <ul>
 <li>Keep <code>FreshWiki-2024/</code> paths in the README aligned with the actual repository paths.</li>
